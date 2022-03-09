@@ -1,0 +1,1021 @@
+{
+  "requestId": "21acc9c2-e36b-4179-ab05-6c27459b777b",
+  "data": {
+    "docs": [
+      {
+        "id": "7746220a-5e88-11ec-9e82-17576e5cd1d2",
+        "matches": [
+          {
+            "id": "82faae43-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Clemson Tigers 10-sq in Multicolor Portable Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500002/5000028635.jpg",
+                "title": "Imperial International Clemson Tigers 10-sq in Multicolor Portable Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Clemson-Tigers-10-sq-in-Multicolor-Portable-Charcoal-Grill/5000028635",
+                "brand": "Imperial International",
+                "full_description": ""
+              }
+            },
+            "text": "Imperial International Clemson Tigers 10-sq in Multicolor Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "HMdxHMdxvD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg6db8sEiJPwAAAAAAAAAAAAAAAAAAAADg6db8sEiJP+Dp1vywSIk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODp1vywSJk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4OnW/LBIiT8AAAAAAAAAAODp1vywSJk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4OnW/LBIiT8AAAAAAAAAAAAAAAAAAAAA4OnW/LBIiT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg6db8sEiJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9rI/4OnW/LBIiT/g6db8sEiZPwAAAAAAAAAAWKQMPN2arz8AAAAAAAAAAODp1vywSIk/4OnW/LBIiT9oL6G9hPayPwAAAAAAAAAAAAAAAAAAAAAcx3Ecx3G8P+Dp1vywSJk/WKQMPN2arz9oL6G9hPayP+Dp1vywSIk/4OnW/LBIiT+kDDzdmh+2P2gvob2E9qI/4OnW/LBIqT/g6db8sEiJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13733901,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae41-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Imperial International",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500002/5000028631.jpg",
+                "title": "Imperial International Michigan Wolverines 10-sq in Multicolor Portable Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Michigan-Wolverines-10-sq-in-Multicolor-Portable-Charcoal-Grill/5000028631",
+                "full_description": "",
+                "description": "Michigan Wolverines 10-sq in Multicolor Portable Charcoal Grill"
+              }
+            },
+            "text": "Imperial International Michigan Wolverines 10-sq in Multicolor Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "s6asKWvKuj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD0BX1BX9CHPwAAAAAAAAAAAAAAAAAAAAD0BX1BX9CHP/QFfUFf0Ic/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPQFfUFf0Ic/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9AV9QV/Qhz8AAAAAAAAAAPQFfUFf0Jc/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9AV9QV/Qlz8AAAAAAAAAAAAAAAAAAAAA9AV9QV/Qhz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD0BX1BX9CHPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADZlTVlT1rQ/9AV9QV/Qhz93xB1xR9yhPwAAAAAAAAAAcUfcEXfErT8AAAAAAAAAAPQFfUFf0Ic/9AV9QV/Qlz/0BX1BX9C3PwAAAAAAAAAAAAAAAAAAAACzpqwpa8q6P/QFfUFf0Ic/d8QdcUfcsT93xB1xR9yxP/QFfUFf0Ic/9AV9QV/Qhz82ZU1ZU9a0P/QFfUFf0Jc/9AV9QV/Qpz/0BX1BX9CHP/QFfUFf0Ic/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14340071,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae42-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Georgia-Bulldogs-10-sq-in-Multicolor-Portable-Charcoal-Grill/5000028629",
+                "brand": "Imperial International",
+                "title": "Imperial International Georgia Bulldogs 10-sq in Multicolor Portable Charcoal Grill",
+                "full_description": "",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500002/5000028629.jpg",
+                "description": "Georgia Bulldogs 10-sq in Multicolor Portable Charcoal Grill"
+              }
+            },
+            "text": "Imperial International Georgia Bulldogs 10-sq in Multicolor Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "H3JZMVDCuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACq82sPuayIPwAAAAAAAAAAAAAAAAAAAACq82sPuayIP6rzaw+5rIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACq82sPuayIP6rzaw+5rIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqvNrD7msmD8AAAAAAAAAAKrzaw+5rJg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqvNrD7msiD8AAAAAAAAAAAAAAAAAAAAAqvNrD7msiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADR1fu0hl7U/qvNrD7msiD+q82sPuayYP6rzaw+5rIg/qvNrD7msqD8AAAAAAAAAAKrzaw+5rJg/qvNrD7msiD+/9pDLioGyPwAAAAAAAAAAAAAAAAAAAACU8EZT59e+P6rzaw+5rIg/qvNrD7msqD80dX7tIZe1P6rzaw+5rIg/qvNrD7msiD80dX7tIZe1P6rzaw+5rJg/qvNrD7msqD+q82sPuayYPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14850412,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b0d2-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049523286.jpg",
+                "title": "Whirlpool 11.6-cu ft Top-Freezer Refrigerator (Fingerprint-resistant Stainless)",
+                "description": "11.6-cu ft Top-Freezer Refrigerator (Fingerprint-resistant Stainless)",
+                "brand": "Whirlpool",
+                "full_description": "If you&#8217;re searching for a small energy efficient refrigerator, our top-freezer refrigerator delivers the flexibility you need to make the most of every inch. Features like gallon door storage help free up shelf space. Digital temperature controls and an ice maker connection kit mean you&#8217;re ready for guests, even at the last minute.",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-11-6-cu-ft-Top-Freezer-Refrigerator-Fingerprint-resistant-Stainless/1002793018"
+              }
+            },
+            "text": "Whirlpool 11.6-cu ft Top-Freezer Refrigerator (Fingerprint-resistant Stainless)",
+            "embedding": {
+              "dense": {
+                "buffer": "4ybM72pxsz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADjJszvanGjP9kzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAANkzEJWO7Jk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADZMxCVjuyJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Jk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/2TMQlY7siT/ZMxCVjuyJPwAAAAAAAAAAAAAAAAAAAADZMxCVjuyJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOMmzO9qcaM/AAAAAAAAAADZMxCVjuyJPwAAAAAAAAAA2TMQlY7suT/ZMxCVjuyZP9kzEJWO7Jk/2TMQlY7siT/jJszvanGzPwAAAAAAAAAAAAAAAAAAAADjJszvanGjPwAAAAAAAAAA2TMQlY7sqT/ZMxCVjuypP+MmzO9qcaM/AAAAAAAAAABUOrJnICq9P9kzEJWO7Kk/4ybM72pxsz/ZMxCVjuyJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14971082,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faaeb8-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Cal Flame 4-Burner Built-in Stainless Steel Propane Gas Convection Grill with Infrared Rotisserie",
+                "product_url": "https://www.lowes.com/pd/Cal-Flame-4-Burner-Built-in-Stainless-Steel-Propane-Gas-Convection-Grill-with-Infrared-Rotisserie/1002720798",
+                "brand": "Cal Flame",
+                "description": "4-Burner Built-in Stainless Steel Propane Gas Convection Grill with Infrared Rotisserie",
+                "image_url": "https://mobileimages.lowes.com/product/converted/089245/089245088745.jpg",
+                "full_description": "The Cal Flame 4 burner convection grill offers exclusive convection technology on a roomy 4-burner grill. Solid stainless steel burners emit 60,000 BTUs and are lifetime warranted. The infrared back burner is perfect for rotisserie. Get gourmet results with 50% quicker grilling."
+              }
+            },
+            "text": "Cal Flame 4-Burner Built-in Stainless Steel Propane Gas Convection Grill with Infrared Rotisserie",
+            "embedding": {
+              "dense": {
+                "buffer": "IHRU4Iurvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAV+OLqBx2VPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABX44uoHHYU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAV+OLqBx2VPxX44uoHHZU/AAAAAAAAAAAAAAAAAAAAABX44uoHHYU/Ffji6gcdlT8AAAAAAAAAABX44uoHHYU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFfji6gcdhT8AAAAAAAAAABX44uoHHYU/Ffji6gcdlT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACB0VOCLq68/AAAAAAAAAAAV+OLqBx2FPxX44uoHHYU/Grab5Ulkuj8V+OLqBx2FPwAAAAAAAAAAFfji6gcdhT8V+OLqBx21PwAAAAAAAAAAAAAAAAAAAAASmYbtZnmyPxX44uoHHYU/EpmG7WZ5sj8V+OLqBx2lPxX44uoHHYU/AAAAAAAAAAASmYbtZnmyPxq2m+VJZKo/IHRU4Iurrz8V+OLqBx2VPxX44uoHHYU/Ffji6gcdhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15006231,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faaeb7-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "An industry-first, the 5-burner convection grill features five cast stainless steel burners and a powerful centrifugal fan that uniformly circulates heat up to 100,000 BTUs throughout the grilling area. An option once only found in the kitchen is now available for the cooking enthusiast outdoors. By circulating hot air, cooking times are greatly reduced and food is cooked evenly, especially when compared to conventional barbecue grills. The result is 50% quicker grilling over 1,000 sq inch.",
+                "brand": "Cal Flame",
+                "product_url": "https://www.lowes.com/pd/Cal-Flame-5-Burner-Built-in-Stainless-Steel-Propane-Gas-Convection-Grill-with-Infrared-Rotisserie/1002720830",
+                "description": "5-Burner Built-in Stainless Steel Propane Gas Convection Grill with Infrared Rotisserie",
+                "image_url": "https://mobileimages.lowes.com/product/converted/089245/089245088752.jpg",
+                "title": "Cal Flame 5-Burner Built-in Stainless Steel Propane Gas Convection Grill with Infrared Rotisserie"
+              }
+            },
+            "text": "Cal Flame 5-Burner Built-in Stainless Steel Propane Gas Convection Grill with Infrared Rotisserie",
+            "embedding": {
+              "dense": {
+                "buffer": "IHRU4Iurvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAV+OLqBx2VPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFfji6gcdhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAV+OLqBx2VPxX44uoHHZU/AAAAAAAAAAAAAAAAAAAAABX44uoHHYU/Ffji6gcdlT8AAAAAAAAAABX44uoHHYU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFfji6gcdhT8AAAAAAAAAABX44uoHHYU/Ffji6gcdlT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACB0VOCLq68/AAAAAAAAAAAV+OLqBx2FPxX44uoHHYU/Grab5Ulkuj8V+OLqBx2FPwAAAAAAAAAAFfji6gcdhT8V+OLqBx21PwAAAAAAAAAAAAAAAAAAAAASmYbtZnmyPxX44uoHHYU/EpmG7WZ5sj8V+OLqBx2lPxX44uoHHYU/AAAAAAAAAAASmYbtZnmyPxq2m+VJZKo/IHRU4Iurrz8V+OLqBx2VPxX44uoHHYU/Ffji6gcdhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15006231,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b11b-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Whirlpool-20-5-cu-ft-Top-Freezer-Refrigerator-Fingerprint-Resistant-Stainless-Steel/1002986772",
+                "description": "20.5-cu ft Top-Freezer Refrigerator (Fingerprint Resistant Stainless Steel)",
+                "brand": "Whirlpool",
+                "title": "Whirlpool 20.5-cu ft Top-Freezer Refrigerator (Fingerprint Resistant Stainless Steel)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049441542.jpg",
+                "full_description": "Get purposeful spaces that store more of your favorites. Our refrigerator with an icemaker lets you forget about refilling ice trays. You can fit more items on each shelf in this refrigerator with frameless glass shelves and keep fruits and vegetables in their ideal environment with humidity-controlled crispers. Plus, a 20 Cu. Ft. capacity gives you room for it all."
+              }
+            },
+            "text": "Whirlpool 20.5-cu ft Top-Freezer Refrigerator (Fingerprint Resistant Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "GBgYGBgYuD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGBgYGIg/GBgYGBgYiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYGBgYGBiYPxgYGBgYGIg/AAAAAAAAAAAYGBgYGBiIPwAAAAAAAAAAGBgYGBgYiD8AAAAAAAAAAAAAAAAAAAAAGBgYGBgYiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGBgYGJg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGBgYGJg/GBgYGBgYmD8YGBgYGBiIPwAAAAAAAAAAAAAAAAAAAAAYGBgYGBiIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABISEhISEqI/AAAAAAAAAAAYGBgYGBiIPwAAAAAAAAAAHh4eHh4evj8YGBgYGBiYPxgYGBgYGJg/GBgYGBgYiD8SEhISEhKyPwAAAAAAAAAAAAAAAAAAAAAYGBgYGBioPwAAAAAAAAAAGBgYGBgYqD8YGBgYGBioPxISEhISEqI/AAAAAAAAAAAYGBgYGBi4PxgYGBgYGKg/FRUVFRUVtT8YGBgYGBiIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGBgYGBgYiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15055147,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae40-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "LSU Tigers 10-sq in Multicolor Portable Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500002/5000028627.jpg",
+                "brand": "Imperial International",
+                "full_description": "",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-LSU-Tigers-10-sq-in-Multicolor-Portable-Charcoal-Grill/5000028627",
+                "title": "Imperial International LSU Tigers 10-sq in Multicolor Portable Charcoal Grill"
+              }
+            },
+            "text": "Imperial International LSU Tigers 10-sq in Multicolor Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "NbB3TA3svT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC+Y2pg75iKPwAAAAAAAAAAAAAAAAAAAAC+Y2pg75iKP75jamDvmIo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL5jamDvmIo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvmNqYO+Yij8AAAAAAAAAAL5jamDvmJo/AAAAAAAAAAAAAAAAAAAAAL5jamDvmIo/vmNqYO+Yij8AAAAAAAAAAAAAAAAAAAAAvmNqYO+Yij8AAAAAAAAAAAAAAAAAAAAAvmNqYO+Yij++Y2pg75iKP75jamDvmIo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM7KT4iz8rM/vmNqYO+Yij++Y2pg75iaPwAAAAAAAAAAvmNqYO+Yqj8AAAAAAAAAAL5jamDvmIo/vmNqYO+Yij/Oyk+Is/KzPwAAAAAAAAAAAAAAAAAAAAC+Y2pg75i6P75jamDvmIo/vmNqYO+Yqj9WfkKclZ+wP75jamDvmIo/vmNqYO+Yij9GF1100UW3P75jamDvmJo/vmNqYO+Yqj++Y2pg75iKPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15064397,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b245-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "You'll have plenty of room to store all your everyday favorites inside this 18 cu. ft. SideKicks&#174; refrigerator. Enjoy a longer-lasting, energy-efficient light on your food with LED lighting. The temperature alarm will notify you if the SideKicks&#174; refrigerator gets too warm. Plus, you can choose the ideal temperature for whatever foods you're storing with electronic temperature controls.",
+                "title": "Whirlpool SideKick 17.7-cu ft Freezerless Refrigerator (Monochromatic Stainless Steel)",
+                "description": "SideKick 17.7-cu ft Freezerless Refrigerator (Monochromatic Stainless Steel)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049341583.jpg",
+                "brand": "Whirlpool",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-SideKick-17-7-cu-ft-Freezerless-Refrigerator-Monochromatic-Stainless-Steel/50303873"
+              }
+            },
+            "text": "Whirlpool SideKick 17.7-cu ft Freezerless Refrigerator (Monochromatic Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "9AV9QV/Qtz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPQFfUFf0Ic/9AV9QV/Qhz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD0BX1BX9CHP/QFfUFf0Ic/AAAAAAAAAAAAAAAAAAAAAPQFfUFf0Ic/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPQFfUFf0Jc/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPQFfUFf0Ic/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD0BX1BX9CHPwAAAAAAAAAA9AV9QV/Qhz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPQFfUFf0Ic/d8QdcUfcoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD0BX1BX9CHPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHfEHXFH3KE/AAAAAAAAAAD0BX1BX9CnP/QFfUFf0Ic/cUfcEXfEvT/0BX1BX9CXP/QFfUFf0Ic/9AV9QV/Qlz93xB1xR9yxPwAAAAAAAAAA9AV9QV/Qhz9xR9wRd8StP/QFfUFf0Ic/9AV9QV/Qlz93xB1xR9yxP/QFfUFf0Ic/AAAAAAAAAAA2ZU1ZU9a0P/QFfUFf0Kc/cUfcEXfErT/0BX1BX9CHPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9AV9QV/Qhz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15454604,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae36-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Denver Broncos Bucket Grill",
+                "brand": "Imperial International",
+                "full_description": "Pack up and bring the tailgate with you with this bucket grill. This fully functional mini-grill uses charcoal and is made from durable, galvanized steel. The bucket grill also includes a wooden handle for convenient and safe transportation to your tailgate, BBQ, beach or campsite. Product is officially licensed by the NFL.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500003/5000039923.jpg",
+                "title": "Imperial International Denver Broncos Bucket Grill",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Denver-Broncos-Bucket-Grill/5000039923"
+              }
+            },
+            "text": "Imperial International Denver Broncos Bucket Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "mpmZmZmZuT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB7FK5H4XqkPwAAAAAAAAAAexSuR+F6lD8AAAAAAAAAAAAAAAAAAAAAexSuR+F6lD8AAAAAAAAAAHsUrkfheqQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALgehetRuK4/AAAAAAAAAAB7FK5H4XqkPwAAAAAAAAAAmpmZmZmZuT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4HoXrUbiuPwAAAAAAAAAAexSuR+F6lD97FK5H4Xq0P3sUrkfhepQ/mpmZmZmZuT+4HoXrUbiuP3sUrkfhepQ/AAAAAAAAAACamZmZmZm5P3sUrkfhepQ/uB6F61G4rj97FK5H4XqUP3sUrkfhepQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15491934,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b10d-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Whirlpool",
+                "title": "Whirlpool 17.6-cu ft Top-Freezer Refrigerator (Fingerprint Resistant Metallic Steel)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049441511.jpg",
+                "full_description": "There's always a place for fresh and frozen favorites inside our Whirlpool&#174; refrigerator. This 28\" top-freezer refrigerator offers 18 cu. ft. capacity with more convenient storage options thanks to the Flexi-Slide&#8482; bin that adjusts to make space for tall items. Bright LED interior lighting casts a more natural light on the contents of your black, white or stainless steel top-freezer refrigerator so food looks as it should. Plus, you can easily access ice by adding the Whirlpool&#174; EZ Connect icemaker kit.",
+                "description": "17.6-cu ft Top-Freezer Refrigerator (Fingerprint Resistant Metallic Steel)",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-17-6-cu-ft-Top-Freezer-Refrigerator-Fingerprint-Resistant-Metallic-Steel/1000209971"
+              }
+            },
+            "text": "Whirlpool 17.6-cu ft Top-Freezer Refrigerator (Fingerprint Resistant Metallic Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "GIZhGIZhuD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYYg/GIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYhmEYhmGYPxiGYRiGYYg/AAAAAAAAAAAAAAAAAAAAABiGYRiGYYg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYhmEYhmGIPxiGYRiGYYg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYZg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYZg/GIZhGIZhiD8YhmEYhmGIPwAAAAAAAAAAAAAAAAAAAAAYhmEYhmGIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIkSZIkSaI/AAAAAAAAAAAYhmEYhmGYPwAAAAAAAAAAnud5nud5vj8YhmEYhmGYPxiGYRiGYZg/GIZhGIZhiD+SJEmSJEmyPwAAAAAAAAAAAAAAAAAAAACe53me53muPwAAAAAAAAAAkiRJkiRJoj8YhmEYhmGoP5IkSZIkSaI/AAAAAAAAAAAYhmEYhmG4PxiGYRiGYZg/VVVVVVVVtT8YhmEYhmGIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15515773,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b053-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Whirlpool 3.1 Cu Ft compact mini refrigerator can store and keep cool snacks, beverages and more. Best of all, this mini refrigerator has a modern stylish Stainless look to go with every decor. Features an adjustable mechanical thermostat to keep the temperature where you need it. For all of those essential drinks there is room in the door, with a spot for 2 Liter Bottle Door Storage and can dispenser. Inside has a Full Width Freezer compartment to keep the ice cold too. To round this out, includes two removable shelves, easy to clean and convenient. It is a fun and stylish addition to any dorm room, kitchen, rec room or home office.",
+                "brand": "Whirlpool",
+                "image_url": "https://mobileimages.lowes.com/product/converted/190873/190873002673.jpg",
+                "description": "3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Stainless Look)",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-3-1-cu-ft-Freestanding-Mini-Fridge-Freezer-Compartment-Stainless-Look/1003126356",
+                "title": "Whirlpool 3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Stainless Look)"
+              }
+            },
+            "text": "Whirlpool 3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Stainless Look)",
+            "embedding": {
+              "dense": {
+                "buffer": "HMdxHMdxvD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODp1vywSIk/4OnW/LBIiT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg6db8sEiJP+Dp1vywSIk/AAAAAAAAAAAAAAAAAAAAAODp1vywSIk/AAAAAAAAAADg6db8sEiJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODp1vywSIk/AAAAAAAAAAAAAAAAAAAAAGgvob2E9qI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODp1vywSIk/4OnW/LBIiT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4OnW/LBIiT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg6db8sEiJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9qI/AAAAAAAAAADg6db8sEiJP+Dp1vywSJk/4OnW/LBIuT/g6db8sEiJP+Dp1vywSJk/4OnW/LBIiT9oL6G9hPayPwAAAAAAAAAA4OnW/LBIiT9oL6G9hPaiP+Dp1vywSJk/WKQMPN2arz9YpAw83ZqvP+Dp1vywSJk/AAAAAAAAAABoL6G9hPayP2gvob2E9qI/WKQMPN2arz/g6db8sEiJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4OnW/LBIiT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15565038,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b038-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Whirlpool-4-6-cu-ft-Freestanding-Mini-Fridge-Freezer-Compartment-Stainless-Look/1003126362",
+                "full_description": "The Whirlpool 4.6 Cu Ft compact mini refrigerator with true freezer can store and keep cool snacks, beverages and more. Best of all, this refrigerator-freezer has a sleek modern look and feel for any decor. Featuring an adjustable thermostat to keep the temperature where you want it. It has a separate freezer for all of your frozen food needs. You will clearly see with the bright interior lighting all the way down to the clear fruit and vegetable crisper. The unit also has removable shelves for cleaning convenience. It is a fun and stylish addition to any kitchen, rec room or home office.",
+                "brand": "Whirlpool",
+                "description": "4.6-cu ft Freestanding Mini Fridge Freezer Compartment (Stainless Look)",
+                "title": "Whirlpool 4.6-cu ft Freestanding Mini Fridge Freezer Compartment (Stainless Look)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/836321/836321009183.jpg"
+              }
+            },
+            "text": "Whirlpool 4.6-cu ft Freestanding Mini Fridge Freezer Compartment (Stainless Look)",
+            "embedding": {
+              "dense": {
+                "buffer": "HMdxHMdxvD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODp1vywSIk/4OnW/LBIiT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg6db8sEiJP+Dp1vywSIk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODp1vywSIk/AAAAAAAAAADg6db8sEiJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODp1vywSIk/AAAAAAAAAAAAAAAAAAAAAGgvob2E9qI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODp1vywSIk/4OnW/LBIiT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4OnW/LBIiT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg6db8sEiJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9qI/AAAAAAAAAADg6db8sEiJP+Dp1vywSJk/4OnW/LBIuT/g6db8sEiJP+Dp1vywSJk/4OnW/LBIiT9oL6G9hPayPwAAAAAAAAAA4OnW/LBIiT9oL6G9hPaiP+Dp1vywSJk/WKQMPN2arz9YpAw83ZqvP+Dp1vywSJk/AAAAAAAAAABoL6G9hPayP2gvob2E9qI/WKQMPN2arz/g6db8sEiJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4OnW/LBIiT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15565038,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b271-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Smoke Hollow Stainless Steel 1-Burner Liquid Propane Gas Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/812771/812771018401.jpg",
+                "description": "Stainless Steel 1-Burner Liquid Propane Gas Grill",
+                "product_url": "https://www.lowes.com/pd/Smoke-Hollow-Stainless-Steel-1-Burner-Liquid-Propane-Gas-Grill/1000478983",
+                "full_description": "The Smoke Hollow Tabletop Gas Grill is perfect for camping, tailgating, picnics, or any outdoor use. With 305 sq inches of cooking surface and a 11.25 In. x 18.5 In. warming rack, this portable Stainless steel table top gas grill is built for BBQ-grillers on the go. The long-lasting Stainless steel construction allows you to experience outdoor cooking wherever you enjoy it most - on picnics, camping, boating, tailgating or even in your own backyard. The compact design with locking lid, folding legs, and a large front carry handle makes this grill very portable and easy to transport or store. The grill operates on small, disposable, one-pound propane cylinders (not included).",
+                "brand": "Smoke Hollow"
+              }
+            },
+            "text": "Smoke Hollow Stainless Steel 1-Burner Liquid Propane Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "hBBCCCGEwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEEEIIIYSQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQQQgghhJA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEEEIIIYSQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhBBCCCGEoD+EEEIIIYSQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQQQgghhJA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhBBCCCGEkD8AAAAAAAAAAAAAAAAAAAAAxhhjjDHGqD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMYYY4wxxqg/AAAAAAAAAAAAAAAAAAAAAIQQQgghhJA/xhhjjDHGuD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEEEIIIYSwPwAAAAAAAAAAhBBCCCGEkD/GGGOMMca4P4QQQgghhJA/xhhjjDHGqD+EEEIIIYSwP4QQQgghhJA/hBBCCCGEkD+EEEIIIYSwP8YYY4wxxqg/hBBCCCGEoD+EEEIIIYSgPwAAAAAAAAAAhBBCCCGEkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15588892,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae3f-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Imperial International",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Pittsburgh-Steelers-Pittsburgh-Steelers-Bucket-Grill-10-sq-in-Muliple-Colors-Metal-Portable-Charcoal-Grill/5000039925",
+                "title": "Imperial International Pittsburgh Steelers Pittsburgh Steelers Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500003/5000039925.jpg",
+                "full_description": "Pack up and bring the tailgate with you with this bucket grill. This fully functional mini-grill uses charcoal and is made from durable, galvanized steel. The bucket grill also includes a wooden handle for convenient and safe transportation to your tailgate, BBQ, beach or campsite. Product is officially licensed by the NFL.",
+                "description": "Pittsburgh Steelers Pittsburgh Steelers Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill"
+              }
+            },
+            "text": "Imperial International Pittsburgh Steelers Pittsburgh Steelers Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "8oa8IW/Iuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwB/wBf8B/PwAAAAAAAAAA8Af8AX/Afz/wB/wBf8B/P/AH/AF/wH8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwB/wBf8B/P/AH/AF/wI8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAPAH/AF/wI8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAAAAAAAAAAAA9AV9QV/Qlz8AAAAAAAAAAAAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPKGvCFvyKs/9AV9QV/Qlz/wB/wBf8CPPwAAAAAAAAAA9AV9QV/Qtz8AAAAAAAAAAPAH/AF/wI8/9AV9QV/Qlz/wB/wBf8CvPwAAAAAAAAAA8Af8AX/Afz/yhrwhb8i7P/AH/AF/wH8/8Af8AX/Anz/2hD1hT9ijP/AH/AF/wI8/8Af8AX/Afz91RV1RV9S1P/QFfUFf0Kc/dUVdUVfUtT/wB/wBf8CfPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15595882,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b0f1-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "19.1-cu ft Top-Freezer Refrigerator (Fingerprint Resistant Metallic Steel)",
+                "title": "Whirlpool 19.1-cu ft Top-Freezer Refrigerator (Fingerprint Resistant Metallic Steel)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049441535.jpg",
+                "full_description": "Get purposeful spaces that store more of your favorites.  You can fit more items on each shelf in this refrigerator with frameless glass shelves and keep fruits and vegetables in their ideal environment with humidity-controlled crispers. Plus, a 19 cu. Ft. capacity gives you room for it all.",
+                "brand": "Whirlpool",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-19-1-cu-ft-Top-Freezer-Refrigerator-Fingerprint-Resistant-Metallic-Steel/1000209973"
+              }
+            },
+            "text": "Whirlpool 19.1-cu ft Top-Freezer Refrigerator (Fingerprint Resistant Metallic Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "GIZhGIZhuD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYYg/GIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYhmEYhmGYPxiGYRiGYYg/AAAAAAAAAAAAAAAAAAAAABiGYRiGYZg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYhmEYhmGIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYZg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYZg/GIZhGIZhiD8YhmEYhmGIPwAAAAAAAAAAAAAAAAAAAAAYhmEYhmGIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIkSZIkSaI/AAAAAAAAAAAYhmEYhmGYPwAAAAAAAAAAnud5nud5vj8YhmEYhmGYPxiGYRiGYZg/GIZhGIZhiD+SJEmSJEmyPwAAAAAAAAAAAAAAAAAAAACe53me53muPwAAAAAAAAAAkiRJkiRJoj8YhmEYhmGoP5IkSZIkSaI/AAAAAAAAAAAYhmEYhmG4PxiGYRiGYZg/VVVVVVVVtT8YhmEYhmGIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15606847,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2afcf-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "19.6-cu ft 3-Door 30-in French Door Refrigerator with Contemporary Handle - Fingerprint Resistant Stainless Steel",
+                "brand": "Whirlpool",
+                "title": "Whirlpool 19.6-cu ft 3-Door 30-in French Door Refrigerator with Contemporary Handle - Fingerprint Resistant Stainless Steel",
+                "full_description": "Delivering purposefully-designed storage zones for items you use most. Humidity-controlled crispers let you store fruits and veggies in their ideal environment while the tuck shelf makes room for tall items like 2 Liter bottles.",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-19-6-cu-ft-3-Door-30-in-French-Door-Refrigerator-with-Contemporary-Handle-Fingerprint-Resistant-Stainless-Steel/1000460269",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049441337.jpg"
+              }
+            },
+            "text": "Whirlpool 19.6-cu ft 3-Door 30-in French Door Refrigerator with Contemporary Handle - Fingerprint Resistant Stainless Steel",
+            "embedding": {
+              "dense": {
+                "buffer": "OB+D8zE4vz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACnEGgKgaagP6cQaAqBpoA/AAAAAAAAAACnEGgKgaaAP6cQaAqBpoA/AAAAAAAAAACnEGgKgaaQPwAAAAAAAAAAAAAAAAAAAACnEGgKgaaAPwAAAAAAAAAAAAAAAAAAAACnEGgKgaaAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKcQaAqBpoA/pxBoCoGmkD8AAAAAAAAAAKcQaAqBppA/AAAAAAAAAACnEGgKgaaAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKcQaAqBppA/pxBoCoGmkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACnEGgKgaaAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANAUAk0h0KQ/AAAAAAAAAACnEGgKgaaQP6cQaAqBpoA/0BQCTSHQtD+nEGgKgaaQP6cQaAqBppA/+hicj8H5mD+nEGgKgaawPwAAAAAAAAAAAAAAAAAAAADQFAJNIdCkP6cQaAqBpoA/pxBoCoGmsD+7ErUrUbuyP/oYnI/B+Zg/AAAAAAAAAADlFk9u8eS2P6cQaAqBpqA/uxK1K1G7sj+nEGgKgaaAPwAAAAAAAAAApxBoCoGmgD8AAAAAAAAAAKcQaAqBpoA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1563663,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae9b-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/684678/684678100028.jpg",
+                "title": "Pit Boss Pro Series Black Triple-Function Combo Grill",
+                "full_description": "Get grilling done right with the Pit Boss pro series black triple-function combo grill. The only wood pellet grill and gas grill combo to deliver the flavor of wood with the ease of gas. Featuring more than 1200 sq. Ins. of cooking surface, the PB1100PSC1 is ready to bring all of your favorite meals to the backyard. 8-In-1 versatility allows you to smoke, bake, roast, braise, sear, grill, char-grill, or barbecue using 100% all-natural hardwood pellets or liquid propane. Simply adjust the slide-plate flame broiler and dial-in temperature control board. Then, create everything from slow-smoked brisket to flame-seared steak. The additional gas-powered side burner offers 10,000 BTU&#8217;s that&#8217;s perfect for warming side dishes, frying chicken, or simmering, boiling, and more. Additional features include a 180&deg; to 500&deg;F temperature range, 22-pound hopper, premium-gauge stainless steel build, porcelain-coated cast-iron cooking grates, two included stainless-steel meat probes, adjustable smokestack, three independent gas burners, locking caster wheels, grease management system, folding front shelf, and solid bottom shelf for extra storage.",
+                "description": "Pro Series Black Triple-Function Combo Grill",
+                "product_url": "https://www.lowes.com/pd/Pit-Boss-Pro-Series-Black-Triple-Function-Combo-Grill/1001460298",
+                "brand": "Pit Boss"
+              }
+            },
+            "text": "Pit Boss Pro Series Black Triple-Function Combo Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "qQnGW9nnwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKjP8F4K/scUpM/AAAAAAAAAAAAAAAAAAAAAMF4K/scUpM/wXgr+xxSkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSoz8AAAAAAAAAAAAAAAAAAAAAwXgr+xxSkz/BeCv7HFKTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMF4K/scUpM/wXgr+xxSkz/BeCv7HFKjPwAAAAAAAAAAIjXBeCv7rD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADyVvY5pCa4PwAAAAAAAAAAwXgr+xxSkz/BeCv7HFKzP8F4K/scUpM/wXgr+xxSoz/yVvY5pCa4P8F4K/scUpM/AAAAAAAAAADBeCv7HFKzPyI1wXgr+6w/wXgr+xxSoz/BeCv7HFKTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15708995,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2afd0-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049442082.jpg",
+                "description": "25.2-cu ft 3-Door 36-in French Door Refrigerator - Fingerprint Resistant Stainless Steel",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-25-2-cu-ft-3-Door-36-in-French-Door-Refrigerator-Fingerprint-Resistant-Stainless-Steel/1000455615",
+                "full_description": "Get the storage you need and easily access filtered water with this refrigerator with water dispenser. Crisper drawers provide room to store fruits and veggies in their ideal environment while the refrigerator with glass shelves stores more items on each shelf. This ENERGY STAR&#174; certified refrigerator also has LED lighting to keepfood looking as great as it tastes.",
+                "brand": "Whirlpool",
+                "title": "Whirlpool 25.2-cu ft 3-Door 36-in French Door Refrigerator - Fingerprint Resistant Stainless Steel"
+              }
+            },
+            "text": "Whirlpool 25.2-cu ft 3-Door 36-in French Door Refrigerator - Fingerprint Resistant Stainless Steel",
+            "embedding": {
+              "dense": {
+                "buffer": "1ofG+tBYvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPzkFL6fg5YQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DllD85BS+n4OWUPwAAAAAAAAAAOQUvp+DlhD85BS+n4OWEPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DllD8AAAAAAAAAADkFL6fg5ZQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5ZQ/OQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWEPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANaHxvrQWJ8/AAAAAAAAAAA5BS+n4OWUPwAAAAAAAAAAOQUvp+DltD85BS+n4OWUPzkFL6fg5ZQ/OQUvp+DllD+SJEmSJEmyPwAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPwAAAAAAAAAA1ofG+tBYrz+SJEmSJEmyPzkFL6fg5ZQ/AAAAAAAAAADh5RS8nIK3PzkFL6fg5aQ/kiRJkiRJsj85BS+n4OWEPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15723242,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b0e9-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "21.3-cu ft Top-Freezer Refrigerator (Monochromatic Stainless Steel)",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-21-3-cu-ft-Top-Freezer-Refrigerator-Monochromatic-Stainless-Steel/50304479",
+                "full_description": "Get the flexibility your family needs with purposeful spaces that store more of your favorites. This refrigerator with LED lights keeps food looking as good as it tastes and a Flexi-Slide&#8482; bin easily moves side-to-side so you can fit more tall items. Plus, our improved design with quiet cooling keeps this quiet refrigerator from interrupting family time in the kitchen.",
+                "brand": "Whirlpool",
+                "title": "Whirlpool 21.3-cu ft Top-Freezer Refrigerator (Monochromatic Stainless Steel)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049339375.jpg"
+              }
+            },
+            "text": "Whirlpool 21.3-cu ft Top-Freezer Refrigerator (Monochromatic Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "RhdddNFFtz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL5jamDvmIo/vmNqYO+Yij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC+Y2pg75iaP75jamDvmIo/AAAAAAAAAAAAAAAAAAAAAL5jamDvmIo/vmNqYO+Yij++Y2pg75iKPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL5jamDvmIo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvmNqYO+Yij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL5jamDvmIo/vmNqYO+Ymj++Y2pg75iKPwAAAAAAAAAAAAAAAAAAAAC+Y2pg75iKPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM7KT4iz8qM/AAAAAAAAAADOyk+Is/KjPwAAAAAAAAAAvmNqYO+Yuj++Y2pg75iaP75jamDvmIo/vmNqYO+Ymj++Y2pg75iqPwAAAAAAAAAAAAAAAAAAAAC+Y2pg75iqP75jamDvmIo/vmNqYO+Ymj9GF1100UW3P75jamDvmJo/AAAAAAAAAABGF1100UW3P75jamDvmJo/Vn5CnJWfsD++Y2pg75iKPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvmNqYO+Yij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15905268,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          }
+        ],
+        "tags": {},
+        "text": "napoleon grill rotisserie",
+        "embedding": {
+          "dense": {
+            "buffer": "exSuR+F6tD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHsUrkfheqQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAuB6F61G4vj8AAAAAAAAAAHsUrkfheqQ/AAAAAAAAAAC4HoXrUbi+PwAAAAAAAAAAAAAAAAAAAAC4HoXrUbi+PwAAAAAAAAAAexSuR+F6tD+4HoXrUbi+P3sUrkfheqQ/AAAAAAAAAAC4HoXrUbi+P3sUrkfherQ/exSuR+F6pD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "shape": [
+              96
+            ],
+            "dtype": "<f8",
+            "quantization": 0,
+            "maxVal": 0,
+            "minVal": 0,
+            "scale": 0,
+            "originalDtype": ""
+          }
+        },
+        "granularity": 0,
+        "adjacency": 0,
+        "parentId": "",
+        "chunks": [],
+        "weight": 0,
+        "uri": "",
+        "mimeType": "",
+        "location": [],
+        "offset": 0,
+        "scores": {},
+        "modality": "",
+        "evaluations": {}
+      }
+    ],
+    "groundtruths": []
+  }
+}

@@ -1,0 +1,1021 @@
+{
+  "requestId": "efecaa19-a5f1-4927-8c44-5409cf73c43e",
+  "data": {
+    "docs": [
+      {
+        "id": "ff82cad4-5e87-11ec-9e82-17576e5cd1d2",
+        "matches": [
+          {
+            "id": "82faae4f-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Hero&#8482; makes grilling simple, clean, and portable. It features a fast set up and no mess, eco-friendly charcoal pods that are ready in ten minutes to give you an hour of grill time. The grill is dishwasher safe, making clean up fast and easy. The charcoal pods are an environmentally friendly fuel choice compared to petroleum based alternatives.",
+                "description": "HERO Portable Lightweight Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/892805/892805003801.jpg",
+                "brand": "Fire & Flavor",
+                "title": "Fire & Flavor HERO Portable Lightweight Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Fire-Flavor-HERO-Portable-Lightweight-Charcoal-Grill/1003008440"
+              }
+            },
+            "text": "Fire & Flavor HERO Portable Lightweight Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "ewntJbSXwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/AAAAAAAAAABoL6G9hPaSP2gvob2E9qI/aC+hvYT2kj9oL6G9hPaSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/AAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/aC+hvYT2kj8AAAAAAAAAAGgvob2E9pI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9rI/aC+hvYT2kj9oL6G9hPaSPwAAAAAAAAAAHMdxHMdxrD8AAAAAAAAAAGgvob2E9qI/HMdxHMdxrD9oL6G9hPayPwAAAAAAAAAAAAAAAAAAAABCewntJbS3PwAAAAAAAAAAAAAAAAAAAAAcx3Ecx3GsPwAAAAAAAAAAAAAAAAAAAABCewntJbS3PwAAAAAAAAAAHMdxHMdxrD8AAAAAAAAAAGgvob2E9pI/aC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.2579193,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae4c-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Fire-Flavor-HERO-Portable-Lightweight-Charcoal-Grill/1001813290",
+                "full_description": "Hero&#8482; makes grilling simple, clean, and portable. It features a fast set up and no mess, eco-friendly charcoal pods that are ready in ten minutes to give you an hour of grill time. The grill is dishwasher safe, making clean up fast and easy. The charcoal pods are an environmentally friendly fuel choice compared to petroleum based alternatives.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/892805/892805003801.jpg",
+                "title": "Fire & Flavor HERO Portable Lightweight Charcoal Grill",
+                "brand": "Fire & Flavor",
+                "description": "HERO Portable Lightweight Charcoal Grill"
+              }
+            },
+            "text": "Fire & Flavor HERO Portable Lightweight Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "ewntJbSXwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/AAAAAAAAAABoL6G9hPaSP2gvob2E9qI/aC+hvYT2kj9oL6G9hPaSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/AAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/aC+hvYT2kj8AAAAAAAAAAGgvob2E9pI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9rI/aC+hvYT2kj9oL6G9hPaSPwAAAAAAAAAAHMdxHMdxrD8AAAAAAAAAAGgvob2E9qI/HMdxHMdxrD9oL6G9hPayPwAAAAAAAAAAAAAAAAAAAABCewntJbS3PwAAAAAAAAAAAAAAAAAAAAAcx3Ecx3GsPwAAAAAAAAAAAAAAAAAAAABCewntJbS3PwAAAAAAAAAAHMdxHMdxrD8AAAAAAAAAAGgvob2E9pI/aC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.2579193,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae2f-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Fire & Flavor HERO Portable Lightweight Charcoal Grill System",
+                "brand": "Fire & Flavor",
+                "product_url": "https://www.lowes.com/pd/Fire-Flavor-HERO-Portable-Lightweight-Charcoal-Grill-System/1001813188",
+                "description": "HERO Portable Lightweight Charcoal Grill System",
+                "image_url": "https://mobileimages.lowes.com/product/converted/892805/892805003825.jpg",
+                "full_description": "Hero makes simple, clean and on the go charcoal grilling easy. At under 10 pounds, the system features a premium non-stick grill for clean cooking and easy clean up. Plus, it&#8217;s the world&#8217;s first dishwasher safe grill. Easy to use components and a rugged carry case give you a charcoal grilled meal anywhere you go."
+              }
+            },
+            "text": "Fire & Flavor HERO Portable Lightweight Charcoal Grill System",
+            "embedding": {
+              "dense": {
+                "buffer": "O9q8T3HJwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO9q8T3HJkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADvavE9xyZA/AAAAAAAAAAA72rxPccmQPzvavE9xyaA/O9q8T3HJkD872rxPccmQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADvavE9xyZA/AAAAAAAAAAAAAAAAAAAAADvavE9xyZA/O9q8T3HJkD8AAAAAAAAAADvavE9xyZA/O9q8T3HJkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADvavE9xybA/O9q8T3HJkD872rxPccmQPwAAAAAAAAAAO9q8T3HJsD8AAAAAAAAAADvavE9xyaA/WEeb9ykuqT872rxPccmwPwAAAAAAAAAAAAAAAAAAAADJEKyjzfu0PzvavE9xyZA/AAAAAAAAAABYR5v3KS6pPwAAAAAAAAAAAAAAAAAAAADJEKyjzfu0PzvavE9xyZA/O9q8T3HJsD8AAAAAAAAAADvavE9xyZA/O9q8T3HJkD8AAAAAAAAAADvavE9xyZA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.26263875,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae8d-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "1800-Watt Stainless Steel Electric Grill",
+                "full_description": "Cook great meals all day long on one appliance from breakfast all the way to dessert! Experience the versatility of easy indoor grilling with the Livenza All-Day Grill with FlexPress System by DeLonghi. Whether you want to grill a succulent steak, press the perfect panini or cook the fluffiest pancakes, we&#8217;ve got your options covered. Extra-wide embedded heating elements offer heat uniformity across the plates to prevent hot spots so food is cooked evenly. The large cooking surface heats evenly to bring out the best flavors in all your dishes. And its beautiful, sleek design will add style to any kitchen.",
+                "product_url": "https://www.lowes.com/pd/DeLonghi-1800-Watt-Stainless-Steel-Electric-Grill/1000503195",
+                "image_url": "https://mobileimages.lowes.com/product/converted/044387/044387010207.jpg",
+                "title": "DeLonghi 1800-Watt Stainless Steel Electric Grill",
+                "brand": "DeLonghi"
+              }
+            },
+            "text": "DeLonghi 1800-Watt Stainless Steel Electric Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "iMb60Fgfuj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPzkFL6fg5ZQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DllD85BS+n4OWUPwAAAAAAAAAAOQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5ZQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DlpD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5aQ/AAAAAAAAAAA5BS+n4OWkPwAAAAAAAAAAiMb60Fgfuj8AAAAAAAAAADkFL6fg5ZQ/OQUvp+DllD85BS+n4OW0PwAAAAAAAAAAAAAAAAAAAACIxvrQWB+6PwAAAAAAAAAAOQUvp+DlpD85BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPzkFL6fg5aQ/iMb60Fgfuj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.26429656,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b316-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Picnic Time",
+                "full_description": "Bring the BBQ wherever you roam with the X-Grill Portable Charcoal BBQ Grill, a sleek, electro-plated steel tailgate grill that packs down flatter than a pancake! This highly-portable folding tailgate grill sets up in seconds with its chrome tri-fold cooking grate and durable polyester canvas carrying tote with shoulder strap. All you need is charcoal/kindling, and friends!",
+                "description": "Pittsburgh Steelers Black Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100108/1001085814.jpg",
+                "product_url": "https://www.lowes.com/pd/Picnic-Time-Pittsburgh-Steelers-Black-Charcoal-Grill/1001085814",
+                "title": "Picnic Time Pittsburgh Steelers Black Charcoal Grill"
+              }
+            },
+            "text": "Picnic Time Pittsburgh Steelers Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "ntiJndiJvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPxQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxoz8AAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ7YiZ3Yia0/FDuxEzuxkz8UO7ETO7GzPwAAAAAAAAAAFDuxEzuxsz8AAAAAAAAAABQ7sRM7sZM/FDuxEzuxoz/ZiZ3YiZ24PwAAAAAAAAAAFDuxEzuxkz/ZiZ3YiZ24PxQ7sRM7sZM/FDuxEzuxkz8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GzPxQ7sRM7saM/ntiJndiJrT8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.2666038,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b034-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049456027.jpg",
+                "full_description": "",
+                "brand": "Whirlpool",
+                "title": "Whirlpool 5.1-cu ft Built-In/Freestanding Mini Fridge (Stainless Steel)",
+                "description": "5.1-cu ft Built-In/Freestanding Mini Fridge (Stainless Steel)",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-5-1-cu-ft-Built-In-Freestanding-Mini-Fridge-Stainless-Steel/1000366141"
+              }
+            },
+            "text": "Whirlpool 5.1-cu ft Built-In/Freestanding Mini Fridge (Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "qSfjt0s9uT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/C5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVticPwubA4lW2Iw/C5sDiVbYjD8AAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Jw/AAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYnD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Jw/AAAAAAAAAAALmwOJVtiMPwubA4lW2Jw/SLTC5kCitT8LmwOJVtiMPwubA4lW2Jw/C5sDiVbYjD+pJ+O3Sz25PwAAAAAAAAAAAAAAAAAAAADnQKIVNgeyPwAAAAAAAAAA50CiFTYHsj8LmwOJVticPwubA4lW2Iw/AAAAAAAAAABItMLmQKKlP0i0wuZAoqU/50CiFTYHsj8LmwOJVticPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.27039593,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae3f-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Imperial International Pittsburgh Steelers Pittsburgh Steelers Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500003/5000039925.jpg",
+                "brand": "Imperial International",
+                "full_description": "Pack up and bring the tailgate with you with this bucket grill. This fully functional mini-grill uses charcoal and is made from durable, galvanized steel. The bucket grill also includes a wooden handle for convenient and safe transportation to your tailgate, BBQ, beach or campsite. Product is officially licensed by the NFL.",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Pittsburgh-Steelers-Pittsburgh-Steelers-Bucket-Grill-10-sq-in-Muliple-Colors-Metal-Portable-Charcoal-Grill/5000039925",
+                "description": "Pittsburgh Steelers Pittsburgh Steelers Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill"
+              }
+            },
+            "text": "Imperial International Pittsburgh Steelers Pittsburgh Steelers Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "8oa8IW/Iuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwB/wBf8B/PwAAAAAAAAAA8Af8AX/Afz/wB/wBf8B/P/AH/AF/wH8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwB/wBf8B/P/AH/AF/wI8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAPAH/AF/wI8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAAAAAAAAAAAA9AV9QV/Qlz8AAAAAAAAAAAAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPKGvCFvyKs/9AV9QV/Qlz/wB/wBf8CPPwAAAAAAAAAA9AV9QV/Qtz8AAAAAAAAAAPAH/AF/wI8/9AV9QV/Qlz/wB/wBf8CvPwAAAAAAAAAA8Af8AX/Afz/yhrwhb8i7P/AH/AF/wH8/8Af8AX/Anz/2hD1hT9ijP/AH/AF/wI8/8Af8AX/Afz91RV1RV9S1P/QFfUFf0Kc/dUVdUVfUtT/wB/wBf8CfPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.2704854,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae3e-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Imperial International",
+                "description": "Philadelphia Eagles Philadelphia Eagles Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Philadelphia-Eagles-Philadelphia-Eagles-Bucket-Grill-10-sq-in-Muliple-Colors-Metal-Portable-Charcoal-Grill/5000039949",
+                "full_description": "Pack up and bring the tailgate with you with this bucket grill. This fully functional mini-grill uses charcoal and is made from durable, galvanized steel. The bucket grill also includes a wooden handle for convenient and safe transportation to your tailgate, BBQ, beach or campsite. Product is officially licensed by the NFL.",
+                "title": "Imperial International Philadelphia Eagles Philadelphia Eagles Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500003/5000039949.jpg"
+              }
+            },
+            "text": "Imperial International Philadelphia Eagles Philadelphia Eagles Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "8oa8IW/Iuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwB/wBf8B/PwAAAAAAAAAA8Af8AX/Afz/wB/wBf8B/P/AH/AF/wH8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwB/wBf8B/P/AH/AF/wI8/AAAAAAAAAADwB/wBf8CPPwAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAPAH/AF/wI8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAAAAAAAAAAAA9AV9QV/Qlz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHPGnDFnzLk/8Af8AX/Afz/wB/wBf8CPP/AH/AF/wI8/9oQ9YU/Ysz8AAAAAAAAAAPAH/AF/wI8/9oQ9YU/Yoz/2hD1hT9izPwAAAAAAAAAA8Af8AX/Afz93xB1xR9zBP/AH/AF/wH8/8Af8AX/Anz/2hD1hT9ijP/AH/AF/wJ8/8Af8AX/Afz/yhrwhb8irP/AH/AF/wJ8/9oQ9YU/Yoz/wB/wBf8CPPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.27085108,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae62-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "The Regal Pellet 500 grill is a powerful and innovative pellet grill that uses a Wifi and Bluetooth&#174; enabled digital controller to provide enhanced temperature control allowing you to do anything with this grill including low-and-slow smoking at 225&deg;F, roasting at 350&deg;F, or even high-heat searing 600&deg;F.. This pellet grill comes fully equipped with a powerful auger, 22-lb capacity pellet hopper, removable grease management system, unique ash management system, deluxe rotisserie kit, 2 electronic meat probes, base storage and side shelf, and heavy duty and reversible cast iron cooking grids. Total cooking space on this grill is 865 sq. in. including a porcelain coated warming rack.",
+                "product_url": "https://www.lowes.com/pd/Broil-King-Regal-Pellet-825-sq-in-Black-Pellet-Grill/1000894096",
+                "description": "Regal Pellet 825-sq in Black Pellet Grill",
+                "title": "Broil King Regal Pellet 825-sq in Black Pellet Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/062703/062703106274.jpg",
+                "brand": "Broil King"
+              }
+            },
+            "text": "Broil King Regal Pellet 825-sq in Black Pellet Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "FDuxEzuxwz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GjPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxoz8AAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7saM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAA2Ymd2ImduD8AAAAAAAAAABQ7sRM7saM/AAAAAAAAAAAUO7ETO7GzPwAAAAAAAAAAFDuxEzuxkz92Yid2YifGPwAAAAAAAAAAFDuxEzuxoz8UO7ETO7GTPwAAAAAAAAAAFDuxEzuxkz8UO7ETO7GjPxQ7sRM7sZM/FDuxEzuxoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.27153563,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b2fe-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Weber Original Kettle 22-in Black Kettle Charcoal Grill",
+                "description": "Original Kettle 22-in Black Kettle Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/077924/077924025303.jpg",
+                "product_url": "https://www.lowes.com/pd/Weber-Original-Kettle-22-in-Black-Kettle-Charcoal-Grill/3055249",
+                "brand": "Weber",
+                "full_description": "Offering understated elegance to your home's exterior, the Weber Original 22 in. kettle in black charcoal features a classic profile design. A great way to accomplish many outdoor cooking tasks, this BBQ grill helps deliver long-lasting performance thanks to its porcelain-enameled lid and bowl, aluminized steel cleaning system and rust-resistant aluminum legs. A 363 Sq. In. cooking surface gives you plenty of space to cook up your favorite, mouthwatering meals."
+              }
+            },
+            "text": "Weber Original Kettle 22-in Black Kettle Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "SpCnBHlKwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGeoj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SP54S5ClBnpI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGekj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6iPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ4S5ClBnpI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ4S5ClBnrI/nhLkKUGekj+eEuQpQZ6iPwAAAAAAAAAA7RvWvmHtuz8AAAAAAAAAAJ4S5ClBnpI/nhLkKUGekj+eEuQpQZ6yPwAAAAAAAAAAnhLkKUGekj9KkKcEeUrAPwAAAAAAAAAAnhLkKUGeoj+eEuQpQZ6SPwAAAAAAAAAAAAAAAAAAAACeEuQpQZ6yPwAAAAAAAAAAnhLkKUGesj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.27307308,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b30d-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/077924/077924032479.jpg",
+                "description": "Original Kettle Premium 22-in Black Kettle Charcoal Grill",
+                "brand": "Weber",
+                "title": "Weber Original Kettle Premium 22-in Black Kettle Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Weber-Original-Kettle-Premium-22-in-Black-Kettle-Charcoal-Grill/1000513999",
+                "full_description": ""
+              }
+            },
+            "text": "Weber Original Kettle Premium 22-in Black Kettle Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "EARBEARBwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQBEEQBEGQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEARBEARBoD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQBEEQBEGQPxAEQRAEQZA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEARBEARBkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQBEEQBEGgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAEQRAEQZA/EARBEARBkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQBEEQBEGQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAEQRAEQbA/EARBEARBkD8QBEEQBEGgPwAAAAAAAAAAHMdxHMdxvD8AAAAAAAAAABAEQRAEQZA/EARBEARBkD8URVEURVG0PwAAAAAAAAAAEARBEARBkD8cx3Ecx3G8PxAEQRAEQaA/EARBEARBoD8QBEEQBEGQPwAAAAAAAAAAAAAAAAAAAAAURVEURVG0PwAAAAAAAAAAEARBEARBsD8QBEEQBEGQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.27547675,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae81-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "White Electric Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100141/1001414438.jpg",
+                "title": "Better Chef White Electric Grill",
+                "brand": "Better Chef",
+                "product_url": "https://www.lowes.com/pd/Better-Chef-White-Electric-Grill/1001414438",
+                "full_description": "A great addition to any home kitchen is this Better Chef brand Panini Press sandwich maker and grill. The sleek and stylish finish will upgrade your kitchen's existing look. Makes delicious, wholesome panini sandwiches in minutes. The non-stick cooking plates allows for easy clean-up."
+              }
+            },
+            "text": "Better Chef White Electric Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAKA/AAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAoD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwPwAAAAAAAAAAAAAAAAAAxD8AAAAAAACgPwAAAAAAAAAAAAAAAAAAsD8AAAAAAAC4PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4PwAAAAAAAAAAAAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.27611494,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae83-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/100141/1001414508.jpg",
+                "description": "White Electric Grill",
+                "brand": "Better Chef",
+                "title": "Better Chef White Electric Grill",
+                "full_description": "The Better Chef Belgian waffle maker cooks golden waffles that are crispy on the outside and mouth watering tender on the inside. With a white cover, the waffle iron offers an perfect temperature control for ultimate cooking experience. The result is always pure perfection",
+                "product_url": "https://www.lowes.com/pd/Better-Chef-White-Electric-Grill/1001414508"
+              }
+            },
+            "text": "Better Chef White Electric Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAKA/AAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAoD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwPwAAAAAAAAAAAAAAAAAAxD8AAAAAAACgPwAAAAAAAAAAAAAAAAAAsD8AAAAAAAC4PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4PwAAAAAAAAAAAAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.27611494,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae99-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "White Electric Grill",
+                "title": "Better Chef White Electric Grill",
+                "full_description": "Healthier doesn't have to tasteless. With the health pro smart grill by Better Chef perfect, you will make tasty healthy meals. This compact grill is perfect for beef, chicken, fish and much more. It features non-stick coated surfaces that allow for a low-fat cooking of your favorite foods. Not only will it drain away fat and grease in the included drip tray, it will ensure even grilling and rich flavors thanks to the hinged plates. The 45 square inch plates are wide enough to cook a wide variety of foods. The exterior remains cool to the touch for a safe cooking experience. For ultimate convenience, a mini spatula is included for your grilling needs.",
+                "brand": "Better Chef",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100141/1001414978.jpg",
+                "product_url": "https://www.lowes.com/pd/Better-Chef-White-Electric-Grill/1001414978"
+              }
+            },
+            "text": "Better Chef White Electric Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAKA/AAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAoD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwPwAAAAAAAAAAAAAAAAAAxD8AAAAAAACgPwAAAAAAAAAAAAAAAAAAsD8AAAAAAAC4PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4PwAAAAAAAAAAAAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.27611494,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b1f7-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "30-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049357256.jpg",
+                "product_url": "https://www.lowes.com/pd/KitchenAid-30-cu-ft-Built-In-Side-by-Side-Refrigerator-with-Ice-Maker-Stainless-Steel-with-Printshield/999908701",
+                "brand": "KitchenAid",
+                "title": "KitchenAid 30-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+                "full_description": ""
+              }
+            },
+            "text": "KitchenAid 30-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+            "embedding": {
+              "dense": {
+                "buffer": "ntiJndiJvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sYM/FDuxEzuxgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GjPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GDPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GDPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxgz8UO7ETO7GDPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GDPwAAAAAAAAAAFDuxEzuxgz8AAAAAAAAAAAAAAAAAAAAAFDuxEzuxgz8AAAAAAAAAABQ7sRM7sYM/FDuxEzuxoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ7YiZ3YiZ0/FDuxEzuxgz+e2Imd2ImdPxQ7sRM7saM/O7ETO7ETuz8UO7ETO7GTPxQ7sRM7sYM/FDuxEzuxoz87sRM7sRO7PwAAAAAAAAAAFDuxEzuxgz8UO7ETO7GjPwAAAAAAAAAAFDuxEzuxoz8UO7ETO7GDPwAAAAAAAAAAAAAAAAAAAADZiZ3YiZ2oP57YiZ3YiZ0/dmIndmIntj8UO7ETO7GTPwAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAABQ7sRM7sYM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.27753806,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b1f8-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049357201.jpg",
+                "brand": "KitchenAid",
+                "full_description": "This versatile 20.8 cu. ft built-in refrigerator features the ExtendFresh&#8482; Plus Temperature Management System, which maintains the perfect temperature for fresh ingredients. The Produce Preserver extends freshness by neutralizing the over-ripening effects of ethylene emitted by certain fruits and vegetables. It also features PrintShield&#8482; Finish, a fingerprint resistant finish, which protects against smudges and enhances the look of the refrigerator.",
+                "title": "KitchenAid 20.8-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+                "product_url": "https://www.lowes.com/pd/KitchenAid-20-8-cu-ft-Built-In-Side-by-Side-Refrigerator-with-Ice-Maker-Stainless-Steel-with-Printshield/999908703",
+                "description": "20.8-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)"
+              }
+            },
+            "text": "KitchenAid 20.8-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+            "embedding": {
+              "dense": {
+                "buffer": "IjXBeCv7vD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMF4K/scUoM/wXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKjP8F4K/scUoM/AAAAAAAAAADBeCv7HFKDPwAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz/BeCv7HFKDPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMF4K/scUpM/AAAAAAAAAADBeCv7HFKDPwAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAMF4K/scUoM/wXgr+xxSoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACI1wXgr+5w/wXgr+xxSgz8iNcF4K/ucP8F4K/scUqM/CsZb2eeQuj/BeCv7HFKTP8F4K/scUoM/wXgr+xxSoz8KxlvZ55C6PwAAAAAAAAAAwXgr+xxSgz/BeCv7HFKjPwAAAAAAAAAAwXgr+xxSoz/BeCv7HFKDPwAAAAAAAAAAAAAAAAAAAADyVvY5pCaoPyI1wXgr+5w/2eeQmmC8tT/BeCv7HFKTPwAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAMF4K/scUoM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.2778355,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b19f-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Whirlpool",
+                "description": "21.4-cu ft Side-by-Side Refrigerator with Single Ice Maker (White)",
+                "title": "Whirlpool 21.4-cu ft Side-by-Side Refrigerator with Single Ice Maker (White)",
+                "full_description": "Get purposefully-designed storage spaces for items you use most in this side-by-side refrigerator. An in-door can caddy frees up shelf space while frameless glass shelves in the refrigerator with ice and water dispenser lets you store more items on each shelf for loading flexibility. The deli drawer refrigerator gives you plenty of space to store meat and cheese, too.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049435053.jpg",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-21-4-cu-ft-Side-by-Side-Refrigerator-with-Single-Ice-Maker-White/1000332335"
+              }
+            },
+            "text": "Whirlpool 21.4-cu ft Side-by-Side Refrigerator with Single Ice Maker (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "DeU1lNdQvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACivobyG8oo/KK+hvIbyij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABeQ3kN5TWkPyivobyG8oo/AAAAAAAAAAAAAAAAAAAAACivobyG8oo/KK+hvIbyij8AAAAAAAAAACivobyG8oo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACivobyG8oo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKK+hvIbyij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACivobyG8oo/XkN5DeU1pD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAor6G8hvKaPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACivobyG8po/KK+hvIbyij8or6G8hvKaPyivobyG8po/KK+hvIbyuj8or6G8hvKaPyivobyG8po/XkN5DeU1pD9DeQ3lNZS3PwAAAAAAAAAAKK+hvIbyij9eQ3kN5TWkPwAAAAAAAAAAKK+hvIbyij9eQ3kN5TWkPyivobyG8oo/AAAAAAAAAAB5DeU1lNewPwAAAAAAAAAAKK+hvIbyqj8or6G8hvKKPwAAAAAAAAAAKK+hvIbyij8AAAAAAAAAACivobyG8oo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.27811268,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b1ee-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049357225.jpg",
+                "description": "25.5-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+                "full_description": "",
+                "product_url": "https://www.lowes.com/pd/KitchenAid-25-5-cu-ft-Built-In-Side-by-Side-Refrigerator-with-Ice-Maker-Stainless-Steel-with-Printshield/999908705",
+                "brand": "KitchenAid",
+                "title": "KitchenAid 25.5-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)"
+              }
+            },
+            "text": "KitchenAid 25.5-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+            "embedding": {
+              "dense": {
+                "buffer": "IjXBeCv7vD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMF4K/scUoM/wXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKjP8F4K/scUoM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz/BeCv7HFKDPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMF4K/scUpM/AAAAAAAAAADBeCv7HFKDPwAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAMF4K/scUoM/wXgr+xxSoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACI1wXgr+5w/wXgr+xxSgz8iNcF4K/ucP8F4K/scUqM/CsZb2eeQuj/BeCv7HFKTP8F4K/scUoM/wXgr+xxSoz8KxlvZ55C6PwAAAAAAAAAAwXgr+xxSgz/BeCv7HFKjPwAAAAAAAAAAwXgr+xxSoz/BeCv7HFKDPwAAAAAAAAAAAAAAAAAAAADyVvY5pCaoPyI1wXgr+5w/2eeQmmC8tT/BeCv7HFKTPwAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAMF4K/scUoM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.27815565,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b1e1-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049412023.jpg",
+                "full_description": "This versatile 30.0 cu. ft built-in refrigerator features the ExtendFresh&#8482; Plus Temperature Management System, which maintains the perfect temperature for fresh ingredients. The Produce Preserver extends freshness by neutralizing the over-ripening effects of ethylene emitted by certain fruits and vegetables. It also features PrintShield&#8482; Finish, a fingerprint resistant finish, which protects against smudges and enhances the look of the refrigerator.",
+                "brand": "KitchenAid",
+                "description": "30-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Black Stainless with Printshield)",
+                "product_url": "https://www.lowes.com/pd/KitchenAid-30-cu-ft-Built-In-Side-by-Side-Refrigerator-with-Ice-Maker-Black-Stainless-with-Printshield/1000237349",
+                "title": "KitchenAid 30-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Black Stainless with Printshield)"
+              }
+            },
+            "text": "KitchenAid 30-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Black Stainless with Printshield)",
+            "embedding": {
+              "dense": {
+                "buffer": "ntiJndiJvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sYM/FDuxEzuxgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GjPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GDPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GDPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxgz8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GDPwAAAAAAAAAAFDuxEzuxgz8AAAAAAAAAAAAAAAAAAAAAFDuxEzuxgz8AAAAAAAAAABQ7sRM7sYM/ntiJndiJnT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7saM/FDuxEzuxgz8UO7ETO7GjPxQ7sRM7saM/dmIndmIntj8UO7ETO7GTPxQ7sRM7sYM/FDuxEzuxoz87sRM7sRO7PwAAAAAAAAAAFDuxEzuxkz8UO7ETO7GjPwAAAAAAAAAAFDuxEzuxoz8UO7ETO7GDPwAAAAAAAAAAAAAAAAAAAADZiZ3YiZ2oP57YiZ3YiZ0/FDuxEzuxsz8UO7ETO7GTPwAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAABQ7sRM7sYM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.27835986,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b062-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Classic 0.14-cu ft Freestanding Mini Fridge (White)",
+                "brand": "Cooluli",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100209/1002099348.jpg",
+                "full_description": "The Cooluli 4L Cooler/Warmer is perfect for home and office use as well as in the nursery, office or dorm room. It's capable of holding six (6) 12 ounce cans. Our thermoelectric cooling system is popularly used as a beverage cooler, but the warming function shouldn't be ignored. Save time in the morning by bringing your breakfast with you or save money by bringing your lunch and keeping it warm all day. Plus, we included both AC, DC and USB power cords to make the switch from standard (110V) to car (12V) to USB 2A power bank easy and convenient. No need to buy extra wires! We made it incredibly easy to switch from the cooling to the warming function as well. An easy-to-read display lights what setting the appliance is on and can be changed by simply flipping a switch. The Cooler and Warmer produces almost no noise (perfect for next to your bed to save a walk to the kitchen) and is compact and sleek enough to put on a desk at work. Cleaning the interior and exterior is extremely easy, simply wipe them down and the storage shelf inside is removable as well (for even easier cleaning as well as expanding to hold four 16 oz. bottles.) The Cooluli Cooler/Warmer also comes in five different colors: white, blue, pink, fuchsia and cow pattern. We're proud to offer unique, innovative products and wanted to give you the options to match your room and style.",
+                "title": "Cooluli Classic 0.14-cu ft Freestanding Mini Fridge (White)",
+                "product_url": "https://www.lowes.com/pd/Cooluli-Classic-0-14-cu-ft-Freestanding-Mini-Fridge-White/1002099348"
+              }
+            },
+            "text": "Cooluli Classic 0.14-cu ft Freestanding Mini Fridge (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "VwQNJ3Vfvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/DSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPw0ndV8eW5E/AAAAAAAAAAANJ3VfHluRPw0ndV8eW5E/AAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW6E/AAAAAAAAAAAAAAAAAAAAAA0ndV8eW6E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW6E/AAAAAAAAAAANJ3VfHluhPw0ndV8eW6E/DSd1Xx5bsT8NJ3VfHluRPw0ndV8eW6E/DSd1Xx5bkT9XBA0ndV++PwAAAAAAAAAAAAAAAAAAAACUui+PrQiqPwAAAAAAAAAAlLovj60Iqj8NJ3VfHluhPwAAAAAAAAAAAAAAAAAAAAANJ3VfHluhP5S6L4+tCKo/lLovj60Iqj8NJ3VfHluhPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.27907348,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          }
+        ],
+        "tags": {},
+        "text": "lightweight grill",
+        "embedding": {
+          "dense": {
+            "buffer": "Hh4eHh4erj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4erj8AAAAAAAAAAJeWlpaWlsY/Hh4eHh4evj+XlpaWlpbGPwAAAAAAAAAAAAAAAAAAAACXlpaWlpbGPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6uPwAAAAAAAAAAHh4eHh4evj8AAAAAAAAAAAAAAAAAAAAAHh4eHh4erj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "shape": [
+              96
+            ],
+            "dtype": "<f8",
+            "quantization": 0,
+            "maxVal": 0,
+            "minVal": 0,
+            "scale": 0,
+            "originalDtype": ""
+          }
+        },
+        "granularity": 0,
+        "adjacency": 0,
+        "parentId": "",
+        "chunks": [],
+        "weight": 0,
+        "uri": "",
+        "mimeType": "",
+        "location": [],
+        "offset": 0,
+        "scores": {},
+        "modality": "",
+        "evaluations": {}
+      }
+    ],
+    "groundtruths": []
+  }
+}

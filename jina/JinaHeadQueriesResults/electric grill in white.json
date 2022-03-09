@@ -1,0 +1,1023 @@
+{
+  "requestId": "ae075666-6ae0-48ac-a087-f8bd7f548fe3",
+  "data": {
+    "docs": [
+      {
+        "id": "8f58dbfc-4589-11ec-956e-e3601f14962f",
+        "matches": [
+          {
+            "id": "cb1a2077-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Better Chef",
+                "title": "Better Chef White Electric Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100141/1001414978.jpg",
+                "full_description": "Healthier doesn't have to tasteless. With the health pro smart grill by Better Chef perfect, you will make tasty healthy meals. This compact grill is perfect for beef, chicken, fish and much more. It features non-stick coated surfaces that allow for a low-fat cooking of your favorite foods. Not only will it drain away fat and grease in the included drip tray, it will ensure even grilling and rich flavors thanks to the hinged plates. The 45 square inch plates are wide enough to cook a wide variety of foods. The exterior remains cool to the touch for a safe cooking experience. For ultimate convenience, a mini spatula is included for your grilling needs.",
+                "product_url": "https://www.lowes.com/pd/Better-Chef-White-Electric-Grill/1001414978",
+                "description": "White Electric Grill"
+              }
+            },
+            "text": "Better Chef White Electric Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAKA/AAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAoD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwPwAAAAAAAAAAAAAAAAAAxD8AAAAAAACgPwAAAAAAAAAAAAAAAAAAsD8AAAAAAAC4PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4PwAAAAAAAAAAAAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14983894,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a205f-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Better-Chef-White-Electric-Grill/1001414438",
+                "title": "Better Chef White Electric Grill",
+                "description": "White Electric Grill",
+                "brand": "Better Chef",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100141/1001414438.jpg",
+                "full_description": "A great addition to any home kitchen is this Better Chef brand Panini Press sandwich maker and grill. The sleek and stylish finish will upgrade your kitchen's existing look. Makes delicious, wholesome panini sandwiches in minutes. The non-stick cooking plates allows for easy clean-up."
+              }
+            },
+            "text": "Better Chef White Electric Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAKA/AAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAoD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwPwAAAAAAAAAAAAAAAAAAxD8AAAAAAACgPwAAAAAAAAAAAAAAAAAAsD8AAAAAAAC4PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4PwAAAAAAAAAAAAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14983894,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a2061-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Better-Chef-White-Electric-Grill/1001414508",
+                "description": "White Electric Grill",
+                "title": "Better Chef White Electric Grill",
+                "brand": "Better Chef",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100141/1001414508.jpg",
+                "full_description": "The Better Chef Belgian waffle maker cooks golden waffles that are crispy on the outside and mouth watering tender on the inside. With a white cover, the waffle iron offers an perfect temperature control for ultimate cooking experience. The result is always pure perfection"
+              }
+            },
+            "text": "Better Chef White Electric Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAKA/AAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAoD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwPwAAAAAAAAAAAAAAAAAAxD8AAAAAAACgPwAAAAAAAAAAAAAAAAAAsD8AAAAAAAC4PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4PwAAAAAAAAAAAAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14983894,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa5f8-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Pittsburgh Steelers Black Charcoal Grill",
+                "brand": "Picnic Time",
+                "title": "Picnic Time Pittsburgh Steelers Black Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100108/1001085814.jpg",
+                "full_description": "Bring the BBQ wherever you roam with the X-Grill Portable Charcoal BBQ Grill, a sleek, electro-plated steel tailgate grill that packs down flatter than a pancake! This highly-portable folding tailgate grill sets up in seconds with its chrome tri-fold cooking grate and durable polyester canvas carrying tote with shoulder strap. All you need is charcoal/kindling, and friends!",
+                "product_url": "https://www.lowes.com/pd/Picnic-Time-Pittsburgh-Steelers-Black-Charcoal-Grill/1001085814"
+              }
+            },
+            "text": "Picnic Time Pittsburgh Steelers Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "ntiJndiJvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPxQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxoz8AAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ7YiZ3Yia0/FDuxEzuxkz8UO7ETO7GzPwAAAAAAAAAAFDuxEzuxsz8AAAAAAAAAABQ7sRM7sZM/FDuxEzuxoz/ZiZ3YiZ24PwAAAAAAAAAAFDuxEzuxkz/ZiZ3YiZ24PxQ7sRM7sZM/FDuxEzuxkz8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GzPxQ7sRM7saM/ntiJndiJrT8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15635228,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa5ef-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Original Kettle Premium 22-in Black Kettle Charcoal Grill",
+                "title": "Weber Original Kettle Premium 22-in Black Kettle Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/077924/077924032479.jpg",
+                "brand": "Weber",
+                "full_description": "",
+                "product_url": "https://www.lowes.com/pd/Weber-Original-Kettle-Premium-22-in-Black-Kettle-Charcoal-Grill/1000513999"
+              }
+            },
+            "text": "Weber Original Kettle Premium 22-in Black Kettle Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "EARBEARBwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQBEEQBEGQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEARBEARBoD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQBEEQBEGQPxAEQRAEQZA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEARBEARBkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQBEEQBEGgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAEQRAEQZA/EARBEARBkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQBEEQBEGQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAEQRAEQbA/EARBEARBkD8QBEEQBEGgPwAAAAAAAAAAHMdxHMdxvD8AAAAAAAAAABAEQRAEQZA/EARBEARBkD8URVEURVG0PwAAAAAAAAAAEARBEARBkD8cx3Ecx3G8PxAEQRAEQaA/EARBEARBoD8QBEEQBEGQPwAAAAAAAAAAAAAAAAAAAAAURVEURVG0PwAAAAAAAAAAEARBEARBsD8QBEEQBEGQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16350137,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a205c-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Use the Brentwood Select Compact Non-Stick Panini Press and Sandwich Maker to make delicious hot paninis right in your kitchen. Grill plates heat up quickly and evenly for perfectly pressed grilled paninis. Power/Ready indicator lights and large, cool touch handle for easy operation. Sandwiches slide right off the non-stick plates and the removable juice tray catches any mess, making clean up a snap. Features a locking lid and legs for compact, upright storage. Our panini maker's brushed stainless steel finish with black accents looks great in every kitchen.",
+                "description": "Stainless Steel Electric Grill",
+                "brand": "brentwood",
+                "product_url": "https://www.lowes.com/pd/brentwood-Stainless-Steel-Electric-Grill/1001839854",
+                "title": "brentwood Stainless Steel Electric Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100183/1001839854.jpg"
+              }
+            },
+            "text": "brentwood Stainless Steel Electric Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "mpmZmZmZuT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACamZmZmZmZPwAAAAAAAAAAmpmZmZmZmT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmpmZmZmZqT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZmZmZmZk/mpmZmZmZmT+amZmZmZmpP5qZmZmZmZk/AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzMzMzOzPwAAAAAAAAAAAAAAAAAAAAAAAAAAAADAPwAAAAAAAAAAmpmZmZmZqT+amZmZmZmpPwAAAAAAAAAAAAAAAAAAAAAzMzMzMzOzP5qZmZmZmak/mpmZmZmZuT8AAAAAAAAAAAAAAAAAAAAAmpmZmZmZmT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16503853,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa5e0-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Offering understated elegance to your home's exterior, the Weber Original 22 in. kettle in black charcoal features a classic profile design. A great way to accomplish many outdoor cooking tasks, this BBQ grill helps deliver long-lasting performance thanks to its porcelain-enameled lid and bowl, aluminized steel cleaning system and rust-resistant aluminum legs. A 363 Sq. In. cooking surface gives you plenty of space to cook up your favorite, mouthwatering meals.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/077924/077924025303.jpg",
+                "product_url": "https://www.lowes.com/pd/Weber-Original-Kettle-22-in-Black-Kettle-Charcoal-Grill/3055249",
+                "description": "Original Kettle 22-in Black Kettle Charcoal Grill",
+                "title": "Weber Original Kettle 22-in Black Kettle Charcoal Grill",
+                "brand": "Weber"
+              }
+            },
+            "text": "Weber Original Kettle 22-in Black Kettle Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "SpCnBHlKwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGeoj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SP54S5ClBnpI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGekj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6iPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ4S5ClBnpI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ4S5ClBnrI/nhLkKUGekj+eEuQpQZ6iPwAAAAAAAAAA7RvWvmHtuz8AAAAAAAAAAJ4S5ClBnpI/nhLkKUGekj+eEuQpQZ6yPwAAAAAAAAAAnhLkKUGekj9KkKcEeUrAPwAAAAAAAAAAnhLkKUGeoj+eEuQpQZ6SPwAAAAAAAAAAAAAAAAAAAACeEuQpQZ6yPwAAAAAAAAAAnhLkKUGesj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16675907,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a205e-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Red Electric Grill",
+                "full_description": "A great addition to any home kitchen is this Better Chef brand Panini Press sandwich maker and grill. The sleek and stylish finish will upgrade your kitchen's existing look. Makes delicious, wholesome panini sandwiches in minutes. The non-stick cooking plates allows for easy clean-up.",
+                "brand": "Better Chef",
+                "product_url": "https://www.lowes.com/pd/Better-Chef-Red-Electric-Grill/1001414418",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100141/1001414418.jpg",
+                "title": "Better Chef Red Electric Grill"
+              }
+            },
+            "text": "Better Chef Red Electric Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "ERERERERwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGhPxEREREREaE/AAAAAAAAAAARERERERGhPwAAAAAAAAAAERERERERoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREaE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGxPxEREREREaE/VVVVVVVVxT8RERERERGhPwAAAAAAAAAAERERERERoT8RERERERGxPwAAAAAAAAAAAAAAAAAAAACamZmZmZm5PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACamZmZmZm5PwAAAAAAAAAAmpmZmZmZuT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1674901,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a2076-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Bring style and functionality to your kitchen with the Better Chef 15-in Electric Tabletop Barbecue Grill. It gives you the convenience and portability you want with the space you need to cook food for the entire family. This Better Chef grill features a 155 square inch capacity so you have space for you favorite meats and veggies to create the ideal meal. It also features air vents that allow for optimal temperature control. This electric barbecue grill is easy to clean and includes a convenient wire shelf. Use it for backyard grilling or take it to the park for a special treat.",
+                "title": "Better Chef Red Electric Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100141/1001414784.jpg",
+                "brand": "Better Chef",
+                "description": "Red Electric Grill",
+                "product_url": "https://www.lowes.com/pd/Better-Chef-Red-Electric-Grill/1001414784"
+              }
+            },
+            "text": "Better Chef Red Electric Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "ERERERERwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGhPxEREREREaE/AAAAAAAAAAARERERERGhPwAAAAAAAAAAERERERERoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREaE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGxPxEREREREaE/VVVVVVVVxT8RERERERGhPwAAAAAAAAAAERERERERoT8RERERERGxPwAAAAAAAAAAAAAAAAAAAACamZmZmZm5PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACamZmZmZm5PwAAAAAAAAAAmpmZmZmZuT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1674901,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a2060-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Black Electric Grill",
+                "product_url": "https://www.lowes.com/pd/Better-Chef-Black-Electric-Grill/1001415002",
+                "title": "Better Chef Black Electric Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100141/1001415002.jpg",
+                "brand": "Better Chef",
+                "full_description": "This perfect durable and portable waffle maker is sleek and perfect for any kitchen. The non-stick cooking surface makes delicious waffle in minutes. It is also very easy to clean. With the power indicator and preheat light, makes it easy for you to see when the device is ready for a delicious waffle."
+              }
+            },
+            "text": "Better Chef Black Electric Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwPwAAAAAAAKA/AAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAoD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKA/AAAAAAAAAAAAAAAAAAC4PwAAAAAAAAAAAAAAAAAAwD8AAAAAAACgPwAAAAAAAAAAAAAAAAAAoD8AAAAAAACwPwAAAAAAAAAAAAAAAAAAoD8AAAAAAADAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4PwAAAAAAAAAAAAAAAAAAuD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16800644,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a2059-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Make delicious, wholesome sandwiches in minutes with this sandwich grill by Better Chef. This compact grill features non-stick cooking plates ensure easy food release and clean-up, and a stay cool exterior to prevent burns and scalds. It conveniently comes with two plates to easy grilling of two sandwiches at once. This sleek grill stands uprights for easy storage.",
+                "product_url": "https://www.lowes.com/pd/Better-Chef-Black-Electric-Grill/1001414990",
+                "title": "Better Chef Black Electric Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100141/1001414990.jpg",
+                "description": "Black Electric Grill",
+                "brand": "Better Chef"
+              }
+            },
+            "text": "Better Chef Black Electric Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwPwAAAAAAAKA/AAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAoD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKA/AAAAAAAAAAAAAAAAAAC4PwAAAAAAAAAAAAAAAAAAwD8AAAAAAACgPwAAAAAAAAAAAAAAAAAAoD8AAAAAAACwPwAAAAAAAAAAAAAAAAAAoD8AAAAAAADAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4PwAAAAAAAAAAAAAAAAAAuD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16800644,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a206b-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "DeLonghi 1800-Watt Stainless Steel Electric Grill",
+                "description": "1800-Watt Stainless Steel Electric Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/044387/044387010207.jpg",
+                "brand": "DeLonghi",
+                "product_url": "https://www.lowes.com/pd/DeLonghi-1800-Watt-Stainless-Steel-Electric-Grill/1000503195",
+                "full_description": "Cook great meals all day long on one appliance from breakfast all the way to dessert! Experience the versatility of easy indoor grilling with the Livenza All-Day Grill with FlexPress System by DeLonghi. Whether you want to grill a succulent steak, press the perfect panini or cook the fluffiest pancakes, we&#8217;ve got your options covered. Extra-wide embedded heating elements offer heat uniformity across the plates to prevent hot spots so food is cooked evenly. The large cooking surface heats evenly to bring out the best flavors in all your dishes. And its beautiful, sleek design will add style to any kitchen."
+              }
+            },
+            "text": "DeLonghi 1800-Watt Stainless Steel Electric Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "iMb60Fgfuj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPzkFL6fg5ZQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DllD85BS+n4OWUPwAAAAAAAAAAOQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5ZQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DlpD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5aQ/AAAAAAAAAAA5BS+n4OWkPwAAAAAAAAAAiMb60Fgfuj8AAAAAAAAAADkFL6fg5ZQ/OQUvp+DllD85BS+n4OW0PwAAAAAAAAAAAAAAAAAAAACIxvrQWB+6PwAAAAAAAAAAOQUvp+DlpD85BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPzkFL6fg5aQ/iMb60Fgfuj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16968773,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa4d9-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049357256.jpg",
+                "full_description": "",
+                "title": "KitchenAid 30-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+                "brand": "KitchenAid",
+                "product_url": "https://www.lowes.com/pd/KitchenAid-30-cu-ft-Built-In-Side-by-Side-Refrigerator-with-Ice-Maker-Stainless-Steel-with-Printshield/999908701",
+                "description": "30-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)"
+              }
+            },
+            "text": "KitchenAid 30-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+            "embedding": {
+              "dense": {
+                "buffer": "ntiJndiJvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sYM/FDuxEzuxgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GjPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GDPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GDPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxgz8UO7ETO7GDPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GDPwAAAAAAAAAAFDuxEzuxgz8AAAAAAAAAAAAAAAAAAAAAFDuxEzuxgz8AAAAAAAAAABQ7sRM7sYM/FDuxEzuxoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ7YiZ3YiZ0/FDuxEzuxgz+e2Imd2ImdPxQ7sRM7saM/O7ETO7ETuz8UO7ETO7GTPxQ7sRM7sYM/FDuxEzuxoz87sRM7sRO7PwAAAAAAAAAAFDuxEzuxgz8UO7ETO7GjPwAAAAAAAAAAFDuxEzuxoz8UO7ETO7GDPwAAAAAAAAAAAAAAAAAAAADZiZ3YiZ2oP57YiZ3YiZ0/dmIndmIntj8UO7ETO7GTPwAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAABQ7sRM7sYM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1706372,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa5df-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/077924/077924032493.jpg",
+                "brand": "Weber",
+                "title": "Weber Original Kettle Premium 22-in Copper Kettle Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Weber-Original-Kettle-Premium-22-in-Copper-Kettle-Charcoal-Grill/50330259",
+                "description": "Original Kettle Premium 22-in Copper Kettle Charcoal Grill",
+                "full_description": "The authenticity of grilling with charcoal, classic design recognized by all, and the taste loved around the world. The Original Kettle premium charcoal grill stays true to the backyard icon while taking it up a notch with an upgraded cleaning system."
+              }
+            },
+            "text": "Weber Original Kettle Premium 22-in Copper Kettle Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJA/AAAAAAAAkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKg/AAAAAAAAkD8AAAAAAACQPwAAAAAAAAAAAAAAAAAAwD8AAAAAAAAAAAAAAAAAAJA/AAAAAAAAkD8AAAAAAAC0PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4PwAAAAAAAKA/AAAAAAAAoD8AAAAAAACgPwAAAAAAAKA/AAAAAAAAAAAAAAAAAAC4PwAAAAAAAAAAAAAAAAAAsD8AAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17224917,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa4da-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "20.8-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049357201.jpg",
+                "full_description": "This versatile 20.8 cu. ft built-in refrigerator features the ExtendFresh&#8482; Plus Temperature Management System, which maintains the perfect temperature for fresh ingredients. The Produce Preserver extends freshness by neutralizing the over-ripening effects of ethylene emitted by certain fruits and vegetables. It also features PrintShield&#8482; Finish, a fingerprint resistant finish, which protects against smudges and enhances the look of the refrigerator.",
+                "brand": "KitchenAid",
+                "product_url": "https://www.lowes.com/pd/KitchenAid-20-8-cu-ft-Built-In-Side-by-Side-Refrigerator-with-Ice-Maker-Stainless-Steel-with-Printshield/999908703",
+                "title": "KitchenAid 20.8-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)"
+              }
+            },
+            "text": "KitchenAid 20.8-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+            "embedding": {
+              "dense": {
+                "buffer": "IjXBeCv7vD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMF4K/scUoM/wXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKjP8F4K/scUoM/AAAAAAAAAADBeCv7HFKDPwAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz/BeCv7HFKDPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMF4K/scUpM/AAAAAAAAAADBeCv7HFKDPwAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAMF4K/scUoM/wXgr+xxSoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACI1wXgr+5w/wXgr+xxSgz8iNcF4K/ucP8F4K/scUqM/CsZb2eeQuj/BeCv7HFKTP8F4K/scUoM/wXgr+xxSoz8KxlvZ55C6PwAAAAAAAAAAwXgr+xxSgz/BeCv7HFKjPwAAAAAAAAAAwXgr+xxSoz/BeCv7HFKDPwAAAAAAAAAAAAAAAAAAAADyVvY5pCaoPyI1wXgr+5w/2eeQmmC8tT/BeCv7HFKTPwAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAMF4K/scUoM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17246561,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa4d0-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "25.5-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+                "title": "KitchenAid 25.5-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+                "full_description": "",
+                "brand": "KitchenAid",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049357225.jpg",
+                "product_url": "https://www.lowes.com/pd/KitchenAid-25-5-cu-ft-Built-In-Side-by-Side-Refrigerator-with-Ice-Maker-Stainless-Steel-with-Printshield/999908705"
+              }
+            },
+            "text": "KitchenAid 25.5-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+            "embedding": {
+              "dense": {
+                "buffer": "IjXBeCv7vD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMF4K/scUoM/wXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKjP8F4K/scUoM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz/BeCv7HFKDPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMF4K/scUpM/AAAAAAAAAADBeCv7HFKDPwAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAMF4K/scUoM/wXgr+xxSoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACI1wXgr+5w/wXgr+xxSgz8iNcF4K/ucP8F4K/scUqM/CsZb2eeQuj/BeCv7HFKTP8F4K/scUoM/wXgr+xxSoz8KxlvZ55C6PwAAAAAAAAAAwXgr+xxSgz/BeCv7HFKjPwAAAAAAAAAAwXgr+xxSoz/BeCv7HFKDPwAAAAAAAAAAAAAAAAAAAADyVvY5pCaoPyI1wXgr+5w/2eeQmmC8tT/BeCv7HFKTPwAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAMF4K/scUoM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17298089,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa2dc-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "KitchenAid",
+                "full_description": "",
+                "description": "20.8-cu ft Built-In French Door Refrigerator with Ice Maker (Black Stainless with Printshield)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049412030.jpg",
+                "title": "KitchenAid 20.8-cu ft Built-In French Door Refrigerator with Ice Maker (Black Stainless with Printshield)",
+                "product_url": "https://www.lowes.com/pd/KitchenAid-20-8-cu-ft-Built-In-French-Door-Refrigerator-with-Ice-Maker-Black-Stainless-with-Printshield/1000156587"
+              }
+            },
+            "text": "KitchenAid 20.8-cu ft Built-In French Door Refrigerator with Ice Maker (Black Stainless with Printshield)",
+            "embedding": {
+              "dense": {
+                "buffer": "IPuxH/uxvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ4gRM4gYM/FDiBEziBgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUOIETOIGTPxQ4gRM4gYM/AAAAAAAAAAAUOIETOIGDPwAAAAAAAAAAFDiBEziBgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDiBEziBgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDiBEziBgz8UOIETOIGTPwAAAAAAAAAAFDiBEziBgz8AAAAAAAAAABQ4gRM4gYM/AAAAAAAAAAAAAAAAAAAAABQ4gRM4gZM/AAAAAAAAAAAUOIETOIGDPwAAAAAAAAAAFDiBEziBgz8AAAAAAAAAAAAAAAAAAAAAFDiBEziBgz8AAAAAAAAAABQ4gRM4gYM/FDiBEziBgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ4gRM4gaM/AAAAAAAAAAAYhmEYhmGoPxQ4gRM4gZM/FDiBEziBsz8UOIETOIGTPxQ4gRM4gYM/GIZhGIZhqD8WX/EVX/G1PwAAAAAAAAAAFDiBEziBkz8UOIETOIGjPwAAAAAAAAAAGIZhGIZhqD8d1EEd1EGdPwAAAAAAAAAAAAAAAAAAAAARERERERGxPx3UQR3UQZ0/FDiBEziBsz8UOIETOIGTPwAAAAAAAAAAFDiBEziBkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17333335,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa4c3-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/KitchenAid-30-cu-ft-Built-In-Side-by-Side-Refrigerator-with-Ice-Maker-Black-Stainless-with-Printshield/1000237349",
+                "brand": "KitchenAid",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049412023.jpg",
+                "title": "KitchenAid 30-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Black Stainless with Printshield)",
+                "description": "30-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Black Stainless with Printshield)",
+                "full_description": "This versatile 30.0 cu. ft built-in refrigerator features the ExtendFresh&#8482; Plus Temperature Management System, which maintains the perfect temperature for fresh ingredients. The Produce Preserver extends freshness by neutralizing the over-ripening effects of ethylene emitted by certain fruits and vegetables. It also features PrintShield&#8482; Finish, a fingerprint resistant finish, which protects against smudges and enhances the look of the refrigerator."
+              }
+            },
+            "text": "KitchenAid 30-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Black Stainless with Printshield)",
+            "embedding": {
+              "dense": {
+                "buffer": "ntiJndiJvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sYM/FDuxEzuxgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GjPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GDPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GDPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxgz8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GDPwAAAAAAAAAAFDuxEzuxgz8AAAAAAAAAAAAAAAAAAAAAFDuxEzuxgz8AAAAAAAAAABQ7sRM7sYM/ntiJndiJnT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7saM/FDuxEzuxgz8UO7ETO7GjPxQ7sRM7saM/dmIndmIntj8UO7ETO7GTPxQ7sRM7sYM/FDuxEzuxoz87sRM7sRO7PwAAAAAAAAAAFDuxEzuxkz8UO7ETO7GjPwAAAAAAAAAAFDuxEzuxoz8UO7ETO7GDPwAAAAAAAAAAAAAAAAAAAADZiZ3YiZ2oP57YiZ3YiZ0/FDuxEzuxsz8UO7ETO7GTPwAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAABQ7sRM7sYM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17339472,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa5f1-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Original Kettle 18-in Black porcelain-enameled Kettle Charcoal Grill",
+                "title": "Weber Original Kettle 18-in Black porcelain-enameled Kettle Charcoal Grill",
+                "brand": "Weber",
+                "product_url": "https://www.lowes.com/pd/Weber-Original-Kettle-18-in-Black-porcelain-enameled-Kettle-Charcoal-Grill/1000240975",
+                "image_url": "https://mobileimages.lowes.com/product/converted/077924/077924025297.jpg",
+                "full_description": ""
+              }
+            },
+            "text": "Weber Original Kettle 18-in Black porcelain-enameled Kettle Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "0LrBFPmsuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADQusEU+aybPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANC6wRT5rIs/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0LrBFPmsiz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADQusEU+ayLP9C6wRT5rIs/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0LrBFPmsiz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADQusEU+aybPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANC6wRT5rIs/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADQusEU+ayLPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABxMkc+6wbQ/0LrBFPmsiz8cTJHPusGkP9C6wRT5rIs/whT5rBtMwT8AAAAAAAAAANC6wRT5rIs/0LrBFPmsiz/CFPmsG0yxPwAAAAAAAAAA0LrBFPmsiz8q8lk3mCK/P9C6wRT5rIs/0LrBFPmsqz/QusEU+aybP9C6wRT5rIs/AAAAAAAAAADCFPmsG0yxPwAAAAAAAAAA0LrBFPmsqz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17399837,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa2ae-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "KitchenAid",
+                "title": "KitchenAid 26.8-cu ft French Door Refrigerator with Ice Maker (Black Stainless with Printshield)",
+                "description": "26.8-cu ft French Door Refrigerator with Ice Maker (Black Stainless with Printshield)",
+                "full_description": "This 26.8 cu. ft. French door refrigerator helps fresh produce stay that way with the ExtendFresh&#8482; Temperature Management System. A pull-out tray accommodates large platters with ease, while a FreshChill&#8482; Temperature-Controlled Full-Width Pantry lets you optimize temperature and airflow for the specific food you're storing. The refined interior design features LED lighting, and metallic accents add a touch of elegance.",
+                "product_url": "https://www.lowes.com/pd/KitchenAid-26-8-cu-ft-French-Door-Refrigerator-with-Ice-Maker-Black-Stainless-with-Printshield/1000526103",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049464305.jpg"
+              }
+            },
+            "text": "KitchenAid 26.8-cu ft French Door Refrigerator with Ice Maker (Black Stainless with Printshield)",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFVVVVVVVYU/VVVVVVVVhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVVVVVVVWFP1VVVVVVVYU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVVVVVVVVhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVVVVVVVWFPwAAAAAAAAAAVVVVVVVVhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVVVVVVVVhT9VVVVVVVWFPwAAAAAAAAAAVVVVVVVVhT8AAAAAAAAAAFVVVVVVVYU/AAAAAAAAAAAAAAAAAAAAAFVVVVVVVYU/AAAAAAAAAABVVVVVVVWFPwAAAAAAAAAAVVVVVVVVhT8AAAAAAAAAAAAAAAAAAAAAVVVVVVVVhT8AAAAAAAAAAFVVVVVVVYU/VVVVVVVVhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFVVVVVVVaU/AAAAAAAAAACrqqqqqqqqP1VVVVVVVZU/VVVVVVVVtT9VVVVVVVWVP1VVVVVVVYU/q6qqqqqqqj9VVVVVVVW1PwAAAAAAAAAAVVVVVVVVlT8AAAAAAACgPwAAAAAAAAAAVVVVVVVVpT8AAAAAAACgPwAAAAAAAAAAAAAAAAAAAACrqqqqqqqyPwAAAAAAAKA/q6qqqqqqsj9VVVVVVVWFPwAAAAAAAAAAVVVVVVVVlT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17472377,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          }
+        ],
+        "tags": {
+          "full_description": "electric grill in white"
+        },
+        "text": "electric grill in white",
+        "embedding": {
+          "dense": {
+            "buffer": "C1nIQhaywD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEK2PwAAAAAAAAAAC1nIQhaywD8AAAAAAAAAAGQhC1nIQqY/ZCELWchCpj9kIQtZyELGPwAAAAAAAAAAAAAAAAAAAAALWchCFrLAPwAAAAAAAAAAZCELWchCpj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEK2PwAAAAAAAAAAZCELWchCtj8AAAAAAAAAAAAAAAAAAAAAZCELWchCpj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "shape": [
+              96
+            ],
+            "dtype": "<f8",
+            "quantization": 0,
+            "maxVal": 0,
+            "minVal": 0,
+            "scale": 0,
+            "originalDtype": ""
+          }
+        },
+        "granularity": 0,
+        "adjacency": 0,
+        "parentId": "",
+        "chunks": [],
+        "weight": 0,
+        "uri": "",
+        "mimeType": "",
+        "location": [],
+        "offset": 0,
+        "scores": {},
+        "modality": "",
+        "evaluations": {}
+      }
+    ],
+    "groundtruths": []
+  }
+}

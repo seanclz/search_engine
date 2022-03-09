@@ -1,0 +1,1021 @@
+{
+  "requestId": "33d53bb5-4e0e-4aff-aab4-1bf75762bc64",
+  "data": {
+    "docs": [
+      {
+        "id": "f6ed6e42-5e87-11ec-9e82-17576e5cd1d2",
+        "matches": [
+          {
+            "id": "82f2b045-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/190873/190873001133.jpg",
+                "description": "3.1-cu ft retro dual door refrigerator 3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Hot Rod Red)",
+                "brand": "Galanz",
+                "product_url": "https://www.lowes.com/pd/Galanz-3-1-cu-ft-retro-dual-door-refrigerator-3-1-cu-ft-Freestanding-Mini-Fridge-Freezer-Compartment-Hot-Rod-Red/1003126334",
+                "full_description": "Galanz 3.1 Cu Ft retro style top freezer refrigerator can store and keep cool snacks, beverages and more. Best of all, this refrigerator-freezer has the look and feel of the fabulous old days, but has the appeal of a modern appliance. Featuring an adjustable thermostat, separate freezer compartment, bright interior lighting and spacious, clear fruit and vegetable crisper, the unit also has removable shelf and door shelves. It is a fun and stylish addition to any kitchen, rec room or home office.",
+                "title": "Galanz 3.1-cu ft retro dual door refrigerator 3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Hot Rod Red)"
+              }
+            },
+            "text": "Galanz 3.1-cu ft retro dual door refrigerator 3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Hot Rod Red)",
+            "embedding": {
+              "dense": {
+                "buffer": "cB/BfQT3wT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAfwX0E94E/cB/BfQT3gT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwH8F9BPeRP3AfwX0E95E/AAAAAAAAAAAAAAAAAAAAAHAfwX0E95E/AAAAAAAAAABwH8F9BPeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAfwX0E94E/AAAAAAAAAAAAAAAAAAAAACivobyG8po/cB/BfQT3gT9wH8F9BPeBPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3gT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAfwX0E95E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACivobyG8qo/AAAAAAAAAABwH8F9BPeRPyivobyG8qo/OovpLKazuD8or6G8hvKaPyivobyG8po/AAAAAAAAAABMZzGdxXSmPwAAAAAAAAAAAAAAAAAAAABwH8F9BPeRP3AfwX0E95E/TGcxncV0pj8E9xHcR3CvP3AfwX0E94E/AAAAAAAAAAAor6G8hvK6P3AfwX0E94E/cB/BfQT3sT8or6G8hvKaPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3kT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20255135,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b064-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Cooluli-Concord-0-7-cu-ft-Freestanding-Mini-Fridge-Blue/1002098932",
+                "title": "Cooluli Concord 0.7-cu ft Freestanding Mini Fridge (Blue)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100209/1002098932.jpg",
+                "brand": "Cooluli",
+                "description": "Concord 0.7-cu ft Freestanding Mini Fridge (Blue)",
+                "full_description": "The Concord-20LDX Thermo-Electric Cooler/Warmer Mini Fridge by Cooluli is the epitome of efficiency and style. Easily switch from cooling to warming with the touch of a button&#8212;the Concord&#8217;s digital thermostat and easy-to-read display allows you to set your desired temperature for the ultimate in climate control. Once desired temperature is reached, your Concord goes into ECOmode, using just about half the power&#8212;saving you energy (and money)!Â?Â?The Concord is perfect anywhere you need to store wine, food, beer, snacks, drinks, breast milk, insulin, skincare, personal care, and beauty products, medicine and other essentials at a speci&#64257;c temperature.Â?Â?Its modern design features a compact yet spacious, 20-liter capacity and a tempered glass front. A molded inset carry handle on each side makes transport easy and convenient. Use it everywhere&#8212;the Concord&#8217;s sleek, stylish construction matches any dÃ©cor; it&#8217;s the perfect addition to your home, countertop, business/office, dorm, hotel room, car/motor vehicle, or on your next road trip or tailgate party!Â?Â?Exclusive EcoMax Technology features Cooluli&#8217;s unique cooling system, utilizing an advanced dual-core design; it&#8217;s ultra-powerful yet incredibly quiet and efficient. The Concord is 100% environmentally friendly and uses no refrigerants or Freons."
+              }
+            },
+            "text": "Cooluli Concord 0.7-cu ft Freestanding Mini Fridge (Blue)",
+            "embedding": {
+              "dense": {
+                "buffer": "BPcR3Edwvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAfwX0E95E/cB/BfQT3kT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwH8F9BPeRP3AfwX0E95E/AAAAAAAAAABwH8F9BPeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAfwX0E95E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwH8F9BPeRP3AfwX0E96E/AAAAAAAAAAAAAAAAAAAAAHAfwX0E96E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3kT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAfwX0E95E/AAAAAAAAAABwH8F9BPehPyivobyG8qo/cB/BfQT3sT9wH8F9BPeRP3AfwX0E96E/AAAAAAAAAABMZzGdxXS2PwAAAAAAAAAAAAAAAAAAAAAor6G8hvKqPwAAAAAAAAAAcB/BfQT3sT9wH8F9BPexPwAAAAAAAAAAAAAAAAAAAAAor6G8hvKqP3AfwX0E95E/cB/BfQT3oT8or6G8hvKqPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.21151768,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faaddc-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Use the Brentwood BBF-21R Smokeless Portable BBQ to produce big charcoal taste with 90% less smoke. Large charcoal chute keeps grease from dripping onto charcoal and burning unwanted smoke while the AA battery operated temperature control fan circulates hot air for even heat. Start grilling your favorite foods within minutes thanks to quick assembly, stacking parts. Non-stick cast iron grill plate offers even heating and maximum durability. BBQ for the entire family with the 78.5 inch grilling surface area. Quick start using fire starter gel in the fuel pan. Our smokeless bbq has a tough metal housing that is cool to the touch. Dishwasher safe non-stick grill, fuel pan and charcoal chute. Includes convenient cloth carrying case. The Brentwood BBF-21R Smokeless Portable BBQ produces big charcoal taste with 90% less smoke. Perfect for the beach, park, camping and more. Sets up in minutes. Battery operated temperature control fan creates clean, even burning of charcoal. Dishwasher safe removable parts. Includes convenient carrying case. Item Dimensions: 14.00-in x 14.00-in x 8.75-in. Item Weight: 9.00-lbs",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100172/1001725310.jpg",
+                "product_url": "https://www.lowes.com/pd/brentwood-14-in-Red-Barrel-Charcoal-Grill/1001725310",
+                "title": "brentwood 14-in Red Barrel Charcoal Grill",
+                "description": "14-in Red Barrel Charcoal Grill",
+                "brand": "brentwood"
+              }
+            },
+            "text": "brentwood 14-in Red Barrel Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "OB+D8zE4vz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD6GJyPwfmYPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPoYnI/B+Zg/AAAAAAAAAAAAAAAAAAAAAPoYnI/B+Zg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD6GJyPwfmYP/oYnI/B+Zg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+hicj8H5mD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPoYnI/B+Zg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALsStStRu7I/+hicj8H5mD/6GJyPwfmYP/oYnI/B+ag/uxK1K1G7sj8AAAAAAAAAAAAAAAAAAAAA+hicj8H5mD/6GJyPwfmoPwAAAAAAAAAAAAAAAAAAAAD6GJyPwfm4PwAAAAAAAAAA+hicj8H5qD+7ErUrUbuyPwAAAAAAAAAAAAAAAAAAAAA4H4PzMTi/PwAAAAAAAAAA+hicj8H5mD8AAAAAAAAAAAAAAAAAAAAA+hicj8H5mD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.21173117,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b044-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Galanz 3.1 Cu Ft retro style top freezer refrigerator can store and keep cool snacks, beverages and more. Best of all, this refrigerator-freezer has the look and feel of the fabulous old days, but has the appeal of a modern appliance. Featuring an adjustable thermostat, separate freezer compartment, bright interior lighting and spacious, clear fruit and vegetable crisper, the unit also has removable shelf and door shelves. It is a fun and stylish addition to any kitchen, rec room or home office.",
+                "brand": "Galanz",
+                "description": "3.1-cu ft retro dual door refrigerator 3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Bebop Blue)",
+                "product_url": "https://www.lowes.com/pd/Galanz-3-1-cu-ft-retro-dual-door-refrigerator-3-1-cu-ft-Freestanding-Mini-Fridge-Freezer-Compartment-Bebop-Blue/1003126330",
+                "image_url": "https://mobileimages.lowes.com/product/converted/190873/190873001003.jpg",
+                "title": "Galanz 3.1-cu ft retro dual door refrigerator 3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Bebop Blue)"
+              }
+            },
+            "text": "Galanz 3.1-cu ft retro dual door refrigerator 3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Bebop Blue)",
+            "embedding": {
+              "dense": {
+                "buffer": "wdsPCbz9wD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHj7IYG3H4I/ePshgbcfgj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4+yGBtx+SP3j7IYG3H5I/AAAAAAAAAAAAAAAAAAAAAHj7IYG3H5I/AAAAAAAAAAB4+yGBtx+SPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4+yGBtx+SP3j7IYG3H4I/AAAAAAAAAAAAAAAAAAAAADT5skGTL5s/ePshgbcfgj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAePshgbcfgj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADT5skGTL6s/ePshgbcfgj94+yGBtx+SP3j7IYG3H6I/NPmyQZMvuz80+bJBky+bPzT5skGTL5s/AAAAAAAAAABWemphpaemPwAAAAAAAAAAAAAAAAAAAAA0+bJBky+bP3j7IYG3H5I/VnpqYaWnpj80+bJBky+rP3j7IYG3H5I/AAAAAAAAAAA0+bJBky+7P3j7IYG3H4I/Enj7IYG3rz94+yGBtx+iPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAePshgbcfkj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.21337518,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b067-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Cooluli-Concord-0-7-cu-ft-Freestanding-Mini-Fridge-Black/1002098960",
+                "brand": "Cooluli",
+                "full_description": "The Concord-20LDX Thermo-Electric Cooler/Warmer Mini Fridge by Cooluli is the epitome of efficiency and style. Easily switch from cooling to warming with the touch of a button&#8212;the Concord&#8217;s digital thermostat and easy-to-read display allows you to set your desired temperature for the ultimate in climate control. Once desired temperature is reached, your Concord goes into ECOmode, using just about half the power&#8212;saving you energy (and money)!Â?Â?The Concord is perfect anywhere you need to store wine, food, beer, snacks, drinks, breast milk, insulin, skincare, personal care, and beauty products, medicine and other essentials at a speci&#64257;c temperature.Â?Â?Its modern design features a compact yet spacious, 20-liter capacity and a tempered glass front. A molded inset carry handle on each side makes transport easy and convenient. Use it everywhere&#8212;the Concord&#8217;s sleek, stylish construction matches any dÃ©cor; it&#8217;s the perfect addition to your home, countertop, business/office, dorm, hotel room, car/motor vehicle, or on your next road trip or tailgate party!Â?Â?Exclusive EcoMax Technology features Cooluli&#8217;s unique cooling system, utilizing an advanced dual-core design; it&#8217;s ultra-powerful yet incredibly quiet and efficient. The Concord is 100% environmentally friendly and uses no refrigerants or Freons.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100209/1002098960.jpg",
+                "title": "Cooluli Concord 0.7-cu ft Freestanding Mini Fridge (Black)",
+                "description": "Concord 0.7-cu ft Freestanding Mini Fridge (Black)"
+              }
+            },
+            "text": "Cooluli Concord 0.7-cu ft Freestanding Mini Fridge (Black)",
+            "embedding": {
+              "dense": {
+                "buffer": "R1juaYTlvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJZ7GmG5p5E/lnsaYbmnkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACWexphuaeRP5Z7GmG5p5E/AAAAAAAAAACWexphuaeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJZ7GmG5p5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACWexphuaeRP5Z7GmG5p6E/AAAAAAAAAAAAAAAAAAAAAJZ7GmG5p6E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlnsaYbmnkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJZ7GmG5p6E/AAAAAAAAAABhuacRlnuqP2G5pxGWe6o/YbmnEZZ7qj+WexphuaeRP5Z7GmG5p6E/AAAAAAAAAAB8GmG5pxG2PwAAAAAAAAAAlnsaYbmnkT9huacRlnuqPwAAAAAAAAAAlnsaYbmnsT+WexphuaexPwAAAAAAAAAAAAAAAAAAAABhuacRlnuqP5Z7GmG5p5E/lnsaYbmnoT+WexphuaehPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.21478324,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b052-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Galanz-3-1-cu-ft-retro-dual-door-refrigerator-3-1-cu-ft-Freestanding-Mini-Fridge-Freezer-Compartment-Vinyl-Black/1003126332",
+                "title": "Galanz 3.1-cu ft retro dual door refrigerator 3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Vinyl Black)",
+                "full_description": "Galanz 3.1 Cu Ft retro style top freezer refrigerator can store and keep cool snacks, beverages and more. Best of all, this refrigerator-freezer has the look and feel of the fabulous old days, but has the appeal of a modern appliance. Featuring an adjustable thermostat, separate freezer compartment, bright interior lighting and spacious, clear fruit and vegetable crisper, the unit also has removable shelf and door shelves. It is a fun and stylish addition to any kitchen, rec room or home office.",
+                "description": "3.1-cu ft retro dual door refrigerator 3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Vinyl Black)",
+                "brand": "Galanz",
+                "image_url": "https://mobileimages.lowes.com/product/converted/190873/190873001126.jpg"
+              }
+            },
+            "text": "Galanz 3.1-cu ft retro dual door refrigerator 3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Vinyl Black)",
+            "embedding": {
+              "dense": {
+                "buffer": "eQ3lNZTXwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAfwX0E94E/cB/BfQT3gT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwH8F9BPeRP3AfwX0E95E/AAAAAAAAAAAAAAAAAAAAAHAfwX0E95E/AAAAAAAAAABwH8F9BPeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwH8F9BPeBP3AfwX0E94E/AAAAAAAAAAAAAAAAAAAAACivobyG8po/cB/BfQT3gT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3gT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3gT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAT3EdxHcK8/AAAAAAAAAAAor6G8hvKaP3AfwX0E96E/TGcxncV0tj8or6G8hvKaPyivobyG8po/AAAAAAAAAAAor6G8hvKqPwAAAAAAAAAAcB/BfQT3gT9wH8F9BPehP3AfwX0E95E/KK+hvIbyqj9MZzGdxXSmP3AfwX0E94E/AAAAAAAAAAAor6G8hvK6P3AfwX0E94E/BPcR3Edwrz8or6G8hvKaPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAfwX0E94E/cB/BfQT3kT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.21512476,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b2ca-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Silver 6-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner",
+                "full_description": "Fire up your family reunion or large patio party with Royal Gourmet&#174; mirage two split lid, 6-burner liquid propane, infrared burner gas grill with side burner. The huge 963 sq. In. Primary cooking area fits 80 hot dogs at a time. Two stainless steel lids with cast aluminum end caps keep heat during the cooking, and let you cook different kinds of food in either firebox. Porcelain cast iron cooking grates with slope design trap oil imparting a better flavor to meat. Sturdy stainless-steel side tables with plastic end cap, also provide the hooks for tools. An enclosed stainless-steel cabinet with stainless-steel doors provides storage space for both LP tank and other grill necessities. Moving the behemoth is just a piece of cake, with four flexible casters that feature brake system for quick stop.",
+                "product_url": "https://www.lowes.com/pd/Royal-Gourmet-Silver-6-Burner-Liquid-Propane-Infrared-Gas-Grill-with-1-Side-Burner/1000606287",
+                "title": "Royal Gourmet Silver 6-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner",
+                "image_url": "https://mobileimages.lowes.com/product/converted/853252/853252006784.jpg",
+                "brand": "Royal Gourmet"
+              }
+            },
+            "text": "Royal Gourmet Silver 6-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "uxK1K1G7wj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD6GJyPwfmIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPoYnI/B+Yg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD6GJyPwfmIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD6GJyPwfmYPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAuxK1K1G7oj8AAAAAAAAAAPoYnI/B+Yg/AAAAAAAAAAAAAAAAAAAAAPoYnI/B+Yg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+hicj8H5iD8AAAAAAAAAAPoYnI/B+Yg/+hicj8H5mD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPoYnI/B+ag/AAAAAAAAAAAAAAAAAAAAALsStStRu6I/25WoXYnatT/6GJyPwfmIPwAAAAAAAAAA+hicj8H5iD+7ErUrUbuyPwAAAAAAAAAAAAAAAAAAAAD6GJyPwfmoP/oYnI/B+Yg/+hicj8H5qD+7ErUrUbuiP/oYnI/B+Yg/+hicj8H5iD84H4PzMTi/P/oYnI/B+Yg/+hicj8H5mD/6GJyPwfmoP/oYnI/B+Yg/+hicj8H5iD8AAAAAAAAAAPoYnI/B+Yg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.21547352,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b2a2-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Red 3-Burner Liquid Propane and Natural Gas Grill",
+                "title": "Kenmore Red 3-Burner Liquid Propane and Natural Gas Grill",
+                "product_url": "https://www.lowes.com/pd/Kenmore-Red-3-Burner-Liquid-Propane-and-Natural-Gas-Grill/5000182805",
+                "image_url": "https://mobileimages.lowes.com/product/converted/810050/810050790123.jpg",
+                "brand": "Kenmore",
+                "full_description": "The Kenmore 3-burner patio grill is both stylish and spacious. This smartly designed pedestal grill comes with a compact pedestal base and provides 512 sq. Inches of uncompromising cooking space while packing 30, 000 BTUs of power. It features fordable side shelves for efficient storage when not in use and plenty of shelf space for convenient food prep, with 6 tool hooks for easy access to cooking utensils making this grill an attractive option for smaller outdoor patio spaces. The enclosed cabinet safely houses the propane tank. This 3-burner patio grill has many convenient features such as electronic ignition for quick and easy lighting of the 3 - premium stainless steel burners, porcelain-coated cast iron cooking grates for exceptional heat retention and even cooking, a durable layer porcelain-enameled lid, and a stainless steel handle. Features 4 wheels and a push bar for easy mobility once the grill is in desired location set in place with the 2 lockable wheels for extra stability. 1 Year limited , 5 years on the stainless steel burner."
+              }
+            },
+            "text": "Kenmore Red 3-Burner Liquid Propane and Natural Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "cB/BfQT3wT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwH8F9BPeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwH8F9BPeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwH8F9BPeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3oT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwH8F9BPeRP3AfwX0E95E/AAAAAAAAAABwH8F9BPeRPwAAAAAAAAAAcB/BfQT3kT8AAAAAAAAAAHAfwX0E95E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAExnMZ3FdLY/AAAAAAAAAAAAAAAAAAAAACivobyG8qo/TGcxncV0tj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAor6G8hvKqPwAAAAAAAAAAAAAAAAAAAAAor6G8hvKqP3AfwX0E95E/cB/BfQT3sT9wH8F9BPehP3AfwX0E95E/cB/BfQT3kT8or6G8hvK6P3AfwX0E95E/cB/BfQT3kT8or6G8hvKqPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.21548215,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faadc6-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Lordear-Portable-outdoor-charcoal-grill-15-in-Black-Charcoal-Grill/1003265764",
+                "brand": "Lordear",
+                "description": "Portable outdoor charcoal grill 15-in Black Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100326/1003265764.jpg",
+                "full_description": "A portable fold grill is suitable for 3-5 people barbecue parties in a variety of venues. Such as picnic, trailing, camping patio, indoor, outdoor parties, tourism, gardens, parks, beaches. A number of unique design can provide you with great convenience.",
+                "title": "Lordear Portable outdoor charcoal grill 15-in Black Charcoal Grill"
+              }
+            },
+            "text": "Lordear Portable outdoor charcoal grill 15-in Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "CB988MEHvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIH3zwwQePPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgffPDBB48/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACB988MEHjz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIH3zwwQePPwgffPDBB48/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACB988MEHjz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgffPDBB48/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACB988MEHjz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACebbLLJJrs/CB988MEHjz8IH3zwwQevPwgffPDBB58/CB988MEHnz8AAAAAAAAAAAgffPDBB48/CB988MEHnz9GF1100UWnPwAAAAAAAAAACB988MEHjz8IH3zwwQe/PwAAAAAAAAAACB988MEHjz8nm2yyySa7PwAAAAAAAAAAAAAAAAAAAAAIH3zwwQe/PwAAAAAAAAAACB988MEHnz8IH3zwwQePPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.21953364,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faadc5-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Lordear-Portable-outdoor-charcoal-grill-10-in-Black-Charcoal-Grill/1003265762",
+                "title": "Lordear Portable outdoor charcoal grill 10-in Black Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100326/1003265762.jpg",
+                "description": "Portable outdoor charcoal grill 10-in Black Charcoal Grill",
+                "full_description": "The portable charcoal grill is suitable for 7 - 10 people barbecue party in a variety of venues. Such as picnic, trailing, camping patio, indoor, outdoor parties, tourism, gardens, parks, beaches. A number of unique design can provide you with great convenience.",
+                "brand": "Lordear"
+              }
+            },
+            "text": "Lordear Portable outdoor charcoal grill 10-in Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "CB988MEHvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIH3zwwQePPwAAAAAAAAAAAAAAAAAAAAAIH3zwwQePPwgffPDBB48/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIH3zwwQePPwgffPDBB48/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACB988MEHjz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgffPDBB48/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACB988MEHjz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACebbLLJJrs/CB988MEHjz8IH3zwwQevPwgffPDBB58/CB988MEHnz8AAAAAAAAAAAgffPDBB48/CB988MEHnz9GF1100UWnPwAAAAAAAAAACB988MEHjz8IH3zwwQe/PwAAAAAAAAAACB988MEHjz8nm2yyySa7PwAAAAAAAAAAAAAAAAAAAAAIH3zwwQe/PwAAAAAAAAAACB988MEHnz8IH3zwwQePPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.21953364,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faadfd-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/841765/841765100778.jpg",
+                "full_description": "Cook up to 20 burgers at a time, fry up some eggs, sizzle some bacon or even do stir fry&#8230;all with the versatile Razor&#8482; portable griddle grill by Blue Rhino&#174;. Perfect for camping, tailgating or your backyard, the Razor&#8482; features a large stainless steel burner for a total of 18000-BTU of power. A push and turn ignition makes this grill easy to light and simple to use. Clean up is a snap and no spills with the unique grease management system and concealed cup. Two handles allow for quick and easy transport to your next cookout.",
+                "title": "Blue Rhino Razor Black/Powder Coated 18000-BTU 284-sq in Portable Gas Griddle Grill",
+                "brand": "Blue Rhino",
+                "product_url": "https://www.lowes.com/pd/Blue-Rhino-Razor-Black-Powder-Coated-18000-BTU-284-sq-in-Portable-Gas-Griddle-Grill/1000364857",
+                "description": "Razor Black/Powder Coated 18000-BTU 284-sq in Portable Gas Griddle Grill"
+              }
+            },
+            "text": "Blue Rhino Razor Black/Powder Coated 18000-BTU 284-sq in Portable Gas Griddle Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "hTeaOr/2wD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACq82sPuayYPwAAAAAAAAAAqvNrD7msiD+/9pDLioGiP6rzaw+5rIg/qvNrD7msiD8AAAAAAAAAAKrzaw+5rIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqvNrD7msmD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC/9pDLioGiP6rzaw+5rIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAv/aQy4qBoj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqvNrD7msmD8AAAAAAAAAAKrzaw+5rJg/AAAAAAAAAACq82sPuayIP6rzaw+5rIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJTwRlPn164/qvNrD7msiD+q82sPuayIP6rzaw+5rKg/lPBGU+fXrj8AAAAAAAAAAAAAAAAAAAAAqvNrD7msiD+q82sPuayoPwAAAAAAAAAAqvNrD7msiD+/9pDLioGyPwAAAAAAAAAAqvNrD7msmD+U8EZT59euPwAAAAAAAAAAqvNrD7msiD+U8EZT59euP6rzaw+5rJg/qvNrD7msmD+q82sPuayIPwAAAAAAAAAAqvNrD7msiD8AAAAAAAAAAAAAAAAAAAAAqvNrD7msiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.22030719,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b2be-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Weber Summit Black 6-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner and Rotisserie Burner and Integrated Smoker Box",
+                "full_description": "Step outside to your fully equipped backyard kitchen, stocked with everything you need from spices to serving trays. A grill that can rotate a chicken, add a smoky flavor to any dish, or sear the perfect steak. The family meal takes on a new meaning with the Summit&#174; grill center. Grilling is more than taste &#8211; it&#8217;s a lifestyle.",
+                "brand": "Weber",
+                "image_url": "https://mobileimages.lowes.com/product/converted/077924/077924008894.jpg",
+                "product_url": "https://www.lowes.com/pd/Weber-Summit-Black-6-Burner-Liquid-Propane-Infrared-Gas-Grill-with-1-Side-Burner-and-Rotisserie-Burner-and-Integrated-Smoker-Box/1000246069",
+                "description": "Summit Black 6-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner and Rotisserie Burner and Integrated Smoker Box"
+              }
+            },
+            "text": "Weber Summit Black 6-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner and Rotisserie Burner and Integrated Smoker Box",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACkPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkD8AAAAAAAAAAAAAAAAAAJA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAIA/AAAAAAAAmD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKw/AAAAAAAAgD8AAAAAAACAPwAAAAAAAKg/AAAAAAAAuj8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACwPwAAAAAAAAAAAAAAAAAAkD8AAAAAAACYPwAAAAAAAJg/AAAAAAAAsD8AAAAAAACgPwAAAAAAAIA/AAAAAAAAgD8AAAAAAAC8PwAAAAAAAJg/AAAAAAAApD8AAAAAAACkPwAAAAAAAAAAAAAAAAAAgD8AAAAAAACAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.22179796,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b29f-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Kenmore",
+                "description": "Mocha 3-Burner Liquid Propane and Natural Gas Grill",
+                "product_url": "https://www.lowes.com/pd/Kenmore-Mocha-3-Burner-Liquid-Propane-and-Natural-Gas-Grill/5000182799",
+                "title": "Kenmore Mocha 3-Burner Liquid Propane and Natural Gas Grill",
+                "full_description": "The Kenmore 3-burner patio grill is both stylish and spacious. This smartly designed pedestal grill comes with a compact pedestal base and provides 512 sq. Inches of uncompromising cooking space while packing 30, 000 BTUs of power. It features fordable side shelves for efficient storage when not in use and plenty of shelf space for convenient food prep, with 6 tool hooks for easy access to cooking utensils making this grill an attractive option for smaller outdoor patio spaces. The enclosed cabinet safely houses the propane tank. This 3-burner patio grill has many convenient features such as electronic ignition for quick and easy lighting of the 3 - premium stainless steel burners, porcelain-coated cast iron cooking grates for exceptional heat retention ad even cooking, a durable layer porcelain-enameled lid, and a stainless steel handle. Features 2 wheels and a push bar for easy mobility once the grill is in desired location set in place with the 2 adjustable feet for extra stability. 1 year limited , 5 years on the stainless steel burner.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/182995/182995001931.jpg"
+              }
+            },
+            "text": "Kenmore Mocha 3-Burner Liquid Propane and Natural Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "DSd1Xx5bwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADSd1Xx5boT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPw0ndV8eW5E/DSd1Xx5bkT8NJ3VfHluRPwAAAAAAAAAADSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJS6L4+tCLo/AAAAAAAAAAANJ3VfHluRPw0ndV8eW6E/DSd1Xx5bsT8AAAAAAAAAAAAAAAAAAAAADSd1Xx5bkT+Uui+PrQiqPwAAAAAAAAAAAAAAAAAAAACUui+PrQiqPw0ndV8eW5E/DSd1Xx5bsT+Uui+PrQiqPw0ndV8eW5E/DSd1Xx5bkT+Uui+PrQi6Pw0ndV8eW5E/DSd1Xx5bkT+Uui+PrQiqPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.22267947,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b2b4-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Royal Gourmet 5-Burner Liquid Propane Flat Top Grill",
+                "full_description": "Let Royal Gourmet&#174; regal 5-burner gas grill griddle help you make easy breakfast like pancakes or delicious dinners. It has a stainless-steel structure on the main body and four stable legs. Five independently-controlled burners each has 13,000 BTUs output, totaling 65,000 BTUs, fired by piezo ignition system that makes a reliable spark at every push. The stainless-steel online tube burners rest under a proper distance from griddle top, thus providing excellent heat distribution for your food. Fold-down side tables offer temporary space for you to have multiple tools, seasonings, plates put on with ease. The removable oil pan, fixed on the side shelf, makes cleanup job just a cinch. This grill comes with a tank secure place on the bottom shelf and has a two-layer grid for placing more of your grill towels, spatulas or other items. 4 Heavy-duty caster wheels are easy to move or lock as needed.Â?Make Royal Gourmet cooking station a fun way to start or end your beautiful day.",
+                "product_url": "https://www.lowes.com/pd/Royal-Gourmet-5-Burner-Liquid-Propane-Flat-Top-Grill/1001688850",
+                "brand": "Royal Gourmet",
+                "description": "5-Burner Liquid Propane Flat Top Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/859098/859098006865.jpg"
+              }
+            },
+            "text": "Royal Gourmet 5-Burner Liquid Propane Flat Top Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "sRM7sRM7wT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/FDuxEzuxoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ7YiZ3Yia0/AAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/ntiJndiJrT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACe2Imd2ImtPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GzPxQ7sRM7sZM/FDuxEzuxoz8UO7ETO7GzPxQ7sRM7saM/FDuxEzuxkz/ZiZ3YiZ24PwAAAAAAAAAAFDuxEzuxoz+e2Imd2ImtPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.2228198,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b297-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Royal-Gourmet-4-Burner-Liquid-Propane-Flat-Top-Grill/5000270225",
+                "title": "Royal Gourmet 4-Burner Liquid Propane Flat Top Grill",
+                "brand": "Royal Gourmet",
+                "full_description": "Unlock all the possibilities you may expect from Royal Gourmet&#174; GB4000 4-burner propane gas griddle. It has a thick, flat griddle plate that is made of ceramic-coated steel, measuring 36.2&#8217;&#8217; L x 21.7&#8217;&#8217; W, a total of 784 sq. In. cooking area that is perfect for outdoor BBQ parties! Four powerful stainless-steel tube burners put out an overall of 52,000 BTUs, allowing you to cook various food at a desired heat. Collapsible side tables hold on multiple seasonings and accessories. Large, removable grease cup collects grease from dripping for quick and easy cleanup. 4 Caster wheels comes with integrated brake system, allowing for easy transportation.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/810001/810001890261.jpg",
+                "description": "4-Burner Liquid Propane Flat Top Grill"
+              }
+            },
+            "text": "Royal Gourmet 4-Burner Liquid Propane Flat Top Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "sRM7sRM7wT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/FDuxEzuxoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ7YiZ3Yia0/AAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/ntiJndiJrT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACe2Imd2ImtPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GzPxQ7sRM7sZM/FDuxEzuxoz8UO7ETO7GzPxQ7sRM7saM/FDuxEzuxkz/ZiZ3YiZ24PwAAAAAAAAAAFDuxEzuxoz+e2Imd2ImtPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.2228198,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b279-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Unlock all the possibilities you may expect from Royal Gourmet&#174; GB4000 4-burner propane gas griddle. It has a thick, flat griddle plate that is made of ceramic-coated steel, measuring 36.2&#8217;&#8217; L x 21.7&#8217;&#8217; W, a total of 784 sq. In. cooking area that is perfect for outdoor BBQ parties! Four powerful stainless-steel tube burners put out an overall of 52,000 BTUs, allowing you to cook various food at a desired heat. Collapsible side tables hold on multiple seasonings and accessories. Large, removable grease cup collects grease from dripping for quick and easy cleanup. 4 Caster wheels comes with integrated brake system, allowing for easy transportation.",
+                "title": "Royal Gourmet 4-Burner Liquid Propane Flat Top Grill",
+                "brand": "Royal Gourmet",
+                "image_url": "https://mobileimages.lowes.com/product/converted/853252/853252006807.jpg",
+                "description": "4-Burner Liquid Propane Flat Top Grill",
+                "product_url": "https://www.lowes.com/pd/Royal-Gourmet-4-Burner-Liquid-Propane-Flat-Top-Grill/1000606299"
+              }
+            },
+            "text": "Royal Gourmet 4-Burner Liquid Propane Flat Top Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "sRM7sRM7wT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/FDuxEzuxoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ7YiZ3Yia0/AAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/ntiJndiJrT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACe2Imd2ImtPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GzPxQ7sRM7sZM/FDuxEzuxoz8UO7ETO7GzPxQ7sRM7saM/FDuxEzuxkz/ZiZ3YiZ24PwAAAAAAAAAAFDuxEzuxoz+e2Imd2ImtPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.2228198,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b2c5-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/853252/853252006791.jpg",
+                "full_description": "Make breakfast pancakes or delicious dinners with Royal Gourmet&#174; GB2000 regal 26000-BTU flat top propane gas grill griddle. It has a thick, flat griddle plate that is made of ceramic-coated steel, measuring 22.4&#8221; L x 21.7&#8221; W, a total of 486 sq. In. Cooking area. 2 independently controlled burners with electronic ignition system delivers quick start-up and even heat distribution. Large, removable grease cup collects grease from dripping for quick and easy cleanup. Fixed side table provides ample space for food preparation. The lower hanging bar with 4 adjustable hooks keeps your grilling accessories within arm&#8217;s reach. 2 large caster wheels with the brake system guarantees easy transportation.",
+                "description": "2-Burner Liquid Propane Flat Top Grill",
+                "brand": "Royal Gourmet",
+                "title": "Royal Gourmet 2-Burner Liquid Propane Flat Top Grill",
+                "product_url": "https://www.lowes.com/pd/Royal-Gourmet-2-Burner-Liquid-Propane-Flat-Top-Grill/1000606293"
+              }
+            },
+            "text": "Royal Gourmet 2-Burner Liquid Propane Flat Top Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "sRM7sRM7wT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/FDuxEzuxoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ7YiZ3Yia0/AAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/ntiJndiJrT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACe2Imd2ImtPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GzPxQ7sRM7sZM/FDuxEzuxoz8UO7ETO7GzPxQ7sRM7saM/FDuxEzuxkz/ZiZ3YiZ24PwAAAAAAAAAAFDuxEzuxoz+e2Imd2ImtPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.2228198,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faadf2-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "The unique kamado cooking experience is portable with Kamado Joe&#8217;s innovative Joe Jr. Perfect for tailgates, picnics, pool parties, camping, and more. The Joe Jr. boasts a 148.5 square-inch cooking surface with ample space for a full beer-can chicken with vegetables. The thick-walled ceramic body locks in heat, moisture, and flavor, and the heat deflector plate allows cooks to experiment with indirect heat for more flexible cooking.",
+                "product_url": "https://www.lowes.com/pd/Kamado-Joe-16-5-in-Red-Kamado-Charcoal-Grill/1000692822",
+                "description": "16.5-in Red Kamado Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/811738/811738020303.jpg",
+                "title": "Kamado Joe 16.5-in Red Kamado Charcoal Grill",
+                "brand": "Kamado Joe"
+              }
+            },
+            "text": "Kamado Joe 16.5-in Red Kamado Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "dNFFF110wT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWXP0YXXXTRRZc/AAAAAAAAAAAAAAAAAAAAAEYXXXTRRZc/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARhdddNFFlz9GF1100UWXPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEYXXXTRRZc/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARhdddNFFlz8AAAAAAAAAAAAAAAAAAAAARhdddNFFlz9GF1100UWnPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEYXXXTRRZc/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHTRRRdddME/AAAAAAAAAABGF1100UWXP3TRRRdddLE/RhdddNFFpz8AAAAAAAAAAAAAAAAAAAAARhdddNFFlz9GF1100UWnPwAAAAAAAAAAAAAAAAAAAAB00UUXXXSxP0YXXXTRRac/RhdddNFFlz9GF1100UW3PwAAAAAAAAAAAAAAAAAAAABGF1100UWnPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.22354904,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faadc1-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Kamado Grill 54-in Red Kamado Charcoal Grill",
+                "full_description": "An ancient, Asian-style grill, the kamado is a thick-walled cooker that imparts rich, smoky flavor to meats, fish and vegetables. Relatively unchanged for centuries, air flows through the grill&#8217;s ceramic body and out its vented dome, chunk charcoal comes to life as smoke and heat. Kamado Joe&#174; is proud to draw on that tradition, modernizing the grill&#8217;s classic style with unparalleled craftsmanship, innovative accessories and a range of flexible cooking surfaces.Â?The Kamado Joe Classic II includes new innovation, featuring a thick-walled, heat-resistant shell that locks in smoke and moisture at any temperature.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/811738/811738021454.jpg",
+                "title": "Kamado Joe Kamado Grill 54-in Red Kamado Charcoal Grill",
+                "brand": "Kamado Joe",
+                "product_url": "https://www.lowes.com/pd/Kamado-Joe-Kamado-Grill-54-in-Red-Kamado-Charcoal-Grill/1002227536"
+              }
+            },
+            "text": "Kamado Joe Kamado Grill 54-in Red Kamado Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "nhLkKUGewj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ4S5ClBnpI/nhLkKUGekj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ4S5ClBnpI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGeoj8AAAAAAAAAAAAAAAAAAAAAnhLkKUGekj/tG9a+Ye2rPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ4S5ClBnpI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ4S5ClBnsI/AAAAAAAAAACeEuQpQZ6SP54S5ClBnrI/nhLkKUGeoj8AAAAAAAAAAAAAAAAAAAAAnhLkKUGekj/tG9a+Ye2rPwAAAAAAAAAAAAAAAAAAAABGF1100UW3P+0b1r5h7as/nhLkKUGekj9GF1100UW3PwAAAAAAAAAAAAAAAAAAAADtG9a+Ye2rPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.22387229,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b131-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505645020.jpg",
+                "description": "Gallery 20.4-cu ft Top-Freezer Refrigerator (Smudge-Proof Stainless Steel)",
+                "brand": "Frigidaire",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-Gallery-20-4-cu-ft-Top-Freezer-Refrigerator-Smudge-Proof-Stainless-Steel/1000446025",
+                "title": "Frigidaire Gallery 20.4-cu ft Top-Freezer Refrigerator (Smudge-Proof Stainless Steel)",
+                "full_description": ""
+              }
+            },
+            "text": "Frigidaire Gallery 20.4-cu ft Top-Freezer Refrigerator (Smudge-Proof Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "GBgYGBgYuD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGBgYGIg/GBgYGBgYiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASEhISEhKiPxgYGBgYGIg/AAAAAAAAAAAYGBgYGBiIPwAAAAAAAAAAGBgYGBgYiD8AAAAAAAAAABgYGBgYGIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGBgYGJg/GBgYGBgYiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGBgYGBgYiD8AAAAAAAAAABgYGBgYGIg/EhISEhISoj8YGBgYGBiIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGBgYGKg/AAAAAAAAAAAYGBgYGBiIPxgYGBgYGJg/kZCQkJCQwD8SEhISEhKiPxISEhISEqI/AAAAAAAAAAAeHh4eHh6uPwAAAAAAAAAAAAAAAAAAAAAYGBgYGBioPxgYGBgYGIg/GBgYGBgYiD8YGBgYGBioPxgYGBgYGIg/AAAAAAAAAAAbGxsbGxu7PxgYGBgYGJg/GBgYGBgYqD8YGBgYGBiYPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGBgYGIg/GBgYGBgYiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.2242201,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          }
+        ],
+        "tags": {},
+        "text": "dual door fridge",
+        "embedding": {
+          "dense": {
+            "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAMg/AAAAAAAAsD8AAAAAAACwPwAAAAAAALA/AAAAAAAAAAAAAAAAAACwPwAAAAAAAAAAAAAAAAAAAAAAAAAAAACwPwAAAAAAAAAAAAAAAAAAAAAAAAAAAADAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAADAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAACwPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "shape": [
+              96
+            ],
+            "dtype": "<f8",
+            "quantization": 0,
+            "maxVal": 0,
+            "minVal": 0,
+            "scale": 0,
+            "originalDtype": ""
+          }
+        },
+        "granularity": 0,
+        "adjacency": 0,
+        "parentId": "",
+        "chunks": [],
+        "weight": 0,
+        "uri": "",
+        "mimeType": "",
+        "location": [],
+        "offset": 0,
+        "scores": {},
+        "modality": "",
+        "evaluations": {}
+      }
+    ],
+    "groundtruths": []
+  }
+}

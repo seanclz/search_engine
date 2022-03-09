@@ -1,0 +1,1023 @@
+{
+  "requestId": "0fe98bd3-dd0f-45d2-aa02-8be8119ce2bb",
+  "data": {
+    "docs": [
+      {
+        "id": "b007e8a2-4589-11ec-956e-e3601f14962f",
+        "matches": [
+          {
+            "id": "cb1a2013-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Miami Dolphins Bucket Grill",
+                "title": "Imperial International Miami Dolphins Bucket Grill",
+                "full_description": "Pack up and bring the tailgate with you with this bucket grill. This fully functional mini-grill uses charcoal and is made from durable, galvanized steel. The bucket grill also includes a wooden handle for convenient and safe transportation to your tailgate, BBQ, beach or campsite. Product is officially licensed by the NFL.",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Miami-Dolphins-Bucket-Grill/5000039933",
+                "brand": "Imperial International",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500003/5000039933.jpg"
+              }
+            },
+            "text": "Imperial International Miami Dolphins Bucket Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "mpmZmZmZuT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB7FK5H4XqUPwAAAAAAAAAAexSuR+F6lD8AAAAAAAAAAAAAAAAAAAAAexSuR+F6lD8AAAAAAAAAAHsUrkfheqQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAexSuR+F6lD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHsUrkfherQ/AAAAAAAAAAB7FK5H4XqUPwAAAAAAAAAAuB6F61G4rj8AAAAAAAAAAAAAAAAAAAAAexSuR+F6lD+4HoXrUbi+PwAAAAAAAAAAexSuR+F6lD+amZmZmZm5P3sUrkfheqQ/exSuR+F6tD97FK5H4XqkP3sUrkfheqQ/AAAAAAAAAAC4HoXrUbiuP3sUrkfhepQ/uB6F61G4rj97FK5H4XqUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.096044205,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a2018-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Imperial International",
+                "title": "Imperial International Minnesota Vikings Bucket Grill",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Minnesota-Vikings-Bucket-Grill/5000039931",
+                "full_description": "Pack up and bring the tailgate with you with this bucket grill. This fully functional mini-grill uses charcoal and is made from durable, galvanized steel. The bucket grill also includes a wooden handle for convenient and safe transportation to your tailgate, BBQ, beach or campsite. Product is officially licensed by the NFL.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500003/5000039931.jpg",
+                "description": "Minnesota Vikings Bucket Grill"
+              }
+            },
+            "text": "Imperial International Minnesota Vikings Bucket Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "8lb2OaQmuD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAMF4K/scUqM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMF4K/scUrM/AAAAAAAAAADBeCv7HFKTPwAAAAAAAAAAwXgr+xxSsz8AAAAAAAAAAMF4K/scUpM/AAAAAAAAAAAiNcF4K/u8PwAAAAAAAAAAwXgr+xxSoz/BeCv7HFKzP8F4K/scUpM/IjXBeCv7vD/BeCv7HFKjP8F4K/scUpM/AAAAAAAAAAAiNcF4K/usP8F4K/scUqM/wXgr+xxSsz/BeCv7HFKTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.10052427,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a2025-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Imperial-International-New-England-Patriots-Bucket-Grill/5000039937",
+                "title": "Imperial International New England Patriots Bucket Grill",
+                "full_description": "Pack up and bring the tailgate with you with this bucket grill. This fully functional mini-grill uses charcoal and is made from durable, galvanized steel. The bucket grill also includes a wooden handle for convenient and safe transportation to your tailgate, BBQ, beach or campsite. Product is officially licensed by the NFL.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500003/5000039937.jpg",
+                "description": "New England Patriots Bucket Grill",
+                "brand": "Imperial International"
+              }
+            },
+            "text": "Imperial International New England Patriots Bucket Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "27Zt27Ztuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACSJEmSJEmSPwAAAAAAAAAAAAAAAAAAAACSJEmSJEmSPwAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAJIkSZIkSaI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACSJEmSJEmSPwAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALdt27Zt27Y/AAAAAAAAAACSJEmSJEmSP5IkSZIkSZI/kiRJkiRJsj8AAAAAAAAAAJIkSZIkSZI/AAAAAAAAAACSJEmSJEmyPwAAAAAAAAAAkiRJkiRJkj+3bdu2bdu2P5IkSZIkSZI/t23btm3btj+SJEmSJEmiP5IkSZIkSZI/AAAAAAAAAACSJEmSJEmyP5IkSZIkSZI/t23btm3btj+SJEmSJEmSPwAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.10961435,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a201f-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Imperial International Michigan Wolverines 10-sq in Multicolor Portable Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500002/5000028631.jpg",
+                "full_description": "",
+                "brand": "Imperial International",
+                "description": "Michigan Wolverines 10-sq in Multicolor Portable Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Michigan-Wolverines-10-sq-in-Multicolor-Portable-Charcoal-Grill/5000028631"
+              }
+            },
+            "text": "Imperial International Michigan Wolverines 10-sq in Multicolor Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "s6asKWvKuj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD0BX1BX9CHPwAAAAAAAAAAAAAAAAAAAAD0BX1BX9CHP/QFfUFf0Ic/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPQFfUFf0Ic/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9AV9QV/Qhz8AAAAAAAAAAPQFfUFf0Jc/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9AV9QV/Qlz8AAAAAAAAAAAAAAAAAAAAA9AV9QV/Qhz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD0BX1BX9CHPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADZlTVlT1rQ/9AV9QV/Qhz93xB1xR9yhPwAAAAAAAAAAcUfcEXfErT8AAAAAAAAAAPQFfUFf0Ic/9AV9QV/Qlz/0BX1BX9C3PwAAAAAAAAAAAAAAAAAAAACzpqwpa8q6P/QFfUFf0Ic/d8QdcUfcsT93xB1xR9yxP/QFfUFf0Ic/9AV9QV/Qhz82ZU1ZU9a0P/QFfUFf0Jc/9AV9QV/Qpz/0BX1BX9CHP/QFfUFf0Ic/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11354547,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a2017-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Imperial International",
+                "title": "Imperial International Chicago Bears Bucket Grill",
+                "full_description": "Pack up and bring the tailgate with you with this bucket grill. This fully functional mini-grill uses charcoal and is made from durable, galvanized steel. The bucket grill also includes a wooden handle for convenient and safe transportation to your tailgate, BBQ, beach or campsite. Product is officially licensed by the NFL.",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Chicago-Bears-Bucket-Grill/5000039941",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500003/5000039941.jpg",
+                "description": "Chicago Bears Bucket Grill"
+              }
+            },
+            "text": "Imperial International Chicago Bears Bucket Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "iMb60Fgfuj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPzkFL6fg5ZQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DllD8AAAAAAAAAADkFL6fg5aQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIjG+tBYH7o/AAAAAAAAAAA5BS+n4OWkPwAAAAAAAAAAOQUvp+DltD8AAAAAAAAAADkFL6fg5ZQ/OQUvp+DllD85BS+n4OW0PwAAAAAAAAAAOQUvp+DllD85BS+n4OW0PzkFL6fg5ZQ/1ofG+tBYrz85BS+n4OWkPzkFL6fg5ZQ/AAAAAAAAAAA5BS+n4OW0PzkFL6fg5ZQ/1ofG+tBYrz85BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11413985,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a201b-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Pack up and bring the tailgate with you with this bucket grill. This fully functional mini-grill uses charcoal and is made from durable, galvanized steel. The bucket grill also includes a wooden handle for convenient and safe transportation to your tailgate, BBQ, beach or campsite. Product is officially licensed by the NFL.",
+                "brand": "Imperial International",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-New-Orleans-Saints-Bucket-Grill/5000039945",
+                "description": "New Orleans Saints Bucket Grill",
+                "title": "Imperial International New Orleans Saints Bucket Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500003/5000039945.jpg"
+              }
+            },
+            "text": "Imperial International New Orleans Saints Bucket Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "HMdxHMdxvD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPaSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaC+hvYT2kj8AAAAAAAAAAGgvob2E9qI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPaSP2gvob2E9pI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEJ7Ce0ltLc/AAAAAAAAAABoL6G9hPaSPwAAAAAAAAAAQnsJ7SW0tz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPayPwAAAAAAAAAAaC+hvYT2kj9CewntJbS3P2gvob2E9pI/QnsJ7SW0tz9oL6G9hPaSP2gvob2E9pI/AAAAAAAAAABoL6G9hPayP2gvob2E9qI/aC+hvYT2sj9oL6G9hPaSPwAAAAAAAAAAaC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1153245,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a202e-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/500003/5000039935.jpg",
+                "description": "Oakland Raiders Bucket Grill",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Oakland-Raiders-Bucket-Grill/5000039935",
+                "title": "Imperial International Oakland Raiders Bucket Grill",
+                "brand": "Imperial International",
+                "full_description": "Pack up and bring the tailgate with you with this bucket grill. This fully functional mini-grill uses charcoal and is made from durable, galvanized steel. The bucket grill also includes a wooden handle for convenient and safe transportation to your tailgate, BBQ, beach or campsite. Product is officially licensed by the NFL."
+              }
+            },
+            "text": "Imperial International Oakland Raiders Bucket Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "GRkZGRkZuT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAABQUFBQUFKQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFJQ/AAAAAAAAAAAAAAAAAAAAABQUFBQUFJQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHr4/AAAAAAAAAAAUFBQUFBSUPxQUFBQUFKQ/FBQUFBQUtD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBS0PwAAAAAAAAAAFBQUFBQUpD8ZGRkZGRm5PxQUFBQUFJQ/FBQUFBQUtD8UFBQUFBSUPxQUFBQUFJQ/AAAAAAAAAAAUFBQUFBS0PxQUFBQUFJQ/Hh4eHh4erj8UFBQUFBSUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11668003,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a2016-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "New York Giants Bucket Grill",
+                "title": "Imperial International New York Giants Bucket Grill",
+                "brand": "Imperial International",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-New-York-Giants-Bucket-Grill/5000039939",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500003/5000039939.jpg",
+                "full_description": "Pack up and bring the tailgate with you with this bucket grill. This fully functional mini-grill uses charcoal and is made from durable, galvanized steel. The bucket grill also includes a wooden handle for convenient and safe transportation to your tailgate, BBQ, beach or campsite. Product is officially licensed by the NFL."
+              }
+            },
+            "text": "Imperial International New York Giants Bucket Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "Hh4eHh4evj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUpD8AAAAAAAAAABQUFBQUFKQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFLQ/AAAAAAAAAAAUFBQUFBSUPwAAAAAAAAAAFBQUFBQUtD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBS0PwAAAAAAAAAAFBQUFBQUpD8UFBQUFBS0PxQUFBQUFJQ/FBQUFBQUtD8UFBQUFBSkPxQUFBQUFJQ/AAAAAAAAAAAUFBQUFBS0PxQUFBQUFJQ/FBQUFBQUtD8UFBQUFBSUPwAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11789756,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a2022-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Michigan State Spartans 10-sq in Multicolor Portable Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Michigan-State-Spartans-10-sq-in-Multicolor-Portable-Charcoal-Grill/5000028633",
+                "title": "Imperial International Michigan State Spartans 10-sq in Multicolor Portable Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500002/5000028633.jpg",
+                "brand": "Imperial International",
+                "full_description": ""
+              }
+            },
+            "text": "Imperial International Michigan State Spartans 10-sq in Multicolor Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "HMdxHMdxvD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXbMEWbMGGPwAAAAAAAAAAAAAAAAAAAAAXbMEWbMGGPxdswRZswYY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABdswRZswYY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF2zBFmzBhj8AAAAAAAAAABdswRZswZY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF2zBFmzBlj8AAAAAAAAAAAAAAAAAAAAAF2zBFmzBhj8AAAAAAAAAAAAAAAAAAAAAF2zBFmzBlj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABzHcRzHcbw/F2zBFmzBhj8RERERERGhPwAAAAAAAAAAF2zBFmzBpj8AAAAAAAAAABdswRZswYY/F2zBFmzBlj+UPumTPumzPwAAAAAAAAAAAAAAAAAAAAAXbMEWbMG2PxdswRZswYY/ERERERERsT8cx3Ecx3GsPxdswRZswZY/F2zBFmzBhj+UPumTPumzPxdswRZswZY/lD7pkz7psz8XbMEWbMGGPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12050954,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a201e-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "LSU Tigers 10-sq in Multicolor Portable Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500002/5000028627.jpg",
+                "full_description": "",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-LSU-Tigers-10-sq-in-Multicolor-Portable-Charcoal-Grill/5000028627",
+                "title": "Imperial International LSU Tigers 10-sq in Multicolor Portable Charcoal Grill",
+                "brand": "Imperial International"
+              }
+            },
+            "text": "Imperial International LSU Tigers 10-sq in Multicolor Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "NbB3TA3svT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC+Y2pg75iKPwAAAAAAAAAAAAAAAAAAAAC+Y2pg75iKP75jamDvmIo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL5jamDvmIo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvmNqYO+Yij8AAAAAAAAAAL5jamDvmJo/AAAAAAAAAAAAAAAAAAAAAL5jamDvmIo/vmNqYO+Yij8AAAAAAAAAAAAAAAAAAAAAvmNqYO+Yij8AAAAAAAAAAAAAAAAAAAAAvmNqYO+Yij++Y2pg75iKP75jamDvmIo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM7KT4iz8rM/vmNqYO+Yij++Y2pg75iaPwAAAAAAAAAAvmNqYO+Yqj8AAAAAAAAAAL5jamDvmIo/vmNqYO+Yij/Oyk+Is/KzPwAAAAAAAAAAAAAAAAAAAAC+Y2pg75i6P75jamDvmIo/vmNqYO+Yqj9WfkKclZ+wP75jamDvmIo/vmNqYO+Yij9GF1100UW3P75jamDvmJo/vmNqYO+Yqj++Y2pg75iKPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.125323,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a2021-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Imperial International",
+                "description": "Clemson Tigers 10-sq in Multicolor Portable Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500002/5000028635.jpg",
+                "title": "Imperial International Clemson Tigers 10-sq in Multicolor Portable Charcoal Grill",
+                "full_description": "",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Clemson-Tigers-10-sq-in-Multicolor-Portable-Charcoal-Grill/5000028635"
+              }
+            },
+            "text": "Imperial International Clemson Tigers 10-sq in Multicolor Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "HMdxHMdxvD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg6db8sEiJPwAAAAAAAAAAAAAAAAAAAADg6db8sEiJP+Dp1vywSIk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODp1vywSJk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4OnW/LBIiT8AAAAAAAAAAODp1vywSJk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4OnW/LBIiT8AAAAAAAAAAAAAAAAAAAAA4OnW/LBIiT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg6db8sEiJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9rI/4OnW/LBIiT/g6db8sEiZPwAAAAAAAAAAWKQMPN2arz8AAAAAAAAAAODp1vywSIk/4OnW/LBIiT9oL6G9hPayPwAAAAAAAAAAAAAAAAAAAAAcx3Ecx3G8P+Dp1vywSJk/WKQMPN2arz9oL6G9hPayP+Dp1vywSIk/4OnW/LBIiT+kDDzdmh+2P2gvob2E9qI/4OnW/LBIqT/g6db8sEiJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12619686,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa5ef-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Weber",
+                "full_description": "",
+                "image_url": "https://mobileimages.lowes.com/product/converted/077924/077924032479.jpg",
+                "product_url": "https://www.lowes.com/pd/Weber-Original-Kettle-Premium-22-in-Black-Kettle-Charcoal-Grill/1000513999",
+                "title": "Weber Original Kettle Premium 22-in Black Kettle Charcoal Grill",
+                "description": "Original Kettle Premium 22-in Black Kettle Charcoal Grill"
+              }
+            },
+            "text": "Weber Original Kettle Premium 22-in Black Kettle Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "EARBEARBwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQBEEQBEGQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEARBEARBoD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQBEEQBEGQPxAEQRAEQZA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEARBEARBkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQBEEQBEGgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAEQRAEQZA/EARBEARBkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQBEEQBEGQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAEQRAEQbA/EARBEARBkD8QBEEQBEGgPwAAAAAAAAAAHMdxHMdxvD8AAAAAAAAAABAEQRAEQZA/EARBEARBkD8URVEURVG0PwAAAAAAAAAAEARBEARBkD8cx3Ecx3G8PxAEQRAEQaA/EARBEARBoD8QBEEQBEGQPwAAAAAAAAAAAAAAAAAAAAAURVEURVG0PwAAAAAAAAAAEARBEARBsD8QBEEQBEGQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12650704,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa5f1-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Weber",
+                "image_url": "https://mobileimages.lowes.com/product/converted/077924/077924025297.jpg",
+                "description": "Original Kettle 18-in Black porcelain-enameled Kettle Charcoal Grill",
+                "title": "Weber Original Kettle 18-in Black porcelain-enameled Kettle Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Weber-Original-Kettle-18-in-Black-porcelain-enameled-Kettle-Charcoal-Grill/1000240975",
+                "full_description": ""
+              }
+            },
+            "text": "Weber Original Kettle 18-in Black porcelain-enameled Kettle Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "0LrBFPmsuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADQusEU+aybPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANC6wRT5rIs/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0LrBFPmsiz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADQusEU+ayLP9C6wRT5rIs/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0LrBFPmsiz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADQusEU+aybPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANC6wRT5rIs/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADQusEU+ayLPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABxMkc+6wbQ/0LrBFPmsiz8cTJHPusGkP9C6wRT5rIs/whT5rBtMwT8AAAAAAAAAANC6wRT5rIs/0LrBFPmsiz/CFPmsG0yxPwAAAAAAAAAA0LrBFPmsiz8q8lk3mCK/P9C6wRT5rIs/0LrBFPmsqz/QusEU+aybP9C6wRT5rIs/AAAAAAAAAADCFPmsG0yxPwAAAAAAAAAA0LrBFPmsqz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12736514,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a2015-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Imperial International",
+                "full_description": "Pack up and bring the tailgate with you with this bucket grill. This fully functional mini-grill uses charcoal and is made from durable, galvanized steel. The bucket grill also includes a wooden handle for convenient and safe transportation to your tailgate, BBQ, beach or campsite. Product is officially licensed by the NFL.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500003/5000039929.jpg",
+                "title": "Imperial International Kansas City Chiefs Bucket Grill",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Kansas-City-Chiefs-Bucket-Grill/5000039929",
+                "description": "Kansas City Chiefs Bucket Grill"
+              }
+            },
+            "text": "Imperial International Kansas City Chiefs Bucket Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "HMdxHMdxvD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPaSP2gvob2E9qI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaC+hvYT2kj8AAAAAAAAAAGgvob2E9qI/AAAAAAAAAABoL6G9hPaSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEJ7Ce0ltLc/AAAAAAAAAABoL6G9hPaSPwAAAAAAAAAAaC+hvYT2sj9oL6G9hPaSPwAAAAAAAAAAaC+hvYT2kj9CewntJbS3PwAAAAAAAAAAaC+hvYT2kj9oL6G9hPayP2gvob2E9pI/aC+hvYT2sj9oL6G9hPaSP2gvob2E9pI/AAAAAAAAAAAcx3Ecx3GsPxzHcRzHcaw/aC+hvYT2sj9oL6G9hPaSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12758675,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa52e-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Summit Appliance",
+                "title": "Summit Appliance Summit Classic Collection 24-in Built-In/Freestanding 2-Drawer Refrigerator (Stainless Steel, with Panel-ready Drawer Fronts)",
+                "full_description": "Summit classic collection features deluxe undercounter appliances designed to bring modern luxury into the home. The CL2R248 is a 24 In. wide two-drawer all-refrigerator fully constructed from stainless steel. The fully finished cabinet allows freestanding use, while the front-breathing cooling system enables built-in installation under counters. The drawers can be customized with overlay panels to match or accent existing cabinetry design. The stainless steel kickplates and sleek handles complete the look. Frost-free operation ensures minimum user maintenance inside the 3.4 Cu. Ft. interior. Two adjustable dividers make it easy to separate the drawer compartments into two or four zones to easily accommodate a variety of sizes. A sliding chrome basket offers added storage convenience, while the LED lighting makes it easy to view stored contents when loading or unloading both sections. Additional features ensure the unit is running at its best. These include a high temperature alarm and open drawer alarm. The digital thermostat makes it easy and intuitive to manage the interior temperature, while a temperature memory function helps to recover all settings in the event of power loss. This model also has a sabbath mode setting that disables certain electrical features during periods of religious observance. With its flexible design and user-friendly features, the CL2R248 is the ideal drawer refrigerator for home settings looking to add convenient luxury to the kitchen. To create a matching set, pair with our CL2F249 frost-free all-freezer.",
+                "product_url": "https://www.lowes.com/pd/Summit-Appliance-Summit-Classic-Collection-24-in-Built-In-Freestanding-2-Drawer-Refrigerator-Stainless-Steel-with-Panel-ready-Drawer-Fronts/1000537551",
+                "image_url": "https://mobileimages.lowes.com/product/converted/761101/761101032207.jpg",
+                "description": "Summit Classic Collection 24-in Built-In/Freestanding 2-Drawer Refrigerator (Stainless Steel, with Panel-ready Drawer Fronts)"
+              }
+            },
+            "text": "Summit Appliance Summit Classic Collection 24-in Built-In/Freestanding 2-Drawer Refrigerator (Stainless Steel, with Panel-ready Drawer Fronts)",
+            "embedding": {
+              "dense": {
+                "buffer": "qSfjt0s9uT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Hw/C5sDiVbYfD8AAAAAAAAAAAAAAAAAAAAAC5sDiVbYfD8LmwOJVticPwAAAAAAAAAAC5sDiVbYfD8AAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAubA4lW2Hw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYfD8LmwOJVth8PwubA4lW2Iw/C5sDiVbYjD8AAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAubA4lW2Hw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYfD8AAAAAAAAAAAubA4lW2Hw/C5sDiVbYnD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADYHEq2wObA/AAAAAAAAAABItMLmQKKVPwubA4lW2Iw/+e1ST8Zvtz8LmwOJVth8PwubA4lW2Iw/C5sDiVbYfD+XejJ+u9SzPwAAAAAAAAAAAAAAAAAAAAALmwOJVtisPwubA4lW2Jw/NgcSrbA5sD8LmwOJVticPwubA4lW2Iw/AAAAAAAAAADnQKIVNgeyP0i0wuZAoqU/50CiFTYHsj9ItMLmQKKVPwAAAAAAAAAASLTC5kCilT8AAAAAAAAAAAubA4lW2Hw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13006955,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a201d-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Imperial International Pittsburgh Steelers Pittsburgh Steelers Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Pittsburgh-Steelers-Pittsburgh-Steelers-Bucket-Grill-10-sq-in-Muliple-Colors-Metal-Portable-Charcoal-Grill/5000039925",
+                "full_description": "Pack up and bring the tailgate with you with this bucket grill. This fully functional mini-grill uses charcoal and is made from durable, galvanized steel. The bucket grill also includes a wooden handle for convenient and safe transportation to your tailgate, BBQ, beach or campsite. Product is officially licensed by the NFL.",
+                "description": "Pittsburgh Steelers Pittsburgh Steelers Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+                "brand": "Imperial International",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500003/5000039925.jpg"
+              }
+            },
+            "text": "Imperial International Pittsburgh Steelers Pittsburgh Steelers Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "8oa8IW/Iuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwB/wBf8B/PwAAAAAAAAAA8Af8AX/Afz/wB/wBf8B/P/AH/AF/wH8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwB/wBf8B/P/AH/AF/wI8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAPAH/AF/wI8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAAAAAAAAAAAA9AV9QV/Qlz8AAAAAAAAAAAAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPKGvCFvyKs/9AV9QV/Qlz/wB/wBf8CPPwAAAAAAAAAA9AV9QV/Qtz8AAAAAAAAAAPAH/AF/wI8/9AV9QV/Qlz/wB/wBf8CvPwAAAAAAAAAA8Af8AX/Afz/yhrwhb8i7P/AH/AF/wH8/8Af8AX/Anz/2hD1hT9ijP/AH/AF/wI8/8Af8AX/Afz91RV1RV9S1P/QFfUFf0Kc/dUVdUVfUtT/wB/wBf8CfPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13209581,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a2026-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Imperial International",
+                "title": "Imperial International Houston Texans Bucket Grill",
+                "full_description": "Pack up and bring the tailgate with you with this bucket grill. This fully functional mini-grill uses charcoal and is made from durable, galvanized steel. The bucket grill also includes a wooden handle for convenient and safe transportation to your tailgate, BBQ, beach or campsite. Product is officially licensed by the NFL.",
+                "description": "Houston Texans Bucket Grill",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Houston-Texans-Bucket-Grill/5000039947",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500003/5000039947.jpg"
+              }
+            },
+            "text": "Imperial International Houston Texans Bucket Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "mpmZmZmZuT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB7FK5H4XqUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAexSuR+F6lD97FK5H4XqUP3sUrkfheqQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB7FK5H4XqUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHsUrkfherQ/AAAAAAAAAAB7FK5H4XqUPwAAAAAAAAAAexSuR+F6tD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4HoXrUbiuPwAAAAAAAAAAexSuR+F6lD97FK5H4Xq0P3sUrkfhepQ/mpmZmZmZuT+4HoXrUbiuP3sUrkfhepQ/AAAAAAAAAAC4HoXrUbiuP3sUrkfheqQ/exSuR+F6tD97FK5H4XqkPwAAAAAAAAAAAAAAAAAAAAB7FK5H4XqUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13211003,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a2020-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Imperial International",
+                "full_description": "",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Georgia-Bulldogs-10-sq-in-Multicolor-Portable-Charcoal-Grill/5000028629",
+                "description": "Georgia Bulldogs 10-sq in Multicolor Portable Charcoal Grill",
+                "title": "Imperial International Georgia Bulldogs 10-sq in Multicolor Portable Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500002/5000028629.jpg"
+              }
+            },
+            "text": "Imperial International Georgia Bulldogs 10-sq in Multicolor Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "H3JZMVDCuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACq82sPuayIPwAAAAAAAAAAAAAAAAAAAACq82sPuayIP6rzaw+5rIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACq82sPuayIP6rzaw+5rIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqvNrD7msmD8AAAAAAAAAAKrzaw+5rJg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqvNrD7msiD8AAAAAAAAAAAAAAAAAAAAAqvNrD7msiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADR1fu0hl7U/qvNrD7msiD+q82sPuayYP6rzaw+5rIg/qvNrD7msqD8AAAAAAAAAAKrzaw+5rJg/qvNrD7msiD+/9pDLioGyPwAAAAAAAAAAAAAAAAAAAACU8EZT59e+P6rzaw+5rIg/qvNrD7msqD80dX7tIZe1P6rzaw+5rIg/qvNrD7msiD80dX7tIZe1P6rzaw+5rJg/qvNrD7msqD+q82sPuayYPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13326883,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a2024-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Dallas-Cowboys-Bucket-Grill/5000039921",
+                "title": "Imperial International Dallas Cowboys Bucket Grill",
+                "full_description": "Pack up and bring the tailgate with you with this bucket grill. This fully functional mini-grill uses charcoal and is made from durable, galvanized steel. The bucket grill also includes a wooden handle for convenient and safe transportation to your tailgate, BBQ, beach or campsite. Product is officially licensed by the NFL.",
+                "brand": "Imperial International",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500003/5000039921.jpg",
+                "description": "Dallas Cowboys Bucket Grill"
+              }
+            },
+            "text": "Imperial International Dallas Cowboys Bucket Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "mpmZmZmZuT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB7FK5H4XqUP3sUrkfhepQ/exSuR+F6lD8AAAAAAAAAAAAAAAAAAAAAexSuR+F6lD8AAAAAAAAAAHsUrkfheqQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZmZmZmbk/exSuR+F6lD97FK5H4XqUPwAAAAAAAAAAuB6F61G4rj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4HoXrUbiuPwAAAAAAAAAAexSuR+F6lD+4HoXrUbi+P3sUrkfhepQ/uB6F61G4rj+4HoXrUbiuP3sUrkfhepQ/AAAAAAAAAAC4HoXrUbiuP3sUrkfheqQ/uB6F61G4rj97FK5H4XqUPwAAAAAAAAAAexSuR+F6lD8AAAAAAAAAAHsUrkfhepQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13340135,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a2014-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Pack up and bring the tailgate with you with this bucket grill. This fully functional mini-grill uses charcoal and is made from durable, galvanized steel. The bucket grill also includes a wooden handle for convenient and safe transportation to your tailgate, BBQ, beach or campsite. Product is officially licensed by the NFL.",
+                "description": "Denver Broncos Bucket Grill",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Denver-Broncos-Bucket-Grill/5000039923",
+                "title": "Imperial International Denver Broncos Bucket Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500003/5000039923.jpg",
+                "brand": "Imperial International"
+              }
+            },
+            "text": "Imperial International Denver Broncos Bucket Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "mpmZmZmZuT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB7FK5H4XqkPwAAAAAAAAAAexSuR+F6lD8AAAAAAAAAAAAAAAAAAAAAexSuR+F6lD8AAAAAAAAAAHsUrkfheqQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALgehetRuK4/AAAAAAAAAAB7FK5H4XqkPwAAAAAAAAAAmpmZmZmZuT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4HoXrUbiuPwAAAAAAAAAAexSuR+F6lD97FK5H4Xq0P3sUrkfhepQ/mpmZmZmZuT+4HoXrUbiuP3sUrkfhepQ/AAAAAAAAAACamZmZmZm5P3sUrkfhepQ/uB6F61G4rj97FK5H4XqUP3sUrkfhepQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13425532,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          }
+        ],
+        "tags": {
+          "full_description": "imperial international bucket grill"
+        },
+        "text": "imperial international bucket grill",
+        "embedding": {
+          "dense": {
+            "buffer": "Fl/xFV/xtT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABZf8RVf8bU/HdRBHdRBnT8d1EEd1EGdPwAAAAAAAAAAFl/xFV/xtT8AAAAAAAAAAB3UQR3UQZ0/AAAAAAAAAACSJEmSJEnCPwAAAAAAAAAAHdRBHdRBnT8d1EEd1EG9Px3UQR3UQZ0/Fl/xFV/xtT8d1EEd1EGdPx3UQR3UQZ0/AAAAAAAAAAAWX/EVX/G1PwAAAAAAAAAAFl/xFV/xtT8d1EEd1EGdPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "shape": [
+              96
+            ],
+            "dtype": "<f8",
+            "quantization": 0,
+            "maxVal": 0,
+            "minVal": 0,
+            "scale": 0,
+            "originalDtype": ""
+          }
+        },
+        "granularity": 0,
+        "adjacency": 0,
+        "parentId": "",
+        "chunks": [],
+        "weight": 0,
+        "uri": "",
+        "mimeType": "",
+        "location": [],
+        "offset": 0,
+        "scores": {},
+        "modality": "",
+        "evaluations": {}
+      }
+    ],
+    "groundtruths": []
+  }
+}

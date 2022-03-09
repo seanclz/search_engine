@@ -1,0 +1,1021 @@
+{
+  "requestId": "0364cb38-7025-4f9a-b968-fe2e1af13143",
+  "data": {
+    "docs": [
+      {
+        "id": "267b7546-5e88-11ec-9e82-17576e5cd1d2",
+        "matches": [
+          {
+            "id": "82faaeb1-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/047362/047362327758.jpg",
+                "product_url": "https://www.lowes.com/pd/Char-Broil-Medallion-5B-Built-in-Grill/1000712852",
+                "brand": "Char-Broil",
+                "title": "Char-Broil Medallion 5B Built in Grill",
+                "description": "Medallion 5B Built in Grill",
+                "full_description": "Complete your built-in outdoor kitchen with the Char-Broil&#174; Medallion Series&#8482; 5-Burner Gas Grill. Designed with performance in mind, this grill is packed with features like solid stainless steel grates and zonal cooking. The stainless steel construction creates a sleek appearance while offering durability to withstand the elements. Other features like a lighted cooking space, LED control knobs and a front-removable grease tray add convenience. Simply fire-it-up with SureFire&#174; electronic ignition and enjoy outdoor grilling at its finest."
+              }
+            },
+            "text": "Char-Broil Medallion 5B Built in Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "eQ3lNZTXwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAor6G8hvKaPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKK+hvIbymj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABeQ3kN5TW0PyivobyG8po/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKK+hvIbymj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKK+hvIbymj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACivobyG8qo/AAAAAAAAAAAAAAAAAAAAACivobyG8po/KK+hvIbymj8AAAAAAAAAAAAAAAAAAAAAKK+hvIbymj95DeU1lNfAPwAAAAAAAAAAAAAAAAAAAABeQ3kN5TXEPwAAAAAAAAAAKK+hvIbyqj8or6G8hvKqPwAAAAAAAAAAAAAAAAAAAABeQ3kN5TW0PwAAAAAAAAAAKK+hvIbymj8or6G8hvKaPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16991015,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae68-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Broil-King-Baron-Pellet-400-Grill/1002251924",
+                "title": "Broil King Baron Pellet 400 Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/062703/062703930510.jpg",
+                "description": "Baron Pellet 400 Grill",
+                "brand": "Broil King",
+                "full_description": "The Crown Pellet 400 grill  is a powerful and innovative pellet grill that uses a Wifi and Bluetooth&#174; enabled digital controller to provide enhanced temperature control allowing you to do anything with this grill including low-and-slow smoking at 225&deg;F, roasting at 350&deg;F, or even high-heat searing 600&deg;F.. This pellet grill comes fully equipped with a powerful auger, 18-lb capacity pellet hopper, removable grease management system, unique ash management system, 2 electronic meat probes, base storage and side shelf, and heavy duty and reversible cast iron cooking grids. Total cooking space on this grill is 640 sq. in. including a porcelain coated warming rack."
+              }
+            },
+            "text": "Broil King Baron Pellet 400 Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "ZZNNNtlkwz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIH3zwwQevPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgffPDBB58/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIH3zwwQevPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACB988MEHnz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIH3zwwQefPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACB988MEHnz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgffPDBB58/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACB988MEHrz8AAAAAAAAAAAgffPDBB58/AAAAAAAAAABGF1100UW3PwAAAAAAAAAAAAAAAAAAAABlk0022WTDPwAAAAAAAAAACB988MEHrz8IH3zwwQevPwAAAAAAAAAAAAAAAAAAAABGF1100UW3PwAAAAAAAAAACB988MEHnz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1730443,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae42-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/500002/5000028629.jpg",
+                "description": "Georgia Bulldogs 10-sq in Multicolor Portable Charcoal Grill",
+                "title": "Imperial International Georgia Bulldogs 10-sq in Multicolor Portable Charcoal Grill",
+                "full_description": "",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Georgia-Bulldogs-10-sq-in-Multicolor-Portable-Charcoal-Grill/5000028629",
+                "brand": "Imperial International"
+              }
+            },
+            "text": "Imperial International Georgia Bulldogs 10-sq in Multicolor Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "H3JZMVDCuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACq82sPuayIPwAAAAAAAAAAAAAAAAAAAACq82sPuayIP6rzaw+5rIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACq82sPuayIP6rzaw+5rIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqvNrD7msmD8AAAAAAAAAAKrzaw+5rJg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqvNrD7msiD8AAAAAAAAAAAAAAAAAAAAAqvNrD7msiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADR1fu0hl7U/qvNrD7msiD+q82sPuayYP6rzaw+5rIg/qvNrD7msqD8AAAAAAAAAAKrzaw+5rJg/qvNrD7msiD+/9pDLioGyPwAAAAAAAAAAAAAAAAAAAACU8EZT59e+P6rzaw+5rIg/qvNrD7msqD80dX7tIZe1P6rzaw+5rIg/qvNrD7msiD80dX7tIZe1P6rzaw+5rJg/qvNrD7msqD+q82sPuayYPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17742345,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae41-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Michigan-Wolverines-10-sq-in-Multicolor-Portable-Charcoal-Grill/5000028631",
+                "brand": "Imperial International",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500002/5000028631.jpg",
+                "full_description": "",
+                "description": "Michigan Wolverines 10-sq in Multicolor Portable Charcoal Grill",
+                "title": "Imperial International Michigan Wolverines 10-sq in Multicolor Portable Charcoal Grill"
+              }
+            },
+            "text": "Imperial International Michigan Wolverines 10-sq in Multicolor Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "s6asKWvKuj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD0BX1BX9CHPwAAAAAAAAAAAAAAAAAAAAD0BX1BX9CHP/QFfUFf0Ic/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPQFfUFf0Ic/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9AV9QV/Qhz8AAAAAAAAAAPQFfUFf0Jc/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9AV9QV/Qlz8AAAAAAAAAAAAAAAAAAAAA9AV9QV/Qhz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD0BX1BX9CHPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADZlTVlT1rQ/9AV9QV/Qhz93xB1xR9yhPwAAAAAAAAAAcUfcEXfErT8AAAAAAAAAAPQFfUFf0Ic/9AV9QV/Qlz/0BX1BX9C3PwAAAAAAAAAAAAAAAAAAAACzpqwpa8q6P/QFfUFf0Ic/d8QdcUfcsT93xB1xR9yxP/QFfUFf0Ic/9AV9QV/Qhz82ZU1ZU9a0P/QFfUFf0Jc/9AV9QV/Qpz/0BX1BX9CHP/QFfUFf0Ic/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18095784,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae85-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/GrillPro-GrillPro-Electric-Table-Top-Grill/1003259690",
+                "image_url": "https://mobileimages.lowes.com/product/converted/060162/060162011191.jpg",
+                "full_description": "The GrillPro Electric Table Top Grill offers up the performance you would expect from a portable gas grill in a convenient, compact electric grill. The powerful 1,500-Watt/120-Volt electric cooking element heats up quickly to get you grilling fast and offers up a wide range of control to let you get to your desired cooking temperature. The cast iron cooking grid retains the heat to provide a great sear, adding another layer of flavor to your food. The folding legs allow the grill to be easily stored when not in use. This grill is intended for outdoor use only and is ideal for grillers in apartments, condos, or any other residence where use of gas or charcoal grills is restricted.",
+                "brand": "GrillPro",
+                "title": "GrillPro GrillPro Electric Table Top Grill",
+                "description": "GrillPro Electric Table Top Grill"
+              }
+            },
+            "text": "GrillPro GrillPro Electric Table Top Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "nud5nud5vj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYhmEYhmGYPwAAAAAAAAAAkiRJkiRJsj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGIZhGIZhqD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYhmEYhmGoPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYZg/GIZhGIZhmD8YhmEYhmGoPwAAAAAAAAAAGIZhGIZhqD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYhmEYhmG4PwAAAAAAAAAAAAAAAAAAAAAYhmEYhmHIPwAAAAAAAAAAAAAAAAAAAACSJEmSJEmyPxiGYRiGYZg/AAAAAAAAAACSJEmSJEnCPwAAAAAAAAAAGIZhGIZhmD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1812302,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae43-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Clemson-Tigers-10-sq-in-Multicolor-Portable-Charcoal-Grill/5000028635",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500002/5000028635.jpg",
+                "description": "Clemson Tigers 10-sq in Multicolor Portable Charcoal Grill",
+                "title": "Imperial International Clemson Tigers 10-sq in Multicolor Portable Charcoal Grill",
+                "full_description": "",
+                "brand": "Imperial International"
+              }
+            },
+            "text": "Imperial International Clemson Tigers 10-sq in Multicolor Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "HMdxHMdxvD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg6db8sEiJPwAAAAAAAAAAAAAAAAAAAADg6db8sEiJP+Dp1vywSIk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODp1vywSJk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4OnW/LBIiT8AAAAAAAAAAODp1vywSJk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4OnW/LBIiT8AAAAAAAAAAAAAAAAAAAAA4OnW/LBIiT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg6db8sEiJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9rI/4OnW/LBIiT/g6db8sEiZPwAAAAAAAAAAWKQMPN2arz8AAAAAAAAAAODp1vywSIk/4OnW/LBIiT9oL6G9hPayPwAAAAAAAAAAAAAAAAAAAAAcx3Ecx3G8P+Dp1vywSJk/WKQMPN2arz9oL6G9hPayP+Dp1vywSIk/4OnW/LBIiT+kDDzdmh+2P2gvob2E9qI/4OnW/LBIqT/g6db8sEiJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1827971,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae40-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Imperial-International-LSU-Tigers-10-sq-in-Multicolor-Portable-Charcoal-Grill/5000028627",
+                "full_description": "",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500002/5000028627.jpg",
+                "description": "LSU Tigers 10-sq in Multicolor Portable Charcoal Grill",
+                "brand": "Imperial International",
+                "title": "Imperial International LSU Tigers 10-sq in Multicolor Portable Charcoal Grill"
+              }
+            },
+            "text": "Imperial International LSU Tigers 10-sq in Multicolor Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "NbB3TA3svT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC+Y2pg75iKPwAAAAAAAAAAAAAAAAAAAAC+Y2pg75iKP75jamDvmIo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL5jamDvmIo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvmNqYO+Yij8AAAAAAAAAAL5jamDvmJo/AAAAAAAAAAAAAAAAAAAAAL5jamDvmIo/vmNqYO+Yij8AAAAAAAAAAAAAAAAAAAAAvmNqYO+Yij8AAAAAAAAAAAAAAAAAAAAAvmNqYO+Yij++Y2pg75iKP75jamDvmIo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM7KT4iz8rM/vmNqYO+Yij++Y2pg75iaPwAAAAAAAAAAvmNqYO+Yqj8AAAAAAAAAAL5jamDvmIo/vmNqYO+Yij/Oyk+Is/KzPwAAAAAAAAAAAAAAAAAAAAC+Y2pg75i6P75jamDvmIo/vmNqYO+Yqj9WfkKclZ+wP75jamDvmIo/vmNqYO+Yij9GF1100UW3P75jamDvmJo/vmNqYO+Yqj++Y2pg75iKPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18336971,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faaeb0-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Complete your built-in outdoor kitchen with the Char-Broil&#174; Medallion Series&#8482; 4-Burner Gas Grill. Designed with performance in mind, this grill is packed with features like solid, stainless steel grates and zonal cooking. The stainless steel construction creates a sleek appearance while offering durability to withstand the elements. Other features like a lighted cooking space, LED control knobs and a front-removable grease tray add convenience. Simply fire-it-up with SureFire&#174; electronic ignition and enjoy outdoor grilling at its finest.",
+                "brand": "Char-Broil",
+                "image_url": "https://mobileimages.lowes.com/product/converted/047362/047362327857.jpg",
+                "product_url": "https://www.lowes.com/pd/Char-Broil-Medallion-4-Burner-Built-In-Gas-Grill/1000712816",
+                "description": "Medallion 4-Burner Built-In Gas Grill",
+                "title": "Char-Broil Medallion 4-Burner Built-In Gas Grill"
+              }
+            },
+            "text": "Char-Broil Medallion 4-Burner Built-In Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "q6qqqqqquj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFVVVVVVVZU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwP1VVVVVVVZU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVVVVVVVVpT8AAAAAAAAAAFVVVVVVVZU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVVVVVVVVlT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALA/AAAAAAAAAAAAAAAAAAAAAFVVVVVVVZU/VVVVVVVVpT8AAAAAAAAAAAAAAAAAAAAAVVVVVVVVlT9VVVVVVVW1PwAAAAAAAAAAAAAAAAAAAAAAAAAAAADAPwAAAAAAAAAAAAAAAAAAsD9VVVVVVVWlPwAAAAAAAAAAAAAAAAAAAACrqqqqqqq6P1VVVVVVVZU/VVVVVVVVlT9VVVVVVVWlPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18399502,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b2fa-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "The King-Griller&#8482; (by Char-Griller&#174;) Smokin' Ace&#8482; Charcoal Grill provides the versatility valued by barbecue pros and backyard enthusiasts, at a family friendly cost. It features a large grilling area with cast iron cooking grates and a warming rack. The built-in temperature gauge and adjustable fire grates provide added temperature control. The included side firebox is equipped with an easy to clean ash drawer. Manufactured with durable steel ensures this grill will last for years.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/789792/789792030180.jpg",
+                "brand": "King-Griller",
+                "title": "King-Griller Smokin' Ace 30-in Black Barrel Charcoal Grill",
+                "description": "Smokin' Ace 30-in Black Barrel Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/King-Griller-Smokin-Ace-30-in-Black-Barrel-Charcoal-Grill/1000596759"
+              }
+            },
+            "text": "King-Griller Smokin' Ace 30-in Black Barrel Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "R1juaYTlvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACWexphuaeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACWexphuaehPwAAAAAAAAAAAAAAAAAAAACWexphuaeRPwAAAAAAAAAAAAAAAAAAAACWexphuaeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlnsaYbmnkT+WexphuaehP5Z7GmG5p5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlnsaYbmnoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACWexphuaeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlnsaYbmnkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJZ7GmG5p7E/AAAAAAAAAABhuacRlnuqPwAAAAAAAAAAYbmnEZZ7qj8AAAAAAAAAAJZ7GmG5p5E/lnsaYbmnkT98GmG5pxG2PwAAAAAAAAAAlnsaYbmnoT9HWO5phOW+P5Z7GmG5p5E/YbmnEZZ7qj+WexphuaehPwAAAAAAAAAAAAAAAAAAAABhuacRlnu6PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18423888,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b258-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Blue Rhino",
+                "description": "4-Burner Liquid Propane Flat Top Grill",
+                "product_url": "https://www.lowes.com/pd/Blue-Rhino-4-Burner-Liquid-Propane-Flat-Top-Grill/1000364859",
+                "title": "Blue Rhino 4-Burner Liquid Propane Flat Top Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/841765/841765100785.jpg",
+                "full_description": "Cook up to 57 burgers at a time, fry up some eggs, sizzle some bacon or even do stir fry&#8230;all with the versatile Razor&#8482; super-sized griddle grill by Blue Rhino&#174;. Perfect for camping, tailgating or your backyard, the Razor&#8482; features four stainless steel burners for a total of 62000-BTU of power, including an integrated sear zone. A push and turn ignition makes this grill easy to light and simple to use. Clean up is a snap and no spills with the unique grease management system and concealed cup. Ultra handy shelves fold and double as a fitted lid that locks protecting the cooking surface. The wheels and compact design make transporting easy for your next event."
+              }
+            },
+            "text": "Blue Rhino 4-Burner Liquid Propane Flat Top Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "kiRJkiRJwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5ZQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5ZQ/OQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5ZQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DllD8AAAAAAAAAADkFL6fg5ZQ/AAAAAAAAAAA5BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5aQ/AAAAAAAAAAAAAAAAAAAAADkFL6fg5ZQ/1ofG+tBYrz8AAAAAAAAAAAAAAAAAAAAAOQUvp+DllD85BS+n4OW0PwAAAAAAAAAAAAAAAAAAAAA5BS+n4OW0PwAAAAAAAAAA1ofG+tBYrz/Wh8b60FivPzkFL6fg5aQ/OQUvp+DllD85BS+n4OW0PwAAAAAAAAAAOQUvp+DllD/Wh8b60FivPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18562947,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b2a9-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Blue-Rhino-2-Burner-Liquid-Propane-Flat-Top-Grill/1001568718",
+                "title": "Blue Rhino 2-Burner Liquid Propane Flat Top Grill",
+                "description": "2-Burner Liquid Propane Flat Top Grill",
+                "brand": "Blue Rhino",
+                "full_description": "The Blue Rhino&#174; 2 burner portable Razor&#8482; griddle grill has plenty of room to cook all your favorite foods; perfect for backyard barbecues, camping and tailgating. With the integrated front access drain and cup, cooking and clean-up is a snap. The versatile cooking surface is great for breakfast, lunch and dinner while the unique mobile cart design makes it easy to folds for storage or transportation. With a side shelf and attached lid you can prep and cook.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/841765/841765101874.jpg"
+              }
+            },
+            "text": "Blue Rhino 2-Burner Liquid Propane Flat Top Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "kiRJkiRJwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5ZQ/OQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5ZQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DllD8AAAAAAAAAADkFL6fg5ZQ/AAAAAAAAAAA5BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5aQ/AAAAAAAAAAAAAAAAAAAAADkFL6fg5ZQ/1ofG+tBYrz8AAAAAAAAAAAAAAAAAAAAAOQUvp+DllD85BS+n4OW0PwAAAAAAAAAAAAAAAAAAAAA5BS+n4OW0PwAAAAAAAAAA1ofG+tBYrz/Wh8b60FivPzkFL6fg5aQ/OQUvp+DllD85BS+n4OW0PwAAAAAAAAAAOQUvp+DllD/Wh8b60FivPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18562947,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae9d-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Enjoy quick gas grilling during the week and slow charcoal cooking on the weekends with the all-in-one Char-Griller&#174; Duo&#8482; Charcoal and Gas Grill. The gas side features: 438-sq-in cooking area, porcelain coated cast iron grates, dual smoke stacks for even heating, 3 burners with 40,800 BTU output, electronic ignition, and a 12,000 BTU side burner. The charcoal side features: 438-sq-in cooking area, warming rack, adjustable fire grate with easy dump ash pan, and a double lined bottom. For Texas smoking, add a Side Fire Box (Lowe's SKU 11236).",
+                "title": "Char-Griller Duo Black Dual-function Combo Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/789792/789792050508.jpg",
+                "product_url": "https://www.lowes.com/pd/Char-Griller-Duo-Black-Dual-function-Combo-Grill/1245537",
+                "brand": "Char-Griller",
+                "description": "Duo Black Dual-function Combo Grill"
+              }
+            },
+            "text": "Char-Griller Duo Black Dual-function Combo Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "q6qqqqqquj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVVVVVVVWlPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVVVVVVVWVP1VVVVVVVaU/VVVVVVVVpT8AAAAAAAAAAAAAAAAAAAAAVVVVVVVVpT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALA/VVVVVVVVlT9VVVVVVVWlPwAAAAAAAAAAVVVVVVVVlT9VVVVVVVWVPwAAAAAAAAAAVVVVVVVVlT8AAAAAAACwPwAAAAAAAAAAVVVVVVVVlT8AAAAAAADAP1VVVVVVVZU/VVVVVVVVpT9VVVVVVVW1PwAAAAAAAAAAAAAAAAAAAABVVVVVVVW1PwAAAAAAAAAAVVVVVVVVlT8AAAAAAACwPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18633899,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faadea-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Clihome",
+                "product_url": "https://www.lowes.com/pd/Clihome-Ac-Milan-Grills-22-in-Black-Barrel-Charcoal-Grill/1002269080",
+                "full_description": "Are you thinking about buying smoker grill?Â?Our smoker grill have been designed to give you the best smoker grill experience ever. Thanks to the controllable air supply and two layers design, our smoker will give you full control. Take the smoker grill to your home, you can barbecue with your family anytime and anywhere!",
+                "description": "Ac Milan Grills 22-in Black Barrel Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100226/1002269080.jpg",
+                "title": "Clihome Ac Milan Grills 22-in Black Barrel Charcoal Grill"
+              }
+            },
+            "text": "Clihome Ac Milan Grills 22-in Black Barrel Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "cB/BfQT3wT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwH8F9BPeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3oT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3kT9wH8F9BPehP3AfwX0E96E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3oT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3kT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAExnMZ3FdLY/AAAAAAAAAAAor6G8hvKqPwAAAAAAAAAAcB/BfQT3oT8AAAAAAAAAAAAAAAAAAAAAcB/BfQT3oT9MZzGdxXS2PwAAAAAAAAAAcB/BfQT3kT9eQ3kN5TXEP3AfwX0E95E/cB/BfQT3oT9wH8F9BPehPwAAAAAAAAAAAAAAAAAAAABMZzGdxXS2P3AfwX0E95E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18934724,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae3e-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Philadelphia Eagles Philadelphia Eagles Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500003/5000039949.jpg",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Philadelphia-Eagles-Philadelphia-Eagles-Bucket-Grill-10-sq-in-Muliple-Colors-Metal-Portable-Charcoal-Grill/5000039949",
+                "full_description": "Pack up and bring the tailgate with you with this bucket grill. This fully functional mini-grill uses charcoal and is made from durable, galvanized steel. The bucket grill also includes a wooden handle for convenient and safe transportation to your tailgate, BBQ, beach or campsite. Product is officially licensed by the NFL.",
+                "brand": "Imperial International",
+                "title": "Imperial International Philadelphia Eagles Philadelphia Eagles Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill"
+              }
+            },
+            "text": "Imperial International Philadelphia Eagles Philadelphia Eagles Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "8oa8IW/Iuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwB/wBf8B/PwAAAAAAAAAA8Af8AX/Afz/wB/wBf8B/P/AH/AF/wH8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwB/wBf8B/P/AH/AF/wI8/AAAAAAAAAADwB/wBf8CPPwAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAPAH/AF/wI8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAAAAAAAAAAAA9AV9QV/Qlz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHPGnDFnzLk/8Af8AX/Afz/wB/wBf8CPP/AH/AF/wI8/9oQ9YU/Ysz8AAAAAAAAAAPAH/AF/wI8/9oQ9YU/Yoz/2hD1hT9izPwAAAAAAAAAA8Af8AX/Afz93xB1xR9zBP/AH/AF/wH8/8Af8AX/Anz/2hD1hT9ijP/AH/AF/wJ8/8Af8AX/Afz/yhrwhb8irP/AH/AF/wJ8/9oQ9YU/Yoz/wB/wBf8CPPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18940514,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae3f-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Pittsburgh Steelers Pittsburgh Steelers Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Pittsburgh-Steelers-Pittsburgh-Steelers-Bucket-Grill-10-sq-in-Muliple-Colors-Metal-Portable-Charcoal-Grill/5000039925",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500003/5000039925.jpg",
+                "brand": "Imperial International",
+                "title": "Imperial International Pittsburgh Steelers Pittsburgh Steelers Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+                "full_description": "Pack up and bring the tailgate with you with this bucket grill. This fully functional mini-grill uses charcoal and is made from durable, galvanized steel. The bucket grill also includes a wooden handle for convenient and safe transportation to your tailgate, BBQ, beach or campsite. Product is officially licensed by the NFL."
+              }
+            },
+            "text": "Imperial International Pittsburgh Steelers Pittsburgh Steelers Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "8oa8IW/Iuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwB/wBf8B/PwAAAAAAAAAA8Af8AX/Afz/wB/wBf8B/P/AH/AF/wH8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwB/wBf8B/P/AH/AF/wI8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAPAH/AF/wI8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAAAAAAAAAAAA9AV9QV/Qlz8AAAAAAAAAAAAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPKGvCFvyKs/9AV9QV/Qlz/wB/wBf8CPPwAAAAAAAAAA9AV9QV/Qtz8AAAAAAAAAAPAH/AF/wI8/9AV9QV/Qlz/wB/wBf8CvPwAAAAAAAAAA8Af8AX/Afz/yhrwhb8i7P/AH/AF/wH8/8Af8AX/Anz/2hD1hT9ijP/AH/AF/wI8/8Af8AX/Afz91RV1RV9S1P/QFfUFf0Kc/dUVdUVfUtT/wB/wBf8CfPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18948445,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae62-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Broil King",
+                "title": "Broil King Regal Pellet 825-sq in Black Pellet Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/062703/062703106274.jpg",
+                "full_description": "The Regal Pellet 500 grill is a powerful and innovative pellet grill that uses a Wifi and Bluetooth&#174; enabled digital controller to provide enhanced temperature control allowing you to do anything with this grill including low-and-slow smoking at 225&deg;F, roasting at 350&deg;F, or even high-heat searing 600&deg;F.. This pellet grill comes fully equipped with a powerful auger, 22-lb capacity pellet hopper, removable grease management system, unique ash management system, deluxe rotisserie kit, 2 electronic meat probes, base storage and side shelf, and heavy duty and reversible cast iron cooking grids. Total cooking space on this grill is 865 sq. in. including a porcelain coated warming rack.",
+                "product_url": "https://www.lowes.com/pd/Broil-King-Regal-Pellet-825-sq-in-Black-Pellet-Grill/1000894096",
+                "description": "Regal Pellet 825-sq in Black Pellet Grill"
+              }
+            },
+            "text": "Broil King Regal Pellet 825-sq in Black Pellet Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "FDuxEzuxwz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GjPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxoz8AAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7saM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAA2Ymd2ImduD8AAAAAAAAAABQ7sRM7saM/AAAAAAAAAAAUO7ETO7GzPwAAAAAAAAAAFDuxEzuxkz92Yid2YifGPwAAAAAAAAAAFDuxEzuxoz8UO7ETO7GTPwAAAAAAAAAAFDuxEzuxkz8UO7ETO7GjPxQ7sRM7sZM/FDuxEzuxoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19158518,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faaebe-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "",
+                "description": "Imperial 490 4-Burner Stainless Steel Built-in Liquid Propane Gas Grill",
+                "brand": "Broil King",
+                "product_url": "https://www.lowes.com/pd/Broil-King-Imperial-490-4-Burner-Stainless-Steel-Built-in-Liquid-Propane-Gas-Grill/1000721488",
+                "image_url": "https://mobileimages.lowes.com/product/converted/062703/062703560847.jpg",
+                "title": "Broil King Imperial 490 4-Burner Stainless Steel Built-in Liquid Propane Gas Grill"
+              }
+            },
+            "text": "Broil King Imperial 490 4-Burner Stainless Steel Built-in Liquid Propane Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "LFG7ErUrwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD6GJyPwfmYPwAAAAAAAAAAAAAAAAAAAAD6GJyPwfmIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPoYnI/B+Zg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD6GJyPwfmIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC7ErUrUbuiPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+hicj8H5mD8AAAAAAAAAAPoYnI/B+Yg/AAAAAAAAAAD6GJyPwfmIP/oYnI/B+Yg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+hicj8H5iD8AAAAAAAAAAAAAAAAAAAAA+hicj8H5mD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPoYnI/B+ag/AAAAAAAAAAAAAAAAAAAAAPoYnI/B+Yg/uxK1K1G7sj8AAAAAAAAAAPoYnI/B+Yg/AAAAAAAAAAAZnI/B+Ri8PwAAAAAAAAAAAAAAAAAAAADblahdidq1P/oYnI/B+Yg/OB+D8zE4rz/6GJyPwfmYP/oYnI/B+Zg/+hicj8H5iD+7ErUrUbuyP7sStStRu6I/uxK1K1G7oj+7ErUrUbuiPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19163713,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae4f-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Fire & Flavor",
+                "product_url": "https://www.lowes.com/pd/Fire-Flavor-HERO-Portable-Lightweight-Charcoal-Grill/1003008440",
+                "image_url": "https://mobileimages.lowes.com/product/converted/892805/892805003801.jpg",
+                "full_description": "Hero&#8482; makes grilling simple, clean, and portable. It features a fast set up and no mess, eco-friendly charcoal pods that are ready in ten minutes to give you an hour of grill time. The grill is dishwasher safe, making clean up fast and easy. The charcoal pods are an environmentally friendly fuel choice compared to petroleum based alternatives.",
+                "description": "HERO Portable Lightweight Charcoal Grill",
+                "title": "Fire & Flavor HERO Portable Lightweight Charcoal Grill"
+              }
+            },
+            "text": "Fire & Flavor HERO Portable Lightweight Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "ewntJbSXwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/AAAAAAAAAABoL6G9hPaSP2gvob2E9qI/aC+hvYT2kj9oL6G9hPaSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/AAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/aC+hvYT2kj8AAAAAAAAAAGgvob2E9pI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9rI/aC+hvYT2kj9oL6G9hPaSPwAAAAAAAAAAHMdxHMdxrD8AAAAAAAAAAGgvob2E9qI/HMdxHMdxrD9oL6G9hPayPwAAAAAAAAAAAAAAAAAAAABCewntJbS3PwAAAAAAAAAAAAAAAAAAAAAcx3Ecx3GsPwAAAAAAAAAAAAAAAAAAAABCewntJbS3PwAAAAAAAAAAHMdxHMdxrD8AAAAAAAAAAGgvob2E9pI/aC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19306166,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae4c-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Hero&#8482; makes grilling simple, clean, and portable. It features a fast set up and no mess, eco-friendly charcoal pods that are ready in ten minutes to give you an hour of grill time. The grill is dishwasher safe, making clean up fast and easy. The charcoal pods are an environmentally friendly fuel choice compared to petroleum based alternatives.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/892805/892805003801.jpg",
+                "title": "Fire & Flavor HERO Portable Lightweight Charcoal Grill",
+                "brand": "Fire & Flavor",
+                "description": "HERO Portable Lightweight Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Fire-Flavor-HERO-Portable-Lightweight-Charcoal-Grill/1001813290"
+              }
+            },
+            "text": "Fire & Flavor HERO Portable Lightweight Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "ewntJbSXwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/AAAAAAAAAABoL6G9hPaSP2gvob2E9qI/aC+hvYT2kj9oL6G9hPaSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/AAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/aC+hvYT2kj8AAAAAAAAAAGgvob2E9pI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9rI/aC+hvYT2kj9oL6G9hPaSPwAAAAAAAAAAHMdxHMdxrD8AAAAAAAAAAGgvob2E9qI/HMdxHMdxrD9oL6G9hPayPwAAAAAAAAAAAAAAAAAAAABCewntJbS3PwAAAAAAAAAAAAAAAAAAAAAcx3Ecx3GsPwAAAAAAAAAAAAAAAAAAAABCewntJbS3PwAAAAAAAAAAHMdxHMdxrD8AAAAAAAAAAGgvob2E9pI/aC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19306166,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faadfa-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Char-Griller-Char-Griller-Premium-Red-Kettle-Charcoal-Grill-22-in-Red-Kettle-Charcoal-Grill/5000182865",
+                "title": "Char-Griller Char-Griller Premium Red Kettle Charcoal Grill 22-in Red Kettle Charcoal Grill",
+                "description": "Char-Griller Premium Red Kettle Charcoal Grill 22-in Red Kettle Charcoal Grill",
+                "full_description": "If you have been searching for a totally unique kettle-style grill, the Char-Griller Premium Red Kettle Charcoal Grill is what you need. Equipped with a hinged lid for easy use, side shelves for cooking preparation and an Easy Dump&#8482; ash pan, this kettle grill is a great option for grillers who are looking for a great all-around grill.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/789792/789792148229.jpg",
+                "brand": "Char-Griller"
+              }
+            },
+            "text": "Char-Griller Char-Griller Premium Red Kettle Charcoal Grill 22-in Red Kettle Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "H+/xHu/xvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARDuEQDuGgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF2iBFmiBlj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABdogRZogaY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF2iBFmiBpj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXaIEWaIGWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF2iBFmiBhj8AAAAAAAAAABdogRZogZY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEO4RAO4bA/AAAAAAAAAAAXaIEWaIGWPxdogRZogZY/GZVRGZVRuT8AAAAAAAAAAAAAAAAAAAAAF2iBFmiBpj8RDuEQDuGwPwAAAAAAAAAAAAAAAAAAAAARDuEQDuHAPxdogRZogZY/F2iBFmiBhj8XaIEWaIGWPwAAAAAAAAAAAAAAAAAAAAAf7/Ee7/G+PwAAAAAAAAAAF2iBFmiBpj8XaIEWaIGGPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19312522,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          }
+        ],
+        "tags": {},
+        "text": "blue rhino grill",
+        "embedding": {
+          "dense": {
+            "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAsD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAsD8AAAAAAAAAAAAAAAAAALA/AAAAAAAAsD8AAAAAAADAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAADIPwAAAAAAAAAAAAAAAAAAsD8AAAAAAACwPwAAAAAAAAAAAAAAAAAAAAAAAAAAAADAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAACwPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "shape": [
+              96
+            ],
+            "dtype": "<f8",
+            "quantization": 0,
+            "maxVal": 0,
+            "minVal": 0,
+            "scale": 0,
+            "originalDtype": ""
+          }
+        },
+        "granularity": 0,
+        "adjacency": 0,
+        "parentId": "",
+        "chunks": [],
+        "weight": 0,
+        "uri": "",
+        "mimeType": "",
+        "location": [],
+        "offset": 0,
+        "scores": {},
+        "modality": "",
+        "evaluations": {}
+      }
+    ],
+    "groundtruths": []
+  }
+}

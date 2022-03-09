@@ -1,0 +1,1021 @@
+{
+  "requestId": "f529a30a-1f9e-4c55-b313-57de03dbf313",
+  "data": {
+    "docs": [
+      {
+        "id": "5aa787ee-40b3-11ec-a63e-e3ebb0d407f3",
+        "matches": [
+          {
+            "id": "2eab7ed3-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "",
+                "product_url": "https://www.lowes.com/pd/EdgeStar-3-Burner-Natural-Gas-Built-In-Grill/1001089532",
+                "image_url": "https://mobileimages.lowes.com/product/converted/846844/846844012065.jpg",
+                "title": "EdgeStar 3-Burner Natural Gas Built-In Grill",
+                "description": "3-Burner Natural Gas Built-In Grill",
+                "brand": "EdgeStar"
+              }
+            },
+            "text": "EdgeStar 3-Burner Natural Gas Built-In Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "F1100UUXvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWnPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWXPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWnPwAAAAAAAAAAAAAAAAAAAABGF1100UWXPwAAAAAAAAAARhdddNFFpz8AAAAAAAAAAEYXXXTRRZc/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWXPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARhdddNFFlz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEYXXXTRRbc/AAAAAAAAAAAAAAAAAAAAAEYXXXTRRZc/RhdddNFFpz8AAAAAAAAAAEYXXXTRRZc/AAAAAAAAAABGF1100UWnPwAAAAAAAAAAAAAAAAAAAABGF1100UW3PwAAAAAAAAAARhdddNFFpz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXXXTRRRe9P0YXXXTRRZc/dNFFF110sT900UUXXXSxPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1638887,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2eab7ed2-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "",
+                "image_url": "https://mobileimages.lowes.com/product/converted/846844/846844012089.jpg",
+                "brand": "EdgeStar",
+                "title": "EdgeStar 3-Burner Natural Gas Built-In Grill",
+                "product_url": "https://www.lowes.com/pd/EdgeStar-3-Burner-Natural-Gas-Built-In-Grill/1001089546",
+                "description": "3-Burner Natural Gas Built-In Grill"
+              }
+            },
+            "text": "EdgeStar 3-Burner Natural Gas Built-In Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "F1100UUXvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWnPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWXPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWnPwAAAAAAAAAAAAAAAAAAAABGF1100UWXPwAAAAAAAAAARhdddNFFpz8AAAAAAAAAAEYXXXTRRZc/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWXPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARhdddNFFlz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEYXXXTRRbc/AAAAAAAAAAAAAAAAAAAAAEYXXXTRRZc/RhdddNFFpz8AAAAAAAAAAEYXXXTRRZc/AAAAAAAAAABGF1100UWnPwAAAAAAAAAAAAAAAAAAAABGF1100UW3PwAAAAAAAAAARhdddNFFpz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXXXTRRRe9P0YXXXTRRZc/dNFFF110sT900UUXXXSxPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1638887,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2eab7ed0-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/EdgeStar-3-Burner-Natural-Gas-Built-In-Grill/1001089534",
+                "brand": "EdgeStar",
+                "title": "EdgeStar 3-Burner Natural Gas Built-In Grill",
+                "full_description": "",
+                "description": "3-Burner Natural Gas Built-In Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/846844/846844012041.jpg"
+              }
+            },
+            "text": "EdgeStar 3-Burner Natural Gas Built-In Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "F1100UUXvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWnPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWXPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWnPwAAAAAAAAAAAAAAAAAAAABGF1100UWXPwAAAAAAAAAARhdddNFFpz8AAAAAAAAAAEYXXXTRRZc/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWXPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARhdddNFFlz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEYXXXTRRbc/AAAAAAAAAAAAAAAAAAAAAEYXXXTRRZc/RhdddNFFpz8AAAAAAAAAAEYXXXTRRZc/AAAAAAAAAABGF1100UWnPwAAAAAAAAAAAAAAAAAAAABGF1100UW3PwAAAAAAAAAARhdddNFFpz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXXXTRRRe9P0YXXXTRRZc/dNFFF110sT900UUXXXSxPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1638887,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2eab7ee2-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "4-Burner Liquid Propane Natural Gas Built-In Grill",
+                "product_url": "https://www.lowes.com/pd/Cal-Flame-4-Burner-Liquid-Propane-Natural-Gas-Built-In-Grill/1002704358",
+                "title": "Cal Flame 4-Burner Liquid Propane Natural Gas Built-In Grill",
+                "brand": "Cal Flame",
+                "image_url": "https://mobileimages.lowes.com/product/converted/089245/089245010050.jpg",
+                "full_description": "Cal flame's sturdy gourmet 4-burner G4 stainless steel gas BBQ grill has the cooking power of up to 60,000 BTUs and features a convenient full width drip tray. 1-Piece handle and four cast porcelain burners with independent ignitions. Take your outdoor kitchen up a notch with the G4 grill."
+              }
+            },
+            "text": "Cal Flame 4-Burner Liquid Propane Natural Gas Built-In Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "ERERERERwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGhPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGhPxEREREREZE/AAAAAAAAAAAAAAAAAAAAABEREREREZE/ERERERERoT8AAAAAAAAAABEREREREZE/AAAAAAAAAAAAAAAAAAAAABEREREREZE/AAAAAAAAAAARERERERGRPwAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZmZmZmbk/AAAAAAAAAAAAAAAAAAAAABEREREREZE/mpmZmZmZqT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGxPwAAAAAAAAAAAAAAAAAAAACamZmZmZm5PxEREREREZE/mpmZmZmZqT8RERERERGRPxEREREREZE/ERERERERkT9VVVVVVVW1PxEREREREZE/ERERERERoT8RERERERGxPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17047979,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2eab7ee0-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Cal Flame Cal Flame 5 Burner Grill 5-Burner Liquid Propane Natural Gas Built-In Grill",
+                "full_description": "The Cal Flame built-In 5-burner gas BBQ grill has the cooking power of up to 90,000 BTUs. This stainless steel grill features a convenient full width drip tray, 5 cast stainless steel burners with independent ignitions, lip guards on all burners to prevent clogging, independent knobs with an exclusive patented design and convenient lights to cook day or night. The rotisserie feature has motor mounts on the grills left or right side and includes an independent 15,000 BTUs rear burner that is ideal for rotisserie cooking. Enjoy favorites like eggs or bacon with an easy to store griddle tray designed to fit the Cal Flame grill or infuse BBQ with the smoky flavor everyone loves with a covered accessory smoker tray. The Cal Flame grill cover is included. Grill comes with a 10-year limited warranty.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/089245/089245001553.jpg",
+                "brand": "Cal Flame",
+                "description": "Cal Flame 5 Burner Grill 5-Burner Liquid Propane Natural Gas Built-In Grill",
+                "product_url": "https://www.lowes.com/pd/Cal-Flame-Cal-Flame-5-Burner-Grill-5-Burner-Liquid-Propane-Natural-Gas-Built-In-Grill/1002793408"
+              }
+            },
+            "text": "Cal Flame Cal Flame 5 Burner Grill 5-Burner Liquid Propane Natural Gas Built-In Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "lJOTk5OTwz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYGBgYGBiYPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGBgYGBgYmD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASEhISEhKiPxgYGBgYGJg/AAAAAAAAAAAAAAAAAAAAABgYGBgYGJg/EhISEhISoj8AAAAAAAAAABgYGBgYGIg/AAAAAAAAAAAAAAAAAAAAABgYGBgYGIg/AAAAAAAAAAAYGBgYGBiIPwAAAAAAAAAAGBgYGBgYiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGBgYGLg/AAAAAAAAAAAAAAAAAAAAABgYGBgYGIg/Hh4eHh4erj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6uPwAAAAAAAAAAAAAAAAAAAAAeHh4eHh6+PxgYGBgYGJg/GBgYGBgYqD8YGBgYGBiIPxgYGBgYGIg/GBgYGBgYiD8YGBgYGBi4PxgYGBgYGIg/GBgYGBgYmD8eHh4eHh6uPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17101099,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2eab7edb-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Upgrade your next barbecue with this Cal Flame built-in gas infrared grill. With a convection fan, this built-in grill evenly circulates heat along its four high-powered burners, minimizing hot and cold spots. The back burner offers extra rotisserie power, while the welded double-walled hood locks in heat. Constructed of stainless steel, this built-in grill offers durability and an easy-to-clean exterior surface. The interior is also easy to maintain with its removable stainless steel v-grates and a pull-out drip tray that catches messes. Maintaining heat and cleanliness, this grill will make you feel like a barbecue pro.",
+                "brand": "Cal Flame",
+                "description": "4-Burner Built-In Liquid Propane and Natural Gas Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/089245/089245600077.jpg",
+                "title": "Cal Flame 4-Burner Built-In Liquid Propane and Natural Gas Grill",
+                "product_url": "https://www.lowes.com/pd/Cal-Flame-4-Burner-Built-In-Liquid-Propane-and-Natural-Gas-Grill/50195161"
+              }
+            },
+            "text": "Cal Flame 4-Burner Built-In Liquid Propane and Natural Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAJA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAJA/AAAAAAAAoD8AAAAAAAAAAAAAAAAAAJA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAJA/AAAAAAAAAAAAAAAAAACQPwAAAAAAAAAAAAAAAAAAkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAKA/AAAAAAAAqD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4PwAAAAAAAJA/AAAAAAAAsD8AAAAAAACQPwAAAAAAAJA/AAAAAAAAkD8AAAAAAAC0PwAAAAAAAJA/AAAAAAAAoD8AAAAAAACwPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17210376,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2eab7edc-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Cal Flame",
+                "description": "5-Burner Built-In Liquid Propane and Natural Gas Grill",
+                "title": "Cal Flame 5-Burner Built-In Liquid Propane and Natural Gas Grill",
+                "product_url": "https://www.lowes.com/pd/Cal-Flame-5-Burner-Built-In-Liquid-Propane-and-Natural-Gas-Grill/50191349",
+                "full_description": "Enhance your grilling experience with this Cal Flame gas grill. With a warming rack and plenty of cooking space, there&#8217;s a vast amount of room to grill your favorite meats, fish and vegetables. The sear zone and smoke tray offer greater cooking versatility, generating delicious flavors and distinctive tastes. Lip guards on all burners prevent clogging and a full-width drip tray keeps the cooking area clean. It also includes a temperature gauge to accurately measure internal heat levels. Easy to start with piezo ignition, this grill makes the perfect addition to your next barbecue.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/089245/089245600046.jpg"
+              }
+            },
+            "text": "Cal Flame 5-Burner Built-In Liquid Propane and Natural Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAJA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAJA/AAAAAAAAoD8AAAAAAAAAAAAAAAAAAJA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAJA/AAAAAAAAAAAAAAAAAACQPwAAAAAAAAAAAAAAAAAAkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAKA/AAAAAAAAqD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4PwAAAAAAAJA/AAAAAAAAsD8AAAAAAACQPwAAAAAAAJA/AAAAAAAAkD8AAAAAAAC0PwAAAAAAAJA/AAAAAAAAoD8AAAAAAACwPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17210376,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2eab7ec4-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Char-Griller Dual 2 Burner Gas and Charcoal Grill",
+                "full_description": "Enjoy the benefits of both gas and charcoal with the Char-Griller Dual Function&#8482; 2-Burner Gas and Charcoal Grill. It features dual smokestacks, heat gauge, and triple wall steel with insulation to deliver a superior grilling experience. With an Easy Dump&#8482; ash pan and a sturdy side shelf, this two in one unit is perfect for grilling all year round.",
+                "brand": "Char-Griller",
+                "description": "Dual 2 Burner Gas and Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Char-Griller-Dual-2-Burner-Gas-and-Charcoal-Grill/5000270179",
+                "image_url": "https://mobileimages.lowes.com/product/converted/789792/789792050300.jpg"
+              }
+            },
+            "text": "Char-Griller Dual 2 Burner Gas and Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "kiRJkiRJwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWUPzkFL6fg5aQ/OQUvp+DllD8AAAAAAAAAAAAAAAAAAAAA1ofG+tBYrz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANaHxvrQWL8/AAAAAAAAAAA5BS+n4OWUPzkFL6fg5ZQ/OQUvp+DlpD8AAAAAAAAAAAAAAAAAAAAAOQUvp+DlpD85BS+n4OWkPwAAAAAAAAAAAAAAAAAAAADWh8b60Fi/PwAAAAAAAAAAOQUvp+DlpD85BS+n4OWUPwAAAAAAAAAAAAAAAAAAAACSJEmSJEnCPzkFL6fg5ZQ/AAAAAAAAAAA5BS+n4OWkPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1725567,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2eab7eda-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Cal Flame",
+                "product_url": "https://www.lowes.com/pd/Cal-Flame-4-Burner-Built-In-Liquid-Propane-and-Natural-Gas-Infrared-Grill/50195163",
+                "image_url": "https://mobileimages.lowes.com/product/converted/089245/089245601135.jpg",
+                "title": "Cal Flame 4-Burner Built-In Liquid Propane and Natural Gas Infrared Grill",
+                "description": "4-Burner Built-In Liquid Propane and Natural Gas Infrared Grill",
+                "full_description": "Summer barbecue season does&#8217;t have to end with this Cal Flame built-in gas infrared grill. The stainless steel construction is durable, easy to clean and weather-resistant so it won&#8217;t rust or stain year-round. It features four high-powered burners that retain heat for even cooking, an infrared back burner for extra rotisserie cooking power and a full-width pull-out drip tray to catch messes. With piezo ignition, it offers fast and easy startups, and its integrated lights allow you to cook even after the sun sets. This built-in grills classic design and powerful heat are bound to make your next barbecue one to remember."
+              }
+            },
+            "text": "Cal Flame 4-Burner Built-In Liquid Propane and Natural Gas Infrared Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "jBgxYsSIwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgwIEDBw6cPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODAgQMHDow/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgwIEDBw6cP+DAgQMHDow/AAAAAAAAAAAAAAAAAAAAAODAgQMHDow/4MCBAwcOnD8AAAAAAAAAAODAgQMHDpw/AAAAAAAAAAAAAAAAAAAAAODAgQMHDow/AAAAAAAAAADgwIEDBw6MPwAAAAAAAAAA4MCBAwcOjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODAgQMHDrw/AAAAAAAAAAAAAAAAAAAAAKhQoUKFCqU/4MCBAwcOrD/gwIEDBw6MPwAAAAAAAAAAAAAAAAAAAADgwIEDBw6sPwAAAAAAAAAAAAAAAAAAAACoUKFChQq1P+DAgQMHDow/jBgxYsSIsT/gwIEDBw6MP+DAgQMHDow/4MCBAwcOjD/EiBEjRoy4P+DAgQMHDow/4MCBAwcOnD/gwIEDBw6sPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17521797,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79ab2-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Regal S420 Stainless Steel 4-Burner Natural Gas Grill",
+                "brand": "Broil King",
+                "product_url": "https://www.lowes.com/pd/Broil-King-Regal-S420-Stainless-Steel-4-Burner-Natural-Gas-Grill/1000955506",
+                "image_url": "https://mobileimages.lowes.com/product/converted/062703/062703851174.jpg",
+                "full_description": "",
+                "title": "Broil King Regal S420 Stainless Steel 4-Burner Natural Gas Grill"
+              }
+            },
+            "text": "Broil King Regal S420 Stainless Steel 4-Burner Natural Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAACQPwAAAAAAAAAAAAAAAAAAkD8AAAAAAAAAAAAAAAAAAKA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJA/AAAAAAAAqD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAtD8AAAAAAAAAAAAAAAAAAKA/AAAAAAAAAAAAAAAAAACwPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAC8PwAAAAAAAAAAAAAAAAAAqD8AAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAC0PwAAAAAAAKg/AAAAAAAAqD8AAAAAAACgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17893218,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2eab7eca-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Ruby series, by Sunstone &#8211; pro sear 3 burner grill is small but mighty, built with 304 grade stainless steel construction, seamless edging, and Â?Â?Â?eye catching features. Exclusive all 304 SS fabricated I-burners with a minimal BTU output of 45,000, and integrated flame-thrower ignition in all burner positions. The cooking grids are solid 304 stainless steel, with exclusive variable rod spacing, for larger items on the left and right sides and smaller items in the middle. The warming grids are designed to work as a heat-riser, to push extra heat towards the front, creating an even heat distribution. At the same time the angled warming grid sheds most oils and cooking grease towards the back spill-away so you have less flare-ups. Exclusive pro sear thermal cooking grid, transfers heat evenly across the cooking grid at up to 700 degrees with the hood up, and up to 800 degrees with the hood down all in under 3 minutes of heat up time and from a single burner.",
+                "description": "Ruby 3-Burner Natural Gas Built-In Grill",
+                "product_url": "https://www.lowes.com/pd/Sunstone-Ruby-3-Burner-Natural-Gas-Built-In-Grill/1001004114",
+                "title": "Sunstone Ruby 3-Burner Natural Gas Built-In Grill",
+                "brand": "Sunstone",
+                "image_url": "https://mobileimages.lowes.com/product/converted/818899/818899020708.jpg"
+              }
+            },
+            "text": "Sunstone Ruby 3-Burner Natural Gas Built-In Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "1ofG+tBYvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DlpD8AAAAAAAAAADkFL6fg5ZQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5ZQ/OQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANaHxvrQWK8/OQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAOQUvp+DlpD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPwAAAAAAAAAAAAAAAAAAAAA5BS+n4OW0PwAAAAAAAAAAOQUvp+DltD85BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAA5BS+n4OW0PzkFL6fg5aQ/1ofG+tBYrz+IxvrQWB+6PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5ZQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1795464,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2eab7ec8-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Sunstone-Ruby-5-Burner-Natural-Gas-Built-In-Grill/1001004336",
+                "image_url": "https://mobileimages.lowes.com/product/converted/818899/818899020760.jpg",
+                "title": "Sunstone Ruby 5-Burner Natural Gas Built-In Grill",
+                "brand": "Sunstone",
+                "description": "Ruby 5-Burner Natural Gas Built-In Grill",
+                "full_description": "Ruby series, by Sunstone &#8211; pro sear 5 burner grill with infra-red burner and rotisserie is superior in its class, built with all 304 grade stainless steel construction, seamless edging, and eye catching features. Exclusive all 304 SS fabricated I-burners with a minimal BTU output of 100,000 and an additional 15,000 BTU extra-wide rotisserie back burner all with integrated flame-thrower ignition in all burner positions. The cooking grids are solid 304 stainless steel, with exclusive variable rod spacing, for larger items on the left and right sides and smaller items in the middle. The warming grids are designed to work as a heat-riser, to push extra heat towards the front, creating an even heat distribution. At the same time the angled warming grid sheds most oils and cooking grease towards the back spill-away so you have less flare-ups. Exclusive pro sear thermal cooking grid, transfers heat evenly across the cooking grid at up to 700 degrees with the hood up, and up to 800 degrees with the hood down all in under 3 minutes of heat up time and from a single burner."
+              }
+            },
+            "text": "Sunstone Ruby 5-Burner Natural Gas Built-In Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "1ofG+tBYvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DlpD8AAAAAAAAAADkFL6fg5ZQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5ZQ/OQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANaHxvrQWK8/OQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAOQUvp+DlpD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPwAAAAAAAAAAAAAAAAAAAAA5BS+n4OW0PwAAAAAAAAAAOQUvp+DltD85BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAA5BS+n4OW0PzkFL6fg5aQ/1ofG+tBYrz+IxvrQWB+6PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5ZQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1795464,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2eab7ec9-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Sunstone-Ruby-4-Burner-Natural-Gas-Built-In-Grill/1001004120",
+                "title": "Sunstone Ruby 4-Burner Natural Gas Built-In Grill",
+                "description": "Ruby 4-Burner Natural Gas Built-In Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/818899/818899020746.jpg",
+                "brand": "Sunstone",
+                "full_description": "Ruby series, by Sunstone &#8211; pro sear 4 burner grill with infra-red burner and rotisserie is superior in its class, built with all 304 grade stainless steel construction, seamless edging, and eye catching features. Exclusive all 304 SS fabricated I-burners with a minimal BTU output of 60,000 and an additional 15,000 BTU extra-wide rotisserie back burner all with integrated flame-thrower ignition in all burner positions. The cooking grids are solid 304 stainless steel, with exclusive variable rod spacing, for larger items on the left and right sides and smaller items in the middle. The warming grids are designed to work as a heat-riser, to push extra heat towards the front, creating an even heat distribution. At the same time the angled warming grid sheds most oils and cooking grease towards the back spill-away so you have less flare-ups. Exclusive pro sear thermal cooking grid, transfers heat evenly across the cooking grid at up to 700 degrees with the hood up, and up to 800 degrees with the hood down all in under 3 minutes of heat up time and from a single burner."
+              }
+            },
+            "text": "Sunstone Ruby 4-Burner Natural Gas Built-In Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "1ofG+tBYvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5ZQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DlpD8AAAAAAAAAADkFL6fg5ZQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5ZQ/OQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANaHxvrQWK8/OQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAOQUvp+DlpD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPwAAAAAAAAAAAAAAAAAAAAA5BS+n4OW0PwAAAAAAAAAAOQUvp+DltD85BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAA5BS+n4OW0PzkFL6fg5aQ/1ofG+tBYrz+IxvrQWB+6PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5ZQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1795464,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2eab7ec7-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Sunstone Ruby 4-Burner Natural Gas Built-In Grill",
+                "full_description": "Ruby series, by Sunstone &#8211; pro sear 4 burner grill is small but mighty, built with 304 grade stainless steel construction, seamless edging, and Â?Â?Â?eye catching features. Exclusive all 304 SS fabricated I-burners with a minimal BTU output of 60,000, and integrated flame-thrower ignition in all burner positions. The cooking grids are solid 304 stainless steel, with exclusive variable rod spacing, for larger items on the left and right sides and smaller items in the middle. The warming grids are designed to work as a heat-riser, to push extra heat towards the front, creating an even heat distribution. At the same time the angled warming grid sheds most oils and cooking grease towards the back spill-away so you have less flare-ups. Exclusive pro sear thermal cooking grid, transfers heat evenly across the cooking grid at up to 700 degrees with the hood up, and up to 800 degrees with the hood down all in under 3 minutes of heat up time and from a single burner.",
+                "description": "Ruby 4-Burner Natural Gas Built-In Grill",
+                "product_url": "https://www.lowes.com/pd/Sunstone-Ruby-4-Burner-Natural-Gas-Built-In-Grill/1001004348",
+                "image_url": "https://mobileimages.lowes.com/product/converted/818899/818899020722.jpg",
+                "brand": "Sunstone"
+              }
+            },
+            "text": "Sunstone Ruby 4-Burner Natural Gas Built-In Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "1ofG+tBYvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5ZQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DlpD8AAAAAAAAAADkFL6fg5ZQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5ZQ/OQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANaHxvrQWK8/OQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAOQUvp+DlpD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPwAAAAAAAAAAAAAAAAAAAAA5BS+n4OW0PwAAAAAAAAAAOQUvp+DltD85BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAA5BS+n4OW0PzkFL6fg5aQ/1ofG+tBYrz+IxvrQWB+6PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5ZQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1795464,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2eab7e56-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/817096/817096013186.jpg",
+                "title": "Cuisinart 254-sq in Black Portable Charcoal Grill",
+                "description": "254-sq in Black Portable Charcoal Grill",
+                "full_description": "",
+                "brand": "Cuisinart",
+                "product_url": "https://www.lowes.com/pd/Cuisinart-254-sq-in-Black-Portable-Charcoal-Grill/1000273881"
+              }
+            },
+            "text": "Cuisinart 254-sq in Black Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "1ofG+tBYvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DllD8AAAAAAAAAADkFL6fg5ZQ/OQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWUPzkFL6fg5aQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIjG+tBYH7o/OQUvp+DllD85BS+n4OWkPwAAAAAAAAAAOQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAOQUvp+DllD85BS+n4OW0PwAAAAAAAAAAOQUvp+DllD+IxvrQWB+6PwAAAAAAAAAAOQUvp+DlpD85BS+n4OWkPwAAAAAAAAAAOQUvp+DllD85BS+n4OW0PzkFL6fg5aQ/OQUvp+DlpD85BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18007284,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2eab7ee3-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Cal Flame Cal Flame Top Gun 5-Burner Liquid Propane Natural Gas Built-In Grill",
+                "product_url": "https://www.lowes.com/pd/Cal-Flame-Cal-Flame-Top-Gun-5-Burner-Liquid-Propane-Natural-Gas-Built-In-Grill/1002704404",
+                "image_url": "https://mobileimages.lowes.com/product/converted/089245/089245001614.jpg",
+                "brand": "Cal Flame",
+                "description": "Cal Flame Top Gun 5-Burner Liquid Propane Natural Gas Built-In Grill",
+                "full_description": "The innovative top gun 5 burner convection grill has been designed to fit any Cal Flame barbecue cart or island. It features five cast stainless steel burners and a powerful centrifugal fan that uniformly circulates heat throughout the grilling area. It also features a glass window on the hood for your grilling convenience and a striking new light feature on each stainless steel knob - a Cal Flame exclusive."
+              }
+            },
+            "text": "Cal Flame Cal Flame Top Gun 5-Burner Liquid Propane Natural Gas Built-In Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "FDuxEzuxwz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAapEEapEGaPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGqRBGqRBij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAapEEapEGaPxqkQRqkQZo/AAAAAAAAAAAAAAAAAAAAABqkQRqkQZo/FDuxEzuxoz8AAAAAAAAAABqkQRqkQYo/AAAAAAAAAAAAAAAAAAAAABqkQRqkQYo/AAAAAAAAAAAapEEapEGKPwAAAAAAAAAAGqRBGqRBij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAapEEapEGKPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABqkQRqkQbo/AAAAAAAAAAAAAAAAAAAAABqkQRqkQYo/GqRBGqRBqj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAapEEapEGqPwAAAAAAAAAAAAAAAAAAAAAapEEapEG6PxqkQRqkQZo/GqRBGqRBqj8apEEapEGaPxqkQRqkQZo/GqRBGqRBij+QBmmQBmmwPxqkQRqkQYo/GqRBGqRBmj+QBmmQBmmwPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1802198,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79ab1-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Signature S520 Stainless Steel 5-Burner Natural Gas Grill",
+                "brand": "Broil King",
+                "title": "Broil King Signature S520 Stainless Steel 5-Burner Natural Gas Grill",
+                "product_url": "https://www.lowes.com/pd/Broil-King-Signature-S520-Stainless-Steel-5-Burner-Natural-Gas-Grill/1000955502",
+                "full_description": "",
+                "image_url": "https://mobileimages.lowes.com/product/converted/062703/062703106205.jpg"
+              }
+            },
+            "text": "Broil King Signature S520 Stainless Steel 5-Burner Natural Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "8fDw8PDwwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6OPwAAAAAAAAAAAAAAAAAAAAAeHh4eHh6OPwAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAHh4eHh4enj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6ePwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4enj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6OPwAAAAAAAAAAAAAAAAAAAAAeHh4eHh6OPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4erj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANPS0tLS0rI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA09LS0tLSsj8AAAAAAAAAAB4eHh4eHp4/AAAAAAAAAADT0tLS0tKyPwAAAAAAAAAAAAAAAAAAAACXlpaWlpa2PwAAAAAAAAAAHh4eHh4erj8eHh4eHh6OPwAAAAAAAAAAAAAAAAAAAACXlpaWlpa2P5eWlpaWlqY/Hh4eHh4erj+XlpaWlpamPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18057534,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2eab7e68-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Georgia Bulldogs 10-sq in Multicolor Portable Charcoal Grill",
+                "full_description": "",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Georgia-Bulldogs-10-sq-in-Multicolor-Portable-Charcoal-Grill/5000028629",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500002/5000028629.jpg",
+                "brand": "Imperial International",
+                "title": "Imperial International Georgia Bulldogs 10-sq in Multicolor Portable Charcoal Grill"
+              }
+            },
+            "text": "Imperial International Georgia Bulldogs 10-sq in Multicolor Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "H3JZMVDCuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACq82sPuayIPwAAAAAAAAAAAAAAAAAAAACq82sPuayIP6rzaw+5rIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACq82sPuayIP6rzaw+5rIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqvNrD7msmD8AAAAAAAAAAKrzaw+5rJg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqvNrD7msiD8AAAAAAAAAAAAAAAAAAAAAqvNrD7msiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADR1fu0hl7U/qvNrD7msiD+q82sPuayYP6rzaw+5rIg/qvNrD7msqD8AAAAAAAAAAKrzaw+5rJg/qvNrD7msiD+/9pDLioGyPwAAAAAAAAAAAAAAAAAAAACU8EZT59e+P6rzaw+5rIg/qvNrD7msqD80dX7tIZe1P6rzaw+5rIg/qvNrD7msiD80dX7tIZe1P6rzaw+5rJg/qvNrD7msqD+q82sPuayYPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18073782,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79a75-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Commercial Stainless 2-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+                "product_url": "https://www.lowes.com/pd/Char-Broil-Commercial-Stainless-2-Burner-Liquid-Propane-and-Natural-Gas-Infrared-Gas-Grill/999981916",
+                "image_url": "https://mobileimages.lowes.com/product/converted/047362/047362364234.jpg",
+                "title": "Char-Broil Commercial Stainless 2-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+                "brand": "Char-Broil",
+                "full_description": "The Char-Broil&#174; Commercial Series&#8482; 2-Burner Gas Grill features a sleek stainless steel design that looks great on a patio or in the backyard. It's equipped with TRU-Infrared cooking technology that prevents flare-ups, delivers even-heat and creates juicier food. With premium durability features including porcelain-coated cast iron grates and stainless steel burners, you can be sure the Commercial Series 2-Burner Gas Grill can tackle anything thrown at it."
+              }
+            },
+            "text": "Char-Broil Commercial Stainless 2-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "n/RJn/RJvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXbMEWbMGWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF2zBFmzBhj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXbMEWbMGWPxdswRZswZY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERoT8AAAAAAAAAABdswRZswYY/AAAAAAAAAAAAAAAAAAAAABdswRZswYY/AAAAAAAAAAAXbMEWbMGGPwAAAAAAAAAAF2zBFmzBhj8AAAAAAAAAAAAAAAAAAAAAF2zBFmzBhj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABzHcRzHcbw/AAAAAAAAAAAXbMEWbMGGPxEREREREaE/HMdxHMdxrD8XbMEWbMGGPwAAAAAAAAAAF2zBFmzBhj8RERERERGxPwAAAAAAAAAAAAAAAAAAAAARERERERGxPxdswRZswZY/HMdxHMdxrD8RERERERGhPxdswRZswYY/F2zBFmzBhj8cx3Ecx3G8PxdswRZswaY/F2zBFmzBlj8RERERERGhPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18135744,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2eab7def-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Signature Series 37-in Black Barrel Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Dyna-Glo-Signature-Series-37-in-Black-Barrel-Charcoal-Grill/1000567685",
+                "title": "Dyna-Glo Signature Series 37-in Black Barrel Charcoal Grill",
+                "full_description": "Maximize your outdoor cooking experience while keeping storage to a minimum. The heavy-duty compact barrel charcoal grill features a collapsible steel front work station which provides more space within a compact area. This grill is equipped with a professional-grade, stainless steel temperature gauge, indicating ideal temperatures for grilling and smoking. The porcelain enameled steel cooking grates allow for maximum heat transfer and searing. The Dyna-Glo heavy duty compact charcoal grill is compatible with the DGSS287CB-D offset smoker box (sold separately).",
+                "brand": "Dyna-Glo",
+                "image_url": "https://mobileimages.lowes.com/product/converted/872076/872076021445.jpg"
+              }
+            },
+            "text": "Dyna-Glo Signature Series 37-in Black Barrel Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "VwQNJ3Vfvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJ3VfHluhPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJ3VfHluhPw0ndV8eW5E/DSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAADSd1Xx5boT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADSd1Xx5boT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJS6L4+tCLo/AAAAAAAAAAANJ3VfHluhPwAAAAAAAAAADSd1Xx5bsT8AAAAAAAAAAA0ndV8eW5E/DSd1Xx5bkT8NJ3VfHluxPwAAAAAAAAAADSd1Xx5bkT+Uui+PrQi6PwAAAAAAAAAAlLovj60Iqj8NJ3VfHluhPwAAAAAAAAAAAAAAAAAAAACUui+PrQi6Pw0ndV8eW5E/DSd1Xx5bkT8NJ3VfHluRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18195197,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          }
+        ],
+        "tags": {},
+        "text": "natural gas ruby grill",
+        "embedding": {
+          "dense": {
+            "buffer": "dNFFF110wT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHTRRRdddME/RhdddNFFpz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEYXXXTRRbc/AAAAAAAAAABGF1100UWnPwAAAAAAAAAAAAAAAAAAAAB00UUXXXTBPwAAAAAAAAAARhdddNFFpz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB00UUXXXTBP0YXXXTRRac/RhdddNFFpz9GF1100UW3PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEYXXXTRRac/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "shape": [
+              96
+            ],
+            "dtype": "<f8",
+            "quantization": 0,
+            "maxVal": 0,
+            "minVal": 0,
+            "scale": 0,
+            "originalDtype": ""
+          }
+        },
+        "granularity": 0,
+        "adjacency": 0,
+        "parentId": "",
+        "chunks": [],
+        "weight": 0,
+        "uri": "",
+        "mimeType": "",
+        "location": [],
+        "offset": 0,
+        "scores": {},
+        "modality": "",
+        "evaluations": {}
+      }
+    ],
+    "groundtruths": []
+  }
+}

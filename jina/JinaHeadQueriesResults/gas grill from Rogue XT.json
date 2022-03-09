@@ -1,0 +1,1021 @@
+{
+  "requestId": "12ed5695-8bae-4099-ab17-ec3d55dddd7a",
+  "data": {
+    "docs": [
+      {
+        "id": "4aa44900-458a-11ec-956e-e3601f14962f",
+        "matches": [
+          {
+            "id": "cb0fa397-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Igloo Igloo IRF16BK 1.6 Cu. Ft. Single Door Refrigerator with Freezer",
+                "description": "Igloo IRF16BK 1.6 Cu. Ft. Single Door Refrigerator with Freezer",
+                "image_url": "https://mobileimages.lowes.com/product/converted/082677/082677002822.jpg",
+                "product_url": "https://www.lowes.com/pd/Igloo-Igloo-IRF16BK-1-6-Cu-Ft-Single-Door-Refrigerator-with-Freezer/5000886399",
+                "full_description": "Keep your foods and beverages at the perfect temperature! This spacious 1.6 cu. ft. refrigerator-freezer provides ample space to store snacks, fruits and vegetables, soda, beer, ice cream and more. The roomy inside features a slide-out glass shelf and a freezer compartment, along with 2-liter bottle storage and adjustable shelving for condiments, jars, soda cans and more. Operated by a simple dial control, the adjustable thermostat keeps foods at the ideal temperature. This unit is perfect for home offices, recreation rooms, dorm rooms, and more. Cold Drinks. Warm Smiles.",
+                "brand": "Igloo"
+              }
+            },
+            "text": "Igloo Igloo IRF16BK 1.6 Cu. Ft. Single Door Refrigerator with Freezer",
+            "embedding": {
+              "dense": {
+                "buffer": "KfEzSvyMwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQqY/AAAAAAAAAAAAAAAAAAAAANuBuXZgrp0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbgbl2YK6dPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbgbl2YK6NP9uBuXZgro0/24G5dmCujT8AAAAAAAAAAGQhC1nIQqY/AAAAAAAAAAAAAAAAAAAAAGQhC1nIQqY/AAAAAAAAAADbgbl2YK6NPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANuBuXZgrp0/24G5dmCujT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANuBuXZgro0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchCtj/bgbl2YK6NP9uBuXZgrq0/24G5dmCujT9kIQtZyEKmPwAAAAAAAAAAAAAAAAAAAABkIQtZyEKmPwAAAAAAAAAA24G5dmCujT+gUeJnlPi5PwAAAAAAAAAAAAAAAAAAAABkIQtZyEK2PwAAAAAAAAAAZCELWchCpj/bgbl2YK6NPwAAAAAAAAAA24G5dmCujT8AAAAAAAAAAAAAAAAAAAAA24G5dmCujT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17749925,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa559-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "",
+                "description": "Regal 420 Pro Black 4-Burner Liquid Propane Gas Grill",
+                "brand": "Broil King",
+                "product_url": "https://www.lowes.com/pd/Broil-King-Regal-420-Pro-Black-4-Burner-Liquid-Propane-Gas-Grill/1000164319",
+                "title": "Broil King Regal 420 Pro Black 4-Burner Liquid Propane Gas Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/062703/062703562148.jpg"
+              }
+            },
+            "text": "Broil King Regal 420 Pro Black 4-Burner Liquid Propane Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAxD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAACQPwAAAAAAAAAAAAAAAAAAkD8AAAAAAAAAAAAAAAAAAKA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACoPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQPwAAAAAAAJA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoD8AAAAAAAAAAAAAAAAAAJA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALA/AAAAAAAAAAAAAAAAAACQPwAAAAAAAJA/AAAAAAAAqD8AAAAAAAAAAAAAAAAAAKA/AAAAAAAAAAAAAAAAAAC0PwAAAAAAAAAAAAAAAAAAkD8AAAAAAAC0PwAAAAAAAAAAAAAAAAAAqD8AAAAAAACoPwAAAAAAAJA/AAAAAAAAkD8AAAAAAAC4PwAAAAAAAJA/AAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18022831,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa22c-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Frigidaire Gallery 26.8-cu ft French Door Refrigerator with Dual Ice Maker (Smudge-Proof Stainless Steel) ENERGY STAR",
+                "brand": "Frigidaire",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-Gallery-26-8-cu-ft-French-Door-Refrigerator-with-Dual-Ice-Maker-Smudge-Proof-Stainless-Steel-ENERGY-STAR/1000289717",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505646195.jpg",
+                "full_description": "The Frigidaire Gallery Lowe's Exclusive French door refrigerator is similar to model FGHB2868TF but has dual ice makers. It also comes with 2 easy glide humidity-controlled crisper drawers with crisp seal that helps maintain moisture for market fresh produce. Also features PureSource Ultra&#174; filters and water filtration for cleaner water while EvenTemp&#8482; technology maintains an even temperature throughout the refrigerator.",
+                "description": "Gallery 26.8-cu ft French Door Refrigerator with Dual Ice Maker (Smudge-Proof Stainless Steel) ENERGY STAR"
+              }
+            },
+            "text": "Frigidaire Gallery 26.8-cu ft French Door Refrigerator with Dual Ice Maker (Smudge-Proof Stainless Steel) ENERGY STAR",
+            "embedding": {
+              "dense": {
+                "buffer": "kAZpkAZpwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIYgREYgYE/EhiBERiBgT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASGIERGIGRPxIYgREYgYE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEhiBERiBgT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASGIERGIGBPwAAAAAAAAAAEhiBERiBgT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEhiBERiBgT8AAAAAAAAAAAAAAAAAAAAAEhiBERiBkT8SGIERGIGRPxIYgREYgZE/EhiBERiBkT8AAAAAAAAAABIYgREYgYE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEhiBERiBgT8SGIERGIGBPwAAAAAAAAAAEhiBERiBgT8AAAAAAAAAABqkQRqkQZo/EhiBERiBoT8SGIERGIGBPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEhiBERiBgT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABqkQRqkQao/AAAAAAAAAAAapEEapEGaPxIYgREYgZE/GIERGIERuD8apEEapEGaPxqkQRqkQZo/EhiBERiBkT8apEEapEGqPwAAAAAAAAAAEhiBERiBgT8WXuEVXuGlPxIYgREYgYE/EhiBERiBkT8WXuEVXuGlPwAAAAAAAAAAAAAAAAAAAAAWXuEVXuG1PxIYgREYgZE/Fl7hFV7hpT8apEEapEGaPwAAAAAAAAAAEhiBERiBgT8AAAAAAAAAABIYgREYgYE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18090759,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa298-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Samsung",
+                "title": "Samsung Family Hub Family Hub 25.1-cu ft French Door Refrigerator with Ice Maker (Stainless Steel) ENERGY STAR",
+                "description": "Family Hub Family Hub 25.1-cu ft French Door Refrigerator with Ice Maker (Stainless Steel) ENERGY STAR",
+                "full_description": "Samsung believes Connected Living starts with people and their busy lives. The kitchen is the heart of home and the FRIDGE is the heart of the kitchen. Samsung's Family Hub refrigerator helps you connect to what's most important: your family and home, whenever and wherever. Family Hub lets you see inside your refrigerator, manage your family's calendars, stream music, see who's at the front door and much more, all right from your fridge.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/887276/887276404059.jpg",
+                "product_url": "https://www.lowes.com/pd/Samsung-Family-Hub-Family-Hub-25-1-cu-ft-French-Door-Refrigerator-with-Ice-Maker-Stainless-Steel-ENERGY-STAR/1002692824"
+              }
+            },
+            "text": "Samsung Family Hub Family Hub 25.1-cu ft French Door Refrigerator with Ice Maker (Stainless Steel) ENERGY STAR",
+            "embedding": {
+              "dense": {
+                "buffer": "nhLkKUGewj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ4S5ClBnoI/nhLkKUGegj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6CP54S5ClBnoI/AAAAAAAAAAAAAAAAAAAAAJ4S5ClBnoI/nhLkKUGegj8AAAAAAAAAAAAAAAAAAAAAnhLkKUGegj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGegj8AAAAAAAAAAAAAAAAAAAAAnhLkKUGegj+eEuQpQZ6SP+0b1r5h7Zs/nhLkKUGegj+eEuQpQZ6SP54S5ClBnoI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGegj+eEuQpQZ6CPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO0b1r5h7Zs/nhLkKUGeoj+eEuQpQZ6CPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGegj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO0b1r5h7as/nhLkKUGekj/tG9a+Ye2bPwAAAAAAAAAAnhLkKUGesj+eEuQpQZ6SP54S5ClBnpI/nhLkKUGekj9GF1100UWnPwAAAAAAAAAAnhLkKUGegj+eEuQpQZ6iP+0b1r5h7Zs/7RvWvmHtmz/tG9a+Ye2bPwAAAAAAAAAAAAAAAAAAAADtG9a+Ye2rP+0b1r5h7Zs/RhdddNFFpz+eEuQpQZ6iPwAAAAAAAAAAnhLkKUGegj8AAAAAAAAAAJ4S5ClBnpI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18630904,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa56e-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Regal S420 Pro Stainless Steel 4-Burner Liquid Propane Gas Grill",
+                "full_description": "",
+                "image_url": "https://mobileimages.lowes.com/product/converted/062703/062703563145.jpg",
+                "product_url": "https://www.lowes.com/pd/Broil-King-Regal-S420-Pro-Stainless-Steel-4-Burner-Liquid-Propane-Gas-Grill/1000052733",
+                "brand": "Broil King",
+                "title": "Broil King Regal S420 Pro Stainless Steel 4-Burner Liquid Propane Gas Grill"
+              }
+            },
+            "text": "Broil King Regal S420 Pro Stainless Steel 4-Burner Liquid Propane Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "xpJfLPnFwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABPG+i0gU6LPwAAAAAAAAAAAAAAAAAAAABPG+i0gU6LPwAAAAAAAAAATxvotIFOiz8AAAAAAAAAAE8b6LSBTps/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABPG+i0gU6bPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATxvotIFOmz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABPG+i0gU6LP08b6LSBTos/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATxvotIFOmz8AAAAAAAAAAE8b6LSBTos/exSuR+F6pD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE8b6LSBTqs/AAAAAAAAAAAAAAAAAAAAAE8b6LSBTos/exSuR+F6tD8AAAAAAAAAAE8b6LSBTps/AAAAAAAAAAB7FK5H4Xq0PwAAAAAAAAAAAAAAAAAAAAB7FK5H4Xq0PwAAAAAAAAAATxvotIFOqz97FK5H4XqkP08b6LSBTos/TxvotIFOiz97FK5H4Xq0P3sUrkfheqQ/TxvotIFOmz9PG+i0gU6bPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1864505,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa261-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Samsung Family Hub Family Hub 27.7-cu ft 4-Door French Door Refrigerator with Ice Maker (Fingerprint Resistant Black Stainless Steel) ENERGY STAR",
+                "full_description": "Samsung believes Connected Living starts with people and their busy lives. The kitchen is the heart of home and the FRIDGE is the heart of the kitchen. Samsung's Family Hub refrigerator helps you connect to what's most important: your family and home, whenever and wherever. Family Hub lets you see inside your refrigerator, manage your family's calendars, stream music, see who's at the front door and much more, all right from your fridge.",
+                "brand": "Samsung",
+                "description": "Family Hub Family Hub 27.7-cu ft 4-Door French Door Refrigerator with Ice Maker (Fingerprint Resistant Black Stainless Steel) ENERGY STAR",
+                "image_url": "https://mobileimages.lowes.com/product/converted/887276/887276345314.jpg",
+                "product_url": "https://www.lowes.com/pd/Samsung-Family-Hub-Family-Hub-27-7-cu-ft-4-Door-French-Door-Refrigerator-with-Ice-Maker-Fingerprint-Resistant-Black-Stainless-Steel-ENERGY-STAR/1000948504"
+              }
+            },
+            "text": "Samsung Family Hub Family Hub 27.7-cu ft 4-Door French Door Refrigerator with Ice Maker (Fingerprint Resistant Black Stainless Steel) ENERGY STAR",
+            "embedding": {
+              "dense": {
+                "buffer": "lnsaYbmnwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPD4wwGPP3w/8PjDAY8/fD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADw+MMBjz+MP/D4wwGPP3w/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8PjDAY8/fD8AAAAAAAAAAPD4wwGPP3w/AAAAAAAAAAAAAAAAAAAAAPD4wwGPP4w/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8PjDAY8/fD/w+MMBjz98PwAAAAAAAAAA8PjDAY8/jD/w+MMBjz+MP/D4wwGPP5w/8PjDAY8/fD/w+MMBjz+MP/D4wwGPP3w/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8PjDAY8/fD/w+MMBjz98PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPD4wwGPP5w/8PjDAY8/nD/w+MMBjz98PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8PjDAY8/fD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPD4wwGPP6w/8PjDAY8/jD/w+MMBjz+cPwAAAAAAAAAAlnsaYbmnsT/w+MMBjz+MP7T6UkGrL5U/8PjDAY8/jD/w+MMBjz+sPwAAAAAAAAAA8PjDAY8/jD+WexphuaehP7T6UkGrL5U/tPpSQasvpT+WexphuaehP/D4wwGPP3w/AAAAAAAAAAAOePzhgMevP5Z7GmG5p6E/8PjDAY8/rD/w+MMBjz+cPwAAAAAAAAAA8PjDAY8/fD8AAAAAAAAAAPD4wwGPP4w/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18713816,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa21f-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Family Hub Family Hub 27.7-cu ft 4-Door French Door Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel) ENERGY STAR",
+                "full_description": "Samsung believes Connected Living starts with people and their busy lives. The kitchen is the heart of home and the FRIDGE is the heart of the kitchen. Samsung's Family Hub refrigerator helps you connect to what's most important: your family and home, whenever and wherever. Family Hub lets you see inside your refrigerator, manage your family's calendars, stream music, see who's at the front door and much more, all right from your fridge.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/887276/887276345321.jpg",
+                "brand": "Samsung",
+                "title": "Samsung Family Hub Family Hub 27.7-cu ft 4-Door French Door Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel) ENERGY STAR",
+                "product_url": "https://www.lowes.com/pd/Samsung-Family-Hub-Family-Hub-27-7-cu-ft-4-Door-French-Door-Refrigerator-with-Ice-Maker-Fingerprint-Resistant-Stainless-Steel-ENERGY-STAR/1000948432"
+              }
+            },
+            "text": "Samsung Family Hub Family Hub 27.7-cu ft 4-Door French Door Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel) ENERGY STAR",
+            "embedding": {
+              "dense": {
+                "buffer": "P1pNQhR/wT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADQsuFS2d30/NCy4VLZ3fT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0LLhUtneNPzQsuFS2d30/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANCy4VLZ3fT8AAAAAAAAAADQsuFS2d30/AAAAAAAAAAAAAAAAAAAAADQsuFS2d40/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANCy4VLZ3fT8AAAAAAAAAAAAAAAAAAAAANCy4VLZ3jT80LLhUtneNPzQsuFS2d50/NCy4VLZ3fT80LLhUtneNPzQsuFS2d30/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANCy4VLZ3fT80LLhUtnd9PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADQsuFS2d50/NCy4VLZ3nT80LLhUtnd9PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANCy4VLZ3fT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAK0mIYq/yKk/NCy4VLZ3jT8nIYq/yBmWPwAAAAAAAAAAoBvz9NFqsj80LLhUtneNPychir/IGZY/NCy4VLZ3jT80LLhUtnetPwAAAAAAAAAANCy4VLZ3fT80LLhUtnedPychir/IGZY/JyGKv8gZpj+gG/P00WqiPzQsuFS2d30/AAAAAAAAAADdmKePVpOwP6Ab8/TRaqI/NCy4VLZ3rT80LLhUtnedPwAAAAAAAAAANCy4VLZ3fT8AAAAAAAAAADQsuFS2d40/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1883275,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a200d-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/892805/892805003825.jpg",
+                "full_description": "Hero makes simple, clean and on the go charcoal grilling easy. At under 10 pounds, the system features a premium non-stick grill for clean cooking and easy clean up. Plus, it&#8217;s the world&#8217;s first dishwasher safe grill. Easy to use components and a rugged carry case give you a charcoal grilled meal anywhere you go.",
+                "brand": "Fire & Flavor",
+                "product_url": "https://www.lowes.com/pd/Fire-Flavor-HERO-Portable-Lightweight-Charcoal-Grill-System/1001813188",
+                "title": "Fire & Flavor HERO Portable Lightweight Charcoal Grill System",
+                "description": "HERO Portable Lightweight Charcoal Grill System"
+              }
+            },
+            "text": "Fire & Flavor HERO Portable Lightweight Charcoal Grill System",
+            "embedding": {
+              "dense": {
+                "buffer": "O9q8T3HJwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO9q8T3HJkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADvavE9xyZA/AAAAAAAAAAA72rxPccmQPzvavE9xyaA/O9q8T3HJkD872rxPccmQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADvavE9xyZA/AAAAAAAAAAAAAAAAAAAAADvavE9xyZA/O9q8T3HJkD8AAAAAAAAAADvavE9xyZA/O9q8T3HJkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADvavE9xybA/O9q8T3HJkD872rxPccmQPwAAAAAAAAAAO9q8T3HJsD8AAAAAAAAAADvavE9xyaA/WEeb9ykuqT872rxPccmwPwAAAAAAAAAAAAAAAAAAAADJEKyjzfu0PzvavE9xyZA/AAAAAAAAAABYR5v3KS6pPwAAAAAAAAAAAAAAAAAAAADJEKyjzfu0PzvavE9xyZA/O9q8T3HJsD8AAAAAAAAAADvavE9xyZA/O9q8T3HJkD8AAAAAAAAAADvavE9xyZA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1887424,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a2052-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Royal Gourmet Royal Gourmet PL2032, Wood Pellet Grill with Intelligent Digital Control System and Auto-Feed System, 786 Square -in of Cooking Area, Bronze",
+                "image_url": "https://mobileimages.lowes.com/product/converted/859098/859098006889.jpg",
+                "product_url": "https://www.lowes.com/pd/Royal-Gourmet-Royal-Gourmet-PL2032-Wood-Pellet-Grill-with-Intelligent-Digital-Control-System-and-Auto-Feed-System-786-Square-in-of-Cooking-Area-Bronze/1002801556",
+                "description": "Royal Gourmet PL2032, Wood Pellet Grill with Intelligent Digital Control System and Auto-Feed System, 786 Square -in of Cooking Area, Bronze",
+                "brand": "Royal Gourmet",
+                "full_description": "Surrounded by savory and delicious aroma, enjoy the ultimate cookout with Royal Gourmet&#174; wood pellet grill PL2032. 605 Square inches primary cooking area, along with 181 square inches warming racks as a secondary cooking space, perfect for all sorts of outdoor activities from backyard party to camping. The grill is built to furnish multi-functional application including grilling, baking, smoking, braising, roasting etc. featuring the built-in digital controller, precise temperature control ranging from 180&#8457; to 500&#8457; is guaranteed to achieve the best performance. With the integrated auto-feed system, the auger would automatically deliver the wood pellets into the firebox to produce smoke for optimal performance. Large removable grease cup on the side facilitates easy and effortless clean-up. As for food preparation, fixed side table with hooks keep your grilling accessories within arms&#8217; reach and the bottom shelf provides extra storage space for wood pellets. Don&#8217;t hesitate, Royal Gourmet&#174; wood pellet grill, featuring multi-functional application including grilling, baking, smoking, braising, roasting etc., is the best choice."
+              }
+            },
+            "text": "Royal Gourmet Royal Gourmet PL2032, Wood Pellet Grill with Intelligent Digital Control System and Auto-Feed System, 786 Square -in of Cooking Area, Bronze",
+            "embedding": {
+              "dense": {
+                "buffer": "kiRJkiRJwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzspPiLPykz++Y2pg75iKPwAAAAAAAAAAAAAAAAAAAAC+Y2pg75h6PwAAAAAAAAAAvmNqYO+Yij++Y2pg75h6PwAAAAAAAAAAAAAAAAAAAAC+Y2pg75h6P75jamDvmHo/vmNqYO+Yej8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvmNqYO+Yij++Y2pg75h6P75jamDvmIo/vmNqYO+Yej8AAAAAAAAAAL5jamDvmHo/zspPiLPykz8AAAAAAAAAAL5jamDvmHo/AAAAAAAAAAAAAAAAAAAAAL5jamDvmHo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvmNqYO+Yij8AAAAAAAAAAL5jamDvmIo/zspPiLPykz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC+Y2pg75h6PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM7KT4iz8qM/AAAAAAAAAAAAAAAAAAAAAM7KT4iz8pM/CnFWfkKctT++Y2pg75h6P87KT4iz8pM/vmNqYO+Yej9GF1100UWnPwAAAAAAAAAAvmNqYO+Yej9WfkKclZ+wP75jamDvmJo/RhdddNFFpz8KcVZ+Qpy1PwAAAAAAAAAAvmNqYO+Yej9GF1100UWnP75jamDvmIo/kiRJkiRJsj++Y2pg75iaPwAAAAAAAAAAvmNqYO+Yej8AAAAAAAAAAL5jamDvmJo/vmNqYO+Yej8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18891495,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa228-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505646164.jpg",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-Gallery-21-7-cu-ft-Counter-depth-French-Door-Refrigerator-with-Dual-Ice-Maker-Smudge-Proof-Stainless-Steel-ENERGY-STAR/1000289721",
+                "title": "Frigidaire Gallery 21.7-cu ft Counter-depth French Door Refrigerator with Dual Ice Maker (Smudge-Proof Stainless Steel) ENERGY STAR",
+                "full_description": "The Frigidaire Gallery 21.7 cu. Ft. French door refrigerator has a large capacity so you can store more. It's easy to stay organized with a full-width drawer that is large enough for party platters, 2 humidity-controlled crisper drawers for fruits and vegetables and door bins that have room for large items. The energy star certified refrigerator also has bright multi-level LED lighting that keeps contents clearly visible.",
+                "description": "Gallery 21.7-cu ft Counter-depth French Door Refrigerator with Dual Ice Maker (Smudge-Proof Stainless Steel) ENERGY STAR",
+                "brand": "Frigidaire"
+              }
+            },
+            "text": "Frigidaire Gallery 21.7-cu ft Counter-depth French Door Refrigerator with Dual Ice Maker (Smudge-Proof Stainless Steel) ENERGY STAR",
+            "embedding": {
+              "dense": {
+                "buffer": "cUJKnmVEvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHFCSp5lRH8/cUJKnmVEfz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADVsbc2THOXP3FCSp5lRH8/AAAAAAAAAAAAAAAAAAAAAHFCSp5lRH8/cUJKnmVEfz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHFCSp5lRH8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcUJKnmVEfz8AAAAAAAAAAHFCSp5lRH8/cUJKnmVEjz9xQkqeZUSPP3FCSp5lRI8/cUJKnmVEjz8AAAAAAAAAAHFCSp5lRH8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcUJKnmVEfz9xQkqeZUR/PwAAAAAAAAAAcUJKnmVEfz8AAAAAAAAAANWxtzZMc5c/cUJKnmVEnz9xQkqeZUR/PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcUJKnmVEfz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANWxtzZMc6c/AAAAAAAAAADVsbc2THOXP9WxtzZMc5c//FWckJJnuT/Vsbc2THOXP9WxtzZMc5c/1bG3Nkxzlz/Vsbc2THOnPwAAAAAAAAAAcUJKnmVEfz+Hae6Cv4qjP3FCSp5lRH8/1bG3Nkxzlz/Vsbc2THOnP3FCSp5lRH8/AAAAAAAAAACuDdPcBX+1P3FCSp5lRI8/I/qA6thbqz9xQkqeZUSfPwAAAAAAAAAAcUJKnmVEfz8AAAAAAAAAAHFCSp5lRH8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18986896,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa223-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Samsung Family Hub Wi-Fi Enabled Family Hub 27.9-cu ft 4-Door French Door Refrigerator with Ice Maker (Fingerprint Resistant Black Stainless Steel) ENERGY STAR",
+                "image_url": "https://mobileimages.lowes.com/product/converted/887276/887276259284.jpg",
+                "brand": "Samsung",
+                "product_url": "https://www.lowes.com/pd/Samsung-Family-Hub-Wi-Fi-Enabled-Family-Hub-27-9-cu-ft-4-Door-French-Door-Refrigerator-with-Ice-Maker-Fingerprint-Resistant-Black-Stainless-Steel-ENERGY-STAR/1000437531",
+                "full_description": "Samsung believes Connected Living starts with people and their busy lives. The kitchen is the heart of home and the FRIDGE is the heart of the kitchen. Samsung's Family Hub refrigerator helps you connect to what's most important: your family and home, whenever and wherever. Family Hub lets you see inside your refrigerator, manage your family's calendars, stream music, see who's at the front door and much more, all right from your fridge.",
+                "description": "Family Hub Wi-Fi Enabled Family Hub 27.9-cu ft 4-Door French Door Refrigerator with Ice Maker (Fingerprint Resistant Black Stainless Steel) ENERGY STAR"
+              }
+            },
+            "text": "Samsung Family Hub Wi-Fi Enabled Family Hub 27.9-cu ft 4-Door French Door Refrigerator with Ice Maker (Fingerprint Resistant Black Stainless Steel) ENERGY STAR",
+            "embedding": {
+              "dense": {
+                "buffer": "sS495u+1wT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKh5E7Rwnk/AqHkTtHCeT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKTPwKh5E7Rwnk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqHkTtHCeT8AAAAAAAAAAAKh5E7Rwnk/AAAAAAAAAAAAAAAAAAAAAAKh5E7Rwnk/AAAAAAAAAAACoeRO0cJ5PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqHkTtHCeT8CoeRO0cJ5PwAAAAAAAAAAAqHkTtHCiT/BeCv7HFKTP6HkTtHCGaA/AqHkTtHCeT8CoeRO0cKJPwKh5E7Rwnk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqHkTtHCeT8CoeRO0cJ5PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKh5E7Rwpk/AqHkTtHCmT8CoeRO0cJ5PwAAAAAAAAAAAAAAAAAAAAACoeRO0cJ5PwAAAAAAAAAAAqHkTtHCeT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACI1wXgr+6w/wXgr+xxSkz8CoeRO0cKZPwKh5E7Rwnk/sS495u+1sT8CoeRO0cKJP8F4K/scUpM/AqHkTtHCiT+h5E7RwhmwPwAAAAAAAAAAAqHkTtHCiT/BeCv7HFKjP8F4K/scUpM/4QwIJXeKpj+h5E7RwhmgPwKh5E7Rwnk/AAAAAAAAAAAiNcF4K/usP6HkTtHCGaA/AqHkTtHCqT8CoeRO0cKZPwAAAAAAAAAAAqHkTtHCeT8AAAAAAAAAAAKh5E7Rwok/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19050333,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa5a7-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Make breakfast pancakes or delicious dinners with Royal Gourmet&#174; GB2000 regal 26000-BTU flat top propane gas grill griddle. It has a thick, flat griddle plate that is made of ceramic-coated steel, measuring 22.4&#8221; L x 21.7&#8221; W, a total of 486 sq. In. Cooking area. 2 independently controlled burners with electronic ignition system delivers quick start-up and even heat distribution. Large, removable grease cup collects grease from dripping for quick and easy cleanup. Fixed side table provides ample space for food preparation. The lower hanging bar with 4 adjustable hooks keeps your grilling accessories within arm&#8217;s reach. 2 large caster wheels with the brake system guarantees easy transportation.",
+                "description": "2-Burner Liquid Propane Flat Top Grill",
+                "brand": "Royal Gourmet",
+                "product_url": "https://www.lowes.com/pd/Royal-Gourmet-2-Burner-Liquid-Propane-Flat-Top-Grill/1000606293",
+                "title": "Royal Gourmet 2-Burner Liquid Propane Flat Top Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/853252/853252006791.jpg"
+              }
+            },
+            "text": "Royal Gourmet 2-Burner Liquid Propane Flat Top Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "sRM7sRM7wT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/FDuxEzuxoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ7YiZ3Yia0/AAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/ntiJndiJrT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACe2Imd2ImtPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GzPxQ7sRM7sZM/FDuxEzuxoz8UO7ETO7GzPxQ7sRM7saM/FDuxEzuxkz/ZiZ3YiZ24PwAAAAAAAAAAFDuxEzuxoz+e2Imd2ImtPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19060978,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa596-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Let Royal Gourmet&#174; regal 5-burner gas grill griddle help you make easy breakfast like pancakes or delicious dinners. It has a stainless-steel structure on the main body and four stable legs. Five independently-controlled burners each has 13,000 BTUs output, totaling 65,000 BTUs, fired by piezo ignition system that makes a reliable spark at every push. The stainless-steel online tube burners rest under a proper distance from griddle top, thus providing excellent heat distribution for your food. Fold-down side tables offer temporary space for you to have multiple tools, seasonings, plates put on with ease. The removable oil pan, fixed on the side shelf, makes cleanup job just a cinch. This grill comes with a tank secure place on the bottom shelf and has a two-layer grid for placing more of your grill towels, spatulas or other items. 4 Heavy-duty caster wheels are easy to move or lock as needed.Â?Make Royal Gourmet cooking station a fun way to start or end your beautiful day.",
+                "title": "Royal Gourmet 5-Burner Liquid Propane Flat Top Grill",
+                "description": "5-Burner Liquid Propane Flat Top Grill",
+                "brand": "Royal Gourmet",
+                "product_url": "https://www.lowes.com/pd/Royal-Gourmet-5-Burner-Liquid-Propane-Flat-Top-Grill/1001688850",
+                "image_url": "https://mobileimages.lowes.com/product/converted/859098/859098006865.jpg"
+              }
+            },
+            "text": "Royal Gourmet 5-Burner Liquid Propane Flat Top Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "sRM7sRM7wT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/FDuxEzuxoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ7YiZ3Yia0/AAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/ntiJndiJrT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACe2Imd2ImtPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GzPxQ7sRM7sZM/FDuxEzuxoz8UO7ETO7GzPxQ7sRM7saM/FDuxEzuxkz/ZiZ3YiZ24PwAAAAAAAAAAFDuxEzuxoz+e2Imd2ImtPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19060978,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa55b-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Unlock all the possibilities you may expect from Royal Gourmet&#174; GB4000 4-burner propane gas griddle. It has a thick, flat griddle plate that is made of ceramic-coated steel, measuring 36.2&#8217;&#8217; L x 21.7&#8217;&#8217; W, a total of 784 sq. In. cooking area that is perfect for outdoor BBQ parties! Four powerful stainless-steel tube burners put out an overall of 52,000 BTUs, allowing you to cook various food at a desired heat. Collapsible side tables hold on multiple seasonings and accessories. Large, removable grease cup collects grease from dripping for quick and easy cleanup. 4 Caster wheels comes with integrated brake system, allowing for easy transportation.",
+                "title": "Royal Gourmet 4-Burner Liquid Propane Flat Top Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/853252/853252006807.jpg",
+                "product_url": "https://www.lowes.com/pd/Royal-Gourmet-4-Burner-Liquid-Propane-Flat-Top-Grill/1000606299",
+                "brand": "Royal Gourmet",
+                "description": "4-Burner Liquid Propane Flat Top Grill"
+              }
+            },
+            "text": "Royal Gourmet 4-Burner Liquid Propane Flat Top Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "sRM7sRM7wT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/FDuxEzuxoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ7YiZ3Yia0/AAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/ntiJndiJrT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACe2Imd2ImtPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GzPxQ7sRM7sZM/FDuxEzuxoz8UO7ETO7GzPxQ7sRM7saM/FDuxEzuxkz/ZiZ3YiZ24PwAAAAAAAAAAFDuxEzuxoz+e2Imd2ImtPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19060978,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa579-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Royal Gourmet 4-Burner Liquid Propane Flat Top Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/810001/810001890261.jpg",
+                "description": "4-Burner Liquid Propane Flat Top Grill",
+                "brand": "Royal Gourmet",
+                "full_description": "Unlock all the possibilities you may expect from Royal Gourmet&#174; GB4000 4-burner propane gas griddle. It has a thick, flat griddle plate that is made of ceramic-coated steel, measuring 36.2&#8217;&#8217; L x 21.7&#8217;&#8217; W, a total of 784 sq. In. cooking area that is perfect for outdoor BBQ parties! Four powerful stainless-steel tube burners put out an overall of 52,000 BTUs, allowing you to cook various food at a desired heat. Collapsible side tables hold on multiple seasonings and accessories. Large, removable grease cup collects grease from dripping for quick and easy cleanup. 4 Caster wheels comes with integrated brake system, allowing for easy transportation.",
+                "product_url": "https://www.lowes.com/pd/Royal-Gourmet-4-Burner-Liquid-Propane-Flat-Top-Grill/5000270225"
+              }
+            },
+            "text": "Royal Gourmet 4-Burner Liquid Propane Flat Top Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "sRM7sRM7wT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/FDuxEzuxoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ7YiZ3Yia0/AAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/ntiJndiJrT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACe2Imd2ImtPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GzPxQ7sRM7sZM/FDuxEzuxoz8UO7ETO7GzPxQ7sRM7saM/FDuxEzuxkz/ZiZ3YiZ24PwAAAAAAAAAAFDuxEzuxoz+e2Imd2ImtPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19060978,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa251-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "",
+                "title": "Samsung 4-Door Flex 28.1-cu ft 4-Door French Door Refrigerator with Ice Maker (Fingerprint Resistant Black Stainless Steel) ENERGY STAR",
+                "product_url": "https://www.lowes.com/pd/Samsung-4-Door-Flex-28-1-cu-ft-4-Door-French-Door-Refrigerator-with-Ice-Maker-Fingerprint-Resistant-Black-Stainless-Steel-ENERGY-STAR/1000040109",
+                "description": "4-Door Flex 28.1-cu ft 4-Door French Door Refrigerator with Ice Maker (Fingerprint Resistant Black Stainless Steel) ENERGY STAR",
+                "image_url": "https://mobileimages.lowes.com/product/converted/887276/887276127385.jpg",
+                "brand": "Samsung"
+              }
+            },
+            "text": "Samsung 4-Door Flex 28.1-cu ft 4-Door French Door Refrigerator with Ice Maker (Fingerprint Resistant Black Stainless Steel) ENERGY STAR",
+            "embedding": {
+              "dense": {
+                "buffer": "ERERERERwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHTlAck6V34/dOUByTpXfj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXbMEWbMGWP3TlAck6V34/AAAAAAAAAAAAAAAAAAAAAHTlAck6V34/dOUByTpXfj8AAAAAAAAAAHTlAck6V44/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdOUByTpXfj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdOUByTpXfj905QHJOld+PwAAAAAAAAAAF2zBFmzBlj905QHJOleOPxdswRZswZY/dOUByTpXfj8AAAAAAAAAAHTlAck6V34/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdOUByTpXfj905QHJOld+PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHTlAck6V54/dOUByTpXnj905QHJOld+PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdOUByTpXfj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABdswRZswaY/AAAAAAAAAAB05QHJOleePwAAAAAAAAAAwE0xavjbtD905QHJOleOPxdswRZswZY/dOUByTpXjj8XbMEWbMGmPwAAAAAAAAAAdOUByTpXjj905QHJOleeP3TlAck6V34/F2zBFmzBpj/FqOFvU4yqP3TlAck6V34/AAAAAAAAAABoL6G9hPayP2gvob2E9qI/dOUByTpXrj905QHJOleOPwAAAAAAAAAAdOUByTpXfj905QHJOld+PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1906216,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa3fb-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Igloo",
+                "full_description": "Keep your foods and beverages at the perfect temperature! This spacious refrigerator-freezer combo provides ample space to store snacks, fruits and vegetables, soda, beer, ice cream and more. The roomy inside features two slide-out glass shelves and a separate freezer compartment, along with 2-liter bottle storage and a can dispenser built into the interior of the door. Operated by a simple dial control, the adjustable thermostat keeps foods at the ideal temperature. Outfitted with a stainless steel exterior, this fridge adds the perfect touch to home offices, recreation rooms, dorm rooms, and more. Cold Drinks. Warm Smiles.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/082677/082677003843.jpg",
+                "description": "3.2-cu ft Top-Freezer Refrigerator (Black)",
+                "title": "Igloo 3.2-cu ft Top-Freezer Refrigerator (Black)",
+                "product_url": "https://www.lowes.com/pd/Igloo-3-2-cu-ft-Top-Freezer-Refrigerator-Black/5000886401"
+              }
+            },
+            "text": "Igloo 3.2-cu ft Top-Freezer Refrigerator (Black)",
+            "embedding": {
+              "dense": {
+                "buffer": "q6qqqqqquj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFVVVVVVVZU/VVVVVVVVlT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVVVVVVVWlP1VVVVVVVZU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVVVVVVVVlT9VVVVVVVWVPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVVVVVVVWVPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFVVVVVVVZU/AAAAAAAAAAAAAAAAAAAAAFVVVVVVVZU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFVVVVVVVZU/AAAAAAAAAABVVVVVVVWVPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFVVVVVVVaU/AAAAAAAAAABVVVVVVVWlPwAAAAAAAAAAq6qqqqqquj9VVVVVVVWlP1VVVVVVVaU/AAAAAAAAAABVVVVVVVWVPwAAAAAAAAAAVVVVVVVVlT9VVVVVVVWlPwAAAAAAAAAAAAAAAAAAAABVVVVVVVW1P1VVVVVVVZU/AAAAAAAAAACrqqqqqqq6PwAAAAAAAAAAVVVVVVVVpT9VVVVVVVWVPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVVVVVVVVlT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19104804,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a1ffd-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "The Original Outdoor Cooker Black 11000-BTU 220-sq in Portable Gas Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/811940/811940020955.jpg",
+                "description": "Black 11000-BTU 220-sq in Portable Gas Grill",
+                "product_url": "https://www.lowes.com/pd/The-Original-Outdoor-Cooker-Black-11000-BTU-220-sq-in-Portable-Gas-Grill/1000372241",
+                "full_description": "17.75 in. rectangular table top gas grill, with 220 square inches of cooking area, 11,000 BTU burner, hinged lid and folding legs.",
+                "brand": "The Original Outdoor Cooker"
+              }
+            },
+            "text": "The Original Outdoor Cooker Black 11000-BTU 220-sq in Portable Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "chzHcRzHwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcx3Ecx3GcPwAAAAAAAAAAAAAAAAAAAAAcx3Ecx3GsPxzHcRzHcZw/HMdxHMdxnD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcx3Ecx3GcPxzHcRzHcYw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHMdxHMdxnD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABzHcRzHcZw/HMdxHMdxjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcx3Ecx3GcPxzHcRzHcYw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABzHcRzHcaw/HMdxHMdxjD8cx3Ecx3GMPxzHcRzHcYw/VVVVVVVVpT8AAAAAAAAAABzHcRzHcYw/HMdxHMdxjD8cx3Ecx3GsPwAAAAAAAAAAHMdxHMdxnD9yHMdxHMexPwAAAAAAAAAAHMdxHMdxnD9yHMdxHMexPwAAAAAAAAAAHMdxHMdxjD9yHMdxHMexPxzHcRzHcZw/HMdxHMdxnD8cx3Ecx3GMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19112486,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa262-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "LG",
+                "description": "Smart Wi-Fi Enabled 29.5-cu ft 4-Door French Door Refrigerator with Dual Ice Maker and Door within Door (Printproof Black Stainless Steel) ENERGY STAR",
+                "full_description": "LG&#8217;s exclusive Door-in-Door&#174; refrigerators have everything you need to become the ultimate home entertainer. Dual ice makers with Craft Ice&#8482; automatically create crushed, cubed and LG&#8217;s exclusive slow-melting round ice for upscale, craft drinks at home&#8212;without the work. The Full-Convert drawer gives you more capacity when you need it, with the ability to fully convert from 5 chill to freeze options with one quick touch. To ensure you&#8217;re serving guests the freshest foods, innovative LG cooling technologies work together to dramatically extend the life of your produce.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/048231/048231803212.jpg",
+                "title": "LG Smart Wi-Fi Enabled 29.5-cu ft 4-Door French Door Refrigerator with Dual Ice Maker and Door within Door (Printproof Black Stainless Steel) ENERGY STAR",
+                "product_url": "https://www.lowes.com/pd/LG-Smart-Wi-Fi-Enabled-29-5-cu-ft-4-Door-French-Door-Refrigerator-with-Dual-Ice-Maker-and-Door-within-Door-Printproof-Black-Stainless-Steel-ENERGY-STAR/1002951138"
+              }
+            },
+            "text": "LG Smart Wi-Fi Enabled 29.5-cu ft 4-Door French Door Refrigerator with Dual Ice Maker and Door within Door (Printproof Black Stainless Steel) ENERGY STAR",
+            "embedding": {
+              "dense": {
+                "buffer": "k+g9k+g9wz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABtwxRpwxXo/G3DFGnDFej8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPxtwxRpwxXo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG3DFGnDFej8AAAAAAAAAABtwxRpwxXo/G3DFGnDFej8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbcMUacMV6PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG3DFGnDFej8bcMUacMV6PwAAAAAAAAAAEWa7EGa7oD8UFBQUFBSUPxtwxRpwxYo/G3DFGnDFij8AAAAAAAAAABtwxRpwxXo/AAAAAAAAAAAAAAAAAAAAABtwxRpwxXo/G3DFGnDFej8bcMUacMV6PwAAAAAAAAAAG3DFGnDFej8AAAAAAAAAABQUFBQUFJQ/G3DFGnDFmj8bcMUacMV6PwAAAAAAAAAAAAAAAAAAAAAbcMUacMV6PwAAAAAAAAAAG3DFGnDFej8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABtwxRpwxao/G3DFGnDFej8bcMUacMWaPxtwxRpwxYo/Hh4eHh4erj8UFBQUFBSUPxtwxRpwxXo/FBQUFBQUlD8bcMUacMWqPwAAAAAAAAAAG3DFGnDFij8RZrsQZrugPxtwxRpwxXo/FBQUFBQUpD8SvWcSvWeyPxtwxRpwxXo/AAAAAAAAAAAUFBQUFBS0PxtwxRpwxYo/G3DFGnDFqj8bcMUacMWKPwAAAAAAAAAAG3DFGnDFij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1914039,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a2020-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/500002/5000028629.jpg",
+                "title": "Imperial International Georgia Bulldogs 10-sq in Multicolor Portable Charcoal Grill",
+                "full_description": "",
+                "brand": "Imperial International",
+                "description": "Georgia Bulldogs 10-sq in Multicolor Portable Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Georgia-Bulldogs-10-sq-in-Multicolor-Portable-Charcoal-Grill/5000028629"
+              }
+            },
+            "text": "Imperial International Georgia Bulldogs 10-sq in Multicolor Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "H3JZMVDCuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACq82sPuayIPwAAAAAAAAAAAAAAAAAAAACq82sPuayIP6rzaw+5rIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACq82sPuayIP6rzaw+5rIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqvNrD7msmD8AAAAAAAAAAKrzaw+5rJg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqvNrD7msiD8AAAAAAAAAAAAAAAAAAAAAqvNrD7msiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADR1fu0hl7U/qvNrD7msiD+q82sPuayYP6rzaw+5rIg/qvNrD7msqD8AAAAAAAAAAKrzaw+5rJg/qvNrD7msiD+/9pDLioGyPwAAAAAAAAAAAAAAAAAAAACU8EZT59e+P6rzaw+5rIg/qvNrD7msqD80dX7tIZe1P6rzaw+5rIg/qvNrD7msiD80dX7tIZe1P6rzaw+5rJg/qvNrD7msqD+q82sPuayYPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19153154,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          }
+        ],
+        "tags": {},
+        "text": "gas grill from Rogue XT",
+        "embedding": {
+          "dense": {
+            "buffer": "ZCELWchCxj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQqY/AAAAAAAAAABkIQtZyEKmPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQqY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQqY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchCpj9kIQtZyEKmPwtZyEIWssA/AAAAAAAAAABkIQtZyEKmPwAAAAAAAAAAAAAAAAAAAABkIQtZyEK2P2QhC1nIQqY/AAAAAAAAAABkIQtZyEK2PwAAAAAAAAAAAAAAAAAAAABkIQtZyEK2P2QhC1nIQqY/AAAAAAAAAABkIQtZyEKmPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "shape": [
+              96
+            ],
+            "dtype": "<f8",
+            "quantization": 0,
+            "maxVal": 0,
+            "minVal": 0,
+            "scale": 0,
+            "originalDtype": ""
+          }
+        },
+        "granularity": 0,
+        "adjacency": 0,
+        "parentId": "",
+        "chunks": [],
+        "weight": 0,
+        "uri": "",
+        "mimeType": "",
+        "location": [],
+        "offset": 0,
+        "scores": {},
+        "modality": "",
+        "evaluations": {}
+      }
+    ],
+    "groundtruths": []
+  }
+}

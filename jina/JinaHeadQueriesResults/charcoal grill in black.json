@@ -1,0 +1,1021 @@
+{
+  "requestId": "2dae4cf6-d1ba-414f-bc5a-bfd880efb554",
+  "data": {
+    "docs": [
+      {
+        "id": "dab6acc2-458a-11ec-956e-e3601f14962f",
+        "matches": [
+          {
+            "id": "cb1a1f96-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Bring the BBQ wherever you roam with the X-Grill Portable Charcoal BBQ Grill, a sleek, electro-plated steel tailgate grill that packs down flatter than a pancake! This highly-portable folding tailgate grill sets up in seconds with its chrome tri-fold cooking grate and durable polyester canvas carrying tote with shoulder strap. All you need is charcoal/kindling, and friends!",
+                "product_url": "https://www.lowes.com/pd/Picnic-Time-Atlanta-Falcons-Black-Charcoal-Grill/1001085446",
+                "title": "Picnic Time Atlanta Falcons Black Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100108/1001085446.jpg",
+                "brand": "Picnic Time",
+                "description": "Atlanta Falcons Black Charcoal Grill"
+              }
+            },
+            "text": "Picnic Time Atlanta Falcons Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVVVVVVVVlT9VVVVVVVWVP1VVVVVVVZU/AAAAAAAAAAAAAAAAAAAAAFVVVVVVVZU/VVVVVVVVlT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVVVVVVVVlT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVVVVVVVWVPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMA/AAAAAAAAAACrqqqqqqq6PwAAAAAAAAAAVVVVVVVVlT8AAAAAAAAAAAAAAAAAAAAAVVVVVVVVlT9VVVVVVVW1PwAAAAAAAAAAVVVVVVVVlT8AAAAAAADAP1VVVVVVVZU/AAAAAAAAsD9VVVVVVVWlPwAAAAAAAAAAAAAAAAAAAABVVVVVVVWlP1VVVVVVVZU/VVVVVVVVpT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12827188,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa5f5-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Bring the BBQ wherever you roam with the X-Grill Portable Charcoal BBQ Grill, a sleek, electro-plated steel tailgate grill that packs down flatter than a pancake! This highly-portable folding tailgate grill sets up in seconds with its chrome tri-fold cooking grate and durable polyester canvas carrying tote with shoulder strap. All you need is charcoal/kindling, and friends!",
+                "product_url": "https://www.lowes.com/pd/Picnic-Time-Jacksonville-Jaguars-Black-Charcoal-Grill/1001085654",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100108/1001085654.jpg",
+                "brand": "Picnic Time",
+                "title": "Picnic Time Jacksonville Jaguars Black Charcoal Grill",
+                "description": "Jacksonville Jaguars Black Charcoal Grill"
+              }
+            },
+            "text": "Picnic Time Jacksonville Jaguars Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "IjXBeCv7vD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKTP8F4K/scUpM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAAAAAAAAAAAAwXgr+xxSoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACI1wXgr+7w/AAAAAAAAAADyVvY5pCa4PwAAAAAAAAAAwXgr+xxSoz8AAAAAAAAAAMF4K/scUpM/wXgr+xxSkz/yVvY5pCa4PwAAAAAAAAAAwXgr+xxSoz8iNcF4K/u8P8F4K/scUpM/wXgr+xxSoz/BeCv7HFKjPwAAAAAAAAAAAAAAAAAAAAAiNcF4K/usP8F4K/scUqM/AAAAAAAAAADBeCv7HFKTP8F4K/scUpM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12991522,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a1fa6-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Charcoal Grill 20-in Black Charcoal Grill",
+                "title": "UltraPlay Charcoal Grill 20-in Black Charcoal Grill",
+                "full_description": "Outdoor charcoal grill with 280 square inches of cooking space.",
+                "product_url": "https://www.lowes.com/pd/UltraPlay-Charcoal-Grill-20-in-Black-Charcoal-Grill/3800579",
+                "brand": "UltraPlay",
+                "image_url": "https://mobileimages.lowes.com/product/converted/845720/845720001940.jpg"
+              }
+            },
+            "text": "UltraPlay Charcoal Grill 20-in Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "Hh4eHh4evj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPwAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPwAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPxQUFBQUFKQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUpD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFJQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJKRkZGRkcE/AAAAAAAAAAAeHh4eHh6uPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUpD8eHh4eHh6uPwAAAAAAAAAAFBQUFBQUlD+XlpaWlpbGPwAAAAAAAAAAFBQUFBQUlD8UFBQUFBSkPwAAAAAAAAAAAAAAAAAAAAAZGRkZGRm5PwAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFJQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13178457,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a1faa-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Dallas Cowboys Black Charcoal Grill",
+                "brand": "Picnic Time",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100108/1001085558.jpg",
+                "product_url": "https://www.lowes.com/pd/Picnic-Time-Dallas-Cowboys-Black-Charcoal-Grill/1001085558",
+                "full_description": "Bring the BBQ wherever you roam with the X-Grill Portable Charcoal BBQ Grill, a sleek, electro-plated steel tailgate grill that packs down flatter than a pancake! This highly-portable folding tailgate grill sets up in seconds with its chrome tri-fold cooking grate and durable polyester canvas carrying tote with shoulder strap. All you need is charcoal/kindling, and friends!",
+                "title": "Picnic Time Dallas Cowboys Black Charcoal Grill"
+              }
+            },
+            "text": "Picnic Time Dallas Cowboys Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "QUyuICZXwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABXEJMriMmVP1cQkyuIyaU/VxCTK4jJlT8AAAAAAAAAAAAAAAAAAAAAVxCTK4jJlT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVxCTK4jJlT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABXEJMriMmVPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG3UdzbqO7s/VxCTK4jJlT9XEJMriMm1PwAAAAAAAAAAVxCTK4jJlT8AAAAAAAAAAAAAAAAAAAAAVxCTK4jJlT9XEJMriMm1PwAAAAAAAAAAVxCTK4jJlT9BTK4gJlfAP1cQkyuIyZU/VxCTK4jJlT9BTK4gJlewPwAAAAAAAAAAAAAAAAAAAABXEJMriMmlP1cQkyuIyaU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVxCTK4jJlT8AAAAAAAAAAFcQkyuIyZU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13684775,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a1fca-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Clihome-Ac-Milan-Charcoal-Smoker-and-Grill-25-in-Black-Barrel-Charcoal-Grill/1001855942",
+                "title": "Clihome Ac Milan Charcoal Smoker and Grill 25-in Black Barrel Charcoal Grill",
+                "brand": "Clihome",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100185/1001855942.jpg",
+                "description": "Ac Milan Charcoal Smoker and Grill 25-in Black Barrel Charcoal Grill",
+                "full_description": "This multi-functional charcoal smoker lets you have it all with both grilling and smoking capacity. 2-Access doors design to make adding charcoal and wood easier while smoking. With the top and bottom adjustable air vents, heat control is in your hand. The heavy-duty protective grill cover is made of 600D oxford fabric which is weather-resistant and dust-proof. Our grill cover can protect your grill from the elements of forces, such as wind, sand storms, sun and rain etc. assembled dimensions: 25 in. x 20 in. x 41 in. total cooking area (sq. In.). 969 Sq. in. Fuel type: charcoal/wood body construction: heavy-duty steel cooking grate material: chrome-plated cooking grate quantity: 3-Pieces."
+              }
+            },
+            "text": "Clihome Ac Milan Charcoal Smoker and Grill 25-in Black Barrel Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "bCivobyGwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAor6G8hvKKPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKK+hvIbyij8AAAAAAAAAAAAAAAAAAAAAKK+hvIbyij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKK+hvIbyij8or6G8hvKaP15DeQ3lNaQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKK+hvIbymj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKK+hvIbyij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKK+hvIbyij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACivobyG8ro/AAAAAAAAAAAor6G8hvKqPyivobyG8oo/XkN5DeU1pD8AAAAAAAAAAAAAAAAAAAAAXkN5DeU1pD95DeU1lNewPwAAAAAAAAAAKK+hvIbymj95DeU1lNfAPyivobyG8po/XkN5DeU1pD8or6G8hvKqPwAAAAAAAAAAAAAAAAAAAABDeQ3lNZS3PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14055309,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa5f9-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Picnic Time",
+                "product_url": "https://www.lowes.com/pd/Picnic-Time-Arizona-Cardinals-Black-Charcoal-Grill/1001085430",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100108/1001085430.jpg",
+                "title": "Picnic Time Arizona Cardinals Black Charcoal Grill",
+                "full_description": "Bring the BBQ wherever you roam with the X-Grill Portable Charcoal BBQ Grill, a sleek, electro-plated steel tailgate grill that packs down flatter than a pancake! This highly-portable folding tailgate grill sets up in seconds with its chrome tri-fold cooking grate and durable polyester canvas carrying tote with shoulder strap. All you need is charcoal/kindling, and friends!",
+                "description": "Arizona Cardinals Black Charcoal Grill"
+              }
+            },
+            "text": "Picnic Time Arizona Cardinals Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "uB6F61G4vj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAexSuR+F6lD97FK5H4XqUP3sUrkfheqQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAexSuR+F6lD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAexSuR+F6lD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB7FK5H4XqUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALgehetRuL4/AAAAAAAAAAB7FK5H4Xq0P3sUrkfhepQ/exSuR+F6lD8AAAAAAAAAAAAAAAAAAAAAexSuR+F6lD+4HoXrUbi+PwAAAAAAAAAAexSuR+F6lD+amZmZmZm5P3sUrkfhepQ/uB6F61G4rj97FK5H4XqkPwAAAAAAAAAAAAAAAAAAAAB7FK5H4Xq0P3sUrkfhepQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAexSuR+F6lD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14189109,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a1fad-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/100108/1001085782.jpg",
+                "description": "Oakland Raiders Black Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Picnic-Time-Oakland-Raiders-Black-Charcoal-Grill/1001085782",
+                "title": "Picnic Time Oakland Raiders Black Charcoal Grill",
+                "full_description": "Bring the BBQ wherever you roam with the X-Grill Portable Charcoal BBQ Grill, a sleek, electro-plated steel tailgate grill that packs down flatter than a pancake! This highly-portable folding tailgate grill sets up in seconds with its chrome tri-fold cooking grate and durable polyester canvas carrying tote with shoulder strap. All you need is charcoal/kindling, and friends!",
+                "brand": "Picnic Time"
+              }
+            },
+            "text": "Picnic Time Oakland Raiders Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVVVVVVVWVP1VVVVVVVZU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVVVVVVVVlT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFVVVVVVVZU/VVVVVVVVlT8AAAAAAAAAAFVVVVVVVZU/AAAAAAAAAABVVVVVVVWVPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMA/AAAAAAAAAABVVVVVVVW1P1VVVVVVVaU/VVVVVVVVpT8AAAAAAAAAAAAAAAAAAAAAVVVVVVVVlT+rqqqqqqq6PwAAAAAAAAAAVVVVVVVVpT+rqqqqqqq6P1VVVVVVVZU/VVVVVVVVpT9VVVVVVVWVPwAAAAAAAAAAAAAAAAAAAAAAAAAAAACwP1VVVVVVVZU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14222457,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a1f97-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Bring the BBQ wherever you roam with the X-Grill Portable Charcoal BBQ Grill, a sleek, electro-plated steel tailgate grill that packs down flatter than a pancake! This highly-portable folding tailgate grill sets up in seconds with its chrome tri-fold cooking grate and durable polyester canvas carrying tote with shoulder strap. All you need is charcoal/kindling, and friends!",
+                "brand": "Picnic Time",
+                "title": "Picnic Time Carolina Panthers Black Charcoal Grill",
+                "description": "Carolina Panthers Black Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Picnic-Time-Carolina-Panthers-Black-Charcoal-Grill/1001085494",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100108/1001085494.jpg"
+              }
+            },
+            "text": "Picnic Time Carolina Panthers Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "uB6F61G4vj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB7FK5H4XqUP3sUrkfheqQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAexSuR+F6lD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAexSuR+F6pD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB7FK5H4XqUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALgehetRuL4/AAAAAAAAAAB7FK5H4Xq0PwAAAAAAAAAAexSuR+F6pD8AAAAAAAAAAAAAAAAAAAAAexSuR+F6pD+amZmZmZm5PwAAAAAAAAAAexSuR+F6lD+amZmZmZm5P3sUrkfhepQ/uB6F61G4rj97FK5H4XqkPwAAAAAAAAAAAAAAAAAAAAB7FK5H4Xq0P3sUrkfhepQ/exSuR+F6lD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14238052,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a1fc7-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Clihome Ac Milan Charcoal Smoker and Grill 24.8-in Black Barrel Charcoal Grill",
+                "brand": "Clihome",
+                "product_url": "https://www.lowes.com/pd/Clihome-Ac-Milan-Charcoal-Smoker-and-Grill-24-8-in-Black-Barrel-Charcoal-Grill/1002269088",
+                "description": "Ac Milan Charcoal Smoker and Grill 24.8-in Black Barrel Charcoal Grill",
+                "full_description": "This multi-functional charcoal smoker lets you have it all with both grilling and smoking capacity. 2-Access doors design to make adding charcoal and wood easier while smoking, with the top and bottom adjustable air vents, heat control is in your hand, the heavy-duty protective grill cover is made of 600D oxford fabric which is weather-resistant and dust-proof. Our grill cover can protect your grill from the elements of forces, such as wind, sand storms, sun and rain etc. fuel type: charcoal/wood body construction: heavy-duty steel cooking grate material: chrome-plated cooking grate quantity: 3-Pieces.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100226/1002269088.jpg"
+              }
+            },
+            "text": "Clihome Ac Milan Charcoal Smoker and Grill 24.8-in Black Barrel Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "0iAN0iANwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAapEEapEGKPxqkQRqkQYo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGqRBGqRBij8AAAAAAAAAABqkQRqkQYo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGqRBGqRBij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGqRBGqRBij8apEEapEGaPxQ7sRM7saM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGqRBGqRBmj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGqRBGqRBij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGqRBGqRBij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABqkQRqkQbo/AAAAAAAAAAAapEEapEGqPxqkQRqkQYo/FDuxEzuxoz8AAAAAAAAAAAAAAAAAAAAAFDuxEzuxoz+QBmmQBmmwPwAAAAAAAAAAGqRBGqRBmj+QBmmQBmnAPxqkQRqkQZo/FDuxEzuxoz8apEEapEGqPwAAAAAAAAAAAAAAAAAAAACXb/mWb/m2PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14280671,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a1fc8-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Clihome Ac Milan Grills 22-in Black Barrel Charcoal Grill",
+                "full_description": "Are you thinking about buying smoker grill?Â?Our smoker grill have been designed to give you the best smoker grill experience ever. Thanks to the controllable air supply and two layers design, our smoker will give you full control. Take the smoker grill to your home, you can barbecue with your family anytime and anywhere!",
+                "product_url": "https://www.lowes.com/pd/Clihome-Ac-Milan-Grills-22-in-Black-Barrel-Charcoal-Grill/1002269080",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100226/1002269080.jpg",
+                "brand": "Clihome",
+                "description": "Ac Milan Grills 22-in Black Barrel Charcoal Grill"
+              }
+            },
+            "text": "Clihome Ac Milan Grills 22-in Black Barrel Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "cB/BfQT3wT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwH8F9BPeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3oT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3kT9wH8F9BPehP3AfwX0E96E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3oT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3kT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAExnMZ3FdLY/AAAAAAAAAAAor6G8hvKqPwAAAAAAAAAAcB/BfQT3oT8AAAAAAAAAAAAAAAAAAAAAcB/BfQT3oT9MZzGdxXS2PwAAAAAAAAAAcB/BfQT3kT9eQ3kN5TXEP3AfwX0E95E/cB/BfQT3oT9wH8F9BPehPwAAAAAAAAAAAAAAAAAAAABMZzGdxXS2P3AfwX0E95E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14350338,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a1f90-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Picnic Time Philadelphia Eagles Black Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Picnic-Time-Philadelphia-Eagles-Black-Charcoal-Grill/1001085798",
+                "brand": "Picnic Time",
+                "full_description": "Bring the BBQ wherever you roam with the X-Grill Portable Charcoal BBQ Grill, a sleek, electro-plated steel tailgate grill that packs down flatter than a pancake! This highly-portable folding tailgate grill sets up in seconds with its chrome tri-fold cooking grate and durable polyester canvas carrying tote with shoulder strap. All you need is charcoal/kindling, and friends!",
+                "description": "Philadelphia Eagles Black Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100108/1001085798.jpg"
+              }
+            },
+            "text": "Picnic Time Philadelphia Eagles Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "ntiJndiJvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPxQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ7YiZ3Yib0/AAAAAAAAAAAUO7ETO7GzPxQ7sRM7sZM/ntiJndiJrT8AAAAAAAAAABQ7sRM7sZM/ntiJndiJrT+e2Imd2Im9PwAAAAAAAAAAFDuxEzuxkz+xEzuxEzvBPxQ7sRM7sZM/FDuxEzuxkz8UO7ETO7GTPxQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GjPxQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14353049,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a1f8c-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Picnic-Time-Chicago-Bears-Black-Charcoal-Grill/1001085510",
+                "description": "Chicago Bears Black Charcoal Grill",
+                "title": "Picnic Time Chicago Bears Black Charcoal Grill",
+                "brand": "Picnic Time",
+                "full_description": "Bring the BBQ wherever you roam with the X-Grill Portable Charcoal BBQ Grill, a sleek, electro-plated steel tailgate grill that packs down flatter than a pancake! This highly-portable folding tailgate grill sets up in seconds with its chrome tri-fold cooking grate and durable polyester canvas carrying tote with shoulder strap. All you need is charcoal/kindling, and friends!",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100108/1001085510.jpg"
+              }
+            },
+            "text": "Picnic Time Chicago Bears Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "C1nIQhaywD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQqY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL3pTW9607s/AAAAAAAAAAC96U1vetO7PwAAAAAAAAAAZCELWchCpj8AAAAAAAAAAGQhC1nIQpY/ZCELWchCpj+96U1vetO7PwAAAAAAAAAAZCELWchClj9kIQtZyEK2P2QhC1nIQpY/ZCELWchClj9kIQtZyEKmPwAAAAAAAAAAAAAAAAAAAAALWchCFrKwP2QhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14420108,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa5f4-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Picnic Time",
+                "product_url": "https://www.lowes.com/pd/Picnic-Time-Buffalo-Bills-Black-Charcoal-Grill/1001085478",
+                "full_description": "Bring the BBQ wherever you roam with the X-Grill Portable Charcoal BBQ Grill, a sleek, electro-plated steel tailgate grill that packs down flatter than a pancake! This highly-portable folding tailgate grill sets up in seconds with its chrome tri-fold cooking grate and durable polyester canvas carrying tote with shoulder strap. All you need is charcoal/kindling, and friends!",
+                "title": "Picnic Time Buffalo Bills Black Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100108/1001085478.jpg",
+                "description": "Buffalo Bills Black Charcoal Grill"
+              }
+            },
+            "text": "Picnic Time Buffalo Bills Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "C1nIQhaywD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALWchCFrKwP2QhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQrY/AAAAAAAAAABkIQtZyEK2PwAAAAAAAAAAZCELWchClj9kIQtZyEKmPwAAAAAAAAAAZCELWchClj+96U1vetO7PwAAAAAAAAAAZCELWchClj84velNb3rDP2QhC1nIQpY/ZCELWchClj9kIQtZyEKmPwAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14744195,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa5f3-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Picnic Time",
+                "title": "Picnic Time Indianapolis Colts Black Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100108/1001085638.jpg",
+                "product_url": "https://www.lowes.com/pd/Picnic-Time-Indianapolis-Colts-Black-Charcoal-Grill/1001085638",
+                "full_description": "Bring the BBQ wherever you roam with the X-Grill Portable Charcoal BBQ Grill, a sleek, electro-plated steel tailgate grill that packs down flatter than a pancake! This highly-portable folding tailgate grill sets up in seconds with its chrome tri-fold cooking grate and durable polyester canvas carrying tote with shoulder strap. All you need is charcoal/kindling, and friends!",
+                "description": "Indianapolis Colts Black Charcoal Grill"
+              }
+            },
+            "text": "Picnic Time Indianapolis Colts Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "Hh4eHh4evj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPxQUFBQUFKQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAABQUFBQUFJQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkZGRkZGbk/AAAAAAAAAAAUFBQUFBS0PxQUFBQUFJQ/FBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAFBQUFBQUlD8eHh4eHh6+PwAAAAAAAAAAFBQUFBQUlD8eHh4eHh6+PxQUFBQUFJQ/Hh4eHh4erj8eHh4eHh6uPxQUFBQUFJQ/AAAAAAAAAAAUFBQUFBSkPxQUFBQUFKQ/FBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15038614,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a1fb2-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Char-Griller-Legacy-33-in-Black-Charcoal-Grill/1000169637",
+                "brand": "Char-Griller",
+                "image_url": "https://mobileimages.lowes.com/product/converted/789792/789792021904.jpg",
+                "title": "Char-Griller Legacy 33-in Black Charcoal Grill",
+                "description": "Legacy 33-in Black Charcoal Grill",
+                "full_description": "The Char-Griller&#174; Legacy&#8482; Charcoal Grill features dual dampers, heat gauge, and triple wall steel with insulation to deliver a superior grilling experience. With the easy dump ash pan clean up is easy and the hinged lid keeps the lid in place while you cook. Lastly, this grill is compatible with the Char-Griller&#174; Side Fire Box (Lowe's SKU 11236 - sold separately), allowing you to turn the Legacy&#8482; into a Texas-style smoker."
+              }
+            },
+            "text": "Char-Griller Legacy 33-in Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "velNb3rTuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKWP2QhC1nIQqY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchCpj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL3pTW9607s/AAAAAAAAAAALWchCFrKwPwAAAAAAAAAAZCELWchCpj8AAAAAAAAAAGQhC1nIQpY/ZCELWchCpj8LWchCFrKwPwAAAAAAAAAAZCELWchClj8LWchCFrLAPwAAAAAAAAAAZCELWchClj9kIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAC96U1vetO7PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15061311,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a1f94-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Picnic Time San Francisco 49ers Black Charcoal Grill",
+                "description": "San Francisco 49ers Black Charcoal Grill",
+                "brand": "Picnic Time",
+                "product_url": "https://www.lowes.com/pd/Picnic-Time-San-Francisco-49ers-Black-Charcoal-Grill/1001085830",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100108/1001085830.jpg",
+                "full_description": "Bring the BBQ wherever you roam with the X-Grill Portable Charcoal BBQ Grill, a sleek, electro-plated steel tailgate grill that packs down flatter than a pancake! This highly-portable folding tailgate grill sets up in seconds with its chrome tri-fold cooking grate and durable polyester canvas carrying tote with shoulder strap. All you need is charcoal/kindling, and friends!"
+              }
+            },
+            "text": "Picnic Time San Francisco 49ers Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "sRM7sRM7wT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPxQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/FDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANmJndiJnbg/AAAAAAAAAACe2Imd2Im9PwAAAAAAAAAAFDuxEzuxoz8AAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz/ZiZ3YiZ24PwAAAAAAAAAAFDuxEzuxkz8UO7ETO7GzPxQ7sRM7sZM/ntiJndiJrT8UO7ETO7GjPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GzPxQ7sRM7saM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15116909,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a1fbf-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "21.25-in Black Charcoal Grill",
+                "brand": "Americana",
+                "product_url": "https://www.lowes.com/pd/Americana-21-25-in-Black-Charcoal-Grill/1000226317",
+                "image_url": "https://mobileimages.lowes.com/product/converted/042952/042952135409.jpg",
+                "full_description": "Grilling just got easier with this Americana sizzler charcoal grill. With a deep-dish hood and unique bowl design, this grill delivers maximum smoky flavor for a distinctively delicious taste. It offers added safety with a tilt-away hood and stay-cool handle, and continues to look new with its durable, high-gloss powder finish. Temperature control is easy to maintain with an adjustable hood, front vents and static rear vent ports. With a classic design and easy-to-use features, this charcoal grill makes a great addition to your backyard barbecue.",
+                "title": "Americana 21.25-in Black Charcoal Grill"
+              }
+            },
+            "text": "Americana 21.25-in Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "GqRBGqRBuj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAapEEapEGaPxqkQRqkQZo/AAAAAAAAAAAAAAAAAAAAABqkQRqkQZo/GqRBGqRBqj8AAAAAAAAAAAAAAAAAAAAAGqRBGqRBmj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGqRBGqRBmj8apEEapEGaPxqkQRqkQZo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGqRBGqRBmj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJAGaZAGacA/AAAAAAAAAAAUO7ETO7GzPwAAAAAAAAAAGqRBGqRBmj8AAAAAAAAAAAAAAAAAAAAAGqRBGqRBmj8UO7ETO7GzPwAAAAAAAAAAGqRBGqRBmj8apEEapEG6PxqkQRqkQZo/GqRBGqRBqj8apEEapEGaPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GzPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15145247,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a1fa3-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Lordear Portable outdoor charcoal grill 10-in Black Charcoal Grill",
+                "full_description": "The portable charcoal grill is suitable for 7 - 10 people barbecue party in a variety of venues. Such as picnic, trailing, camping patio, indoor, outdoor parties, tourism, gardens, parks, beaches. A number of unique design can provide you with great convenience.",
+                "product_url": "https://www.lowes.com/pd/Lordear-Portable-outdoor-charcoal-grill-10-in-Black-Charcoal-Grill/1003265762",
+                "brand": "Lordear",
+                "description": "Portable outdoor charcoal grill 10-in Black Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100326/1003265762.jpg"
+              }
+            },
+            "text": "Lordear Portable outdoor charcoal grill 10-in Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "CB988MEHvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIH3zwwQePPwAAAAAAAAAAAAAAAAAAAAAIH3zwwQePPwgffPDBB48/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIH3zwwQePPwgffPDBB48/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACB988MEHjz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgffPDBB48/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACB988MEHjz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACebbLLJJrs/CB988MEHjz8IH3zwwQevPwgffPDBB58/CB988MEHnz8AAAAAAAAAAAgffPDBB48/CB988MEHnz9GF1100UWnPwAAAAAAAAAACB988MEHjz8IH3zwwQe/PwAAAAAAAAAACB988MEHjz8nm2yyySa7PwAAAAAAAAAAAAAAAAAAAAAIH3zwwQe/PwAAAAAAAAAACB988MEHnz8IH3zwwQePPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15280427,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a1fa4-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Portable outdoor charcoal grill 15-in Black Charcoal Grill",
+                "title": "Lordear Portable outdoor charcoal grill 15-in Black Charcoal Grill",
+                "brand": "Lordear",
+                "product_url": "https://www.lowes.com/pd/Lordear-Portable-outdoor-charcoal-grill-15-in-Black-Charcoal-Grill/1003265764",
+                "full_description": "A portable fold grill is suitable for 3-5 people barbecue parties in a variety of venues. Such as picnic, trailing, camping patio, indoor, outdoor parties, tourism, gardens, parks, beaches. A number of unique design can provide you with great convenience.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100326/1003265764.jpg"
+              }
+            },
+            "text": "Lordear Portable outdoor charcoal grill 15-in Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "CB988MEHvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIH3zwwQePPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgffPDBB48/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACB988MEHjz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIH3zwwQePPwgffPDBB48/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACB988MEHjz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgffPDBB48/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACB988MEHjz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACebbLLJJrs/CB988MEHjz8IH3zwwQevPwgffPDBB58/CB988MEHnz8AAAAAAAAAAAgffPDBB48/CB988MEHnz9GF1100UWnPwAAAAAAAAAACB988MEHjz8IH3zwwQe/PwAAAAAAAAAACB988MEHjz8nm2yyySa7PwAAAAAAAAAAAAAAAAAAAAAIH3zwwQe/PwAAAAAAAAAACB988MEHnz8IH3zwwQePPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15280427,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a1f95-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Picnic Time",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100108/1001085718.jpg",
+                "full_description": "Bring the BBQ wherever you roam with the X-Grill Portable Charcoal BBQ Grill, a sleek, electro-plated steel tailgate grill that packs down flatter than a pancake! This highly-portable folding tailgate grill sets up in seconds with its chrome tri-fold cooking grate and durable polyester canvas carrying tote with shoulder strap. All you need is charcoal/kindling, and friends!",
+                "title": "Picnic Time New England Patriots Black Charcoal Grill",
+                "description": "New England Patriots Black Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Picnic-Time-New-England-Patriots-Black-Charcoal-Grill/1001085718"
+              }
+            },
+            "text": "Picnic Time New England Patriots Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "qQnGW9nnwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKTP8F4K/scUpM/AAAAAAAAAADBeCv7HFKTPwAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKTPwAAAAAAAAAAwXgr+xxSoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPJW9jmkJrg/AAAAAAAAAADBeCv7HFKzP8F4K/scUpM/wXgr+xxSoz8AAAAAAAAAAMF4K/scUpM/wXgr+xxSkz/yVvY5pCa4PwAAAAAAAAAAwXgr+xxSkz/yVvY5pCa4P8F4K/scUpM/IjXBeCv7rD/BeCv7HFKjPwAAAAAAAAAAAAAAAAAAAAAiNcF4K/usP8F4K/scUpM/wXgr+xxSoz8AAAAAAAAAAAAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1529013,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          }
+        ],
+        "tags": {},
+        "text": "charcoal grill in black",
+        "embedding": {
+          "dense": {
+            "buffer": "C1nIQhaywD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAtZyEIWssA/ZCELWchCpj8LWchCFrLAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQqY/ZCELWchCpj9kIQtZyEK2PwAAAAAAAAAAZCELWchCpj9kIQtZyELGPwAAAAAAAAAAZCELWchCpj9kIQtZyEKmPwAAAAAAAAAAAAAAAAAAAABkIQtZyEK2PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "shape": [
+              96
+            ],
+            "dtype": "<f8",
+            "quantization": 0,
+            "maxVal": 0,
+            "minVal": 0,
+            "scale": 0,
+            "originalDtype": ""
+          }
+        },
+        "granularity": 0,
+        "adjacency": 0,
+        "parentId": "",
+        "chunks": [],
+        "weight": 0,
+        "uri": "",
+        "mimeType": "",
+        "location": [],
+        "offset": 0,
+        "scores": {},
+        "modality": "",
+        "evaluations": {}
+      }
+    ],
+    "groundtruths": []
+  }
+}

@@ -1,0 +1,1023 @@
+{
+  "requestId": "1d1c6852-7d54-46fb-921a-feaf2d9cc9bd",
+  "data": {
+    "docs": [
+      {
+        "id": "c3d8ced0-44c3-11ec-a081-d3da2e768b04",
+        "matches": [
+          {
+            "id": "0c0a36e8-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "This energy star 2.7 Cu. Ft. Single door stainless steel look mini fridge is perfect for college dorms, break rooms, or just extra storage for your home and office space. The adjustable legs and reversible door design allow for placement of this mini refrigerator virtually anywhere you need it. The sleek and fashionable all fridge design does not compromise its functionality. This model has convenient storage shelves on the door for canned beverages and a 2-Liter bottle as well as extra space for single-serve yogurt or other condiments/snacks. Removable fresh-food glass shelves provide storage for larger items to efficiently utilize interior capacity.",
+                "product_url": "https://www.lowes.com/pd/Hisense-2-7-cu-ft-Freestanding-Mini-Fridge-Silver/1002981228",
+                "description": "2.7-cu ft Freestanding Mini Fridge (Silver)",
+                "brand": "Hisense",
+                "title": "Hisense 2.7-cu ft Freestanding Mini Fridge (Silver)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/819130/819130027128.jpg"
+              }
+            },
+            "text": "Hisense 2.7-cu ft Freestanding Mini Fridge (Silver)",
+            "embedding": {
+              "dense": {
+                "buffer": "Hh4eHh4evj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFJQ/FBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPxQUFBQUFJQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFJQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFKQ/AAAAAAAAAAAUFBQUFBSUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFJQ/AAAAAAAAAAAUFBQUFBSUPxQUFBQUFKQ/Hh4eHh4evj8UFBQUFBSUPxQUFBQUFKQ/AAAAAAAAAAAeHh4eHh6+PwAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPwAAAAAAAAAAFBQUFBQUtD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6uPx4eHh4eHq4/FBQUFBQUpD8UFBQUFBSUPxQUFBQUFJQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15302442,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a372f-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Danby Designer 2.6-cu ft Freestanding Mini Fridge (White)",
+                "description": "Designer 2.6-cu ft Freestanding Mini Fridge (White)",
+                "full_description": "The Danby Designer Energy Star 2.6 cu. ft. compact all refrigerator is energy efficient refrigeration in a convenient, compact unit. Perfect for small spaces, this model makes a great addition to the student dorm room or small office. It includes the CanStor beverage dispenser, tall bottle storage and a scratch resistant work top to store accessories. With a reversible door hinge, an integrated door handle and a smooth-back design, this handy refrigerator will fit almost anywhere.",
+                "product_url": "https://www.lowes.com/pd/Danby-Designer-2-6-cu-ft-Freestanding-Mini-Fridge-White/1000485937",
+                "image_url": "https://mobileimages.lowes.com/product/converted/067638/067638998994.jpg",
+                "brand": "Danby"
+              }
+            },
+            "text": "Danby Designer 2.6-cu ft Freestanding Mini Fridge (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "BPcR3Edwvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAfwX0E95E/cB/BfQT3kT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwH8F9BPeRP3AfwX0E95E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3kT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwH8F9BPeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3oT8AAAAAAAAAAHAfwX0E96E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3kT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwH8F9BPeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAfwX0E96E/cB/BfQT3kT9wH8F9BPeRP3AfwX0E96E/KK+hvIbyuj9wH8F9BPeRPyivobyG8qo/cB/BfQT3kT8or6G8hvK6PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATGcxncV0tj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAor6G8hvKqP3AfwX0E96E/KK+hvIbyqj9wH8F9BPeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAfwX0E95E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15509829,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a36e9-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Hisense",
+                "title": "Hisense 3.3-cu ft Freestanding Mini Fridge (Silver)",
+                "product_url": "https://www.lowes.com/pd/Hisense-3-3-cu-ft-Freestanding-Mini-Fridge-Silver/1002927610",
+                "image_url": "https://mobileimages.lowes.com/product/converted/819130/819130027135.jpg",
+                "full_description": "This energy star 3.3 Cu. Ft. Single door stainless steel look mini fridge is perfect for college dorms, break rooms, or just extra storage for your home and office space. The adjustable legs and reversible door design allow for placement of this mini refrigerator virtually anywhere you need it. The sleek and fashionable all fridge design does not compromise its functionality. This model has convenient storage shelves on the door for canned beverages and a 2-Liter bottle as well as extra space for single-serve yogurt or other condiments/snacks. Removable fresh-food glass shelves provide storage for larger items to efficiently utilize interior capacity.",
+                "description": "3.3-cu ft Freestanding Mini Fridge (Silver)"
+              }
+            },
+            "text": "Hisense 3.3-cu ft Freestanding Mini Fridge (Silver)",
+            "embedding": {
+              "dense": {
+                "buffer": "Hh4eHh4evj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFJQ/FBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPxQUFBQUFJQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBSkPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFKQ/AAAAAAAAAAAUFBQUFBSUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFJQ/AAAAAAAAAAAUFBQUFBSUPxQUFBQUFKQ/Hh4eHh4evj8UFBQUFBSUPxQUFBQUFKQ/AAAAAAAAAAAeHh4eHh6+PwAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPwAAAAAAAAAAFBQUFBQUtD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6uPx4eHh4eHq4/FBQUFBQUpD8UFBQUFBSUPxQUFBQUFJQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1555166,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a36e4-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Hisense-4-4-cu-ft-Freestanding-Mini-Fridge-Silver/1002927622",
+                "full_description": "This energy star 4.4 cu ft single door stainless steel look mini fridge is perfect for college dorms, break rooms, or just extra storage for your home and office space. The adjustable legs and reversible door design allow for placement of this mini refrigerator virtually anywhere you need it. The sleek and fashionable all fridge design does not compromise its functionality. This model has convenient storage shelves on the door for canned beverages and a 2-Liter bottle as well as extra space for single-serve yogurt or other condiments/snacks. Removable fresh-food glass shelves provide storage for larger items to efficiently utilize interior capacity.",
+                "brand": "Hisense",
+                "title": "Hisense 4.4-cu ft Freestanding Mini Fridge (Silver)",
+                "description": "4.4-cu ft Freestanding Mini Fridge (Silver)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/819130/819130027142.jpg"
+              }
+            },
+            "text": "Hisense 4.4-cu ft Freestanding Mini Fridge (Silver)",
+            "embedding": {
+              "dense": {
+                "buffer": "Hh4eHh4evj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFJQ/FBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPxQUFBQUFJQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFKQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFKQ/AAAAAAAAAAAUFBQUFBSUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFJQ/AAAAAAAAAAAUFBQUFBSUPxQUFBQUFKQ/Hh4eHh4evj8UFBQUFBSUPxQUFBQUFKQ/AAAAAAAAAAAeHh4eHh6+PwAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPwAAAAAAAAAAFBQUFBQUtD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6uPx4eHh4eHq4/FBQUFBQUpD8UFBQUFBSUPxQUFBQUFJQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1555166,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a36f6-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "",
+                "brand": "Frigidaire",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505645501.jpg",
+                "title": "Frigidaire 3.3-cu ft Freestanding Mini Fridge (Silver Mist)",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-3-3-cu-ft-Freestanding-Mini-Fridge-Silver-Mist/1000788204",
+                "description": "3.3-cu ft Freestanding Mini Fridge (Silver Mist)"
+              }
+            },
+            "text": "Frigidaire 3.3-cu ft Freestanding Mini Fridge (Silver Mist)",
+            "embedding": {
+              "dense": {
+                "buffer": "VwQNJ3Vfvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/DSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPw0ndV8eW5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJ3VfHluhPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJS6L4+tCKo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADSd1Xx5boT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW6E/AAAAAAAAAAANJ3VfHluRP5S6L4+tCKo/0HBS9+WxtT8NJ3VfHluRP5S6L4+tCKo/AAAAAAAAAADvy2MrgobDPwAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPwAAAAAAAAAAlLovj60Iqj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADQcFL35bG1Pw0ndV8eW6E/lLovj60Iqj8NJ3VfHluRPw0ndV8eW5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15650903,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a36ef-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Frigidaire 3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Silver Mist)",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-3-1-cu-ft-Freestanding-Mini-Fridge-Freezer-Compartment-Silver-Mist/1000940476",
+                "description": "3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Silver Mist)",
+                "full_description": "",
+                "brand": "Frigidaire",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505645532.jpg"
+              }
+            },
+            "text": "Frigidaire 3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Silver Mist)",
+            "embedding": {
+              "dense": {
+                "buffer": "VDqyZyAqvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADZMxCVjuyJP9kzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/AAAAAAAAAADZMxCVjuyJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAANkzEJWO7Kk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2TMQlY7smT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOMmzO9qcaM/AAAAAAAAAADZMxCVjuyJP+MmzO9qcaM/VDqyZyAqvT/ZMxCVjuyJP+MmzO9qcaM/AAAAAAAAAABUOrJnICq9PwAAAAAAAAAAAAAAAAAAAADZMxCVjuyJP9kzEJWO7Jk/2TMQlY7sqT/ZMxCVjuyJP9kzEJWO7Ik/AAAAAAAAAADZMxCVjuy5P9kzEJWO7Jk/aCAqHdkzsD/ZMxCVjuyJP9kzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15945551,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a36f8-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Frigidaire",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-4-5-cu-ft-Freestanding-Mini-Fridge-Freezer-Compartment-Silver-Mist/1001354724",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505645655.jpg",
+                "title": "Frigidaire 4.5-cu ft Freestanding Mini Fridge Freezer Compartment (Silver Mist)",
+                "description": "4.5-cu ft Freestanding Mini Fridge Freezer Compartment (Silver Mist)",
+                "full_description": ""
+              }
+            },
+            "text": "Frigidaire 4.5-cu ft Freestanding Mini Fridge Freezer Compartment (Silver Mist)",
+            "embedding": {
+              "dense": {
+                "buffer": "VDqyZyAqvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADZMxCVjuyJP9kzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAANkzEJWO7Kk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2TMQlY7smT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOMmzO9qcaM/AAAAAAAAAADZMxCVjuyJP+MmzO9qcaM/VDqyZyAqvT/ZMxCVjuyJP+MmzO9qcaM/AAAAAAAAAABUOrJnICq9PwAAAAAAAAAAAAAAAAAAAADZMxCVjuyJP9kzEJWO7Jk/2TMQlY7sqT/ZMxCVjuyJP9kzEJWO7Ik/AAAAAAAAAADZMxCVjuy5P9kzEJWO7Jk/aCAqHdkzsD/ZMxCVjuyJP9kzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15945551,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a36e6-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Hisense 4.4-cu ft Freestanding Mini Fridge Freezer Compartment (Silver)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/819130/819130027173.jpg",
+                "full_description": "This energy star 4.4 Cu. Ft. Double door stainless steel look mini fridge is perfect for college dorms, break rooms, or just extra storage for your home and office space. Separate 1.1 cu. Ft. freezer provides storage room for ice cream and frozen meals. The adjustable legs and reversible door design allow for placement of this mini refrigerator virtually anywhere you need it. The sleek and fashionable design does not compromise its functionality. This model has convenient storage shelves on the refrigerator door for 2-Liter bottles as well as extra space for single-serve yogurt or canned beverages. Removable glass shelves provide storage for larger items to efficiently utilize interior capacity. The sliding crisper drawer makes it easy to store your fresh fruits and vegetables.",
+                "brand": "Hisense",
+                "product_url": "https://www.lowes.com/pd/Hisense-4-4-cu-ft-Freestanding-Mini-Fridge-Freezer-Compartment-Silver/1002981218",
+                "description": "4.4-cu ft Freestanding Mini Fridge Freezer Compartment (Silver)"
+              }
+            },
+            "text": "Hisense 4.4-cu ft Freestanding Mini Fridge Freezer Compartment (Silver)",
+            "embedding": {
+              "dense": {
+                "buffer": "C5sDiVbYvD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/C5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Jw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAEi0wuZAoqU/AAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Jw/AAAAAAAAAAALmwOJVtiMPwubA4lW2Jw/50CiFTYHwj8LmwOJVtiMPwubA4lW2Jw/AAAAAAAAAABItMLmQKK1PwAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwubA4lW2Jw/50CiFTYHsj8LmwOJVtiMPwubA4lW2Iw/AAAAAAAAAABItMLmQKK1P0i0wuZAoqU/C5sDiVbYrD8LmwOJVtiMPwubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16690826,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a36e2-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/819130/819130026954.jpg",
+                "title": "Hisense 3.3-cu ft Freestanding Mini Fridge Freezer Compartment (Silver)",
+                "brand": "Hisense",
+                "description": "3.3-cu ft Freestanding Mini Fridge Freezer Compartment (Silver)",
+                "full_description": "This energy star 3.3 Cu. Ft. Double door stainless steel look mini fridge is perfect for college dorms, break rooms, or just extra storage for your home and office space. Separate 1.0 cu. Ft. freezer provides storage room for ice cream and frozen meals. The adjustable legs and reversible door design allow for placement of this mini refrigerator virtually anywhere you need it. The sleek and fashionable design does not compromise its functionality. This model has convenient storage shelves on the refrigerator door for 2-Liter bottles as well as extra space for single-serve yogurt or canned beverages. Removable glass shelves provide storage for larger items to efficiently utilize interior capacity. The sliding crisper drawer makes it easy to store fresh fruits and vegetables.",
+                "product_url": "https://www.lowes.com/pd/Hisense-3-3-cu-ft-Freestanding-Mini-Fridge-Freezer-Compartment-Silver/1002922034"
+              }
+            },
+            "text": "Hisense 3.3-cu ft Freestanding Mini Fridge Freezer Compartment (Silver)",
+            "embedding": {
+              "dense": {
+                "buffer": "C5sDiVbYvD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/C5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVticPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAEi0wuZAoqU/AAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Jw/AAAAAAAAAAALmwOJVtiMPwubA4lW2Jw/50CiFTYHwj8LmwOJVtiMPwubA4lW2Jw/AAAAAAAAAABItMLmQKK1PwAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwubA4lW2Jw/50CiFTYHsj8LmwOJVtiMPwubA4lW2Iw/AAAAAAAAAABItMLmQKK1P0i0wuZAoqU/C5sDiVbYrD8LmwOJVtiMPwubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16690826,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a36f4-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Hisense 1.7-cu ft Freestanding Mini Fridge (Black)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/819130/819130027104.jpg",
+                "description": "1.7-cu ft Freestanding Mini Fridge (Black)",
+                "product_url": "https://www.lowes.com/pd/Hisense-1-7-cu-ft-Freestanding-Mini-Fridge-Black/1002981220",
+                "brand": "Hisense",
+                "full_description": "This energy star 1.7 Cu. Ft. Single door black mini fridge is perfect for college dorms, break rooms, or just extra storage for your home and office space. The adjustable legs and reversible door design allow for placement of this mini refrigerator virtually anywhere you need it. The sleek and fashionable all fridge design does not compromise its functionality. This model has convenient storage shelves on the door for canned beverages and a 2-Liter bottle as well as extra space for single-serve yogurt or other condiments/snacks. Removable fresh-food glass shelf provides storage for larger items to efficiently utilize interior capacity."
+              }
+            },
+            "text": "Hisense 1.7-cu ft Freestanding Mini Fridge (Black)",
+            "embedding": {
+              "dense": {
+                "buffer": "uB6F61G4vj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHsUrkfhepQ/exSuR+F6lD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB7FK5H4XqUP3sUrkfhepQ/AAAAAAAAAAAAAAAAAAAAAHsUrkfhepQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHsUrkfhepQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB7FK5H4XqUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHsUrkfheqQ/AAAAAAAAAAB7FK5H4XqUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAexSuR+F6lD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHsUrkfheqQ/AAAAAAAAAAB7FK5H4XqkP3sUrkfheqQ/mpmZmZmZuT97FK5H4XqUP3sUrkfheqQ/AAAAAAAAAACamZmZmZm5PwAAAAAAAAAAexSuR+F6lD97FK5H4XqUPwAAAAAAAAAAexSuR+F6tD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB7FK5H4XqkP7gehetRuK4/exSuR+F6pD97FK5H4XqUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16781272,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a36f5-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "This energy star 2.7 Cu. Ft. Single door black mini fridge is perfect for college dorms, break rooms, or just extra storage for your home and office space. The adjustable legs and reversible door design allow for placement of this mini refrigerator virtually anywhere you need it. The sleek and fashionable all fridge design does not compromise its functionality. This model has convenient storage shelves on the door for canned beverages and a 2-Liter bottle as well as extra space for single-serve yogurt or other condiments/snacks. Removable fresh-food glass shelves provide storage for larger items to efficiently utilize interior capacity.",
+                "description": "2.7-cu ft Freestanding Mini Fridge (Black)",
+                "title": "Hisense 2.7-cu ft Freestanding Mini Fridge (Black)",
+                "brand": "Hisense",
+                "image_url": "https://mobileimages.lowes.com/product/converted/819130/819130027111.jpg",
+                "product_url": "https://www.lowes.com/pd/Hisense-2-7-cu-ft-Freestanding-Mini-Fridge-Black/1002981216"
+              }
+            },
+            "text": "Hisense 2.7-cu ft Freestanding Mini Fridge (Black)",
+            "embedding": {
+              "dense": {
+                "buffer": "uB6F61G4vj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHsUrkfhepQ/exSuR+F6lD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB7FK5H4XqUP3sUrkfhepQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAexSuR+F6lD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHsUrkfhepQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB7FK5H4XqUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHsUrkfheqQ/AAAAAAAAAAB7FK5H4XqUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAexSuR+F6lD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHsUrkfheqQ/AAAAAAAAAAB7FK5H4XqkP3sUrkfheqQ/mpmZmZmZuT97FK5H4XqUP3sUrkfheqQ/AAAAAAAAAACamZmZmZm5PwAAAAAAAAAAexSuR+F6lD97FK5H4XqUPwAAAAAAAAAAexSuR+F6tD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB7FK5H4XqkP7gehetRuK4/exSuR+F6pD97FK5H4XqUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16781272,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a36f7-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Avanti",
+                "product_url": "https://www.lowes.com/pd/Avanti-3-3-cu-ft-Freestanding-Mini-Fridge-White/1002749856",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100274/1002749856.jpg",
+                "title": "Avanti 3.3-cu ft Freestanding Mini Fridge (White)",
+                "description": "3.3-cu ft Freestanding Mini Fridge (White)",
+                "full_description": "This refrigerator accommodates a variety of foods and beverages. the interior includes two removable, adjustable glass shelves and 2 liter bottle storage in the door. It features full range temperature control and a reversible door. The chiller compartment is great for short-term storage. Capacity (Volume): 3.3 cu ft; Width: 18-1/2-in; Depth: 17-1/2-in; Height: 33-1/2-in."
+              }
+            },
+            "text": "Avanti 3.3-cu ft Freestanding Mini Fridge (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "1ofG+tBYvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5ZQ/OQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWUPzkFL6fg5ZQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5aQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5aQ/AAAAAAAAAAA5BS+n4OWUPzkFL6fg5aQ/OQUvp+DltD85BS+n4OWUPzkFL6fg5aQ/OQUvp+DllD/Wh8b60Fi/PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DltD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPzkFL6fg5ZQ/OQUvp+DltD85BS+n4OWUPzkFL6fg5ZQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1683115,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a372c-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/067638/067638998987.jpg",
+                "brand": "Danby",
+                "product_url": "https://www.lowes.com/pd/Danby-Designer-2-6-cu-ft-Freestanding-Mini-Fridge-Black/1000485933",
+                "title": "Danby Designer 2.6-cu ft Freestanding Mini Fridge (Black)",
+                "full_description": "The energy efficient Danby Designer&#174; compact all-fridge has a capacity of 2.6 cubic feet, providing ample space for one. At just over 2 feet tall this model can be placed on a counter-top or floor and makes a great addition to the dorm room. It includes our second generation Canstor&#174; beverage dispenser, tall bottle storage and our scratch resistant worktop to store accessories.",
+                "description": "Designer 2.6-cu ft Freestanding Mini Fridge (Black)"
+              }
+            },
+            "text": "Danby Designer 2.6-cu ft Freestanding Mini Fridge (Black)",
+            "embedding": {
+              "dense": {
+                "buffer": "BPcR3Edwvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAfwX0E95E/cB/BfQT3kT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwH8F9BPeRP3AfwX0E95E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3kT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwH8F9BPeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwH8F9BPeRPwAAAAAAAAAAcB/BfQT3oT8AAAAAAAAAAHAfwX0E96E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3kT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACivobyG8qo/cB/BfQT3kT9wH8F9BPehP3AfwX0E96E/TGcxncV0tj9wH8F9BPeRPyivobyG8qo/AAAAAAAAAABMZzGdxXS2PwAAAAAAAAAAcB/BfQT3kT9wH8F9BPeRPwAAAAAAAAAATGcxncV0tj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAor6G8hvKqP3AfwX0E96E/cB/BfQT3oT9wH8F9BPeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAfwX0E95E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16955598,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3760-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "This 3.2 cu. Ft. refrigerator is the perfect size for the dorm room, work shop, she shed, man cave or if you simply want a little extra refrigerator storage. The adjustable shelves in the main compartment and door storage keep your food items organized. The energy efficiency of this refrigerator will not only save on energy usage it will save you money too.",
+                "description": "3.2-cu ft Freestanding Mini Fridge (White)",
+                "title": "Premium Levella 3.2-cu ft Freestanding Mini Fridge (White)",
+                "brand": "Premium Levella",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100287/1002872476.jpg",
+                "product_url": "https://www.lowes.com/pd/Premium-Levella-3-2-cu-ft-Freestanding-Mini-Fridge-White/1002872476"
+              }
+            },
+            "text": "Premium Levella 3.2-cu ft Freestanding Mini Fridge (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "R1juaYTlvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJZ7GmG5p5E/lnsaYbmnkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACWexphuaeRP5Z7GmG5p5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlnsaYbmnkT+WexphuaeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJZ7GmG5p6E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJZ7GmG5p5E/lnsaYbmnkT8AAAAAAAAAAAAAAAAAAAAAlnsaYbmnkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACWexphuaeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJZ7GmG5p6E/AAAAAAAAAACWexphuaeRP5Z7GmG5p6E/R1juaYTlvj+WexphuaeRP5Z7GmG5p6E/lnsaYbmnkT9huacRlnu6PwAAAAAAAAAAAAAAAAAAAACWexphuaehP5Z7GmG5p6E/YbmnEZZ7qj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABhuacRlnuqP5Z7GmG5p5E/YbmnEZZ7qj+WexphuaehP5Z7GmG5p5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17074141,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a371b-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/100209/1002099628.jpg",
+                "description": "Infinity 0.53-cu ft Freestanding Mini Fridge (White)",
+                "product_url": "https://www.lowes.com/pd/Cooluli-Infinity-0-53-cu-ft-Freestanding-Mini-Fridge-White/1002099628",
+                "brand": "Cooluli",
+                "title": "Cooluli Infinity 0.53-cu ft Freestanding Mini Fridge (White)",
+                "full_description": "The Infinity-15L Cooler Warmer Mini Fridge by Cooluli boasts efficiency and durability in one stylish, compact unit. The all-purpose, thermoelectric Infinity goes from cooling to warming with one quick switch. The Infinity is perfect anywhere you need to store food, snacks, drinks, breast milk, insulin, skincare and beauty products, and medications. Its compact design features a roomy 15-liter capacity, tempered glass front, and the molded foldaway top handle makes transport a breeze. Fits up to 18 standard 12 ounce soda, beer and drink cans. Use it everywhere&#8212;the Infinity&#8217;s sleek construction matches any decor, making it the perfect addition to your home, office, dorm, car, or on your next road trip. Exclusive EcoMax Technology features Cooluli&#8217;s unique cooling system that helps prevent frost; it&#8217;s also powerful, quiet, and cost-effective&#8212;when maximum efficiency is reached, the Infinity goes into ECOmode&#8212;saving you money! 100% environmentally friendly, it uses no refrigerants or Freons. It&#8217;s dual voltage and works anywhere in the world. This unit features a one-year limited warranty and Cooluli&#8217;s unparalleled customer service."
+              }
+            },
+            "text": "Cooluli Infinity 0.53-cu ft Freestanding Mini Fridge (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "3t3d3d3dvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/ERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGRPxEREREREZE/AAAAAAAAAAARERERERGRPwAAAAAAAAAAAAAAAAAAAAARERERERGRPwAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/AAAAAAAAAAAAAAAAAAAAABEREREREaE/AAAAAAAAAAAAAAAAAAAAABEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/AAAAAAAAAAARERERERGRPxEREREREaE/ERERERERsT8RERERERGhPxEREREREaE/ERERERERkT8RERERERHBPwAAAAAAAAAAAAAAAAAAAAARERERERGhPwAAAAAAAAAAVVVVVVVVtT8RERERERGhPwAAAAAAAAAAAAAAAAAAAAARERERERGhPxEREREREZE/ERERERERsT8RERERERGhPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17118865,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3721-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/100209/1002099600.jpg",
+                "title": "Cooluli Infinity 0.53-cu ft Freestanding Mini Fridge (Pink)",
+                "description": "Infinity 0.53-cu ft Freestanding Mini Fridge (Pink)",
+                "brand": "Cooluli",
+                "full_description": "The Infinity-15L Cooler Warmer Mini Fridge by Cooluli boasts efficiency and durability in one stylish, compact unit. The all-purpose, thermoelectric Infinity goes from cooling to warming with one quick switch. The Infinity is perfect anywhere you need to store food, snacks, drinks, breast milk, insulin, skincare and beauty products, and medications. Its compact design features a roomy 15-liter capacity, tempered glass front, and the molded foldaway top handle makes transport a breeze. Fits up to 18 standard 12 ounce soda, beer and drink cans. Use it everywhere&#8212;the Infinity&#8217;s sleek construction matches any decor, making it the perfect addition to your home, office, dorm, car, or on your next road trip. Exclusive EcoMax Technology features Cooluli&#8217;s unique cooling system that helps prevent frost; it&#8217;s also powerful, quiet, and cost-effective&#8212;when maximum efficiency is reached, the Infinity goes into ECOmode&#8212;saving you money! 100% environmentally friendly, it uses no refrigerants or Freons. It&#8217;s dual voltage and works anywhere in the world. This unit features a one-year limited warranty and Cooluli&#8217;s unparalleled customer service.",
+                "product_url": "https://www.lowes.com/pd/Cooluli-Infinity-0-53-cu-ft-Freestanding-Mini-Fridge-Pink/1002099600"
+              }
+            },
+            "text": "Cooluli Infinity 0.53-cu ft Freestanding Mini Fridge (Pink)",
+            "embedding": {
+              "dense": {
+                "buffer": "VwQNJ3Vfvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/DSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPw0ndV8eW5E/AAAAAAAAAAANJ3VfHluRPwAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPwAAAAAAAAAADSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/AAAAAAAAAAAAAAAAAAAAAA0ndV8eW6E/AAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAADSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/AAAAAAAAAAANJ3VfHluRPw0ndV8eW6E/lLovj60Iqj8NJ3VfHluhPw0ndV8eW6E/AAAAAAAAAAANJ3VfHlvBPwAAAAAAAAAADSd1Xx5bkT8NJ3VfHluhPwAAAAAAAAAAlLovj60Iuj8NJ3VfHluhPwAAAAAAAAAAAAAAAAAAAAANJ3VfHluhPw0ndV8eW5E/lLovj60Iqj8NJ3VfHluhPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1723077,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3725-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Cooluli",
+                "product_url": "https://www.lowes.com/pd/Cooluli-Infinity-0-35-cu-ft-Freestanding-Mini-Fridge-Pink/1002099460",
+                "title": "Cooluli Infinity 0.35-cu ft Freestanding Mini Fridge (Pink)",
+                "description": "Infinity 0.35-cu ft Freestanding Mini Fridge (Pink)",
+                "full_description": "The Infinity-10L Cooler/Warmer Mini Fridge boasts efficiency and durability in a stylish compact unit. The all-purpose, thermoelectric Infinity features upgraded foam for better insulation and goes from cooling to warming with one switch. The Infinity is perfect for storing food, snacks, drinks, breast milk, insulin, skincare, personal care and beauty products, and medications.Â?Â?Its compact design features a 10-liter capacity, tempered glass front, and the molded foldaway top handle makes transport a breeze. Fits up to twelve 12-oz. soda/beer/drink cans! Use it everywhere&#8212;the Infinity&#8217;s stylish construction matches any dÃ©cor, making it the perfect addition to your home, countertop, business/office, dorm, hotel room, car/motor vehicle, or on your next road trip or tailgate!Â?Â?Exclusive EcoMax Technology features Cooluli&#8217;s unique cooling system that helps prevent frost; it&#8217;s also powerful, quiet, and cost-effective&#8212;when maximum efficiency is reached, the Infinity goes into ECOmode&#8212;saving you money! 100% environmentally friendly, it uses no refrigerants or Freon. It&#8217;s dual voltage and works anywhere in the world. This unit features a 1 Year Limited Warranty and Cooluli&#8217;s unparalleled customer service.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100209/1002099460.jpg"
+              }
+            },
+            "text": "Cooluli Infinity 0.35-cu ft Freestanding Mini Fridge (Pink)",
+            "embedding": {
+              "dense": {
+                "buffer": "VwQNJ3Vfvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/DSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPw0ndV8eW5E/AAAAAAAAAAANJ3VfHluRPwAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPwAAAAAAAAAADSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/AAAAAAAAAAAAAAAAAAAAAA0ndV8eW6E/AAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAADSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/AAAAAAAAAAANJ3VfHluRPw0ndV8eW6E/lLovj60Iqj8NJ3VfHluhPw0ndV8eW6E/AAAAAAAAAAANJ3VfHlvBPwAAAAAAAAAADSd1Xx5bkT8NJ3VfHluhPwAAAAAAAAAAlLovj60Iuj8NJ3VfHluhPwAAAAAAAAAAAAAAAAAAAAANJ3VfHluhPw0ndV8eW5E/lLovj60Iqj8NJ3VfHluhPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1723077,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3730-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Danby Designer 3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Stainless Steel)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/067638/067638999205.jpg",
+                "brand": "Danby",
+                "description": "Designer 3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Stainless Steel)",
+                "full_description": "The Danby Designer Energy Star 3.1 cu. ft. compact dual-door refrigerator/freezer has spotless steel doors that look identical to real stainless steel without the smudging! It has a separate, top-mount freezer with cycle defrost and storage on the freezer door. Perfect for dorm rooms and small offices, this energy efficient unit includes the CanStor beverage dispenser, tall bottle storage, a crisper drawer and plenty of shelf space. With reversible door hinges, integrated door handles and a smooth-back design, this handy refrigerator/freezer will fit almost anywhere.",
+                "product_url": "https://www.lowes.com/pd/Danby-Designer-3-1-cu-ft-Freestanding-Mini-Fridge-Freezer-Compartment-Stainless-Steel/1000860976"
+              }
+            },
+            "text": "Danby Designer 3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "+s3Wod9svT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMikeIFMioc/yKR4gUyKhz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADIpHiBTIqHP8ikeIFMioc/AAAAAAAAAAAAAAAAAAAAAMikeIFMioc/AAAAAAAAAADIpHiBTIqHPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMikeIFMioc/yKR4gUyKlz8AAAAAAAAAAJZ7GmG5p6E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAyKR4gUyKhz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAyKR4gUyKlz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMikeIFMiqc/yKR4gUyKhz/IpHiBTIqHP8ikeIFMipc/lnsaYbmnwT/IpHiBTIqHP5Z7GmG5p6E/AAAAAAAAAACWexphuaexPwAAAAAAAAAAAAAAAAAAAADIpHiBTIqXP8ikeIFMipc/L5BJ8QKZtD/IpHiBTIqHP8ikeIFMioc/AAAAAAAAAACWexphuaexP8ikeIFMiqc/lnsaYbmnsT/IpHiBTIqHPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMikeIFMioc/yKR4gUyKhz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17314261,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a36fc-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/067638/067638005227.jpg",
+                "title": "Danby Contemporary Classic 4.4-cu ft Freestanding Mini Fridge (Iridium Silver Steel)",
+                "product_url": "https://www.lowes.com/pd/Danby-Contemporary-Classic-4-4-cu-ft-Freestanding-Mini-Fridge-Iridium-Silver-Steel/1000485953",
+                "description": "Contemporary Classic 4.4-cu ft Freestanding Mini Fridge (Iridium Silver Steel)",
+                "full_description": "Drawing inspiration from mid-century styling and simplicity, Danby's Contemporary Classic compact all refrigerator reimagines retro for the modern consumer. Featuring Danby's exclusive retro-inspired curved door design, metallic door finish, door lock, rubber-grip ergonomic chrome handle and stylized chrome worktop, its exterior features are only outmatched by its signature black interior with white LED light. Boasting 4.4 cubic-feet (124 liters) of cooling space, it features two and a half tempered-glass shelves for maximum storage versatility and a covered vegetable crisper. There's more than enough room for larger bottles and it also includes an efficient CanStor beverage dispenser. Maintenance and cleaning are as simple as can be with the automatic defrost system. Plus, this model is built for convenience as the reversible door hinge allows you to adjust it for either left or right-handed opening.",
+                "brand": "Danby"
+              }
+            },
+            "text": "Danby Contemporary Classic 4.4-cu ft Freestanding Mini Fridge (Iridium Silver Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "nud5nud5vj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYYg/GIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYhmEYhmGIPxiGYRiGYYg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYZg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYZg/GIZhGIZhiD8AAAAAAAAAABiGYRiGYZg/AAAAAAAAAAAAAAAAAAAAABiGYRiGYYg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGIZhGIZhmD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYag/GIZhGIZhiD8YhmEYhmGYP5IkSZIkSaI/VVVVVVVVtT8YhmEYhmGIPxiGYRiGYZg/AAAAAAAAAAAYhmEYhmG4PwAAAAAAAAAAAAAAAAAAAACSJEmSJEmiPxiGYRiGYZg/nud5nud5rj8YhmEYhmGYPxiGYRiGYYg/AAAAAAAAAACSJEmSJEmyP5IkSZIkSaI/GIZhGIZhqD8YhmEYhmGYPxiGYRiGYYg/AAAAAAAAAAAAAAAAAAAAABiGYRiGYZg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17637539,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3741-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "2.6-cu ft Freestanding Mini Fridge (Stainless Steel)",
+                "brand": "Danby",
+                "title": "Danby 2.6-cu ft Freestanding Mini Fridge (Stainless Steel)",
+                "product_url": "https://www.lowes.com/pd/Danby-2-6-cu-ft-Freestanding-Mini-Fridge-Stainless-Steel/1000860968",
+                "image_url": "https://mobileimages.lowes.com/product/converted/067638/067638004619.jpg",
+                "full_description": "Hosting a get-together is an ideal way to connect with your family and friends and Danby's 2.6-cu. ft. beverage center will help you entertain them. This chic unit is second to none when it comes to keeping your drinks as cool and refreshing as can be. Offering generous cooling and storage space, it can hold up to 95 beverage cans on three adjustable black-wire shelves. Your drinks are kept cool and beautifully illuminated by an interior blue LED-lighting system which is designed to produce light not heat. The manual thermostat allows you to easily program and maintain the internal temperature anywhere between 42.8&deg;F and 57.2&deg;F (6&deg;C and 14&deg;C). Plus, setup is easy with the reversible door swing for either left or right-handed opening."
+              }
+            },
+            "text": "Danby 2.6-cu ft Freestanding Mini Fridge (Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "R1juaYTlvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJZ7GmG5p5E/lnsaYbmnkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACWexphuaeRP5Z7GmG5p5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlnsaYbmnkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACWexphuaeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlnsaYbmnkT8AAAAAAAAAAJZ7GmG5p6E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlnsaYbmnkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlnsaYbmnoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGG5pxGWe6o/lnsaYbmnkT+WexphuaeRP5Z7GmG5p6E/YbmnEZZ7uj+WexphuaeRP5Z7GmG5p6E/AAAAAAAAAAB8GmG5pxG2PwAAAAAAAAAAAAAAAAAAAACWexphuaehPwAAAAAAAAAAfBphuacRtj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACWexphuaehP2G5pxGWe6o/lnsaYbmnsT+WexphuaeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJZ7GmG5p5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17658976,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          }
+        ],
+        "tags": {
+          "full_description": "freestanding mini fridge"
+        },
+        "text": "freestanding mini fridge",
+        "embedding": {
+          "dense": {
+            "buffer": "VVVVVVVVtT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFVVVVVVVaU/AAAAAAAAAAAAAAAAAAAAAFVVVVVVVbU/AAAAAAAAwD9VVVVVVVW1P1VVVVVVVbU/AAAAAAAAAABVVVVVVVXFPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFVVVVVVVaU/AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVVVVVVVW1P1VVVVVVVaU/VVVVVVVVpT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "shape": [
+              96
+            ],
+            "dtype": "<f8",
+            "quantization": 0,
+            "maxVal": 0,
+            "minVal": 0,
+            "scale": 0,
+            "originalDtype": ""
+          }
+        },
+        "granularity": 0,
+        "adjacency": 0,
+        "parentId": "",
+        "chunks": [],
+        "weight": 0,
+        "uri": "",
+        "mimeType": "",
+        "location": [],
+        "offset": 0,
+        "scores": {},
+        "modality": "",
+        "evaluations": {}
+      }
+    ],
+    "groundtruths": []
+  }
+}

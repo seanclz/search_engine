@@ -1,0 +1,1021 @@
+{
+  "requestId": "f24c2146-3fa4-4a51-841b-a2c767dfa760",
+  "data": {
+    "docs": [
+      {
+        "id": "1be5d800-40b6-11ec-a63e-e3ebb0d407f3",
+        "matches": [
+          {
+            "id": "2db798b7-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Frigidaire-18-cu-ft-Top-Freezer-Refrigerator-White/1000225701",
+                "title": "Frigidaire 18-cu ft Top-Freezer Refrigerator (White)",
+                "brand": "Frigidaire",
+                "full_description": "Top freezer refrigerator.",
+                "description": "18-cu ft Top-Freezer Refrigerator (White)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505644481.jpg"
+              }
+            },
+            "text": "Frigidaire 18-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "2Ymd2ImduD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/FDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GjPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7saM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7saM/AAAAAAAAAAAUO7ETO7GTPxQ7sRM7sZM/sRM7sRM7wT8UO7ETO7GjPxQ7sRM7saM/FDuxEzuxkz/ZiZ3YiZ24PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GjPxQ7sRM7sZM/AAAAAAAAAACxEzuxEzvBPwAAAAAAAAAAntiJndiJrT8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12409116,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79920-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Frigidaire",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-13-9-cu-ft-Top-Freezer-Refrigerator-White/1000836310",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505647109.jpg",
+                "description": "13.9-cu ft Top-Freezer Refrigerator (White)",
+                "full_description": "",
+                "title": "Frigidaire 13.9-cu ft Top-Freezer Refrigerator (White)"
+              }
+            },
+            "text": "Frigidaire 13.9-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "QnsJ7SW0tz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/aC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPaiP2gvob2E9pI/AAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/AAAAAAAAAABoL6G9hPaSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPaSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9qI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/AAAAAAAAAABoL6G9hPaSPwAAAAAAAAAAAAAAAAAAAABoL6G9hPaSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9qI/AAAAAAAAAABoL6G9hPaSP2gvob2E9pI/ewntJbSXwD9oL6G9hPaiP2gvob2E9qI/aC+hvYT2kj9CewntJbS3PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPaiP2gvob2E9pI/AAAAAAAAAAB7Ce0ltJfAPwAAAAAAAAAAHMdxHMdxrD9oL6G9hPaSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12830006,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db798c9-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Frigidaire",
+                "full_description": "",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-18-3-cu-ft-Top-Freezer-Refrigerator-White/1001165000",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505646744.jpg",
+                "title": "Frigidaire 18.3-cu ft Top-Freezer Refrigerator (White)",
+                "description": "18.3-cu ft Top-Freezer Refrigerator (White)"
+              }
+            },
+            "text": "Frigidaire 18.3-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "QnsJ7SW0tz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/aC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPaiP2gvob2E9pI/AAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/AAAAAAAAAABoL6G9hPaSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9qI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/AAAAAAAAAABoL6G9hPaSPwAAAAAAAAAAAAAAAAAAAABoL6G9hPaSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9qI/AAAAAAAAAABoL6G9hPaSP2gvob2E9pI/ewntJbSXwD9oL6G9hPaiP2gvob2E9qI/aC+hvYT2kj9CewntJbS3PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPaiP2gvob2E9pI/AAAAAAAAAAB7Ce0ltJfAPwAAAAAAAAAAHMdxHMdxrD9oL6G9hPaSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12830006,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db798bc-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Frigidaire-20-4-cu-ft-Top-Freezer-Refrigerator-White/1000226525",
+                "brand": "Frigidaire",
+                "full_description": "",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505644610.jpg",
+                "description": "20.4-cu ft Top-Freezer Refrigerator (White)",
+                "title": "Frigidaire 20.4-cu ft Top-Freezer Refrigerator (White)"
+              }
+            },
+            "text": "Frigidaire 20.4-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "QnsJ7SW0tz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/aC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPaiP2gvob2E9pI/AAAAAAAAAABoL6G9hPaSPwAAAAAAAAAAaC+hvYT2kj8AAAAAAAAAAGgvob2E9pI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9qI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/AAAAAAAAAABoL6G9hPaSPwAAAAAAAAAAAAAAAAAAAABoL6G9hPaSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9qI/AAAAAAAAAABoL6G9hPaSP2gvob2E9pI/ewntJbSXwD9oL6G9hPaiP2gvob2E9qI/aC+hvYT2kj9CewntJbS3PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPaiP2gvob2E9pI/AAAAAAAAAAB7Ce0ltJfAPwAAAAAAAAAAHMdxHMdxrD9oL6G9hPaSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12830006,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db798c1-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Haier appliances are born for the city and designed to keep pace with a new way of living. Our appliances combine world-class design, innovative technology and a touch of city hustle, so you can live your best life 24/7. By making chores easier and life more livable, we bring the spirit of the city into your home. You can live life your way and, on your time, when you have our amazing appliances at your fingertips.",
+                "title": "Haier 9.8-cu ft Top-Freezer Refrigerator (White)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/688057/688057309156.jpg",
+                "product_url": "https://www.lowes.com/pd/Haier-9-8-cu-ft-Top-Freezer-Refrigerator-White/1000366385",
+                "description": "9.8-cu ft Top-Freezer Refrigerator (White)",
+                "brand": "Haier"
+              }
+            },
+            "text": "Haier 9.8-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "q6qqqqqquj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFVVVVVVVZU/VVVVVVVVlT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVVVVVVVWlP1VVVVVVVZU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVVVVVVVVlT9VVVVVVVWVPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFVVVVVVVZU/AAAAAAAAAABVVVVVVVWVPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFVVVVVVVZU/AAAAAAAAAABVVVVVVVWVPwAAAAAAAAAAAAAAAAAAAABVVVVVVVWVPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFVVVVVVVaU/AAAAAAAAAABVVVVVVVWVPwAAAAAAAAAAq6qqqqqqwj9VVVVVVVWlP1VVVVVVVZU/VVVVVVVVlT8AAAAAAACwPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVVVVVVVWlP1VVVVVVVZU/AAAAAAAAAAAAAAAAAADAPwAAAAAAAAAAAAAAAAAAsD9VVVVVVVWVPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVVVVVVVVlT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13224867,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79927-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Frigidaire",
+                "description": "20.4-cu ft Top-Freezer Refrigerator (Stainless Steel)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505644634.jpg",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-20-4-cu-ft-Top-Freezer-Refrigerator-Stainless-Steel/1000484145",
+                "full_description": "",
+                "title": "Frigidaire 20.4-cu ft Top-Freezer Refrigerator (Stainless Steel)"
+              }
+            },
+            "text": "Frigidaire 20.4-cu ft Top-Freezer Refrigerator (Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAuD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJA/AAAAAAAAkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAJA/AAAAAAAAAAAAAAAAAACQPwAAAAAAAAAAAAAAAAAAkD8AAAAAAAAAAAAAAAAAAJA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJA/AAAAAAAAoD8AAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKg/AAAAAAAAAAAAAAAAAACQPwAAAAAAAJA/AAAAAAAAwj8AAAAAAACgPwAAAAAAAKA/AAAAAAAAAAAAAAAAAAC0PwAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAkD8AAAAAAACgPwAAAAAAAJA/AAAAAAAAAAAAAAAAAAC8PwAAAAAAAKA/AAAAAAAAsD8AAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13626722,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79995-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505645761.jpg",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-22-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-White/1000245223",
+                "brand": "Frigidaire",
+                "description": "22-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+                "full_description": "",
+                "title": "Frigidaire 22-cu ft Side-by-Side Refrigerator with Ice Maker (White)"
+              }
+            },
+            "text": "Frigidaire 22-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "Hh4eHh4evj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/Hh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACXlpaWlpamPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4enj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/AAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/Hh4eHh4enj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6OPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJeWlpaWlqY/Hh4eHh4ejj8eHh4eHh6eP5eWlpaWlqY/Hh4eHh4evj8eHh4eHh6ePx4eHh4eHp4/Hh4eHh4enj8eHh4eHh6+PwAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6OPwAAAAAAAAAAAAAAAAAAAACXlpaWlpa2PwAAAAAAAAAAHh4eHh4erj8eHh4eHh6OPwAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAB4eHh4eHo4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14016776,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79994-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "25.5-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+                "title": "Frigidaire 25.5-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+                "brand": "Frigidaire",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-25-5-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-White/1000245229",
+                "full_description": "",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505645822.jpg"
+              }
+            },
+            "text": "Frigidaire 25.5-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "HdRBHdRBvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB3UQR3UQY0/HdRBHdRBjT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWX/EVX/GlPx3UQR3UQY0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHdRBHdRBjT8AAAAAAAAAAAAAAAAAAAAAHdRBHdRBnT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB3UQR3UQY0/AAAAAAAAAAAAAAAAAAAAAB3UQR3UQY0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHdRBHdRBjT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB3UQR3UQY0/HdRBHdRBnT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAd1EEd1EGNPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABZf8RVf8aU/HdRBHdRBjT8d1EEd1EGdPxZf8RVf8aU/HdRBHdRBvT8d1EEd1EGdPx3UQR3UQZ0/HdRBHdRBnT8d1EEd1EG9PwAAAAAAAAAAHdRBHdRBjT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAd1EEd1EGNPwAAAAAAAAAAAAAAAAAAAAAWX/EVX/G1PwAAAAAAAAAAHdRBHdRBrT8d1EEd1EGNPwAAAAAAAAAAHdRBHdRBjT8AAAAAAAAAAB3UQR3UQY0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14265123,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db799f1-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "GE",
+                "description": "21.9-cu ft Counter-depth Side-by-Side Refrigerator with Ice Maker (White)",
+                "full_description": "At GE Appliances, we bring good things to life. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home.",
+                "product_url": "https://www.lowes.com/pd/GE-21-9-cu-ft-Counter-depth-Side-by-Side-Refrigerator-with-Ice-Maker-White/50442480",
+                "title": "GE 21.9-cu ft Counter-depth Side-by-Side Refrigerator with Ice Maker (White)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691814023.jpg"
+              }
+            },
+            "text": "GE 21.9-cu ft Counter-depth Side-by-Side Refrigerator with Ice Maker (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "DeU1lNdQvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACivobyG8oo/KK+hvIbyij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAor6G8hvKqPyivobyG8oo/AAAAAAAAAAAAAAAAAAAAACivobyG8oo/KK+hvIbyij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAor6G8hvKKPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACivobyG8oo/AAAAAAAAAAAor6G8hvKKPwAAAAAAAAAAKK+hvIbyij8AAAAAAAAAACivobyG8oo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKK+hvIbyij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACivobyG8oo/KK+hvIbymj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAor6G8hvKKPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACivobyG8po/KK+hvIbyij8or6G8hvKaP15DeQ3lNaQ/DeU1lNdQvj8or6G8hvKaPyivobyG8oo/XkN5DeU1pD95DeU1lNewPwAAAAAAAAAAKK+hvIbyij8AAAAAAAAAAAAAAAAAAAAAKK+hvIbyij8or6G8hvKaPyivobyG8oo/AAAAAAAAAAB5DeU1lNewPwAAAAAAAAAAXkN5DeU1tD8or6G8hvKaPwAAAAAAAAAAKK+hvIbyij8AAAAAAAAAACivobyG8oo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14313057,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db799a3-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Whirlpool-20-6-cu-ft-Counter-depth-Side-by-Side-Refrigerator-with-Ice-Maker-White/1000358273",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049450179.jpg",
+                "brand": "Whirlpool",
+                "description": "20.6-cu ft Counter-depth Side-by-Side Refrigerator with Ice Maker (White)",
+                "title": "Whirlpool 20.6-cu ft Counter-depth Side-by-Side Refrigerator with Ice Maker (White)",
+                "full_description": "Store more of your family's favorites in this counter depth refrigerator. The counter depth design makes extra room in the kitchen and features an exterior ice and water dispenser with EveryDrop&#8482; filtration. In-Door-Ice&#174; storage gives you an extra full shelf in the freezer and the refrigerator's Accu-Chill&#8482; temperature management system keeps family favorites in their ideal environment with quick cooling."
+              }
+            },
+            "text": "Whirlpool 20.6-cu ft Counter-depth Side-by-Side Refrigerator with Ice Maker (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "H3JZMVDCuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKrzaw+5rIg/qvNrD7msiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACq82sPuayoP6rzaw+5rIg/AAAAAAAAAACq82sPuayIPwAAAAAAAAAAqvNrD7msiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACq82sPuayIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKrzaw+5rIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKrzaw+5rIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqvNrD7msiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKrzaw+5rIg/qvNrD7msmD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACq82sPuayYPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKrzaw+5rJg/qvNrD7msiD+q82sPuayYP7/2kMuKgaI/H3JZMVDCuz+q82sPuayYP6rzaw+5rIg/qvNrD7msqD+/9pDLioGyPwAAAAAAAAAAqvNrD7msiD+q82sPuayYPwAAAAAAAAAAqvNrD7msiD+q82sPuayoP6rzaw+5rJg/AAAAAAAAAAC/9pDLioGyPwAAAAAAAAAAv/aQy4qBsj+q82sPuayYPwAAAAAAAAAAqvNrD7msiD8AAAAAAAAAAKrzaw+5rIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14342509,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79948-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "15.6-cu ft Top-Freezer Refrigerator (White)",
+                "product_url": "https://www.lowes.com/pd/Hotpoint-15-6-cu-ft-Top-Freezer-Refrigerator-White/1001160980",
+                "full_description": "Hotpoint combines sensible solutions with unbelievable durability to complement any kitchen and keep your family going for years to come. Our appliances have been created to affordably meet the needs of busy lives, and to stand up to any challenge. As a century-old brand, Hotpoint prides itself on value and never compromising on reliability.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691846901.jpg",
+                "brand": "Hotpoint",
+                "title": "Hotpoint 15.6-cu ft Top-Freezer Refrigerator (White)"
+              }
+            },
+            "text": "Hotpoint 15.6-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "2Ymd2ImduD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/FDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GjPxQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAntiJndiJvT8UO7ETO7GjPxQ7sRM7sZM/FDuxEzuxkz+e2Imd2ImtPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8UO7ETO7GzPxQ7sRM7saM/AAAAAAAAAADZiZ3YiZ24PwAAAAAAAAAA2Ymd2ImduD8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14392048,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db798c7-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Hotpoint",
+                "title": "Hotpoint 15.6-cu ft Top-Freezer Refrigerator (White)",
+                "description": "15.6-cu ft Top-Freezer Refrigerator (White)",
+                "product_url": "https://www.lowes.com/pd/Hotpoint-15-6-cu-ft-Top-Freezer-Refrigerator-White/1001079810",
+                "full_description": "Hotpoint combines sensible solutions with unbelievable durability to complement any kitchen and keep your family going for years to come. Our appliances have been created to affordably meet the needs of busy lives, and to stand up to any challenge. As a century-old brand, Hotpoint prides itself on value and never compromising on reliability.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691846932.jpg"
+              }
+            },
+            "text": "Hotpoint 15.6-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "2Ymd2ImduD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/FDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GjPxQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAntiJndiJvT8UO7ETO7GjPxQ7sRM7sZM/FDuxEzuxkz+e2Imd2ImtPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8UO7ETO7GzPxQ7sRM7saM/AAAAAAAAAADZiZ3YiZ24PwAAAAAAAAAA2Ymd2ImduD8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14392048,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79946-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691847212.jpg",
+                "product_url": "https://www.lowes.com/pd/Hotpoint-17-5-cu-ft-Top-Freezer-Refrigerator-White/1001160528",
+                "title": "Hotpoint 17.5-cu ft Top-Freezer Refrigerator (White)",
+                "brand": "Hotpoint",
+                "full_description": "Hotpoint combines sensible solutions with unbelievable durability to complement any kitchen and keep your family going for years to come. Our appliances have been created to affordably meet the needs of busy lives, and to stand up to any challenge. As a century-old brand, Hotpoint prides itself on value and never compromising on reliability.",
+                "description": "17.5-cu ft Top-Freezer Refrigerator (White)"
+              }
+            },
+            "text": "Hotpoint 17.5-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "2Ymd2ImduD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/FDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GjPxQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAntiJndiJvT8UO7ETO7GjPxQ7sRM7sZM/FDuxEzuxkz+e2Imd2ImtPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8UO7ETO7GzPxQ7sRM7saM/AAAAAAAAAADZiZ3YiZ24PwAAAAAAAAAA2Ymd2ImduD8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14392048,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db7984b-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "4.4-cu ft Freestanding Mini Fridge Freezer Compartment (White)",
+                "product_url": "https://www.lowes.com/pd/Keystone-4-4-cu-ft-Freestanding-Mini-Fridge-Freezer-Compartment-White/1000503249",
+                "title": "Keystone 4.4-cu ft Freestanding Mini Fridge Freezer Compartment (White)",
+                "brand": "Keystone",
+                "image_url": "https://mobileimages.lowes.com/product/converted/091037/091037870742.jpg",
+                "full_description": "The Keystone KSTRC44CW Energy Star 4.4 Cu. Ft. Compact Single-Door Refrigerator, in white, is perfect for dorm rooms, rec rooms, small offices or anywhere space is limited. It has a freezer compartment, manual defrost, mechanical temperature control and three removable wire shelves. The refrigerator door has storage for canned beverages and a 2-liter bottle plus two small-item racks perfect for storing single-serve yogurt. Plus, the reversible door and adjustable legs will make sure it fits perfectly just where you need it."
+              }
+            },
+            "text": "Keystone 4.4-cu ft Freestanding Mini Fridge Freezer Compartment (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "C5sDiVbYvD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/C5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Jw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAEi0wuZAoqU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Jw/AAAAAAAAAAALmwOJVtiMPwubA4lW2Jw/50CiFTYHwj8LmwOJVtiMPwubA4lW2Jw/C5sDiVbYjD/nQKIVNgeyPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Jw/50CiFTYHsj8LmwOJVticPwubA4lW2Iw/AAAAAAAAAADnQKIVNgeyPwubA4lW2Jw/SLTC5kCitT8LmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/C5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14408265,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79929-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "18.2-cu ft Top-Freezer Refrigerator with Ice Maker (White)",
+                "title": "Whirlpool 18.2-cu ft Top-Freezer Refrigerator with Ice Maker (White)",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-18-2-cu-ft-Top-Freezer-Refrigerator-with-Ice-Maker-White/1000940596",
+                "brand": "Whirlpool",
+                "full_description": "Get purposeful spaces that store more of your favorites. Our factory-installed icemaker lets you forget about refilling ice trays. An improved design with quiet cooling keeps this quiet refrigerator from interrupting family time in the kitchen, and the Flexi-Slide&#8482; bin easily moves side to side to fit tall items. Plus, an 18 cu. ft. capacity gives you room for it all.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049339016.jpg"
+              }
+            },
+            "text": "Whirlpool 18.2-cu ft Top-Freezer Refrigerator with Ice Maker (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "Hh4eHh4evj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/Hh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6ePx4eHh4eHo4/AAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/Hh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/AAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/AAAAAAAAAAAeHh4eHh6OPwAAAAAAAAAAAAAAAAAAAAAeHh4eHh6ePwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHp4/AAAAAAAAAAAeHh4eHh6ePwAAAAAAAAAAHh4eHh4evj8eHh4eHh6ePx4eHh4eHo4/l5aWlpaWpj8eHh4eHh6uPwAAAAAAAAAAHh4eHh4ejj8eHh4eHh6ePwAAAAAAAAAAAAAAAAAAAAAeHh4eHh6uPx4eHh4eHp4/AAAAAAAAAABaWlpaWlq6PwAAAAAAAAAAHh4eHh4erj8eHh4eHh6OPwAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1441679,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db7996d-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "GE",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691847403.jpg",
+                "full_description": "At GE Appliances, we bring good things to life. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home.",
+                "product_url": "https://www.lowes.com/pd/GE-17-5-cu-ft-Top-Freezer-Refrigerator-White/1001353662",
+                "title": "GE 17.5-cu ft Top-Freezer Refrigerator (White)",
+                "description": "17.5-cu ft Top-Freezer Refrigerator (White)"
+              }
+            },
+            "text": "GE 17.5-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "velNb3rTuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAGQhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKWP2QhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAC1nIQhaywD9kIQtZyEKmP2QhC1nIQpY/ZCELWchClj9kIQtZyEKmPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAC96U1vetO7PwAAAAAAAAAAC1nIQhaysD9kIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14429545,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db7992b-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691822417.jpg",
+                "product_url": "https://www.lowes.com/pd/GE-20-8-cu-ft-Top-Freezer-Refrigerator-White/1000214165",
+                "title": "GE 20.8-cu ft Top-Freezer Refrigerator (White)",
+                "brand": "GE",
+                "description": "20.8-cu ft Top-Freezer Refrigerator (White)"
+              }
+            },
+            "text": "GE 20.8-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "velNb3rTuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKWP2QhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAC1nIQhaywD9kIQtZyEKmP2QhC1nIQpY/ZCELWchClj9kIQtZyEKmPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAC96U1vetO7PwAAAAAAAAAAC1nIQhaysD9kIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14429545,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db798ce-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "At GE Appliances, we bring good things to life. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home.",
+                "description": "17.5-cu ft Top-Freezer Refrigerator (White)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691848547.jpg",
+                "product_url": "https://www.lowes.com/pd/GE-17-5-cu-ft-Top-Freezer-Refrigerator-White/1001839504",
+                "brand": "GE",
+                "title": "GE 17.5-cu ft Top-Freezer Refrigerator (White)"
+              }
+            },
+            "text": "GE 17.5-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "velNb3rTuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAGQhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKWP2QhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAC1nIQhaywD9kIQtZyEKmP2QhC1nIQpY/ZCELWchClj9kIQtZyEKmPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAC96U1vetO7PwAAAAAAAAAAC1nIQhaysD9kIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14429545,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79945-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691846994.jpg",
+                "title": "GE 15.6-cu ft Top-Freezer Refrigerator (White)",
+                "full_description": "At GE Appliances, we bring good things to life. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home.",
+                "brand": "GE",
+                "product_url": "https://www.lowes.com/pd/GE-15-6-cu-ft-Top-Freezer-Refrigerator-White/1001160676",
+                "description": "15.6-cu ft Top-Freezer Refrigerator (White)"
+              }
+            },
+            "text": "GE 15.6-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "velNb3rTuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj9kIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKWP2QhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAC1nIQhaywD9kIQtZyEKmP2QhC1nIQpY/ZCELWchClj9kIQtZyEKmPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAC96U1vetO7PwAAAAAAAAAAC1nIQhaysD9kIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14429545,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79943-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "17.5-cu ft Top-Freezer Refrigerator (White)",
+                "title": "GE 17.5-cu ft Top-Freezer Refrigerator (White)",
+                "product_url": "https://www.lowes.com/pd/GE-17-5-cu-ft-Top-Freezer-Refrigerator-White/1001160714",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691847144.jpg",
+                "brand": "GE",
+                "full_description": "At GE Appliances, we bring good things to life. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home."
+              }
+            },
+            "text": "GE 17.5-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "velNb3rTuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAGQhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKWP2QhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAC1nIQhaywD9kIQtZyEKmP2QhC1nIQpY/ZCELWchClj9kIQtZyEKmPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAC96U1vetO7PwAAAAAAAAAAC1nIQhaysD9kIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14429545,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          }
+        ],
+        "tags": {},
+        "text": "top-freezer fridge in white",
+        "embedding": {
+          "dense": {
+            "buffer": "HMdxHMdxvD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPaiPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9qI/QnsJ7SW0xz9oL6G9hPayP2gvob2E9qI/aC+hvYT2oj8cx3Ecx3G8PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaC+hvYT2oj9oL6G9hPaiP2gvob2E9qI/AAAAAAAAAAAcx3Ecx3G8PwAAAAAAAAAAaC+hvYT2sj8AAAAAAAAAAAAAAAAAAAAAaC+hvYT2oj8AAAAAAAAAAAAAAAAAAAAAaC+hvYT2oj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "shape": [
+              96
+            ],
+            "dtype": "<f8",
+            "quantization": 0,
+            "maxVal": 0,
+            "minVal": 0,
+            "scale": 0,
+            "originalDtype": ""
+          }
+        },
+        "granularity": 0,
+        "adjacency": 0,
+        "parentId": "",
+        "chunks": [],
+        "weight": 0,
+        "uri": "",
+        "mimeType": "",
+        "location": [],
+        "offset": 0,
+        "scores": {},
+        "modality": "",
+        "evaluations": {}
+      }
+    ],
+    "groundtruths": []
+  }
+}

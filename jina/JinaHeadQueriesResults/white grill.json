@@ -1,0 +1,1021 @@
+{
+  "requestId": "8da7cd6b-222f-42be-a1a3-f65e29d083f6",
+  "data": {
+    "docs": [
+      {
+        "id": "1b77df7c-5e88-11ec-9e82-17576e5cd1d2",
+        "matches": [
+          {
+            "id": "82faae4f-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Hero&#8482; makes grilling simple, clean, and portable. It features a fast set up and no mess, eco-friendly charcoal pods that are ready in ten minutes to give you an hour of grill time. The grill is dishwasher safe, making clean up fast and easy. The charcoal pods are an environmentally friendly fuel choice compared to petroleum based alternatives.",
+                "title": "Fire & Flavor HERO Portable Lightweight Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Fire-Flavor-HERO-Portable-Lightweight-Charcoal-Grill/1003008440",
+                "image_url": "https://mobileimages.lowes.com/product/converted/892805/892805003801.jpg",
+                "description": "HERO Portable Lightweight Charcoal Grill",
+                "brand": "Fire & Flavor"
+              }
+            },
+            "text": "Fire & Flavor HERO Portable Lightweight Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "ewntJbSXwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/AAAAAAAAAABoL6G9hPaSP2gvob2E9qI/aC+hvYT2kj9oL6G9hPaSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/AAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/aC+hvYT2kj8AAAAAAAAAAGgvob2E9pI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9rI/aC+hvYT2kj9oL6G9hPaSPwAAAAAAAAAAHMdxHMdxrD8AAAAAAAAAAGgvob2E9qI/HMdxHMdxrD9oL6G9hPayPwAAAAAAAAAAAAAAAAAAAABCewntJbS3PwAAAAAAAAAAAAAAAAAAAAAcx3Ecx3GsPwAAAAAAAAAAAAAAAAAAAABCewntJbS3PwAAAAAAAAAAHMdxHMdxrD8AAAAAAAAAAGgvob2E9pI/aC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.21685174,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae4c-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Fire & Flavor HERO Portable Lightweight Charcoal Grill",
+                "full_description": "Hero&#8482; makes grilling simple, clean, and portable. It features a fast set up and no mess, eco-friendly charcoal pods that are ready in ten minutes to give you an hour of grill time. The grill is dishwasher safe, making clean up fast and easy. The charcoal pods are an environmentally friendly fuel choice compared to petroleum based alternatives.",
+                "description": "HERO Portable Lightweight Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/892805/892805003801.jpg",
+                "brand": "Fire & Flavor",
+                "product_url": "https://www.lowes.com/pd/Fire-Flavor-HERO-Portable-Lightweight-Charcoal-Grill/1001813290"
+              }
+            },
+            "text": "Fire & Flavor HERO Portable Lightweight Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "ewntJbSXwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/AAAAAAAAAABoL6G9hPaSP2gvob2E9qI/aC+hvYT2kj9oL6G9hPaSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/AAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/aC+hvYT2kj8AAAAAAAAAAGgvob2E9pI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9rI/aC+hvYT2kj9oL6G9hPaSPwAAAAAAAAAAHMdxHMdxrD8AAAAAAAAAAGgvob2E9qI/HMdxHMdxrD9oL6G9hPayPwAAAAAAAAAAAAAAAAAAAABCewntJbS3PwAAAAAAAAAAAAAAAAAAAAAcx3Ecx3GsPwAAAAAAAAAAAAAAAAAAAABCewntJbS3PwAAAAAAAAAAHMdxHMdxrD8AAAAAAAAAAGgvob2E9pI/aC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.21685174,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b316-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Bring the BBQ wherever you roam with the X-Grill Portable Charcoal BBQ Grill, a sleek, electro-plated steel tailgate grill that packs down flatter than a pancake! This highly-portable folding tailgate grill sets up in seconds with its chrome tri-fold cooking grate and durable polyester canvas carrying tote with shoulder strap. All you need is charcoal/kindling, and friends!",
+                "description": "Pittsburgh Steelers Black Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100108/1001085814.jpg",
+                "brand": "Picnic Time",
+                "title": "Picnic Time Pittsburgh Steelers Black Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Picnic-Time-Pittsburgh-Steelers-Black-Charcoal-Grill/1001085814"
+              }
+            },
+            "text": "Picnic Time Pittsburgh Steelers Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "ntiJndiJvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPxQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxoz8AAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ7YiZ3Yia0/FDuxEzuxkz8UO7ETO7GzPwAAAAAAAAAAFDuxEzuxsz8AAAAAAAAAABQ7sRM7sZM/FDuxEzuxoz/ZiZ3YiZ24PwAAAAAAAAAAFDuxEzuxkz/ZiZ3YiZ24PxQ7sRM7sZM/FDuxEzuxkz8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GzPxQ7sRM7saM/ntiJndiJrT8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.22180071,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae99-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Better Chef",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100141/1001414978.jpg",
+                "title": "Better Chef White Electric Grill",
+                "product_url": "https://www.lowes.com/pd/Better-Chef-White-Electric-Grill/1001414978",
+                "description": "White Electric Grill",
+                "full_description": "Healthier doesn't have to tasteless. With the health pro smart grill by Better Chef perfect, you will make tasty healthy meals. This compact grill is perfect for beef, chicken, fish and much more. It features non-stick coated surfaces that allow for a low-fat cooking of your favorite foods. Not only will it drain away fat and grease in the included drip tray, it will ensure even grilling and rich flavors thanks to the hinged plates. The 45 square inch plates are wide enough to cook a wide variety of foods. The exterior remains cool to the touch for a safe cooking experience. For ultimate convenience, a mini spatula is included for your grilling needs."
+              }
+            },
+            "text": "Better Chef White Electric Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAKA/AAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAoD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwPwAAAAAAAAAAAAAAAAAAxD8AAAAAAACgPwAAAAAAAAAAAAAAAAAAsD8AAAAAAAC4PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4PwAAAAAAAAAAAAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.22184572,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae81-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "White Electric Grill",
+                "brand": "Better Chef",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100141/1001414438.jpg",
+                "full_description": "A great addition to any home kitchen is this Better Chef brand Panini Press sandwich maker and grill. The sleek and stylish finish will upgrade your kitchen's existing look. Makes delicious, wholesome panini sandwiches in minutes. The non-stick cooking plates allows for easy clean-up.",
+                "title": "Better Chef White Electric Grill",
+                "product_url": "https://www.lowes.com/pd/Better-Chef-White-Electric-Grill/1001414438"
+              }
+            },
+            "text": "Better Chef White Electric Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAKA/AAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAoD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwPwAAAAAAAAAAAAAAAAAAxD8AAAAAAACgPwAAAAAAAAAAAAAAAAAAsD8AAAAAAAC4PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4PwAAAAAAAAAAAAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.22184572,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae83-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "White Electric Grill",
+                "brand": "Better Chef",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100141/1001414508.jpg",
+                "title": "Better Chef White Electric Grill",
+                "full_description": "The Better Chef Belgian waffle maker cooks golden waffles that are crispy on the outside and mouth watering tender on the inside. With a white cover, the waffle iron offers an perfect temperature control for ultimate cooking experience. The result is always pure perfection",
+                "product_url": "https://www.lowes.com/pd/Better-Chef-White-Electric-Grill/1001414508"
+              }
+            },
+            "text": "Better Chef White Electric Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAKA/AAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAoD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwPwAAAAAAAAAAAAAAAAAAxD8AAAAAAACgPwAAAAAAAAAAAAAAAAAAsD8AAAAAAAC4PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4PwAAAAAAAAAAAAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.22184572,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae2f-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Fire-Flavor-HERO-Portable-Lightweight-Charcoal-Grill-System/1001813188",
+                "full_description": "Hero makes simple, clean and on the go charcoal grilling easy. At under 10 pounds, the system features a premium non-stick grill for clean cooking and easy clean up. Plus, it&#8217;s the world&#8217;s first dishwasher safe grill. Easy to use components and a rugged carry case give you a charcoal grilled meal anywhere you go.",
+                "brand": "Fire & Flavor",
+                "description": "HERO Portable Lightweight Charcoal Grill System",
+                "image_url": "https://mobileimages.lowes.com/product/converted/892805/892805003825.jpg",
+                "title": "Fire & Flavor HERO Portable Lightweight Charcoal Grill System"
+              }
+            },
+            "text": "Fire & Flavor HERO Portable Lightweight Charcoal Grill System",
+            "embedding": {
+              "dense": {
+                "buffer": "O9q8T3HJwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO9q8T3HJkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADvavE9xyZA/AAAAAAAAAAA72rxPccmQPzvavE9xyaA/O9q8T3HJkD872rxPccmQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADvavE9xyZA/AAAAAAAAAAAAAAAAAAAAADvavE9xyZA/O9q8T3HJkD8AAAAAAAAAADvavE9xyZA/O9q8T3HJkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADvavE9xybA/O9q8T3HJkD872rxPccmQPwAAAAAAAAAAO9q8T3HJsD8AAAAAAAAAADvavE9xyaA/WEeb9ykuqT872rxPccmwPwAAAAAAAAAAAAAAAAAAAADJEKyjzfu0PzvavE9xyZA/AAAAAAAAAABYR5v3KS6pPwAAAAAAAAAAAAAAAAAAAADJEKyjzfu0PzvavE9xyZA/O9q8T3HJsD8AAAAAAAAAADvavE9xyZA/O9q8T3HJkD8AAAAAAAAAADvavE9xyZA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.22188152,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b30d-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "",
+                "description": "Original Kettle Premium 22-in Black Kettle Charcoal Grill",
+                "brand": "Weber",
+                "title": "Weber Original Kettle Premium 22-in Black Kettle Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Weber-Original-Kettle-Premium-22-in-Black-Kettle-Charcoal-Grill/1000513999",
+                "image_url": "https://mobileimages.lowes.com/product/converted/077924/077924032479.jpg"
+              }
+            },
+            "text": "Weber Original Kettle Premium 22-in Black Kettle Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "EARBEARBwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQBEEQBEGQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEARBEARBoD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQBEEQBEGQPxAEQRAEQZA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEARBEARBkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQBEEQBEGgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAEQRAEQZA/EARBEARBkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQBEEQBEGQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAEQRAEQbA/EARBEARBkD8QBEEQBEGgPwAAAAAAAAAAHMdxHMdxvD8AAAAAAAAAABAEQRAEQZA/EARBEARBkD8URVEURVG0PwAAAAAAAAAAEARBEARBkD8cx3Ecx3G8PxAEQRAEQaA/EARBEARBoD8QBEEQBEGQPwAAAAAAAAAAAAAAAAAAAAAURVEURVG0PwAAAAAAAAAAEARBEARBsD8QBEEQBEGQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.22239082,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b2fe-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Original Kettle 22-in Black Kettle Charcoal Grill",
+                "brand": "Weber",
+                "full_description": "Offering understated elegance to your home's exterior, the Weber Original 22 in. kettle in black charcoal features a classic profile design. A great way to accomplish many outdoor cooking tasks, this BBQ grill helps deliver long-lasting performance thanks to its porcelain-enameled lid and bowl, aluminized steel cleaning system and rust-resistant aluminum legs. A 363 Sq. In. cooking surface gives you plenty of space to cook up your favorite, mouthwatering meals.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/077924/077924025303.jpg",
+                "product_url": "https://www.lowes.com/pd/Weber-Original-Kettle-22-in-Black-Kettle-Charcoal-Grill/3055249",
+                "title": "Weber Original Kettle 22-in Black Kettle Charcoal Grill"
+              }
+            },
+            "text": "Weber Original Kettle 22-in Black Kettle Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "SpCnBHlKwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGeoj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SP54S5ClBnpI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGekj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6iPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ4S5ClBnpI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ4S5ClBnrI/nhLkKUGekj+eEuQpQZ6iPwAAAAAAAAAA7RvWvmHtuz8AAAAAAAAAAJ4S5ClBnpI/nhLkKUGekj+eEuQpQZ6yPwAAAAAAAAAAnhLkKUGekj9KkKcEeUrAPwAAAAAAAAAAnhLkKUGeoj+eEuQpQZ6SPwAAAAAAAAAAAAAAAAAAAACeEuQpQZ6yPwAAAAAAAAAAnhLkKUGesj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.22268088,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae62-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Broil-King-Regal-Pellet-825-sq-in-Black-Pellet-Grill/1000894096",
+                "brand": "Broil King",
+                "full_description": "The Regal Pellet 500 grill is a powerful and innovative pellet grill that uses a Wifi and Bluetooth&#174; enabled digital controller to provide enhanced temperature control allowing you to do anything with this grill including low-and-slow smoking at 225&deg;F, roasting at 350&deg;F, or even high-heat searing 600&deg;F.. This pellet grill comes fully equipped with a powerful auger, 22-lb capacity pellet hopper, removable grease management system, unique ash management system, deluxe rotisserie kit, 2 electronic meat probes, base storage and side shelf, and heavy duty and reversible cast iron cooking grids. Total cooking space on this grill is 865 sq. in. including a porcelain coated warming rack.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/062703/062703106274.jpg",
+                "title": "Broil King Regal Pellet 825-sq in Black Pellet Grill",
+                "description": "Regal Pellet 825-sq in Black Pellet Grill"
+              }
+            },
+            "text": "Broil King Regal Pellet 825-sq in Black Pellet Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "FDuxEzuxwz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GjPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxoz8AAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7saM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAA2Ymd2ImduD8AAAAAAAAAABQ7sRM7saM/AAAAAAAAAAAUO7ETO7GzPwAAAAAAAAAAFDuxEzuxkz92Yid2YifGPwAAAAAAAAAAFDuxEzuxoz8UO7ETO7GTPwAAAAAAAAAAFDuxEzuxkz8UO7ETO7GjPxQ7sRM7sZM/FDuxEzuxoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.22406286,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae3f-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Pittsburgh Steelers Pittsburgh Steelers Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500003/5000039925.jpg",
+                "title": "Imperial International Pittsburgh Steelers Pittsburgh Steelers Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Pittsburgh-Steelers-Pittsburgh-Steelers-Bucket-Grill-10-sq-in-Muliple-Colors-Metal-Portable-Charcoal-Grill/5000039925",
+                "full_description": "Pack up and bring the tailgate with you with this bucket grill. This fully functional mini-grill uses charcoal and is made from durable, galvanized steel. The bucket grill also includes a wooden handle for convenient and safe transportation to your tailgate, BBQ, beach or campsite. Product is officially licensed by the NFL.",
+                "brand": "Imperial International"
+              }
+            },
+            "text": "Imperial International Pittsburgh Steelers Pittsburgh Steelers Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "8oa8IW/Iuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwB/wBf8B/PwAAAAAAAAAA8Af8AX/Afz/wB/wBf8B/P/AH/AF/wH8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwB/wBf8B/P/AH/AF/wI8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAPAH/AF/wI8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAAAAAAAAAAAA9AV9QV/Qlz8AAAAAAAAAAAAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPKGvCFvyKs/9AV9QV/Qlz/wB/wBf8CPPwAAAAAAAAAA9AV9QV/Qtz8AAAAAAAAAAPAH/AF/wI8/9AV9QV/Qlz/wB/wBf8CvPwAAAAAAAAAA8Af8AX/Afz/yhrwhb8i7P/AH/AF/wH8/8Af8AX/Anz/2hD1hT9ijP/AH/AF/wI8/8Af8AX/Afz91RV1RV9S1P/QFfUFf0Kc/dUVdUVfUtT/wB/wBf8CfPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.22451772,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae58-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Prime-Pellet-Grills-Prime-Pellet-Grill-KC-King-950/1003258818",
+                "brand": "Prime Pellet Grills",
+                "image_url": "https://mobileimages.lowes.com/product/converted/860002/860002812205.jpg",
+                "full_description": "Grill, convection oven, slow-roaster, smoker? All of the above. Plus, do it all on auto-pilot with digital temp control and hands-free thermometers.",
+                "description": "Prime Pellet Grill- KC King 950",
+                "title": "Prime Pellet Grills Prime Pellet Grill- KC King 950"
+              }
+            },
+            "text": "Prime Pellet Grills Prime Pellet Grill- KC King 950",
+            "embedding": {
+              "dense": {
+                "buffer": "FBQUFBQUxD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPwAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFJQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUpD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBSkPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUtD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4evj8AAAAAAAAAABQUFBQUFJQ/AAAAAAAAAAAZGRkZGRm5PwAAAAAAAAAAAAAAAAAAAAAUFBQUFBTEPxQUFBQUFKQ/FBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBS0PxQUFBQUFJQ/FBQUFBQUpD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.22495233,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae8d-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "1800-Watt Stainless Steel Electric Grill",
+                "brand": "DeLonghi",
+                "image_url": "https://mobileimages.lowes.com/product/converted/044387/044387010207.jpg",
+                "full_description": "Cook great meals all day long on one appliance from breakfast all the way to dessert! Experience the versatility of easy indoor grilling with the Livenza All-Day Grill with FlexPress System by DeLonghi. Whether you want to grill a succulent steak, press the perfect panini or cook the fluffiest pancakes, we&#8217;ve got your options covered. Extra-wide embedded heating elements offer heat uniformity across the plates to prevent hot spots so food is cooked evenly. The large cooking surface heats evenly to bring out the best flavors in all your dishes. And its beautiful, sleek design will add style to any kitchen.",
+                "product_url": "https://www.lowes.com/pd/DeLonghi-1800-Watt-Stainless-Steel-Electric-Grill/1000503195",
+                "title": "DeLonghi 1800-Watt Stainless Steel Electric Grill"
+              }
+            },
+            "text": "DeLonghi 1800-Watt Stainless Steel Electric Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "iMb60Fgfuj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPzkFL6fg5ZQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DllD85BS+n4OWUPwAAAAAAAAAAOQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5ZQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DlpD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5aQ/AAAAAAAAAAA5BS+n4OWkPwAAAAAAAAAAiMb60Fgfuj8AAAAAAAAAADkFL6fg5ZQ/OQUvp+DllD85BS+n4OW0PwAAAAAAAAAAAAAAAAAAAACIxvrQWB+6PwAAAAAAAAAAOQUvp+DlpD85BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPzkFL6fg5aQ/iMb60Fgfuj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.22634508,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae76-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Grill, convection oven, slow-roaster, smoker? All of the above. Plus, do it all on auto-pilot with digital temp control and hands-free thermometers. The KC king 300 is the perfect size for smaller decks and patios or for taking the show on the road to feed the tailgate armies. The flavors of real hickory, cherry, or mesquite hardwood partner with the ease of electric to bring real smoked meat (or fish, veggies, or cheese) to your dinner table - no woodpile or messy charcoal required.",
+                "product_url": "https://www.lowes.com/pd/Prime-Pellet-Grills-Prime-Pellet-Grill-KC-King-300/1003258822",
+                "title": "Prime Pellet Grills Prime Pellet Grill- KC King 300",
+                "description": "Prime Pellet Grill- KC King 300",
+                "image_url": "https://mobileimages.lowes.com/product/converted/860002/860002812229.jpg",
+                "brand": "Prime Pellet Grills"
+              }
+            },
+            "text": "Prime Pellet Grills Prime Pellet Grill- KC King 300",
+            "embedding": {
+              "dense": {
+                "buffer": "FBQUFBQUxD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPwAAAAAAAAAAAAAAAAAAAAAUFBQUFBSkPwAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFJQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUpD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBSkPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUtD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4evj8AAAAAAAAAABQUFBQUFJQ/AAAAAAAAAAAZGRkZGRm5PwAAAAAAAAAAAAAAAAAAAAAUFBQUFBTEPxQUFBQUFKQ/FBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBS0PxQUFBQUFJQ/FBQUFBQUpD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.22665499,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae5e-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Prime Pellet Grill- KC King 600",
+                "product_url": "https://www.lowes.com/pd/Prime-Pellet-Grills-Prime-Pellet-Grill-KC-King-600/1003258820",
+                "image_url": "https://mobileimages.lowes.com/product/converted/860002/860002812212.jpg",
+                "brand": "Prime Pellet Grills",
+                "full_description": "Grill, convection oven, slow-roaster, smoker? All of the above. Plus, do it all on auto-pilot with digital temp control and hands-free thermometers. The KC king 600 is the perfect size for small families, sure to be a classic fixture on your deck or patio. The flavors of real hickory, cherry, or mesquite hardwood partner with the ease of electric to bring real smoked meat (or fish, veggies, or cheese) to your dinner table - no woodpile or messy charcoal required.",
+                "title": "Prime Pellet Grills Prime Pellet Grill- KC King 600"
+              }
+            },
+            "text": "Prime Pellet Grills Prime Pellet Grill- KC King 600",
+            "embedding": {
+              "dense": {
+                "buffer": "FBQUFBQUxD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPwAAAAAAAAAAAAAAAAAAAAAUFBQUFBSkPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFJQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUpD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBSkPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUtD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4evj8AAAAAAAAAABQUFBQUFJQ/AAAAAAAAAAAZGRkZGRm5PwAAAAAAAAAAAAAAAAAAAAAUFBQUFBTEPxQUFBQUFKQ/FBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBS0PxQUFBQUFJQ/FBQUFBQUpD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.22665499,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae3e-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Philadelphia Eagles Philadelphia Eagles Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+                "title": "Imperial International Philadelphia Eagles Philadelphia Eagles Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500003/5000039949.jpg",
+                "brand": "Imperial International",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Philadelphia-Eagles-Philadelphia-Eagles-Bucket-Grill-10-sq-in-Muliple-Colors-Metal-Portable-Charcoal-Grill/5000039949",
+                "full_description": "Pack up and bring the tailgate with you with this bucket grill. This fully functional mini-grill uses charcoal and is made from durable, galvanized steel. The bucket grill also includes a wooden handle for convenient and safe transportation to your tailgate, BBQ, beach or campsite. Product is officially licensed by the NFL."
+              }
+            },
+            "text": "Imperial International Philadelphia Eagles Philadelphia Eagles Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "8oa8IW/Iuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwB/wBf8B/PwAAAAAAAAAA8Af8AX/Afz/wB/wBf8B/P/AH/AF/wH8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwB/wBf8B/P/AH/AF/wI8/AAAAAAAAAADwB/wBf8CPPwAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAPAH/AF/wI8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAAAAAAAAAAAA9AV9QV/Qlz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHPGnDFnzLk/8Af8AX/Afz/wB/wBf8CPP/AH/AF/wI8/9oQ9YU/Ysz8AAAAAAAAAAPAH/AF/wI8/9oQ9YU/Yoz/2hD1hT9izPwAAAAAAAAAA8Af8AX/Afz93xB1xR9zBP/AH/AF/wH8/8Af8AX/Anz/2hD1hT9ijP/AH/AF/wJ8/8Af8AX/Afz/yhrwhb8irP/AH/AF/wJ8/9oQ9YU/Yoz/wB/wBf8CPPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.2267934,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faadfa-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Char-Griller Premium Red Kettle Charcoal Grill 22-in Red Kettle Charcoal Grill",
+                "title": "Char-Griller Char-Griller Premium Red Kettle Charcoal Grill 22-in Red Kettle Charcoal Grill",
+                "brand": "Char-Griller",
+                "product_url": "https://www.lowes.com/pd/Char-Griller-Char-Griller-Premium-Red-Kettle-Charcoal-Grill-22-in-Red-Kettle-Charcoal-Grill/5000182865",
+                "image_url": "https://mobileimages.lowes.com/product/converted/789792/789792148229.jpg",
+                "full_description": "If you have been searching for a totally unique kettle-style grill, the Char-Griller Premium Red Kettle Charcoal Grill is what you need. Equipped with a hinged lid for easy use, side shelves for cooking preparation and an Easy Dump&#8482; ash pan, this kettle grill is a great option for grillers who are looking for a great all-around grill."
+              }
+            },
+            "text": "Char-Griller Char-Griller Premium Red Kettle Charcoal Grill 22-in Red Kettle Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "H+/xHu/xvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARDuEQDuGgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF2iBFmiBlj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABdogRZogaY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF2iBFmiBpj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXaIEWaIGWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF2iBFmiBhj8AAAAAAAAAABdogRZogZY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEO4RAO4bA/AAAAAAAAAAAXaIEWaIGWPxdogRZogZY/GZVRGZVRuT8AAAAAAAAAAAAAAAAAAAAAF2iBFmiBpj8RDuEQDuGwPwAAAAAAAAAAAAAAAAAAAAARDuEQDuHAPxdogRZogZY/F2iBFmiBhj8XaIEWaIGWPwAAAAAAAAAAAAAAAAAAAAAf7/Ee7/G+PwAAAAAAAAAAF2iBFmiBpj8XaIEWaIGGPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.22751795,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b2fd-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Weber Original Kettle Premium 22-in Copper Kettle Charcoal Grill",
+                "full_description": "The authenticity of grilling with charcoal, classic design recognized by all, and the taste loved around the world. The Original Kettle premium charcoal grill stays true to the backyard icon while taking it up a notch with an upgraded cleaning system.",
+                "description": "Original Kettle Premium 22-in Copper Kettle Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Weber-Original-Kettle-Premium-22-in-Copper-Kettle-Charcoal-Grill/50330259",
+                "image_url": "https://mobileimages.lowes.com/product/converted/077924/077924032493.jpg",
+                "brand": "Weber"
+              }
+            },
+            "text": "Weber Original Kettle Premium 22-in Copper Kettle Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJA/AAAAAAAAkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKg/AAAAAAAAkD8AAAAAAACQPwAAAAAAAAAAAAAAAAAAwD8AAAAAAAAAAAAAAAAAAJA/AAAAAAAAkD8AAAAAAAC0PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4PwAAAAAAAKA/AAAAAAAAoD8AAAAAAACgPwAAAAAAAKA/AAAAAAAAAAAAAAAAAAC4PwAAAAAAAAAAAAAAAAAAsD8AAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.22854756,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae7e-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Stainless Steel Electric Grill",
+                "brand": "brentwood",
+                "title": "brentwood Stainless Steel Electric Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100183/1001839854.jpg",
+                "full_description": "Use the Brentwood Select Compact Non-Stick Panini Press and Sandwich Maker to make delicious hot paninis right in your kitchen. Grill plates heat up quickly and evenly for perfectly pressed grilled paninis. Power/Ready indicator lights and large, cool touch handle for easy operation. Sandwiches slide right off the non-stick plates and the removable juice tray catches any mess, making clean up a snap. Features a locking lid and legs for compact, upright storage. Our panini maker's brushed stainless steel finish with black accents looks great in every kitchen.",
+                "product_url": "https://www.lowes.com/pd/brentwood-Stainless-Steel-Electric-Grill/1001839854"
+              }
+            },
+            "text": "brentwood Stainless Steel Electric Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "mpmZmZmZuT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACamZmZmZmZPwAAAAAAAAAAmpmZmZmZmT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmpmZmZmZqT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZmZmZmZk/mpmZmZmZmT+amZmZmZmpP5qZmZmZmZk/AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzMzMzOzPwAAAAAAAAAAAAAAAAAAAAAAAAAAAADAPwAAAAAAAAAAmpmZmZmZqT+amZmZmZmpPwAAAAAAAAAAAAAAAAAAAAAzMzMzMzOzP5qZmZmZmak/mpmZmZmZuT8AAAAAAAAAAAAAAAAAAAAAmpmZmZmZmT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.2296017,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faadf9-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/789792/789792048222.jpg",
+                "product_url": "https://www.lowes.com/pd/Char-Griller-Char-Griller-Premium-Kettle-Black-22-in-Black-Kettle-Charcoal-Grill/5000182863",
+                "description": "Char-Griller Premium Kettle, Black 22-in Black Kettle Charcoal Grill",
+                "brand": "Char-Griller",
+                "title": "Char-Griller Char-Griller Premium Kettle, Black 22-in Black Kettle Charcoal Grill",
+                "full_description": "If you have been searching for a totally unique kettle-style grill, the Char-Griller Premium Red Kettle Charcoal Grill is what you need. Equipped with a hinged lid for easy use, side shelves for cooking preparation and an Easy Dump&#8482; ash pan, this kettle grill is a great option for grillers who are looking for a great all-around grill."
+              }
+            },
+            "text": "Char-Griller Char-Griller Premium Kettle, Black 22-in Black Kettle Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "HMdxHMdxvD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4OnW/LBIiT9oL6G9hPaiPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4OnW/LBImT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg6db8sEiZP2gvob2E9qI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaC+hvYT2oj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg6db8sEiZPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4OnW/LBIiT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9rI/AAAAAAAAAABoL6G9hPaiPwAAAAAAAAAApAw83Zoftj8AAAAAAAAAAAAAAAAAAAAAaC+hvYT2oj9YpAw83ZqvPwAAAAAAAAAA4OnW/LBImT/KwNOt+WHBP+Dp1vywSJk/4OnW/LBIiT/g6db8sEiJPwAAAAAAAAAAAAAAAAAAAAAcx3Ecx3G8PwAAAAAAAAAA4OnW/LBIqT/g6db8sEiJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.23090105,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          }
+        ],
+        "tags": {},
+        "text": "white grill",
+        "embedding": {
+          "dense": {
+            "buffer": "RhdddNFFtz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARhdddNFFtz8AAAAAAAAAAEYXXXTRRbc/RhdddNFFtz9GF1100UXHPwAAAAAAAAAAAAAAAAAAAABGF1100UXHPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UW3PwAAAAAAAAAARhdddNFFtz8AAAAAAAAAAAAAAAAAAAAARhdddNFFtz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "shape": [
+              96
+            ],
+            "dtype": "<f8",
+            "quantization": 0,
+            "maxVal": 0,
+            "minVal": 0,
+            "scale": 0,
+            "originalDtype": ""
+          }
+        },
+        "granularity": 0,
+        "adjacency": 0,
+        "parentId": "",
+        "chunks": [],
+        "weight": 0,
+        "uri": "",
+        "mimeType": "",
+        "location": [],
+        "offset": 0,
+        "scores": {},
+        "modality": "",
+        "evaluations": {}
+      }
+    ],
+    "groundtruths": []
+  }
+}

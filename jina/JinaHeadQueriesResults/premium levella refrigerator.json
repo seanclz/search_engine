@@ -1,0 +1,1023 @@
+{
+  "requestId": "800a2d18-3859-4af4-82ff-11903b4cf192",
+  "data": {
+    "docs": [
+      {
+        "id": "7b421e46-44c4-11ec-a081-d3da2e768b04",
+        "matches": [
+          {
+            "id": "0c0a39c0-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/077924/077924032370.jpg",
+                "brand": "Weber",
+                "description": "Performer Deluxe 22-in Copper Porcelain Enamel Kettle Charcoal Grill",
+                "full_description": "22 In. Performer deluxe charcoal grill, copper, electronic gas ignition system lights charcoal with the push of a button, includes a gourmet BBQ grate to use the specialty cookware that is sold separately, 10 year limited warranty.",
+                "title": "Weber Performer Deluxe 22-in Copper Porcelain Enamel Kettle Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Weber-Performer-Deluxe-22-in-Copper-Porcelain-Enamel-Kettle-Charcoal-Grill/1000363143"
+              }
+            },
+            "text": "Weber Performer Deluxe 22-in Copper Porcelain Enamel Kettle Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "KvJZN5givz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADQusEU+ayLPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0LrBFPmsmz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANC6wRT5rJs/0LrBFPmsiz/QusEU+ayLPwAAAAAAAAAA0LrBFPmsiz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADQusEU+ayLPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0LrBFPmsmz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADQusEU+ayLPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANC6wRT5rKs/0LrBFPmsiz/QusEU+aybPwAAAAAAAAAAbzBFPusGwz/QusEU+ayLPwAAAAAAAAAA0LrBFPmsiz8cTJHPusGkPwAAAAAAAAAAAAAAAAAAAAB2gynyWTe4P9C6wRT5rJs/HEyRz7rBpD/QusEU+ayrP9C6wRT5rJs/AAAAAAAAAADQusEU+ay7PwAAAAAAAAAA0LrBFPmsmz/QusEU+ayLPwAAAAAAAAAAAAAAAAAAAADQusEU+ayLPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14831609,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c12b9c2-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Weber Performer Deluxe 22-in Green Porcelain Enamel Kettle Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Weber-Performer-Deluxe-22-in-Green-Porcelain-Enamel-Kettle-Charcoal-Grill/1000363153",
+                "brand": "Weber",
+                "full_description": "Get the same high-performance kettle BBQ grill that is synonymous with the Weber name, now outfitted with a heavy duty steel cart, push-button ignition system, side table, charcoal bin and LCD timer. The Weber Performer Deluxe 22 in. charcoal grill in green also boasts the Tuck-Away lid holder that acts as a pair of extra hands to cradle the lid while you tend to the main course. The cooking platform is a 363 sq. In. Gourmet BBQ System hinged cooking grate with a removable center section that accommodates separately-sold Weber cooking components. After you&#8217;ve feasted on a finger-licking meal, simply pivot the three damper blades in the kettle basin to funnel charcoal dust into the removable ash catcher underneath.",
+                "description": "Performer Deluxe 22-in Green Porcelain Enamel Kettle Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/077924/077924032400.jpg"
+              }
+            },
+            "text": "Weber Performer Deluxe 22-in Green Porcelain Enamel Kettle Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "/Pjx48ePvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgwIEDBw6MPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4MCBAwcOnD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODAgQMHDow/4MCBAwcOjD/gwIEDBw6MPwAAAAAAAAAA4MCBAwcOnD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgwIEDBw6MPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4MCBAwcOnD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgwIEDBw6MPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODAgQMHDqw/4MCBAwcOjD/gwIEDBw6cPwAAAAAAAAAAqFChQoUKxT/gwIEDBw6MPwAAAAAAAAAA4MCBAwcOjD+oUKFChQqlPwAAAAAAAAAAAAAAAAAAAADEiBEjRoy4P+DAgQMHDpw/4MCBAwcOrD+oUKFChQqlPwAAAAAAAAAAAAAAAAAAAADgwIEDBw68PwAAAAAAAAAA4MCBAwcOnD/gwIEDBw6MPwAAAAAAAAAAAAAAAAAAAADgwIEDBw6MPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15329437,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a37e7-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505645020.jpg",
+                "description": "Gallery 20.4-cu ft Top-Freezer Refrigerator (Smudge-Proof Stainless Steel)",
+                "full_description": "",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-Gallery-20-4-cu-ft-Top-Freezer-Refrigerator-Smudge-Proof-Stainless-Steel/1000446025",
+                "title": "Frigidaire Gallery 20.4-cu ft Top-Freezer Refrigerator (Smudge-Proof Stainless Steel)",
+                "brand": "Frigidaire"
+              }
+            },
+            "text": "Frigidaire Gallery 20.4-cu ft Top-Freezer Refrigerator (Smudge-Proof Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "GBgYGBgYuD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGBgYGIg/GBgYGBgYiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASEhISEhKiPxgYGBgYGIg/AAAAAAAAAAAYGBgYGBiIPwAAAAAAAAAAGBgYGBgYiD8AAAAAAAAAABgYGBgYGIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGBgYGJg/GBgYGBgYiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGBgYGBgYiD8AAAAAAAAAABgYGBgYGIg/EhISEhISoj8YGBgYGBiIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGBgYGKg/AAAAAAAAAAAYGBgYGBiIPxgYGBgYGJg/kZCQkJCQwD8SEhISEhKiPxISEhISEqI/AAAAAAAAAAAeHh4eHh6uPwAAAAAAAAAAAAAAAAAAAAAYGBgYGBioPxgYGBgYGIg/GBgYGBgYiD8YGBgYGBioPxgYGBgYGIg/AAAAAAAAAAAbGxsbGxu7PxgYGBgYGJg/GBgYGBgYqD8YGBgYGBiYPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGBgYGIg/GBgYGBgYiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15647073,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a39b3-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "The authenticity of grilling with charcoal, classic design recognized by all, and the taste loved around the world. The Original Kettle premium charcoal grill stays true to the backyard icon while taking it up a notch with an upgraded cleaning system.",
+                "product_url": "https://www.lowes.com/pd/Weber-Original-Kettle-Premium-22-in-Copper-Kettle-Charcoal-Grill/50330259",
+                "description": "Original Kettle Premium 22-in Copper Kettle Charcoal Grill",
+                "brand": "Weber",
+                "image_url": "https://mobileimages.lowes.com/product/converted/077924/077924032493.jpg",
+                "title": "Weber Original Kettle Premium 22-in Copper Kettle Charcoal Grill"
+              }
+            },
+            "text": "Weber Original Kettle Premium 22-in Copper Kettle Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJA/AAAAAAAAkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKg/AAAAAAAAkD8AAAAAAACQPwAAAAAAAAAAAAAAAAAAwD8AAAAAAAAAAAAAAAAAAJA/AAAAAAAAkD8AAAAAAAC0PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4PwAAAAAAAKA/AAAAAAAAoD8AAAAAAACgPwAAAAAAAKA/AAAAAAAAAAAAAAAAAAC4PwAAAAAAAAAAAAAAAAAAsD8AAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15921924,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c12b9f1-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/077924/077924032356.jpg",
+                "description": "Performer Deluxe 22-in Black Porcelain Enamel Kettle Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Weber-Performer-Deluxe-22-in-Black-Porcelain-Enamel-Kettle-Charcoal-Grill/1000363151",
+                "title": "Weber Performer Deluxe 22-in Black Porcelain Enamel Kettle Charcoal Grill",
+                "full_description": "22 In. Performer Deluxe charcoal grill, black, electronic gas ignition system lights charcoal with the push of a button, includes a gourmet BBQ grate to use the specialty cookware that is sold separately, 10 year limited warranty.",
+                "brand": "Weber"
+              }
+            },
+            "text": "Weber Performer Deluxe 22-in Black Porcelain Enamel Kettle Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "/Pjx48ePvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgwIEDBw6MPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4MCBAwcOnD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgwIEDBw6MP+DAgQMHDow/4MCBAwcOjD/gwIEDBw6MPwAAAAAAAAAA4MCBAwcOjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgwIEDBw6MPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4MCBAwcOnD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgwIEDBw6MPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIwYMWLEiLE/4MCBAwcOjD+oUKFChQqlPwAAAAAAAAAAjBgxYsSIwT/gwIEDBw6MPwAAAAAAAAAA4MCBAwcOjD+oUKFChQqlPwAAAAAAAAAA4MCBAwcOjD/gwIEDBw68P+DAgQMHDpw/qFChQoUKpT+oUKFChQqlPwAAAAAAAAAAAAAAAAAAAADEiBEjRoy4PwAAAAAAAAAA4MCBAwcOnD/gwIEDBw6MPwAAAAAAAAAAAAAAAAAAAADgwIEDBw6MPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16171922,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a39bf-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Weber",
+                "description": "Performer 22-in Black Porcelain Enamel Kettle Charcoal Grill",
+                "title": "Weber Performer 22-in Black Porcelain Enamel Kettle Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/077924/077924032516.jpg",
+                "full_description": "22 In. Performer charcoal grill, black, includes a gourmet BBQ grate to use the specialty cookware that is sold separately, 10 year limited warranty.",
+                "product_url": "https://www.lowes.com/pd/Weber-Performer-22-in-Black-Porcelain-Enamel-Kettle-Charcoal-Grill/1000363155"
+              }
+            },
+            "text": "Weber Performer 22-in Black Porcelain Enamel Kettle Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "CB988MEHvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIH3zwwQePPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACB988MEHnz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIH3zwwQePPwgffPDBB48/AAAAAAAAAAAIH3zwwQePPwAAAAAAAAAACB988MEHjz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIH3zwwQePPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACB988MEHnz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIH3zwwQePPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGWTTTbZZLM/CB988MEHjz9GF1100UWnPwAAAAAAAAAACB988MEHvz8IH3zwwQePPwAAAAAAAAAACB988MEHjz9GF1100UWnPwAAAAAAAAAACB988MEHjz8nm2yyySa7PwgffPDBB58/RhdddNFFpz9GF1100UWnPwAAAAAAAAAAAAAAAAAAAAAnm2yyySa7PwAAAAAAAAAACB988MEHnz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16530478,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a37dd-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "",
+                "brand": "Frigidaire",
+                "description": "20.4-cu ft Top-Freezer Refrigerator (Stainless Steel)",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-20-4-cu-ft-Top-Freezer-Refrigerator-Stainless-Steel/1000484145",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505644634.jpg",
+                "title": "Frigidaire 20.4-cu ft Top-Freezer Refrigerator (Stainless Steel)"
+              }
+            },
+            "text": "Frigidaire 20.4-cu ft Top-Freezer Refrigerator (Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAuD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJA/AAAAAAAAkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAJA/AAAAAAAAAAAAAAAAAACQPwAAAAAAAAAAAAAAAAAAkD8AAAAAAAAAAAAAAAAAAJA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJA/AAAAAAAAoD8AAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKg/AAAAAAAAAAAAAAAAAACQPwAAAAAAAJA/AAAAAAAAwj8AAAAAAACgPwAAAAAAAKA/AAAAAAAAAAAAAAAAAAC0PwAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAkD8AAAAAAACgPwAAAAAAAJA/AAAAAAAAAAAAAAAAAAC8PwAAAAAAAKA/AAAAAAAAsD8AAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16712774,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3838-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Premium-Levella-10-cu-ft-Top-Freezer-Refrigerator-Silver-ENERGY-STAR/1002872532",
+                "title": "Premium Levella 10-cu ft Top-Freezer Refrigerator (Silver) ENERGY STAR",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100287/1002872532.jpg",
+                "brand": "Premium Levella",
+                "full_description": "This 10 cu Ft frost free refrigerator is the perfect size for smaller kitchens or as a complement to your main kitchen refrigerator. It has all of the features of the larger refrigerators, including a crisper drawer and plenty of door storage. It even has a shelf and door storage in the upper freezer compartment. It is available in a clean white finish or a contemporary silver finish to complement any decor.",
+                "description": "10-cu ft Top-Freezer Refrigerator (Silver) ENERGY STAR"
+              }
+            },
+            "text": "Premium Levella 10-cu ft Top-Freezer Refrigerator (Silver) ENERGY STAR",
+            "embedding": {
+              "dense": {
+                "buffer": "HdRBHdRBvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB3UQR3UQY0/HdRBHdRBjT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAd1EEd1EGdPwAAAAAAAAAAAAAAAAAAAAAd1EEd1EGNPx3UQR3UQY0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHdRBHdRBjT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAd1EEd1EGdPx3UQR3UQY0/HdRBHdRBjT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB3UQR3UQY0/AAAAAAAAAAAd1EEd1EGNPwAAAAAAAAAAHdRBHdRBjT8AAAAAAAAAABZf8RVf8aU/HdRBHdRBnT8d1EEd1EGdPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHdRBHdRBjT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB3UQR3UQZ0/AAAAAAAAAAAd1EEd1EGNPwAAAAAAAAAAUAd1UAd1wD8d1EEd1EGdPx3UQR3UQY0/AAAAAAAAAAAWX/EVX/GlPwAAAAAAAAAAAAAAAAAAAAAWX/EVX/GlPx3UQR3UQZ0/AAAAAAAAAAAd1EEd1EGdPx3UQR3UQY0/AAAAAAAAAACamZmZmZm5PwAAAAAAAAAAHdRBHdRBnT8d1EEd1EGdPx3UQR3UQZ0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHdRBHdRBjT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16751485,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3776-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505645235.jpg",
+                "title": "Frigidaire 20.4-cu ft Top-Freezer Refrigerator (EasyCare Stainless Steel)",
+                "description": "20.4-cu ft Top-Freezer Refrigerator (EasyCare Stainless Steel)",
+                "brand": "Frigidaire",
+                "full_description": "",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-20-4-cu-ft-Top-Freezer-Refrigerator-EasyCare-Stainless-Steel/1000255015"
+              }
+            },
+            "text": "Frigidaire 20.4-cu ft Top-Freezer Refrigerator (EasyCare Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "xIgRI0aMuD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODAgQMHDow/4MCBAwcOjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgwIEDBw6cP+DAgQMHDow/AAAAAAAAAADgwIEDBw6MPwAAAAAAAAAA4MCBAwcOjD8AAAAAAAAAAODAgQMHDow/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODAgQMHDow/AAAAAAAAAADgwIEDBw6MP+DAgQMHDpw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODAgQMHDow/4MCBAwcOnD/gwIEDBw6MPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIwYMWLEiLE/AAAAAAAAAADgwIEDBw6MP+DAgQMHDow/jBgxYsSIwT/gwIEDBw6cP+DAgQMHDpw/AAAAAAAAAACMGDFixIixPwAAAAAAAAAAAAAAAAAAAADgwIEDBw6cPwAAAAAAAAAA4MCBAwcOjD/gwIEDBw6cP+DAgQMHDow/AAAAAAAAAADgwIEDBw68P6hQoUKFCqU/4MCBAwcOrD/gwIEDBw6MPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODAgQMHDow/4MCBAwcOjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16774045,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a37f3-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Whirlpool-16-cu-ft-Top-Freezer-Refrigerator-Stainless-Steel/50285259",
+                "title": "Whirlpool 16-cu ft Top-Freezer Refrigerator (Stainless Steel)",
+                "description": "16-cu ft Top-Freezer Refrigerator (Stainless Steel)",
+                "brand": "Whirlpool",
+                "full_description": "Get purposeful spaces that store more of your favorites. An improved design with quiet cooling keeps our quiet refrigerator from interrupting family time in the kitchen. The Flexi-Slide&#8482; bin easily moves side-to-side to fit more tall items and an optional icemaker eliminates the need to refill ice trays. Plus, a 16 cu. ft. capacity gives you room for it all.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049339412.jpg"
+              }
+            },
+            "text": "Whirlpool 16-cu ft Top-Freezer Refrigerator (Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "WEeb9ykuuT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADvavE9xyZA/O9q8T3HJkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA72rxPccmgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADvavE9xyZA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA72rxPccmQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADvavE9xyZA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADvavE9xyZA/O9q8T3HJoD872rxPccmQPwAAAAAAAAAAAAAAAAAAAAA72rxPccmQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADvavE9xyaA/AAAAAAAAAAA72rxPccmQPwAAAAAAAAAAO9q8T3HJwD872rxPccmgPzvavE9xyZA/O9q8T3HJkD9YR5v3KS6pPwAAAAAAAAAAAAAAAAAAAAA72rxPccmwPwAAAAAAAAAAO9q8T3HJkD872rxPccmwPzvavE9xyaA/AAAAAAAAAABYR5v3KS65PzvavE9xyaA/O9q8T3HJsD872rxPccmQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO9q8T3HJkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16881534,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a37d2-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Frigidaire-18-3-cu-ft-Top-Freezer-Refrigerator-Easycare-Stainless-Steel/1001165036",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505646904.jpg",
+                "brand": "Frigidaire",
+                "description": "18.3-cu ft Top-Freezer Refrigerator (Easycare Stainless Steel)",
+                "full_description": "",
+                "title": "Frigidaire 18.3-cu ft Top-Freezer Refrigerator (Easycare Stainless Steel)"
+              }
+            },
+            "text": "Frigidaire 18.3-cu ft Top-Freezer Refrigerator (Easycare Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "xIgRI0aMuD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODAgQMHDow/4MCBAwcOjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgwIEDBw6cP+DAgQMHDow/AAAAAAAAAAAAAAAAAAAAAODAgQMHDow/AAAAAAAAAADgwIEDBw6MPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4MCBAwcOjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgwIEDBw6MP+DAgQMHDpw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODAgQMHDow/4MCBAwcOnD/gwIEDBw6MPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIwYMWLEiLE/AAAAAAAAAADgwIEDBw6cP+DAgQMHDow/jBgxYsSIwT/gwIEDBw6cP+DAgQMHDpw/AAAAAAAAAACMGDFixIixPwAAAAAAAAAAAAAAAAAAAADgwIEDBw6cPwAAAAAAAAAA4MCBAwcOjD/gwIEDBw6cP+DAgQMHDow/AAAAAAAAAADgwIEDBw68P6hQoUKFCqU/4MCBAwcOrD/gwIEDBw6MPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODAgQMHDow/4MCBAwcOjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16885546,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c12ba2a-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Weber-Smokey-Joe-Premium-Portable-Grill/1000348527",
+                "title": "Weber Smokey Joe Premium Portable Grill",
+                "description": "Smokey Joe Premium Portable Grill",
+                "full_description": "14 In. Premium charcoal grill, black, perfect for camping, tailgating, etc.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/077924/077924025150.jpg",
+                "brand": "Weber"
+              }
+            },
+            "text": "Weber Smokey Joe Premium Portable Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "kAZpkAZpwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGqRBGqRBmj8AAAAAAAAAAAAAAAAAAAAAGqRBGqRBmj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGqRBGqRBqj8AAAAAAAAAAAAAAAAAAAAAGqRBGqRBmj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAapEEapEGaPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABqkQRqkQZo/GqRBGqRBqj8AAAAAAAAAAAAAAAAAAAAAFDuxEzuxwz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAapEEapEGqPwAAAAAAAAAAGqRBGqRBmj8UO7ETO7GzPxQ7sRM7sbM/AAAAAAAAAAAUO7ETO7GzPwAAAAAAAAAAAAAAAAAAAAAapEEapEG6PwAAAAAAAAAAGqRBGqRBmj8apEEapEGaPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABqkQRqkQZo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17107148,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a376e-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Frigidaire",
+                "description": "18-cu ft Top-Freezer Refrigerator (Black)",
+                "full_description": "Top freezer refrigerator.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505644498.jpg",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-18-cu-ft-Top-Freezer-Refrigerator-Black/1000225699",
+                "title": "Frigidaire 18-cu ft Top-Freezer Refrigerator (Black)"
+              }
+            },
+            "text": "Frigidaire 18-cu ft Top-Freezer Refrigerator (Black)",
+            "embedding": {
+              "dense": {
+                "buffer": "2Ymd2ImduD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/FDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GjPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7saM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ7YiZ3Yia0/AAAAAAAAAAAUO7ETO7GjPxQ7sRM7sZM/ntiJndiJvT8UO7ETO7GjPxQ7sRM7saM/AAAAAAAAAAAUO7ETO7GzPwAAAAAAAAAAFDuxEzuxkz8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GjPxQ7sRM7sZM/AAAAAAAAAACxEzuxEzvBPwAAAAAAAAAAFDuxEzuxoz8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17196134,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a37b0-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/100255/1002550434.jpg",
+                "product_url": "https://www.lowes.com/pd/Premium-Levella-7-4-cu-ft-Counter-Depth-Top-Freezer-Refrigerator-Silver-ENERGY-STAR/1002550434",
+                "description": "7.4-cu ft Counter-Depth Top-Freezer Refrigerator (Silver) ENERGY STAR",
+                "brand": "Premium Levella",
+                "full_description": "Premium&#8217;s 7.4 Cu Ft counter depth, top freezer refrigerator provides the ideal solution for users looking to utilize smaller areas efficiently by maximizing capacity without compromising space. The unit has many of the features of a larger unit condensed into a small footprint. Perfect for offices, she-sheds, man-caves, mud-rooms, apartments, basements and as a primary or secondary refrigerator. The stylish silver exterior complements all design aesthetics, and the counter depth aligns seamlessly with existing cabinets. With energy star quality and an affordable price, premium&#8217;s line of stylish refrigerators meets user&#8217;s refrigeration and freezer needs without breaking the bank.",
+                "title": "Premium Levella 7.4-cu ft Counter-Depth Top-Freezer Refrigerator (Silver) ENERGY STAR"
+              }
+            },
+            "text": "Premium Levella 7.4-cu ft Counter-Depth Top-Freezer Refrigerator (Silver) ENERGY STAR",
+            "embedding": {
+              "dense": {
+                "buffer": "GxsbGxsbuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGBgYGIg/GBgYGBgYiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASEhISEhKiPxgYGBgYGIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGBgYGIg/AAAAAAAAAAAAAAAAAAAAABgYGBgYGIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGBgYGBgYiD8AAAAAAAAAABgYGBgYGIg/GBgYGBgYiD8YGBgYGBiYPxgYGBgYGIg/GBgYGBgYiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGBgYGIg/AAAAAAAAAAAYGBgYGBiIPwAAAAAAAAAAGBgYGBgYiD8AAAAAAAAAABISEhISEqI/GBgYGBgYmD8YGBgYGBiYPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGBgYGBgYiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGBgYGJg/AAAAAAAAAAAYGBgYGBiIPwAAAAAAAAAAkZCQkJCQwD8YGBgYGBiYPxgYGBgYGIg/GBgYGBgYiD8SEhISEhKiPwAAAAAAAAAAAAAAAAAAAAASEhISEhKiPxgYGBgYGJg/GBgYGBgYiD8SEhISEhKiPxgYGBgYGJg/AAAAAAAAAAAYGBgYGBi4PwAAAAAAAAAAGBgYGBgYqD8SEhISEhKiPxgYGBgYGJg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGBgYGBgYiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17200123,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3934-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Silver 1-Burner Liquid Propane Infrared Gas Grill",
+                "title": "Vivere Silver 1-Burner Liquid Propane Infrared Gas Grill",
+                "brand": "Vivere",
+                "product_url": "https://www.lowes.com/pd/Vivere-Silver-1-Burner-Liquid-Propane-Infrared-Gas-Grill/1001298752",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100129/1001298752.jpg",
+                "full_description": "Portable Infrared Grill"
+              }
+            },
+            "text": "Vivere Silver 1-Burner Liquid Propane Infrared Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACSJEmSJEmSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIkSZIkSZI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACSJEmSJEmSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkiRJkiRJoj8AAAAAAAAAAJIkSZIkSZI/AAAAAAAAAAAAAAAAAAAAAJIkSZIkSZI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANu2bdu2bas/AAAAAAAAAAAAAAAAAAAAAJIkSZIkSaI/27Zt27Ztuz+SJEmSJEmSPwAAAAAAAAAAAAAAAAAAAAC3bdu2bdu2PwAAAAAAAAAAAAAAAAAAAADbtm3btm2rPwAAAAAAAAAA27Zt27Ztqz+SJEmSJEmSP5IkSZIkSZI/kiRJkiRJkj+SJEmSJEnCP5IkSZIkSZI/AAAAAAAAAACSJEmSJEmiP5IkSZIkSaI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17313142,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3935-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Vivere",
+                "product_url": "https://www.lowes.com/pd/Vivere-Silver-1-Burner-Liquid-Propane-Infrared-Gas-Grill/1001307552",
+                "full_description": "Infrared grill.",
+                "description": "Silver 1-Burner Liquid Propane Infrared Gas Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100130/1001307552.jpg",
+                "title": "Vivere Silver 1-Burner Liquid Propane Infrared Gas Grill"
+              }
+            },
+            "text": "Vivere Silver 1-Burner Liquid Propane Infrared Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACSJEmSJEmSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIkSZIkSZI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACSJEmSJEmSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkiRJkiRJoj8AAAAAAAAAAJIkSZIkSZI/AAAAAAAAAAAAAAAAAAAAAJIkSZIkSZI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANu2bdu2bas/AAAAAAAAAAAAAAAAAAAAAJIkSZIkSaI/27Zt27Ztuz+SJEmSJEmSPwAAAAAAAAAAAAAAAAAAAAC3bdu2bdu2PwAAAAAAAAAAAAAAAAAAAADbtm3btm2rPwAAAAAAAAAA27Zt27Ztqz+SJEmSJEmSP5IkSZIkSZI/kiRJkiRJkj+SJEmSJEnCP5IkSZIkSZI/AAAAAAAAAACSJEmSJEmiP5IkSZIkSaI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17313142,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3933-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Vivere",
+                "full_description": "You heard us, a larger cooking space.",
+                "title": "Vivere Silver 1-Burner Liquid Propane Infrared Gas Grill",
+                "description": "Silver 1-Burner Liquid Propane Infrared Gas Grill",
+                "product_url": "https://www.lowes.com/pd/Vivere-Silver-1-Burner-Liquid-Propane-Infrared-Gas-Grill/1001273324",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100127/1001273324.jpg"
+              }
+            },
+            "text": "Vivere Silver 1-Burner Liquid Propane Infrared Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACSJEmSJEmSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIkSZIkSZI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACSJEmSJEmSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkiRJkiRJoj8AAAAAAAAAAJIkSZIkSZI/AAAAAAAAAAAAAAAAAAAAAJIkSZIkSZI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANu2bdu2bas/AAAAAAAAAAAAAAAAAAAAAJIkSZIkSaI/27Zt27Ztuz+SJEmSJEmSPwAAAAAAAAAAAAAAAAAAAAC3bdu2bdu2PwAAAAAAAAAAAAAAAAAAAADbtm3btm2rPwAAAAAAAAAA27Zt27Ztqz+SJEmSJEmSP5IkSZIkSZI/kiRJkiRJkj+SJEmSJEnCP5IkSZIkSZI/AAAAAAAAAACSJEmSJEmiP5IkSZIkSaI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17313142,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a37c3-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Whirlpool-17-6-cu-ft-Top-Freezer-Refrigerator-Fingerprint-Resistant-Metallic-Steel/1000209971",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049441511.jpg",
+                "description": "17.6-cu ft Top-Freezer Refrigerator (Fingerprint Resistant Metallic Steel)",
+                "brand": "Whirlpool",
+                "title": "Whirlpool 17.6-cu ft Top-Freezer Refrigerator (Fingerprint Resistant Metallic Steel)",
+                "full_description": "There's always a place for fresh and frozen favorites inside our Whirlpool&#174; refrigerator. This 28\" top-freezer refrigerator offers 18 cu. ft. capacity with more convenient storage options thanks to the Flexi-Slide&#8482; bin that adjusts to make space for tall items. Bright LED interior lighting casts a more natural light on the contents of your black, white or stainless steel top-freezer refrigerator so food looks as it should. Plus, you can easily access ice by adding the Whirlpool&#174; EZ Connect icemaker kit."
+              }
+            },
+            "text": "Whirlpool 17.6-cu ft Top-Freezer Refrigerator (Fingerprint Resistant Metallic Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "GIZhGIZhuD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYYg/GIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYhmEYhmGYPxiGYRiGYYg/AAAAAAAAAAAAAAAAAAAAABiGYRiGYYg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYhmEYhmGIPxiGYRiGYYg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYZg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYZg/GIZhGIZhiD8YhmEYhmGIPwAAAAAAAAAAAAAAAAAAAAAYhmEYhmGIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIkSZIkSaI/AAAAAAAAAAAYhmEYhmGYPwAAAAAAAAAAnud5nud5vj8YhmEYhmGYPxiGYRiGYZg/GIZhGIZhiD+SJEmSJEmyPwAAAAAAAAAAAAAAAAAAAACe53me53muPwAAAAAAAAAAkiRJkiRJoj8YhmEYhmGoP5IkSZIkSaI/AAAAAAAAAAAYhmEYhmG4PxiGYRiGYZg/VVVVVVVVtT8YhmEYhmGIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17333595,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3782-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Haier-9-8-cu-ft-Top-Freezer-Refrigerator-Stainless/1000366389",
+                "description": "9.8-cu ft Top-Freezer Refrigerator (Stainless)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/688057/688057309255.jpg",
+                "brand": "Haier",
+                "title": "Haier 9.8-cu ft Top-Freezer Refrigerator (Stainless)",
+                "full_description": "Haier appliances are born for the city and designed to keep pace with a new way of living. Our appliances combine world-class design, innovative technology and a touch of city hustle, so you can live your best life 24/7. By making chores easier and life more livable, we bring the spirit of the city into your home. You can live life your way and, on your time, when you have our amazing appliances at your fingertips."
+              }
+            },
+            "text": "Haier 9.8-cu ft Top-Freezer Refrigerator (Stainless)",
+            "embedding": {
+              "dense": {
+                "buffer": "2Ymd2ImduD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/FDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GjPxQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/FDuxEzuxkz8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ7YiZ3Yia0/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAsRM7sRM7wT8UO7ETO7GjPxQ7sRM7sZM/AAAAAAAAAACe2Imd2ImtPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAFDuxEzuxkz8UO7ETO7GjPxQ7sRM7sZM/AAAAAAAAAACe2Imd2Im9PxQ7sRM7saM/ntiJndiJrT8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1734907,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a37a7-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Whirlpool",
+                "description": "19.1-cu ft Top-Freezer Refrigerator (Fingerprint Resistant Metallic Steel)",
+                "title": "Whirlpool 19.1-cu ft Top-Freezer Refrigerator (Fingerprint Resistant Metallic Steel)",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-19-1-cu-ft-Top-Freezer-Refrigerator-Fingerprint-Resistant-Metallic-Steel/1000209973",
+                "full_description": "Get purposeful spaces that store more of your favorites.  You can fit more items on each shelf in this refrigerator with frameless glass shelves and keep fruits and vegetables in their ideal environment with humidity-controlled crispers. Plus, a 19 cu. Ft. capacity gives you room for it all.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049441535.jpg"
+              }
+            },
+            "text": "Whirlpool 19.1-cu ft Top-Freezer Refrigerator (Fingerprint Resistant Metallic Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "GIZhGIZhuD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYYg/GIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYhmEYhmGYPxiGYRiGYYg/AAAAAAAAAAAAAAAAAAAAABiGYRiGYZg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYhmEYhmGIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYZg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYZg/GIZhGIZhiD8YhmEYhmGIPwAAAAAAAAAAAAAAAAAAAAAYhmEYhmGIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIkSZIkSaI/AAAAAAAAAAAYhmEYhmGYPwAAAAAAAAAAnud5nud5vj8YhmEYhmGYPxiGYRiGYZg/GIZhGIZhiD+SJEmSJEmyPwAAAAAAAAAAAAAAAAAAAACe53me53muPwAAAAAAAAAAkiRJkiRJoj8YhmEYhmGoP5IkSZIkSaI/AAAAAAAAAAAYhmEYhmG4PxiGYRiGYZg/VVVVVVVVtT8YhmEYhmGIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17415166,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          }
+        ],
+        "tags": {
+          "full_description": "premium levella refrigerator"
+        },
+        "text": "premium levella refrigerator",
+        "embedding": {
+          "dense": {
+            "buffer": "kiRJkiRJsj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIkSZIkSbI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAt23btm3bxj+SJEmSJEmiP5IkSZIkSaI/AAAAAAAAAACSJEmSJEmyPwAAAAAAAAAAAAAAAAAAAADbtm3btm27P5IkSZIkSbI/AAAAAAAAAACSJEmSJEmiP5IkSZIkSaI/AAAAAAAAAAC3bdu2bdvGPwAAAAAAAAAAkiRJkiRJoj+SJEmSJEmiP5IkSZIkSaI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "shape": [
+              96
+            ],
+            "dtype": "<f8",
+            "quantization": 0,
+            "maxVal": 0,
+            "minVal": 0,
+            "scale": 0,
+            "originalDtype": ""
+          }
+        },
+        "granularity": 0,
+        "adjacency": 0,
+        "parentId": "",
+        "chunks": [],
+        "weight": 0,
+        "uri": "",
+        "mimeType": "",
+        "location": [],
+        "offset": 0,
+        "scores": {},
+        "modality": "",
+        "evaluations": {}
+      }
+    ],
+    "groundtruths": []
+  }
+}

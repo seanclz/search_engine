@@ -1,0 +1,1021 @@
+{
+  "requestId": "847e2b24-4b4d-491b-b902-a982ead58473",
+  "data": {
+    "docs": [
+      {
+        "id": "2f163c7c-5e88-11ec-9e82-17576e5cd1d2",
+        "matches": [
+          {
+            "id": "82f2b2fd-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Weber-Original-Kettle-Premium-22-in-Copper-Kettle-Charcoal-Grill/50330259",
+                "full_description": "The authenticity of grilling with charcoal, classic design recognized by all, and the taste loved around the world. The Original Kettle premium charcoal grill stays true to the backyard icon while taking it up a notch with an upgraded cleaning system.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/077924/077924032493.jpg",
+                "title": "Weber Original Kettle Premium 22-in Copper Kettle Charcoal Grill",
+                "brand": "Weber",
+                "description": "Original Kettle Premium 22-in Copper Kettle Charcoal Grill"
+              }
+            },
+            "text": "Weber Original Kettle Premium 22-in Copper Kettle Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJA/AAAAAAAAkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKg/AAAAAAAAkD8AAAAAAACQPwAAAAAAAAAAAAAAAAAAwD8AAAAAAAAAAAAAAAAAAJA/AAAAAAAAkD8AAAAAAAC0PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4PwAAAAAAAKA/AAAAAAAAoD8AAAAAAACgPwAAAAAAAKA/AAAAAAAAAAAAAAAAAAC4PwAAAAAAAAAAAAAAAAAAsD8AAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18399502,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae3f-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Pittsburgh-Steelers-Pittsburgh-Steelers-Bucket-Grill-10-sq-in-Muliple-Colors-Metal-Portable-Charcoal-Grill/5000039925",
+                "brand": "Imperial International",
+                "description": "Pittsburgh Steelers Pittsburgh Steelers Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500003/5000039925.jpg",
+                "title": "Imperial International Pittsburgh Steelers Pittsburgh Steelers Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+                "full_description": "Pack up and bring the tailgate with you with this bucket grill. This fully functional mini-grill uses charcoal and is made from durable, galvanized steel. The bucket grill also includes a wooden handle for convenient and safe transportation to your tailgate, BBQ, beach or campsite. Product is officially licensed by the NFL."
+              }
+            },
+            "text": "Imperial International Pittsburgh Steelers Pittsburgh Steelers Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "8oa8IW/Iuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwB/wBf8B/PwAAAAAAAAAA8Af8AX/Afz/wB/wBf8B/P/AH/AF/wH8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwB/wBf8B/P/AH/AF/wI8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAPAH/AF/wI8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAAAAAAAAAAAA9AV9QV/Qlz8AAAAAAAAAAAAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPKGvCFvyKs/9AV9QV/Qlz/wB/wBf8CPPwAAAAAAAAAA9AV9QV/Qtz8AAAAAAAAAAPAH/AF/wI8/9AV9QV/Qlz/wB/wBf8CvPwAAAAAAAAAA8Af8AX/Afz/yhrwhb8i7P/AH/AF/wH8/8Af8AX/Anz/2hD1hT9ijP/AH/AF/wI8/8Af8AX/Afz91RV1RV9S1P/QFfUFf0Kc/dUVdUVfUtT/wB/wBf8CfPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18866588,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b28e-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Vivere",
+                "description": "Silver 2-Burner Liquid Propane Gas Grill",
+                "full_description": "With two individual burners at 1500ÂºF, the Inferno2 gourmet Edition is the ELITEÂ of our grills.",
+                "title": "Vivere Silver 2-Burner Liquid Propane Gas Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100127/1001273336.jpg",
+                "product_url": "https://www.lowes.com/pd/Vivere-Silver-2-Burner-Liquid-Propane-Gas-Grill/1001273336"
+              }
+            },
+            "text": "Vivere Silver 2-Burner Liquid Propane Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "QUyuICZXwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABXEJMriMmVPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVxCTK4jJlT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABXEJMriMmVPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVxCTK4jJpT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFcQkyuIyZU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVxCTK4jJlT8AAAAAAAAAAAAAAAAAAAAAVxCTK4jJlT8AAAAAAAAAAAAAAAAAAAAAVxCTK4jJlT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFcQkyuIyaU/AAAAAAAAAAAAAAAAAAAAAFcQkyuIyZU/bdR3Nuo7uz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABt1Hc26ju7PwAAAAAAAAAAAAAAAAAAAABBTK4gJlewPwAAAAAAAAAAVxCTK4jJpT9XEJMriMmVP1cQkyuIyZU/VxCTK4jJlT9BTK4gJlfAP1cQkyuIyZU/AAAAAAAAAABXEJMriMmlP1cQkyuIyaU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18964173,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b10d-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049441511.jpg",
+                "title": "Whirlpool 17.6-cu ft Top-Freezer Refrigerator (Fingerprint Resistant Metallic Steel)",
+                "description": "17.6-cu ft Top-Freezer Refrigerator (Fingerprint Resistant Metallic Steel)",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-17-6-cu-ft-Top-Freezer-Refrigerator-Fingerprint-Resistant-Metallic-Steel/1000209971",
+                "full_description": "There's always a place for fresh and frozen favorites inside our Whirlpool&#174; refrigerator. This 28\" top-freezer refrigerator offers 18 cu. ft. capacity with more convenient storage options thanks to the Flexi-Slide&#8482; bin that adjusts to make space for tall items. Bright LED interior lighting casts a more natural light on the contents of your black, white or stainless steel top-freezer refrigerator so food looks as it should. Plus, you can easily access ice by adding the Whirlpool&#174; EZ Connect icemaker kit.",
+                "brand": "Whirlpool"
+              }
+            },
+            "text": "Whirlpool 17.6-cu ft Top-Freezer Refrigerator (Fingerprint Resistant Metallic Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "GIZhGIZhuD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYYg/GIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYhmEYhmGYPxiGYRiGYYg/AAAAAAAAAAAAAAAAAAAAABiGYRiGYYg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYhmEYhmGIPxiGYRiGYYg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYZg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYZg/GIZhGIZhiD8YhmEYhmGIPwAAAAAAAAAAAAAAAAAAAAAYhmEYhmGIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIkSZIkSaI/AAAAAAAAAAAYhmEYhmGYPwAAAAAAAAAAnud5nud5vj8YhmEYhmGYPxiGYRiGYZg/GIZhGIZhiD+SJEmSJEmyPwAAAAAAAAAAAAAAAAAAAACe53me53muPwAAAAAAAAAAkiRJkiRJoj8YhmEYhmGoP5IkSZIkSaI/AAAAAAAAAAAYhmEYhmG4PxiGYRiGYZg/VVVVVVVVtT8YhmEYhmGIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18973069,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b0f1-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Get purposeful spaces that store more of your favorites.  You can fit more items on each shelf in this refrigerator with frameless glass shelves and keep fruits and vegetables in their ideal environment with humidity-controlled crispers. Plus, a 19 cu. Ft. capacity gives you room for it all.",
+                "description": "19.1-cu ft Top-Freezer Refrigerator (Fingerprint Resistant Metallic Steel)",
+                "title": "Whirlpool 19.1-cu ft Top-Freezer Refrigerator (Fingerprint Resistant Metallic Steel)",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-19-1-cu-ft-Top-Freezer-Refrigerator-Fingerprint-Resistant-Metallic-Steel/1000209973",
+                "brand": "Whirlpool",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049441535.jpg"
+              }
+            },
+            "text": "Whirlpool 19.1-cu ft Top-Freezer Refrigerator (Fingerprint Resistant Metallic Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "GIZhGIZhuD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYYg/GIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYhmEYhmGYPxiGYRiGYYg/AAAAAAAAAAAAAAAAAAAAABiGYRiGYZg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYhmEYhmGIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYZg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYZg/GIZhGIZhiD8YhmEYhmGIPwAAAAAAAAAAAAAAAAAAAAAYhmEYhmGIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIkSZIkSaI/AAAAAAAAAAAYhmEYhmGYPwAAAAAAAAAAnud5nud5vj8YhmEYhmGYPxiGYRiGYZg/GIZhGIZhiD+SJEmSJEmyPwAAAAAAAAAAAAAAAAAAAACe53me53muPwAAAAAAAAAAkiRJkiRJoj8YhmEYhmGoP5IkSZIkSaI/AAAAAAAAAAAYhmEYhmG4PxiGYRiGYZg/VVVVVVVVtT8YhmEYhmGIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1904762,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b265-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Weber Spirit S-315 Stainless Steel 3-Burner Liquid Propane Gas Grill",
+                "product_url": "https://www.lowes.com/pd/Weber-Spirit-S-315-Stainless-Steel-3-Burner-Liquid-Propane-Gas-Grill/1001460088",
+                "image_url": "https://mobileimages.lowes.com/product/converted/077924/077924129827.jpg",
+                "full_description": "The three-burner Spirit S-315 gas grill is ideal for entertaining a crowd. Use the convenient side tables for placing serving trays, while grilling tools hang from the tool hooks. Designed with sleek stainless steel and ample cooking area. The porcelain-enamel cast-iron cooking grates are durable, easy to clean, and retain heat for the perfect sear. It&#8217;s the perfect solution to any meal.",
+                "description": "Spirit S-315 Stainless Steel 3-Burner Liquid Propane Gas Grill",
+                "brand": "Weber"
+              }
+            },
+            "text": "Weber Spirit S-315 Stainless Steel 3-Burner Liquid Propane Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "8fDw8PDwwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6ePwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/AAAAAAAAAAAeHh4eHh6ePwAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6OPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4enj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAHh4eHh4erj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6OPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJeWlpaWlqY/Hh4eHh4ejj8AAAAAAAAAAB4eHh4eHo4/WlpaWlpauj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACXlpaWlpa2PwAAAAAAAAAAAAAAAAAAAAAeHh4eHh6uPwAAAAAAAAAAl5aWlpaWpj8eHh4eHh6OPx4eHh4eHp4/Hh4eHh4ejj+XlpaWlpa2P5eWlpaWlqY/l5aWlpaWpj8eHh4eHh6ePwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19261649,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b0d2-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "11.6-cu ft Top-Freezer Refrigerator (Fingerprint-resistant Stainless)",
+                "brand": "Whirlpool",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049523286.jpg",
+                "title": "Whirlpool 11.6-cu ft Top-Freezer Refrigerator (Fingerprint-resistant Stainless)",
+                "full_description": "If you&#8217;re searching for a small energy efficient refrigerator, our top-freezer refrigerator delivers the flexibility you need to make the most of every inch. Features like gallon door storage help free up shelf space. Digital temperature controls and an ice maker connection kit mean you&#8217;re ready for guests, even at the last minute.",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-11-6-cu-ft-Top-Freezer-Refrigerator-Fingerprint-resistant-Stainless/1002793018"
+              }
+            },
+            "text": "Whirlpool 11.6-cu ft Top-Freezer Refrigerator (Fingerprint-resistant Stainless)",
+            "embedding": {
+              "dense": {
+                "buffer": "4ybM72pxsz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADjJszvanGjP9kzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAANkzEJWO7Jk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADZMxCVjuyJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Jk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/2TMQlY7siT/ZMxCVjuyJPwAAAAAAAAAAAAAAAAAAAADZMxCVjuyJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOMmzO9qcaM/AAAAAAAAAADZMxCVjuyJPwAAAAAAAAAA2TMQlY7suT/ZMxCVjuyZP9kzEJWO7Jk/2TMQlY7siT/jJszvanGzPwAAAAAAAAAAAAAAAAAAAADjJszvanGjPwAAAAAAAAAA2TMQlY7sqT/ZMxCVjuypP+MmzO9qcaM/AAAAAAAAAABUOrJnICq9P9kzEJWO7Kk/4ybM72pxsz/ZMxCVjuyJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19335763,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b11b-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "20.5-cu ft Top-Freezer Refrigerator (Fingerprint Resistant Stainless Steel)",
+                "full_description": "Get purposeful spaces that store more of your favorites. Our refrigerator with an icemaker lets you forget about refilling ice trays. You can fit more items on each shelf in this refrigerator with frameless glass shelves and keep fruits and vegetables in their ideal environment with humidity-controlled crispers. Plus, a 20 Cu. Ft. capacity gives you room for it all.",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-20-5-cu-ft-Top-Freezer-Refrigerator-Fingerprint-Resistant-Stainless-Steel/1002986772",
+                "title": "Whirlpool 20.5-cu ft Top-Freezer Refrigerator (Fingerprint Resistant Stainless Steel)",
+                "brand": "Whirlpool",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049441542.jpg"
+              }
+            },
+            "text": "Whirlpool 20.5-cu ft Top-Freezer Refrigerator (Fingerprint Resistant Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "GBgYGBgYuD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGBgYGIg/GBgYGBgYiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYGBgYGBiYPxgYGBgYGIg/AAAAAAAAAAAYGBgYGBiIPwAAAAAAAAAAGBgYGBgYiD8AAAAAAAAAAAAAAAAAAAAAGBgYGBgYiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGBgYGJg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGBgYGJg/GBgYGBgYmD8YGBgYGBiIPwAAAAAAAAAAAAAAAAAAAAAYGBgYGBiIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABISEhISEqI/AAAAAAAAAAAYGBgYGBiIPwAAAAAAAAAAHh4eHh4evj8YGBgYGBiYPxgYGBgYGJg/GBgYGBgYiD8SEhISEhKyPwAAAAAAAAAAAAAAAAAAAAAYGBgYGBioPwAAAAAAAAAAGBgYGBgYqD8YGBgYGBioPxISEhISEqI/AAAAAAAAAAAYGBgYGBi4PxgYGBgYGKg/FRUVFRUVtT8YGBgYGBiIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGBgYGBgYiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19347288,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faaebe-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Broil King Imperial 490 4-Burner Stainless Steel Built-in Liquid Propane Gas Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/062703/062703560847.jpg",
+                "product_url": "https://www.lowes.com/pd/Broil-King-Imperial-490-4-Burner-Stainless-Steel-Built-in-Liquid-Propane-Gas-Grill/1000721488",
+                "description": "Imperial 490 4-Burner Stainless Steel Built-in Liquid Propane Gas Grill",
+                "full_description": "",
+                "brand": "Broil King"
+              }
+            },
+            "text": "Broil King Imperial 490 4-Burner Stainless Steel Built-in Liquid Propane Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "LFG7ErUrwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD6GJyPwfmYPwAAAAAAAAAAAAAAAAAAAAD6GJyPwfmIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPoYnI/B+Zg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD6GJyPwfmIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC7ErUrUbuiPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+hicj8H5mD8AAAAAAAAAAPoYnI/B+Yg/AAAAAAAAAAD6GJyPwfmIP/oYnI/B+Yg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+hicj8H5iD8AAAAAAAAAAAAAAAAAAAAA+hicj8H5mD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPoYnI/B+ag/AAAAAAAAAAAAAAAAAAAAAPoYnI/B+Yg/uxK1K1G7sj8AAAAAAAAAAPoYnI/B+Yg/AAAAAAAAAAAZnI/B+Ri8PwAAAAAAAAAAAAAAAAAAAADblahdidq1P/oYnI/B+Yg/OB+D8zE4rz/6GJyPwfmYP/oYnI/B+Zg/+hicj8H5iD+7ErUrUbuyP7sStStRu6I/uxK1K1G7oj+7ErUrUbuiPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19350618,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b039-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505645532.jpg",
+                "title": "Frigidaire 3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Silver Mist)",
+                "brand": "Frigidaire",
+                "full_description": "",
+                "description": "3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Silver Mist)",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-3-1-cu-ft-Freestanding-Mini-Fridge-Freezer-Compartment-Silver-Mist/1000940476"
+              }
+            },
+            "text": "Frigidaire 3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Silver Mist)",
+            "embedding": {
+              "dense": {
+                "buffer": "VDqyZyAqvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADZMxCVjuyJP9kzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/AAAAAAAAAADZMxCVjuyJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAANkzEJWO7Kk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2TMQlY7smT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOMmzO9qcaM/AAAAAAAAAADZMxCVjuyJP+MmzO9qcaM/VDqyZyAqvT/ZMxCVjuyJP+MmzO9qcaM/AAAAAAAAAABUOrJnICq9PwAAAAAAAAAAAAAAAAAAAADZMxCVjuyJP9kzEJWO7Jk/2TMQlY7sqT/ZMxCVjuyJP9kzEJWO7Ik/AAAAAAAAAADZMxCVjuy5P9kzEJWO7Jk/aCAqHdkzsD/ZMxCVjuyJP9kzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19390929,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b042-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Frigidaire-4-5-cu-ft-Freestanding-Mini-Fridge-Freezer-Compartment-Silver-Mist/1001354724",
+                "description": "4.5-cu ft Freestanding Mini Fridge Freezer Compartment (Silver Mist)",
+                "full_description": "",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505645655.jpg",
+                "brand": "Frigidaire",
+                "title": "Frigidaire 4.5-cu ft Freestanding Mini Fridge Freezer Compartment (Silver Mist)"
+              }
+            },
+            "text": "Frigidaire 4.5-cu ft Freestanding Mini Fridge Freezer Compartment (Silver Mist)",
+            "embedding": {
+              "dense": {
+                "buffer": "VDqyZyAqvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADZMxCVjuyJP9kzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAANkzEJWO7Kk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2TMQlY7smT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOMmzO9qcaM/AAAAAAAAAADZMxCVjuyJP+MmzO9qcaM/VDqyZyAqvT/ZMxCVjuyJP+MmzO9qcaM/AAAAAAAAAABUOrJnICq9PwAAAAAAAAAAAAAAAAAAAADZMxCVjuyJP9kzEJWO7Jk/2TMQlY7sqT/ZMxCVjuyJP9kzEJWO7Ik/AAAAAAAAAADZMxCVjuy5P9kzEJWO7Jk/aCAqHdkzsD/ZMxCVjuyJP9kzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19390929,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b1a5-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "24.5-cu ft Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049436012.jpg",
+                "title": "Whirlpool 24.5-cu ft Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel)",
+                "brand": "Whirlpool",
+                "full_description": "Purposefully-designed spaces help you maximize your storage in this side-by-side refrigerator. Get the room you need, even if it's just an inch, with the infinity slide shelf. Easily store pizzas upright with the pizza pocket in the side-by-side refrigerator. The deli drawer refrigerator gives you plenty of space to store meat and cheese, too.",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-24-5-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-Fingerprint-Resistant-Stainless-Steel/1000379179"
+              }
+            },
+            "text": "Whirlpool 24.5-cu ft Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "uetni5Xhuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPvZYmX4RoQ/+9liZfhGhD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD4RhSYdGqeP/vZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+9liZfhGhD8AAAAAAAAAAPvZYmX4RoQ/+9liZfhGhD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPvZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAPvZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+9liZfhGhD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPvZYmX4RpQ/+9liZfhGpD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD72WJl+EaEPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPvZYmX4RqQ/+9liZfhGhD/72WJl+EaUP/vZYmX4RpQ/uetni5Xhuz/72WJl+EaUP/vZYmX4RpQ/+9liZfhGlD86NQ9y18+2PwAAAAAAAAAA+9liZfhGhD/72WJl+EakPwAAAAAAAAAA+9liZfhGpD/4RhSYdGqeP/vZYmX4RpQ/AAAAAAAAAAC8frZYGb6xP/vZYmX4RqQ/+9liZfhGtD/72WJl+EaEPwAAAAAAAAAA+9liZfhGhD8AAAAAAAAAAPvZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19457957,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b19e-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "24.5-cu ft Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel)",
+                "full_description": "Fit and find it all in this side-by-side refrigerator with purposefully-designed storage spaces for items you use most. An in-door can caddy frees up shelf space while frameless glass shelves lets you store more items on each shelf for loading flexibility. The deli drawer gives you plenty of space to store meat and cheese, too.&#65279;",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-24-5-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-Fingerprint-Resistant-Stainless-Steel/1000308681",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049435879.jpg",
+                "brand": "Whirlpool",
+                "title": "Whirlpool 24.5-cu ft Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel)"
+              }
+            },
+            "text": "Whirlpool 24.5-cu ft Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "uetni5Xhuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPvZYmX4RoQ/+9liZfhGhD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD4RhSYdGqeP/vZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+9liZfhGhD8AAAAAAAAAAPvZYmX4RoQ/+9liZfhGhD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPvZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAPvZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+9liZfhGhD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPvZYmX4RpQ/+9liZfhGpD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD72WJl+EaEPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPvZYmX4RqQ/+9liZfhGhD/72WJl+EaUP/vZYmX4RpQ/uetni5Xhuz/72WJl+EaUP/vZYmX4RpQ/+9liZfhGlD86NQ9y18+2PwAAAAAAAAAA+9liZfhGhD/72WJl+EakPwAAAAAAAAAA+9liZfhGpD/4RhSYdGqeP/vZYmX4RpQ/AAAAAAAAAAC8frZYGb6xP/vZYmX4RqQ/+9liZfhGtD/72WJl+EaEPwAAAAAAAAAA+9liZfhGhD8AAAAAAAAAAPvZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19457957,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b18e-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049486512.jpg",
+                "description": "24.6-cu ft Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel)",
+                "full_description": "Purposefully-designed spaces help you maximize your storage so you can fit and find it all in this side-by-side refrigerator. Adjustable gallon door bins give you increased loading flexibility. The refrigerator with ice and water dispenser lets you get ice and water without opening the door while LED lights also keep food looking as good as it tastes.",
+                "brand": "Whirlpool",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-24-6-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-Fingerprint-Resistant-Stainless-Steel/1000422565",
+                "title": "Whirlpool 24.6-cu ft Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel)"
+              }
+            },
+            "text": "Whirlpool 24.6-cu ft Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "uetni5Xhuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPvZYmX4RoQ/+9liZfhGhD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD4RhSYdGqeP/vZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+9liZfhGhD8AAAAAAAAAAPvZYmX4RoQ/AAAAAAAAAAD72WJl+EaEPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPvZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAPvZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+9liZfhGhD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPvZYmX4RpQ/+9liZfhGpD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD72WJl+EaEPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPvZYmX4RqQ/+9liZfhGhD/72WJl+EaUP/vZYmX4RpQ/uetni5Xhuz/72WJl+EaUP/vZYmX4RpQ/+9liZfhGlD86NQ9y18+2PwAAAAAAAAAA+9liZfhGhD/72WJl+EakPwAAAAAAAAAA+9liZfhGpD/4RhSYdGqeP/vZYmX4RpQ/AAAAAAAAAAC8frZYGb6xP/vZYmX4RqQ/+9liZfhGtD/72WJl+EaEPwAAAAAAAAAA+9liZfhGhD8AAAAAAAAAAPvZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19457957,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b18f-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049435039.jpg",
+                "description": "21.4-cu ft Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel)",
+                "title": "Whirlpool 21.4-cu ft Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel)",
+                "full_description": "Get purposefully-designed storage spaces for items you use most in this side-by-side refrigerator. An in-door can caddy frees up shelf space while frameless glass shelves in the refrigerator with ice and water dispenser lets you store more items on each shelf for loading flexibility. The deli drawer refrigerator gives you plenty of space to store meat and cheese, too.",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-21-4-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-Fingerprint-Resistant-Stainless-Steel/1000332339",
+                "brand": "Whirlpool"
+              }
+            },
+            "text": "Whirlpool 21.4-cu ft Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "uetni5Xhuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPvZYmX4RoQ/+9liZfhGhD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD4RhSYdGqeP/vZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAPvZYmX4RoQ/+9liZfhGhD8AAAAAAAAAAPvZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPvZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAPvZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+9liZfhGhD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPvZYmX4RpQ/+9liZfhGpD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD72WJl+EaEPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPvZYmX4RqQ/+9liZfhGhD/72WJl+EaUP/vZYmX4RpQ/uetni5Xhuz/72WJl+EaUP/vZYmX4RpQ/+9liZfhGlD86NQ9y18+2PwAAAAAAAAAA+9liZfhGhD/72WJl+EakPwAAAAAAAAAA+9liZfhGpD/4RhSYdGqeP/vZYmX4RpQ/AAAAAAAAAAC8frZYGb6xP/vZYmX4RqQ/+9liZfhGtD/72WJl+EaEPwAAAAAAAAAA+9liZfhGhD8AAAAAAAAAAPvZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19457957,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b190-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Store more of your family's favorites with purposeful storage spaces. This extra-large refrigerator features In-Door-Ice&#174; storage to give you an extra full shelf in the freezer. Get convenient access to filtered water with the exterior ice and water dispenser with EveryDrop&#8482; filtration. Plus, our side-by-side refrigerator's Accu-Chill&#8482; temperature management system keeps family favorites in their ideal environment with quick cooling.",
+                "description": "28.4-cu ft Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049450469.jpg",
+                "brand": "Whirlpool",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-28-4-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-Fingerprint-Resistant-Stainless-Steel/1000236845",
+                "title": "Whirlpool 28.4-cu ft Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel)"
+              }
+            },
+            "text": "Whirlpool 28.4-cu ft Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "uetni5Xhuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPvZYmX4RoQ/+9liZfhGhD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD4RhSYdGqeP/vZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+9liZfhGhD8AAAAAAAAAAPvZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+9liZfhGhD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPvZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAPvZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+9liZfhGhD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPvZYmX4RpQ/+9liZfhGpD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD72WJl+EaEPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPvZYmX4RqQ/+9liZfhGhD/72WJl+EaUP/vZYmX4RpQ/uetni5Xhuz/72WJl+EaUP/vZYmX4RpQ/+9liZfhGlD86NQ9y18+2PwAAAAAAAAAA+9liZfhGhD/72WJl+EakPwAAAAAAAAAA+9liZfhGpD/4RhSYdGqeP/vZYmX4RpQ/AAAAAAAAAAC8frZYGb6xP/vZYmX4RqQ/+9liZfhGtD/72WJl+EaEPwAAAAAAAAAA+9liZfhGhD8AAAAAAAAAAPvZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19457957,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b127-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "20.4-cu ft Top-Freezer Refrigerator (Stainless Steel)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505644634.jpg",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-20-4-cu-ft-Top-Freezer-Refrigerator-Stainless-Steel/1000484145",
+                "full_description": "",
+                "brand": "Frigidaire",
+                "title": "Frigidaire 20.4-cu ft Top-Freezer Refrigerator (Stainless Steel)"
+              }
+            },
+            "text": "Frigidaire 20.4-cu ft Top-Freezer Refrigerator (Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAuD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJA/AAAAAAAAkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAJA/AAAAAAAAAAAAAAAAAACQPwAAAAAAAAAAAAAAAAAAkD8AAAAAAAAAAAAAAAAAAJA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJA/AAAAAAAAoD8AAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKg/AAAAAAAAAAAAAAAAAACQPwAAAAAAAJA/AAAAAAAAwj8AAAAAAACgPwAAAAAAAKA/AAAAAAAAAAAAAAAAAAC0PwAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAkD8AAAAAAACgPwAAAAAAAJA/AAAAAAAAAAAAAAAAAAC8PwAAAAAAAKA/AAAAAAAAsD8AAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19473875,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faaebf-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Broil King",
+                "title": "Broil King Imperial XLS 6-Burner Stainless Steel Built-in Liquid Propane Gas Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/062703/062703570846.jpg",
+                "product_url": "https://www.lowes.com/pd/Broil-King-Imperial-XLS-6-Burner-Stainless-Steel-Built-in-Liquid-Propane-Gas-Grill/1000721448",
+                "description": "Imperial XLS 6-Burner Stainless Steel Built-in Liquid Propane Gas Grill",
+                "full_description": ""
+              }
+            },
+            "text": "Broil King Imperial XLS 6-Burner Stainless Steel Built-in Liquid Propane Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "LFG7ErUrwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD6GJyPwfmYPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD6GJyPwfmIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC7ErUrUbuiPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+hicj8H5mD8AAAAAAAAAAPoYnI/B+Yg/AAAAAAAAAAD6GJyPwfmIP/oYnI/B+Zg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+hicj8H5iD8AAAAAAAAAAAAAAAAAAAAAuxK1K1G7oj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPoYnI/B+Yg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPoYnI/B+ag/AAAAAAAAAAAAAAAAAAAAAPoYnI/B+Yg/uxK1K1G7sj8AAAAAAAAAAPoYnI/B+Yg/AAAAAAAAAAAZnI/B+Ri8PwAAAAAAAAAAAAAAAAAAAADblahdidq1P/oYnI/B+Yg/OB+D8zE4rz/6GJyPwfmYP/oYnI/B+Zg/+hicj8H5iD+7ErUrUbuyP7sStStRu6I/uxK1K1G7oj+7ErUrUbuiPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19503725,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b278-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Cuisinart Silver 1-Burner Liquid Propane Gas Grill",
+                "product_url": "https://www.lowes.com/pd/Cuisinart-Silver-1-Burner-Liquid-Propane-Gas-Grill/1000449647",
+                "description": "Silver 1-Burner Liquid Propane Gas Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/817096/817096014046.jpg",
+                "brand": "Cuisinart",
+                "full_description": "The Professional Portable Gas Grill delivers the performance of a full sized grill with the convenience of portability. This grill fires up with 10,000 BTUs of meat searing heat across 176 square inches of cooking space. With all of that power comes a lot of control as well. The one easily controllable burner allows you to sear meats at high temperatures and then lower the temperature to allow food to cook through. And the built in thermometer monitors the grill temp for you. The stainless finish will look as good at your home as it will on the road. And with an inner/protective liner in the lid, the beautiful steel look will look better and last longer."
+              }
+            },
+            "text": "Cuisinart Silver 1-Burner Liquid Propane Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "uB6F61G4vj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB7FK5H4XqUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHsUrkfhepQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB7FK5H4XqUP3sUrkfhepQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAexSuR+F6pD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHsUrkfhepQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAexSuR+F6lD8AAAAAAAAAAAAAAAAAAAAAexSuR+F6lD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALgehetRuK4/AAAAAAAAAAAAAAAAAAAAAHsUrkfhepQ/uB6F61G4rj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4HoXrUbi+PwAAAAAAAAAAAAAAAAAAAAC4HoXrUbiuPwAAAAAAAAAAuB6F61G4rj97FK5H4XqUP3sUrkfhepQ/exSuR+F6lD+4HoXrUbi+P3sUrkfheqQ/exSuR+F6lD+4HoXrUbiuP3sUrkfhepQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19618586,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b1b6-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Store more of your family's favorites with purposeful storage spaces. This extra-large refrigerator features In-Door-Ice&#174; storage to give you an extra full shelf in the freezer. Get convenient access to filtered water with the exterior ice and water dispenser with EveryDrop&#8482; filtration. Plus, our side-by-side refrigerator's Accu-Chill&#8482; temperature management system keeps family favorites in their ideal environment with quick cooling.",
+                "brand": "Whirlpool",
+                "title": "Whirlpool 28.4-cu ft Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Black Stainless)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049450476.jpg",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-28-4-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-Fingerprint-Resistant-Black-Stainless/1000236847",
+                "description": "28.4-cu ft Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Black Stainless)"
+              }
+            },
+            "text": "Whirlpool 28.4-cu ft Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Black Stainless)",
+            "embedding": {
+              "dense": {
+                "buffer": "uetni5Xhuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPvZYmX4RoQ/+9liZfhGhD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD4RhSYdGqeP/vZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+9liZfhGhD8AAAAAAAAAAPvZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+9liZfhGhD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD72WJl+EaEPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPvZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAPvZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+9liZfhGhD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPvZYmX4RpQ/+EYUmHRqnj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD72WJl+EaEPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHqQu362WKk/+9liZfhGhD/4RhSYdGqeP/vZYmX4RpQ/OjUPctfPtj/72WJl+EaUP/vZYmX4RpQ/+9liZfhGlD86NQ9y18+2PwAAAAAAAAAA+9liZfhGlD/72WJl+EakPwAAAAAAAAAA+9liZfhGpD/4RhSYdGqeP/vZYmX4RpQ/AAAAAAAAAAC8frZYGb6xP/vZYmX4RqQ/vH62WBm+sT/72WJl+EaEPwAAAAAAAAAA+9liZfhGhD8AAAAAAAAAAPvZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19760683,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          }
+        ],
+        "tags": {},
+        "text": "weber grill spirit",
+        "embedding": {
+          "dense": {
+            "buffer": "HMdxHMdxvD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHMdxHMdxrD8AAAAAAAAAAAAAAAAAAAAAHMdxHMdxvD8AAAAAAAAAABzHcRzHcaw/AAAAAAAAAABVVVVVVVXFPwAAAAAAAAAAAAAAAAAAAAAcx3Ecx3G8PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABzHcRzHcaw/AAAAAAAAAABVVVVVVVXFPxzHcRzHcaw/HMdxHMdxrD8AAAAAAAAAAAAAAAAAAAAAHMdxHMdxrD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "shape": [
+              96
+            ],
+            "dtype": "<f8",
+            "quantization": 0,
+            "maxVal": 0,
+            "minVal": 0,
+            "scale": 0,
+            "originalDtype": ""
+          }
+        },
+        "granularity": 0,
+        "adjacency": 0,
+        "parentId": "",
+        "chunks": [],
+        "weight": 0,
+        "uri": "",
+        "mimeType": "",
+        "location": [],
+        "offset": 0,
+        "scores": {},
+        "modality": "",
+        "evaluations": {}
+      }
+    ],
+    "groundtruths": []
+  }
+}

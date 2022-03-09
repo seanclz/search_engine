@@ -1,0 +1,1023 @@
+{
+  "requestId": "29ef1097-1696-4937-b022-9f83785b46b1",
+  "data": {
+    "docs": [
+      {
+        "id": "73fc8324-44c4-11ec-a081-d3da2e768b04",
+        "matches": [
+          {
+            "id": "0c0a37e5-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691828617.jpg",
+                "title": "GE 18.2-cu ft Top-Freezer Refrigerator (White)",
+                "description": "18.2-cu ft Top-Freezer Refrigerator (White)",
+                "full_description": "At GE Appliances, we bring good things to life. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home.",
+                "product_url": "https://www.lowes.com/pd/GE-18-2-cu-ft-Top-Freezer-Refrigerator-White/1000349083",
+                "brand": "GE"
+              }
+            },
+            "text": "GE 18.2-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "velNb3rTuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKWP2QhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAC1nIQhaywD9kIQtZyEKmP2QhC1nIQpY/ZCELWchClj9kIQtZyEKmPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAC96U1vetO7PwAAAAAAAAAAC1nIQhaysD9kIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1471532,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3823-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "GE",
+                "title": "GE 17.5-cu ft Top-Freezer Refrigerator (White)",
+                "full_description": "At GE Appliances, we bring good things to life. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home.",
+                "product_url": "https://www.lowes.com/pd/GE-17-5-cu-ft-Top-Freezer-Refrigerator-White/1001353662",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691847403.jpg",
+                "description": "17.5-cu ft Top-Freezer Refrigerator (White)"
+              }
+            },
+            "text": "GE 17.5-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "velNb3rTuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAGQhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKWP2QhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAC1nIQhaywD9kIQtZyEKmP2QhC1nIQpY/ZCELWchClj9kIQtZyEKmPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAC96U1vetO7PwAAAAAAAAAAC1nIQhaysD9kIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1471532,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a37f9-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "GE 17.5-cu ft Top-Freezer Refrigerator (White)",
+                "description": "17.5-cu ft Top-Freezer Refrigerator (White)",
+                "brand": "GE",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691847144.jpg",
+                "full_description": "At GE Appliances, we bring good things to life. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home.",
+                "product_url": "https://www.lowes.com/pd/GE-17-5-cu-ft-Top-Freezer-Refrigerator-White/1001160714"
+              }
+            },
+            "text": "GE 17.5-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "velNb3rTuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAGQhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKWP2QhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAC1nIQhaywD9kIQtZyEKmP2QhC1nIQpY/ZCELWchClj9kIQtZyEKmPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAC96U1vetO7PwAAAAAAAAAAC1nIQhaysD9kIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1471532,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3784-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/GE-17-5-cu-ft-Top-Freezer-Refrigerator-White/1001839504",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691848547.jpg",
+                "title": "GE 17.5-cu ft Top-Freezer Refrigerator (White)",
+                "brand": "GE",
+                "description": "17.5-cu ft Top-Freezer Refrigerator (White)",
+                "full_description": "At GE Appliances, we bring good things to life. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home."
+              }
+            },
+            "text": "GE 17.5-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "velNb3rTuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAGQhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKWP2QhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAC1nIQhaywD9kIQtZyEKmP2QhC1nIQpY/ZCELWchClj9kIQtZyEKmPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAC96U1vetO7PwAAAAAAAAAAC1nIQhaysD9kIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1471532,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a37fb-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "GE 15.6-cu ft Top-Freezer Refrigerator (White)",
+                "brand": "GE",
+                "description": "15.6-cu ft Top-Freezer Refrigerator (White)",
+                "product_url": "https://www.lowes.com/pd/GE-15-6-cu-ft-Top-Freezer-Refrigerator-White/1001160676",
+                "full_description": "At GE Appliances, we bring good things to life. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691846994.jpg"
+              }
+            },
+            "text": "GE 15.6-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "velNb3rTuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj9kIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKWP2QhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAC1nIQhaywD9kIQtZyEKmP2QhC1nIQpY/ZCELWchClj9kIQtZyEKmPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAC96U1vetO7PwAAAAAAAAAAC1nIQhaysD9kIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1471532,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3825-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/GE-17-5-cu-ft-Top-Freezer-Refrigerator-Slate/1001353914",
+                "description": "17.5-cu ft Top-Freezer Refrigerator (Slate)",
+                "brand": "GE",
+                "title": "GE 17.5-cu ft Top-Freezer Refrigerator (Slate)",
+                "full_description": "At GE Appliances, we bring good things to life. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691847533.jpg"
+              }
+            },
+            "text": "GE 17.5-cu ft Top-Freezer Refrigerator (Slate)",
+            "embedding": {
+              "dense": {
+                "buffer": "velNb3rTuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAGQhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKWP2QhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/ZCELWchClj9kIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQqY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAC1nIQhaywD9kIQtZyEKmP2QhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAC96U1vetO7PwAAAAAAAAAAC1nIQhaysD9kIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1471532,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a380a-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "16.6-cu ft Top-Freezer Refrigerator (White)",
+                "full_description": "At GE Appliances, we bring good things to life. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home.",
+                "brand": "GE",
+                "title": "GE 16.6-cu ft Top-Freezer Refrigerator (White)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691847076.jpg",
+                "product_url": "https://www.lowes.com/pd/GE-16-6-cu-ft-Top-Freezer-Refrigerator-White/1001160752"
+              }
+            },
+            "text": "GE 16.6-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "velNb3rTuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKWP2QhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAC1nIQhaywD9kIQtZyEKmP2QhC1nIQpY/ZCELWchClj9kIQtZyEKmPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAC96U1vetO7PwAAAAAAAAAAC1nIQhaysD9kIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15033045,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3807-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "16.6-cu ft Top-Freezer Refrigerator (White)",
+                "title": "GE 16.6-cu ft Top-Freezer Refrigerator (White)",
+                "full_description": "At GE Appliances, we bring good things to life. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home.",
+                "brand": "GE",
+                "product_url": "https://www.lowes.com/pd/GE-16-6-cu-ft-Top-Freezer-Refrigerator-White/1001161284",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691847021.jpg"
+              }
+            },
+            "text": "GE 16.6-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "velNb3rTuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKWP2QhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAC1nIQhaywD9kIQtZyEKmP2QhC1nIQpY/ZCELWchClj9kIQtZyEKmPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAC96U1vetO7PwAAAAAAAAAAC1nIQhaysD9kIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15033045,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a37fe-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Hotpoint 15.6-cu ft Top-Freezer Refrigerator (White)",
+                "description": "15.6-cu ft Top-Freezer Refrigerator (White)",
+                "brand": "Hotpoint",
+                "full_description": "Hotpoint combines sensible solutions with unbelievable durability to complement any kitchen and keep your family going for years to come. Our appliances have been created to affordably meet the needs of busy lives, and to stand up to any challenge. As a century-old brand, Hotpoint prides itself on value and never compromising on reliability.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691846901.jpg",
+                "product_url": "https://www.lowes.com/pd/Hotpoint-15-6-cu-ft-Top-Freezer-Refrigerator-White/1001160980"
+              }
+            },
+            "text": "Hotpoint 15.6-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "2Ymd2ImduD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/FDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GjPxQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAntiJndiJvT8UO7ETO7GjPxQ7sRM7sZM/FDuxEzuxkz+e2Imd2ImtPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8UO7ETO7GzPxQ7sRM7saM/AAAAAAAAAADZiZ3YiZ24PwAAAAAAAAAA2Ymd2ImduD8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15394227,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a377d-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Hotpoint combines sensible solutions with unbelievable durability to complement any kitchen and keep your family going for years to come. Our appliances have been created to affordably meet the needs of busy lives, and to stand up to any challenge. As a century-old brand, Hotpoint prides itself on value and never compromising on reliability.",
+                "product_url": "https://www.lowes.com/pd/Hotpoint-15-6-cu-ft-Top-Freezer-Refrigerator-White/1001079810",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691846932.jpg",
+                "brand": "Hotpoint",
+                "description": "15.6-cu ft Top-Freezer Refrigerator (White)",
+                "title": "Hotpoint 15.6-cu ft Top-Freezer Refrigerator (White)"
+              }
+            },
+            "text": "Hotpoint 15.6-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "2Ymd2ImduD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/FDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GjPxQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAntiJndiJvT8UO7ETO7GjPxQ7sRM7sZM/FDuxEzuxkz+e2Imd2ImtPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8UO7ETO7GzPxQ7sRM7saM/AAAAAAAAAADZiZ3YiZ24PwAAAAAAAAAA2Ymd2ImduD8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15394227,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a37fc-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691847212.jpg",
+                "brand": "Hotpoint",
+                "title": "Hotpoint 17.5-cu ft Top-Freezer Refrigerator (White)",
+                "description": "17.5-cu ft Top-Freezer Refrigerator (White)",
+                "product_url": "https://www.lowes.com/pd/Hotpoint-17-5-cu-ft-Top-Freezer-Refrigerator-White/1001160528",
+                "full_description": "Hotpoint combines sensible solutions with unbelievable durability to complement any kitchen and keep your family going for years to come. Our appliances have been created to affordably meet the needs of busy lives, and to stand up to any challenge. As a century-old brand, Hotpoint prides itself on value and never compromising on reliability."
+              }
+            },
+            "text": "Hotpoint 17.5-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "2Ymd2ImduD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/FDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GjPxQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAntiJndiJvT8UO7ETO7GjPxQ7sRM7sZM/FDuxEzuxkz+e2Imd2ImtPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8UO7ETO7GzPxQ7sRM7saM/AAAAAAAAAADZiZ3YiZ24PwAAAAAAAAAA2Ymd2ImduD8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15394227,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a37e1-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "",
+                "product_url": "https://www.lowes.com/pd/GE-20-8-cu-ft-Top-Freezer-Refrigerator-White/1000214165",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691822417.jpg",
+                "brand": "GE",
+                "title": "GE 20.8-cu ft Top-Freezer Refrigerator (White)",
+                "description": "20.8-cu ft Top-Freezer Refrigerator (White)"
+              }
+            },
+            "text": "GE 20.8-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "velNb3rTuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKWP2QhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAC1nIQhaywD9kIQtZyEKmP2QhC1nIQpY/ZCELWchClj9kIQtZyEKmPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAC96U1vetO7PwAAAAAAAAAAC1nIQhaysD9kIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15436314,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a37e6-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "GE 18.2-cu ft Top-Freezer Refrigerator (Black)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691828969.jpg",
+                "brand": "GE",
+                "full_description": "At GE Appliances, we bring good things to life. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home.",
+                "description": "18.2-cu ft Top-Freezer Refrigerator (Black)",
+                "product_url": "https://www.lowes.com/pd/GE-18-2-cu-ft-Top-Freezer-Refrigerator-Black/1000349085"
+              }
+            },
+            "text": "GE 18.2-cu ft Top-Freezer Refrigerator (Black)",
+            "embedding": {
+              "dense": {
+                "buffer": "velNb3rTuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAABkIQtZyEKWP2QhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQqY/AAAAAAAAAABkIQtZyEKmPwAAAAAAAAAAvelNb3rTuz9kIQtZyEKmP2QhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAZCELWchClj9kIQtZyEKWPwAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAC96U1vetO7PwAAAAAAAAAAZCELWchCpj9kIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15709436,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3829-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/GE-17-5-cu-ft-Top-Freezer-Refrigerator-Black/1001353704",
+                "title": "GE 17.5-cu ft Top-Freezer Refrigerator (Black)",
+                "description": "17.5-cu ft Top-Freezer Refrigerator (Black)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691847410.jpg",
+                "brand": "GE",
+                "full_description": "At GE Appliances, we bring good things to life. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home."
+              }
+            },
+            "text": "GE 17.5-cu ft Top-Freezer Refrigerator (Black)",
+            "embedding": {
+              "dense": {
+                "buffer": "velNb3rTuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAGQhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAABkIQtZyEKWP2QhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQqY/AAAAAAAAAABkIQtZyEKmPwAAAAAAAAAAvelNb3rTuz9kIQtZyEKmP2QhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAZCELWchClj9kIQtZyEKWPwAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAC96U1vetO7PwAAAAAAAAAAZCELWchCpj9kIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15709436,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3828-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "GE",
+                "product_url": "https://www.lowes.com/pd/GE-17-5-cu-ft-Top-Freezer-Refrigerator-Black/1001353956",
+                "description": "17.5-cu ft Top-Freezer Refrigerator (Black)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691848530.jpg",
+                "title": "GE 17.5-cu ft Top-Freezer Refrigerator (Black)",
+                "full_description": "At GE Appliances, we bring good things to life. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home."
+              }
+            },
+            "text": "GE 17.5-cu ft Top-Freezer Refrigerator (Black)",
+            "embedding": {
+              "dense": {
+                "buffer": "velNb3rTuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAGQhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAABkIQtZyEKWP2QhC1nIQpY/ZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQqY/AAAAAAAAAABkIQtZyEKmPwAAAAAAAAAAvelNb3rTuz9kIQtZyEKmP2QhC1nIQpY/AAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAZCELWchClj9kIQtZyEKWPwAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQpY/AAAAAAAAAAC96U1vetO7PwAAAAAAAAAAZCELWchCpj9kIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15709436,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a380b-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Hotpoint-17-5-cu-ft-Top-Freezer-Refrigerator-Black/1001160828",
+                "description": "17.5-cu ft Top-Freezer Refrigerator (Black)",
+                "title": "Hotpoint 17.5-cu ft Top-Freezer Refrigerator (Black)",
+                "full_description": "Hotpoint combines sensible solutions with unbelievable durability to complement any kitchen and keep your family going for years to come. Our appliances have been created to affordably meet the needs of busy lives, and to stand up to any challenge. As a century-old brand, Hotpoint prides itself on value and never compromising on reliability.",
+                "brand": "Hotpoint",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691847229.jpg"
+              }
+            },
+            "text": "Hotpoint 17.5-cu ft Top-Freezer Refrigerator (Black)",
+            "embedding": {
+              "dense": {
+                "buffer": "2Ymd2ImduD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/FDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GjPxQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7saM/AAAAAAAAAAAUO7ETO7GjPwAAAAAAAAAA2Ymd2ImduD8UO7ETO7GjPxQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GjPwAAAAAAAAAAFDuxEzuxkz8UO7ETO7GTPwAAAAAAAAAAFDuxEzuxkz8UO7ETO7GzPxQ7sRM7saM/AAAAAAAAAADZiZ3YiZ24PwAAAAAAAAAAFDuxEzuxsz8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1572696,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3820-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Hotpoint",
+                "description": "15.6-cu ft Top-Freezer Refrigerator (Black)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691846956.jpg",
+                "product_url": "https://www.lowes.com/pd/Hotpoint-15-6-cu-ft-Top-Freezer-Refrigerator-Black/1001337566",
+                "title": "Hotpoint 15.6-cu ft Top-Freezer Refrigerator (Black)",
+                "full_description": "Hotpoint combines sensible solutions with unbelievable durability to complement any kitchen and keep your family going for years to come. Our appliances have been created to affordably meet the needs of busy lives, and to stand up to any challenge. As a century-old brand, Hotpoint prides itself on value and never compromising on reliability."
+              }
+            },
+            "text": "Hotpoint 15.6-cu ft Top-Freezer Refrigerator (Black)",
+            "embedding": {
+              "dense": {
+                "buffer": "2Ymd2ImduD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/FDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GjPxQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7saM/AAAAAAAAAAAUO7ETO7GjPwAAAAAAAAAA2Ymd2ImduD8UO7ETO7GjPxQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GjPwAAAAAAAAAAFDuxEzuxkz8UO7ETO7GTPwAAAAAAAAAAFDuxEzuxkz8UO7ETO7GzPxQ7sRM7saM/AAAAAAAAAADZiZ3YiZ24PwAAAAAAAAAAFDuxEzuxsz8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1572696,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3827-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "At GE Appliances, we bring good things to life. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home.",
+                "product_url": "https://www.lowes.com/pd/GE-17-5-cu-ft-Top-Freezer-Refrigerator-Stainless-Steel/1001353872",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691847526.jpg",
+                "brand": "GE",
+                "title": "GE 17.5-cu ft Top-Freezer Refrigerator (Stainless Steel)",
+                "description": "17.5-cu ft Top-Freezer Refrigerator (Stainless Steel)"
+              }
+            },
+            "text": "GE 17.5-cu ft Top-Freezer Refrigerator (Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "27Zt27Ztuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIkSZIkSZI/kiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACSJEmSJEmiP5IkSZIkSZI/AAAAAAAAAAAAAAAAAAAAAJIkSZIkSZI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAJIkSZIkSZI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACSJEmSJEmSP5IkSZIkSZI/kiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIkSZIkSZI/kiRJkiRJoj+SJEmSJEmSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIkSZIkSaI/AAAAAAAAAACSJEmSJEmSPwAAAAAAAAAAkiRJkiRJwj+SJEmSJEmiP5IkSZIkSZI/AAAAAAAAAACSJEmSJEmiPwAAAAAAAAAAAAAAAAAAAACSJEmSJEmiPwAAAAAAAAAAkiRJkiRJkj+SJEmSJEmiP5IkSZIkSZI/AAAAAAAAAAC3bdu2bdu2P5IkSZIkSaI/kiRJkiRJsj+SJEmSJEmSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15883826,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a37e4-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "18.2-cu ft Top-Freezer Refrigerator (Stainless Steel)",
+                "product_url": "https://www.lowes.com/pd/GE-18-2-cu-ft-Top-Freezer-Refrigerator-Stainless-Steel/1000349087",
+                "title": "GE 18.2-cu ft Top-Freezer Refrigerator (Stainless Steel)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691829027.jpg",
+                "brand": "GE",
+                "full_description": "At GE Appliances, we bring good things to life. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home."
+              }
+            },
+            "text": "GE 18.2-cu ft Top-Freezer Refrigerator (Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "27Zt27Ztuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIkSZIkSZI/kiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACSJEmSJEmiP5IkSZIkSZI/AAAAAAAAAAAAAAAAAAAAAJIkSZIkSZI/kiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACSJEmSJEmSP5IkSZIkSZI/kiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIkSZIkSZI/kiRJkiRJoj+SJEmSJEmSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIkSZIkSaI/AAAAAAAAAACSJEmSJEmSPwAAAAAAAAAAkiRJkiRJwj+SJEmSJEmiP5IkSZIkSZI/AAAAAAAAAACSJEmSJEmiPwAAAAAAAAAAAAAAAAAAAACSJEmSJEmiPwAAAAAAAAAAkiRJkiRJkj+SJEmSJEmiP5IkSZIkSZI/AAAAAAAAAAC3bdu2bdu2P5IkSZIkSaI/kiRJkiRJsj+SJEmSJEmSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15883826,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3824-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/GE-17-5-cu-ft-Top-Freezer-Refrigerator-Stainless-Steel/1001353746",
+                "description": "17.5-cu ft Top-Freezer Refrigerator (Stainless Steel)",
+                "full_description": "At GE Appliances, we bring good things to life. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home.",
+                "brand": "GE",
+                "title": "GE 17.5-cu ft Top-Freezer Refrigerator (Stainless Steel)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691847427.jpg"
+              }
+            },
+            "text": "GE 17.5-cu ft Top-Freezer Refrigerator (Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "27Zt27Ztuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIkSZIkSZI/kiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACSJEmSJEmiP5IkSZIkSZI/AAAAAAAAAAAAAAAAAAAAAJIkSZIkSZI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAJIkSZIkSZI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACSJEmSJEmSP5IkSZIkSZI/kiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIkSZIkSZI/kiRJkiRJoj+SJEmSJEmSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIkSZIkSaI/AAAAAAAAAACSJEmSJEmSPwAAAAAAAAAAkiRJkiRJwj+SJEmSJEmiP5IkSZIkSZI/AAAAAAAAAACSJEmSJEmiPwAAAAAAAAAAAAAAAAAAAACSJEmSJEmiPwAAAAAAAAAAkiRJkiRJkj+SJEmSJEmiP5IkSZIkSZI/AAAAAAAAAAC3bdu2bdu2P5IkSZIkSaI/kiRJkiRJsj+SJEmSJEmSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15883826,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          }
+        ],
+        "tags": {
+          "full_description": "14-cu ft top freezer"
+        },
+        "text": "14-cu ft top freezer",
+        "embedding": {
+          "dense": {
+            "buffer": "MzMzMzMzwz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACamZmZmZmpPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZmZmZmak/AAAAAAAAAAAAAAAAAAAAAJqZmZmZmak/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACamZmZmZmpPwAAAAAAAAAAMzMzMzMzwz+amZmZmZm5PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACamZmZmZmpP5qZmZmZmak/AAAAAAAAAACamZmZmZm5PwAAAAAAAAAAmpmZmZmZuT+amZmZmZmpPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmpmZmZmZqT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "shape": [
+              96
+            ],
+            "dtype": "<f8",
+            "quantization": 0,
+            "maxVal": 0,
+            "minVal": 0,
+            "scale": 0,
+            "originalDtype": ""
+          }
+        },
+        "granularity": 0,
+        "adjacency": 0,
+        "parentId": "",
+        "chunks": [],
+        "weight": 0,
+        "uri": "",
+        "mimeType": "",
+        "location": [],
+        "offset": 0,
+        "scores": {},
+        "modality": "",
+        "evaluations": {}
+      }
+    ],
+    "groundtruths": []
+  }
+}

@@ -1,0 +1,1023 @@
+{
+  "requestId": "7e186d19-c813-4048-bae7-805fa4364387",
+  "data": {
+    "docs": [
+      {
+        "id": "1445b39c-44c4-11ec-a081-d3da2e768b04",
+        "matches": [
+          {
+            "id": "0c0a36d8-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "KitchenAid",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049396118.jpg",
+                "full_description": "The largest capacity counter-depth refrigerator in its class (among leading premium 3-door french door bottom mount brands) features PrintShield&#8482; finish to resist fingerprints outside and flexible storage options inside. A slide-away shelf retracts to fit tall items, and full-extension self-close crispers and custom temperature pantry let you store more and find it easily. Plus, the Preserva&#174;Food Care System with Linear Compressor helps keep it all at the peak of freshness.",
+                "product_url": "https://www.lowes.com/pd/KitchenAid-23-8-cu-ft-Counter-Depth-French-Door-Refrigerator-with-Ice-Maker-Stainless-Steel-with-Printshield/1000384977",
+                "title": "KitchenAid 23.8-cu ft Counter-Depth French Door Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+                "description": "23.8-cu ft Counter-Depth French Door Refrigerator with Ice Maker (Stainless Steel with Printshield)"
+              }
+            },
+            "text": "KitchenAid 23.8-cu ft Counter-Depth French Door Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+            "embedding": {
+              "dense": {
+                "buffer": "QZ4S5ClBvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ4S5ClBnoI/nhLkKUGegj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SP54S5ClBnoI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGegj+eEuQpQZ6CPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGegj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGegj8AAAAAAAAAAJ4S5ClBnoI/nhLkKUGekj8AAAAAAAAAAJ4S5ClBnoI/AAAAAAAAAAAAAAAAAAAAAJ4S5ClBnoI/AAAAAAAAAACeEuQpQZ6CPwAAAAAAAAAAnhLkKUGegj8AAAAAAAAAAAAAAAAAAAAAnhLkKUGegj8AAAAAAAAAAJ4S5ClBnoI/nhLkKUGekj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO0b1r5h7Zs/AAAAAAAAAACeEuQpQZ6iP54S5ClBnpI/7RvWvmHtuz+eEuQpQZ6SP54S5ClBnoI/7RvWvmHtqz+eEuQpQZ6yPwAAAAAAAAAAnhLkKUGegj/tG9a+Ye2bPwAAAAAAAAAARhdddNFFpz+eEuQpQZ6iP54S5ClBnoI/AAAAAAAAAACeEuQpQZ6yP+0b1r5h7Zs/RhdddNFFtz+eEuQpQZ6SPwAAAAAAAAAAnhLkKUGekj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11468349,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a37fe-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Hotpoint combines sensible solutions with unbelievable durability to complement any kitchen and keep your family going for years to come. Our appliances have been created to affordably meet the needs of busy lives, and to stand up to any challenge. As a century-old brand, Hotpoint prides itself on value and never compromising on reliability.",
+                "title": "Hotpoint 15.6-cu ft Top-Freezer Refrigerator (White)",
+                "description": "15.6-cu ft Top-Freezer Refrigerator (White)",
+                "product_url": "https://www.lowes.com/pd/Hotpoint-15-6-cu-ft-Top-Freezer-Refrigerator-White/1001160980",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691846901.jpg",
+                "brand": "Hotpoint"
+              }
+            },
+            "text": "Hotpoint 15.6-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "2Ymd2ImduD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/FDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GjPxQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAntiJndiJvT8UO7ETO7GjPxQ7sRM7sZM/FDuxEzuxkz+e2Imd2ImtPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8UO7ETO7GzPxQ7sRM7saM/AAAAAAAAAADZiZ3YiZ24PwAAAAAAAAAA2Ymd2ImduD8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11890242,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a377d-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Hotpoint-15-6-cu-ft-Top-Freezer-Refrigerator-White/1001079810",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691846932.jpg",
+                "full_description": "Hotpoint combines sensible solutions with unbelievable durability to complement any kitchen and keep your family going for years to come. Our appliances have been created to affordably meet the needs of busy lives, and to stand up to any challenge. As a century-old brand, Hotpoint prides itself on value and never compromising on reliability.",
+                "description": "15.6-cu ft Top-Freezer Refrigerator (White)",
+                "brand": "Hotpoint",
+                "title": "Hotpoint 15.6-cu ft Top-Freezer Refrigerator (White)"
+              }
+            },
+            "text": "Hotpoint 15.6-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "2Ymd2ImduD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/FDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GjPxQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAntiJndiJvT8UO7ETO7GjPxQ7sRM7sZM/FDuxEzuxkz+e2Imd2ImtPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8UO7ETO7GzPxQ7sRM7saM/AAAAAAAAAADZiZ3YiZ24PwAAAAAAAAAA2Ymd2ImduD8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11890242,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a37fc-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691847212.jpg",
+                "description": "17.5-cu ft Top-Freezer Refrigerator (White)",
+                "full_description": "Hotpoint combines sensible solutions with unbelievable durability to complement any kitchen and keep your family going for years to come. Our appliances have been created to affordably meet the needs of busy lives, and to stand up to any challenge. As a century-old brand, Hotpoint prides itself on value and never compromising on reliability.",
+                "product_url": "https://www.lowes.com/pd/Hotpoint-17-5-cu-ft-Top-Freezer-Refrigerator-White/1001160528",
+                "title": "Hotpoint 17.5-cu ft Top-Freezer Refrigerator (White)",
+                "brand": "Hotpoint"
+              }
+            },
+            "text": "Hotpoint 17.5-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "2Ymd2ImduD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/FDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GjPxQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAntiJndiJvT8UO7ETO7GjPxQ7sRM7sZM/FDuxEzuxkz+e2Imd2ImtPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8UO7ETO7GzPxQ7sRM7saM/AAAAAAAAAADZiZ3YiZ24PwAAAAAAAAAA2Ymd2ImduD8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11890242,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3668-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Profile 22.2-cu ft Counter-Depth French Door Refrigerator with Ice Maker and Door within Door (Fingerprint-Resistant Stainless Steel)",
+                "full_description": "Built on the belief that modern life needs modern solutions, GE Profile Appliances are designed to make daily life simpler by incorporating Smart Home technology and cutting-edge features in every appliance. GE Profile&#8217;s sleek design and quality engineering will give your kitchen the most up-to-date look and the best innovative performance you&#8217;ve been looking for.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691848820.jpg",
+                "product_url": "https://www.lowes.com/pd/GE-Profile-22-2-cu-ft-Counter-Depth-French-Door-Refrigerator-with-Ice-Maker-and-Door-within-Door-Fingerprint-Resistant-Stainless-Steel/1002619142",
+                "title": "GE Profile 22.2-cu ft Counter-Depth French Door Refrigerator with Ice Maker and Door within Door (Fingerprint-Resistant Stainless Steel)",
+                "brand": "GE"
+              }
+            },
+            "text": "GE Profile 22.2-cu ft Counter-Depth French Door Refrigerator with Ice Maker and Door within Door (Fingerprint-Resistant Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHn4/Hh4eHh4efj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACXlpaWlpaWPx4eHh4eHn4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAl5aWlpaWlj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHn4/Hh4eHh4enj8eHh4eHh5+Px4eHh4eHo4/Hh4eHh4efj8AAAAAAAAAAB4eHh4eHn4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4efj8AAAAAAAAAAAAAAAAAAAAAHh4eHh4efj8AAAAAAAAAAB4eHh4eHo4/Hh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANPS0tLS0qI/AAAAAAAAAACXlpaWlpaWPx4eHh4eHn4/eHh4eHh4uD+XlpaWlpaWPx4eHh4eHo4/Hh4eHh4enj/x8PDw8PCwPwAAAAAAAAAAHh4eHh4efj+XlpaWlpaWPwAAAAAAAAAAHh4eHh4erj/x8PDw8PCwPx4eHh4eHo4/AAAAAAAAAACXlpaWlpa2Px4eHh4eHp4/tbS0tLS0tD8eHh4eHh6OPwAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12007731,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a360f-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "15-cu ft 4-Door Counter-depth French Door Refrigerator (Stainless Steel)",
+                "full_description": "Haier appliances are born for the city and designed to keep pace with a new way of living. Our appliances combine world-class design, innovative technology and a touch of city hustle, so you can live your best life 24/7. By making chores easier and life more livable, we bring the spirit of the city into your home. You can live life your way and, on your time, when you have our amazing appliances at your fingertips.",
+                "title": "Haier 15-cu ft 4-Door Counter-depth French Door Refrigerator (Stainless Steel)",
+                "brand": "Haier",
+                "product_url": "https://www.lowes.com/pd/Haier-15-cu-ft-4-Door-Counter-depth-French-Door-Refrigerator-Stainless-Steel/1000183553",
+                "image_url": "https://mobileimages.lowes.com/product/converted/688057/688057309507.jpg"
+              }
+            },
+            "text": "Haier 15-cu ft 4-Door Counter-depth French Door Refrigerator (Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "ntiJndiJvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABqkQRqkQYo/GqRBGqRBij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GjPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABqkQRqkQYo/AAAAAAAAAAAAAAAAAAAAABqkQRqkQYo/GqRBGqRBij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABqkQRqkQYo/GqRBGqRBmj8AAAAAAAAAABqkQRqkQYo/AAAAAAAAAAAapEEapEGKPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABqkQRqkQYo/GqRBGqRBmj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7saM/AAAAAAAAAAAapEEapEGaPxqkQRqkQYo/ntiJndiJvT8apEEapEGaPxqkQRqkQYo/GqRBGqRBmj8UO7ETO7GjPwAAAAAAAAAAAAAAAAAAAAAapEEapEGaPwAAAAAAAAAAFDuxEzuxoz8UO7ETO7GzPxqkQRqkQYo/AAAAAAAAAAAapEEapEG6PxqkQRqkQZo/FDuxEzuxsz8apEEapEGaPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12046215,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a376d-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "18-cu ft Top-Freezer Refrigerator (White)",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-18-cu-ft-Top-Freezer-Refrigerator-White/1000225701",
+                "title": "Frigidaire 18-cu ft Top-Freezer Refrigerator (White)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505644481.jpg",
+                "brand": "Frigidaire",
+                "full_description": "Top freezer refrigerator."
+              }
+            },
+            "text": "Frigidaire 18-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "2Ymd2ImduD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/FDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GjPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7saM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7saM/AAAAAAAAAAAUO7ETO7GTPxQ7sRM7sZM/sRM7sRM7wT8UO7ETO7GjPxQ7sRM7saM/FDuxEzuxkz/ZiZ3YiZ24PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GjPxQ7sRM7sZM/AAAAAAAAAACxEzuxEzvBPwAAAAAAAAAAntiJndiJrT8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12084165,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a369c-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Whirlpool-23-8-cu-ft-3-Door-Counter-Depth-36-in-French-Door-Refrigerator-with-Exterior-Ice-and-Water-Dispenser-Fingerprint-Resistant-Stainless-Steel/1000290043",
+                "title": "Whirlpool 23.8-cu ft 3-Door Counter-Depth 36-in French Door Refrigerator with Exterior Ice and Water Dispenser - Fingerprint Resistant Stainless Steel",
+                "full_description": "Get purposefully designed zones for items you use most with this ENERGY STAR&#174; certified counter depth French door refrigerator. A unique shelving system in this ENERGY STAR&#174; certified refrigerator lets you store 30% more with features like the auto-humidity crisper drawer to help keep fruits and veggies fresh. Refrigerator LED lighting also keeps food looking as good as it tastes.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049463209.jpg",
+                "description": "23.8-cu ft 3-Door Counter-Depth 36-in French Door Refrigerator with Exterior Ice and Water Dispenser - Fingerprint Resistant Stainless Steel",
+                "brand": "Whirlpool"
+              }
+            },
+            "text": "Whirlpool 23.8-cu ft 3-Door Counter-Depth 36-in French Door Refrigerator with Exterior Ice and Water Dispenser - Fingerprint Resistant Stainless Steel",
+            "embedding": {
+              "dense": {
+                "buffer": "N9BpA502wD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGhP08b6LSBTns/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATxvotIFOez97FK5H4XqUPwAAAAAAAAAAAAAAAAAAAABPG+i0gU57PwAAAAAAAAAATxvotIFOez8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE8b6LSBTns/TxvotIFOmz9PG+i0gU57P08b6LSBTos/AAAAAAAAAAAAAAAAAAAAAE8b6LSBTns/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE8b6LSBTos/TxvotIFOiz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABPG+i0gU6LPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREaE/AAAAAAAAAAB7FK5H4XqUP08b6LSBTns/mpmZmZmZuT9PG+i0gU6LP08b6LSBTos/TxvotIFOmz8RERERERGxPwAAAAAAAAAAAAAAAAAAAABPG+i0gU6bPwAAAAAAAAAAuB6F61G4rj+4HoXrUbiuP08b6LSBTps/AAAAAAAAAADlF0t+seS3P3sUrkfheqQ/exSuR+F6tD9PG+i0gU6LPwAAAAAAAAAATxvotIFOez9PG+i0gU57PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12131554,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3877-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "20.6-cu ft Counter-Depth Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049450414.jpg",
+                "title": "Whirlpool 20.6-cu ft Counter-Depth Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel)",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-20-6-cu-ft-Counter-Depth-Side-by-Side-Refrigerator-with-Ice-Maker-Fingerprint-Resistant-Stainless-Steel/1000356423",
+                "brand": "Whirlpool",
+                "full_description": "Store more of your family's favorites in this counter depth refrigerator. The counter depth design makes extra room in the kitchen and features an exterior ice and water dispenser with EveryDrop&#8482; filtration. In-Door-Ice&#174; storage gives you an extra full shelf in the freezer and the refrigerator's Accu-Chill&#8482; temperature management system keeps family favorites in their ideal environment with quick cooling."
+              }
+            },
+            "text": "Whirlpool 20.6-cu ft Counter-Depth Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "q8FzBIq2uj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB2Boq0Gz4E/HYGirQbPgT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdgaKtBs+hPx2Boq0Gz4E/AAAAAAAAAAAdgaKtBs+BPwAAAAAAAAAAHYGirQbPgT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdgaKtBs+BPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB2Boq0Gz4E/HYGirQbPgT8AAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAAAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHYGirQbPgT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB2Boq0Gz5E/HYGirQbPoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdgaKtBs+BPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB2Boq0Gz6E/HYGirQbPgT8dgaKtBs+RPx2Boq0Gz5E/zxEo2mrwvD8dgaKtBs+RPx2Boq0Gz5E/q8FzBIq2mj9B0VaD5wi0PwAAAAAAAAAAHYGirQbPgT8dgaKtBs+hPwAAAAAAAAAAZCELWchCpj8dgaKtBs+hP6vBcwSKtpo/AAAAAAAAAAAdgaKtBs+xPx2Boq0Gz6E/ZCELWchCtj8dgaKtBs+RPwAAAAAAAAAAHYGirQbPgT8AAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12341351,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a38b2-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Whirlpool-19-8-cu-ft-Counter-Depth-Side-by-Side-Refrigerator-with-Ice-Maker-Fingerprint-Resistant-Stainless-Steel/1001414574",
+                "brand": "Whirlpool",
+                "title": "Whirlpool 19.8-cu ft Counter-Depth Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel)",
+                "full_description": "Help eliminate warm spots with TotalCoverage cooling in this side-by-side counter depth refrigerator. Multi-flow vents direct fresh, chilled air to each shelf and corner for efficient refrigerator cooling. The space-saving counter depth design of this fingerprint resistant refrigerator helps you keep everything in sight and in itsplace, so your food stands out in a fridge that doesn&#8217;t stick out.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049490878.jpg",
+                "description": "19.8-cu ft Counter-Depth Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel)"
+              }
+            },
+            "text": "Whirlpool 19.8-cu ft Counter-Depth Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "q8FzBIq2uj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB2Boq0Gz4E/HYGirQbPgT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdgaKtBs+hPx2Boq0Gz4E/AAAAAAAAAAAAAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHYGirQbPgT8dgaKtBs+BPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB2Boq0Gz4E/HYGirQbPgT8AAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAAAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHYGirQbPgT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB2Boq0Gz5E/HYGirQbPoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdgaKtBs+BPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB2Boq0Gz6E/HYGirQbPgT8dgaKtBs+RPx2Boq0Gz5E/zxEo2mrwvD8dgaKtBs+RPx2Boq0Gz5E/q8FzBIq2mj9B0VaD5wi0PwAAAAAAAAAAHYGirQbPgT8dgaKtBs+hPwAAAAAAAAAAZCELWchCpj8dgaKtBs+hP6vBcwSKtpo/AAAAAAAAAAAdgaKtBs+xPx2Boq0Gz6E/ZCELWchCtj8dgaKtBs+RPwAAAAAAAAAAHYGirQbPgT8AAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12341351,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3857-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "20.5-cu ft Counter-Depth Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049450162.jpg",
+                "full_description": "Store more of your family's favorites in this counter depth refrigerator. The counter depth design makes extra room in the kitchen and features an exterior ice and water dispenser with EveryDrop&#8482; filtration. Hide smudges with the fingerprint resistant refrigerator exterior that easily wipes clean and count on the Accu-Chill&#8482; temperature management system to keep family favorites in their ideal environment.",
+                "title": "Whirlpool 20.5-cu ft Counter-Depth Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel)",
+                "brand": "Whirlpool",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-20-5-cu-ft-Counter-Depth-Side-by-Side-Refrigerator-with-Ice-Maker-Fingerprint-Resistant-Stainless-Steel/1000460273"
+              }
+            },
+            "text": "Whirlpool 20.5-cu ft Counter-Depth Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "q8FzBIq2uj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB2Boq0Gz4E/HYGirQbPgT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdgaKtBs+hPx2Boq0Gz4E/AAAAAAAAAAAdgaKtBs+BPwAAAAAAAAAAHYGirQbPgT8AAAAAAAAAAAAAAAAAAAAAHYGirQbPgT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB2Boq0Gz4E/HYGirQbPgT8AAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAAAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHYGirQbPgT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB2Boq0Gz5E/HYGirQbPoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdgaKtBs+BPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB2Boq0Gz6E/HYGirQbPgT8dgaKtBs+RPx2Boq0Gz5E/zxEo2mrwvD8dgaKtBs+RPx2Boq0Gz5E/q8FzBIq2mj9B0VaD5wi0PwAAAAAAAAAAHYGirQbPgT8dgaKtBs+hPwAAAAAAAAAAZCELWchCpj8dgaKtBs+hP6vBcwSKtpo/AAAAAAAAAAAdgaKtBs+xPx2Boq0Gz6E/ZCELWchCtj8dgaKtBs+RPwAAAAAAAAAAHYGirQbPgT8AAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12341351,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a36ce-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691848752.jpg",
+                "title": "GE Profile 27.8-cu ft French Door Refrigerator with Ice Maker and Door within Door (Fingerprint-resistant Stainless Steel)",
+                "full_description": "Built on the belief that modern life needs modern solutions, GE Profile Appliances are designed to make daily life simpler by incorporating Smart Home technology and cutting-edge features in every appliance. GE Profile&#8217;s sleek design and quality engineering will give your kitchen the most up-to-date look and the best innovative performance you&#8217;ve been looking for.",
+                "description": "Profile 27.8-cu ft French Door Refrigerator with Ice Maker and Door within Door (Fingerprint-resistant Stainless Steel)",
+                "product_url": "https://www.lowes.com/pd/GE-Profile-27-8-cu-ft-French-Door-Refrigerator-with-Ice-Maker-and-Door-within-Door-Fingerprint-resistant-Stainless-Steel/1002619100",
+                "brand": "GE"
+              }
+            },
+            "text": "GE Profile 27.8-cu ft French Door Refrigerator with Ice Maker and Door within Door (Fingerprint-resistant Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "O9q8T3HJwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADvavE9xyYA/O9q8T3HJgD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA72rxPccmQPzvavE9xyYA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO9q8T3HJgD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADvavE9xyYA/O9q8T3HJgD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWEeb9ykumT872rxPccmAPzvavE9xyZA/O9q8T3HJgD8AAAAAAAAAADvavE9xyYA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO9q8T3HJgD8AAAAAAAAAAAAAAAAAAAAAO9q8T3HJgD8AAAAAAAAAADvavE9xyYA/O9q8T3HJkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMkQrKPN+6Q/AAAAAAAAAABYR5v3KS6ZPzvavE9xyYA/EayjzfsUtz9YR5v3KS6ZPzvavE9xyZA/WEeb9ykumT+CdbR5n+KyPwAAAAAAAAAAO9q8T3HJgD9YR5v3KS6ZPwAAAAAAAAAA532KS4ZgrT872rxPccmwPzvavE9xyYA/AAAAAAAAAABYR5v3KS65PzvavE9xyaA/gnW0eZ/isj872rxPccmAPwAAAAAAAAAAO9q8T3HJkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12372124,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a37d6-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505647109.jpg",
+                "title": "Frigidaire 13.9-cu ft Top-Freezer Refrigerator (White)",
+                "description": "13.9-cu ft Top-Freezer Refrigerator (White)",
+                "brand": "Frigidaire",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-13-9-cu-ft-Top-Freezer-Refrigerator-White/1000836310"
+              }
+            },
+            "text": "Frigidaire 13.9-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "QnsJ7SW0tz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/aC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPaiP2gvob2E9pI/AAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/AAAAAAAAAABoL6G9hPaSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPaSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9qI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/AAAAAAAAAABoL6G9hPaSPwAAAAAAAAAAAAAAAAAAAABoL6G9hPaSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9qI/AAAAAAAAAABoL6G9hPaSP2gvob2E9pI/ewntJbSXwD9oL6G9hPaiP2gvob2E9qI/aC+hvYT2kj9CewntJbS3PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPaiP2gvob2E9pI/AAAAAAAAAAB7Ce0ltJfAPwAAAAAAAAAAHMdxHMdxrD9oL6G9hPaSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12394963,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3772-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Frigidaire-20-4-cu-ft-Top-Freezer-Refrigerator-White/1000226525",
+                "description": "20.4-cu ft Top-Freezer Refrigerator (White)",
+                "full_description": "",
+                "brand": "Frigidaire",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505644610.jpg",
+                "title": "Frigidaire 20.4-cu ft Top-Freezer Refrigerator (White)"
+              }
+            },
+            "text": "Frigidaire 20.4-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "QnsJ7SW0tz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/aC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPaiP2gvob2E9pI/AAAAAAAAAABoL6G9hPaSPwAAAAAAAAAAaC+hvYT2kj8AAAAAAAAAAGgvob2E9pI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9qI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/AAAAAAAAAABoL6G9hPaSPwAAAAAAAAAAAAAAAAAAAABoL6G9hPaSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9qI/AAAAAAAAAABoL6G9hPaSP2gvob2E9pI/ewntJbSXwD9oL6G9hPaiP2gvob2E9qI/aC+hvYT2kj9CewntJbS3PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPaiP2gvob2E9pI/AAAAAAAAAAB7Ce0ltJfAPwAAAAAAAAAAHMdxHMdxrD9oL6G9hPaSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12394963,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a377f-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505646744.jpg",
+                "title": "Frigidaire 18.3-cu ft Top-Freezer Refrigerator (White)",
+                "full_description": "",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-18-3-cu-ft-Top-Freezer-Refrigerator-White/1001165000",
+                "brand": "Frigidaire",
+                "description": "18.3-cu ft Top-Freezer Refrigerator (White)"
+              }
+            },
+            "text": "Frigidaire 18.3-cu ft Top-Freezer Refrigerator (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "QnsJ7SW0tz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/aC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPaiP2gvob2E9pI/AAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/AAAAAAAAAABoL6G9hPaSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9qI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/AAAAAAAAAABoL6G9hPaSPwAAAAAAAAAAAAAAAAAAAABoL6G9hPaSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9qI/AAAAAAAAAABoL6G9hPaSP2gvob2E9pI/ewntJbSXwD9oL6G9hPaiP2gvob2E9qI/aC+hvYT2kj9CewntJbS3PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPaiP2gvob2E9pI/AAAAAAAAAAB7Ce0ltJfAPwAAAAAAAAAAHMdxHMdxrD9oL6G9hPaSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12394963,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a365d-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049445465.jpg",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-20-cu-ft-3-Door-Counter-Depth-36-in-French-Door-Refrigerator-with-Ice-Maker-Fingerprint-Resistant-Stainless-Steel/1000287229",
+                "full_description": "Add up to 6 inches of additional kitchen space with this counter depth refrigerator. This refrigerator with water dispenser gives you the storage you need with features like the crisper drawer to store fruits and veggies at the ideal temperature. An interior water dispenser with an EveryDrop&#8482; water filter gives you easy access to filtered water whenever you want it.",
+                "title": "Whirlpool 20-cu ft 3-Door Counter-Depth 36-in French Door Refrigerator with Ice Maker - Fingerprint Resistant Stainless Steel",
+                "description": "20-cu ft 3-Door Counter-Depth 36-in French Door Refrigerator with Ice Maker - Fingerprint Resistant Stainless Steel",
+                "brand": "Whirlpool"
+              }
+            },
+            "text": "Whirlpool 20-cu ft 3-Door Counter-Depth 36-in French Door Refrigerator with Ice Maker - Fingerprint Resistant Stainless Steel",
+            "embedding": {
+              "dense": {
+                "buffer": "/Knx0k1iwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB7FK5H4XqkPwAAAAAAAAAAAAAAAAAAAAD8qfHSTWKAPwAAAAAAAAAA/Knx0k1igD/8qfHSTWKQPwAAAAAAAAAAAAAAAAAAAAD8qfHSTWKAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPyp8dJNYoA/+n5qvHSTmD8AAAAAAAAAAPyp8dJNYpA/AAAAAAAAAAAAAAAAAAAAAPyp8dJNYoA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/Knx0k1igD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPyp8dJNYpA//Knx0k1ikD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD8qfHSTWKAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPyp8dJNYqA/AAAAAAAAAAD6fmq8dJOYPwAAAAAAAAAA+n5qvHSTuD/8qfHSTWKQP/yp8dJNYpA//Knx0k1ioD/8qfHSTWKwPwAAAAAAAAAA/Knx0k1igD/8qfHSTWKgPwAAAAAAAAAAeekmMQisrD/8qfHSTWKwP/p+arx0k5g/AAAAAAAAAAC6SQwCK4e2P/yp8dJNYqA/exSuR+F6tD/8qfHSTWKQPwAAAAAAAAAA/Knx0k1igD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.124009214,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3870-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Whirlpool 22.6-cu ft Counter-Depth Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel)",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-22-6-cu-ft-Counter-Depth-Side-by-Side-Refrigerator-with-Ice-Maker-Fingerprint-Resistant-Stainless-Steel/1001414554",
+                "brand": "Whirlpool",
+                "full_description": "TotalCoverage cooling helps eliminate warm spots in this side-by-side counter depth refrigerator. Multi-flow vents direct fresh, chilled air to each shelf and corner for efficient refrigerator cooling. The space-saving counter depth design of this fingerprint resistant refrigerator helps you keep everything in sight and in its place, so your food stands out in a fridge that doesn&#8217;t stick out.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049490830.jpg",
+                "description": "22.6-cu ft Counter-Depth Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel)"
+              }
+            },
+            "text": "Whirlpool 22.6-cu ft Counter-Depth Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "q8FzBIq2uj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB2Boq0Gz4E/HYGirQbPgT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdgaKtBs+hPx2Boq0Gz4E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHYGirQbPkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdgaKtBs+BPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB2Boq0Gz4E/HYGirQbPgT8AAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAAAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHYGirQbPgT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB2Boq0Gz5E/HYGirQbPoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdgaKtBs+BPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB2Boq0Gz6E/HYGirQbPgT8dgaKtBs+RPx2Boq0Gz5E/zxEo2mrwvD8dgaKtBs+RPx2Boq0Gz5E/q8FzBIq2mj9B0VaD5wi0PwAAAAAAAAAAHYGirQbPgT8dgaKtBs+hPwAAAAAAAAAAZCELWchCpj8dgaKtBs+hP6vBcwSKtpo/AAAAAAAAAAAdgaKtBs+xPx2Boq0Gz6E/ZCELWchCtj8dgaKtBs+RPwAAAAAAAAAAHYGirQbPgT8AAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12402468,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3788-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Whirlpool 11.6-cu ft Top-Freezer Refrigerator (Fingerprint-resistant Stainless)",
+                "full_description": "If you&#8217;re searching for a small energy efficient refrigerator, our top-freezer refrigerator delivers the flexibility you need to make the most of every inch. Features like gallon door storage help free up shelf space. Digital temperature controls and an ice maker connection kit mean you&#8217;re ready for guests, even at the last minute.",
+                "brand": "Whirlpool",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049523286.jpg",
+                "description": "11.6-cu ft Top-Freezer Refrigerator (Fingerprint-resistant Stainless)",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-11-6-cu-ft-Top-Freezer-Refrigerator-Fingerprint-resistant-Stainless/1002793018"
+              }
+            },
+            "text": "Whirlpool 11.6-cu ft Top-Freezer Refrigerator (Fingerprint-resistant Stainless)",
+            "embedding": {
+              "dense": {
+                "buffer": "4ybM72pxsz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADjJszvanGjP9kzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAANkzEJWO7Jk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADZMxCVjuyJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Jk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/2TMQlY7siT/ZMxCVjuyJPwAAAAAAAAAAAAAAAAAAAADZMxCVjuyJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOMmzO9qcaM/AAAAAAAAAADZMxCVjuyJPwAAAAAAAAAA2TMQlY7suT/ZMxCVjuyZP9kzEJWO7Jk/2TMQlY7siT/jJszvanGzPwAAAAAAAAAAAAAAAAAAAADjJszvanGjPwAAAAAAAAAA2TMQlY7sqT/ZMxCVjuypP+MmzO9qcaM/AAAAAAAAAABUOrJnICq9P9kzEJWO7Kk/4ybM72pxsz/ZMxCVjuyJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12428291,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3859-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Whirlpool-20-6-cu-ft-Counter-depth-Side-by-Side-Refrigerator-with-Ice-Maker-White/1000358273",
+                "brand": "Whirlpool",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049450179.jpg",
+                "title": "Whirlpool 20.6-cu ft Counter-depth Side-by-Side Refrigerator with Ice Maker (White)",
+                "full_description": "Store more of your family's favorites in this counter depth refrigerator. The counter depth design makes extra room in the kitchen and features an exterior ice and water dispenser with EveryDrop&#8482; filtration. In-Door-Ice&#174; storage gives you an extra full shelf in the freezer and the refrigerator's Accu-Chill&#8482; temperature management system keeps family favorites in their ideal environment with quick cooling.",
+                "description": "20.6-cu ft Counter-depth Side-by-Side Refrigerator with Ice Maker (White)"
+              }
+            },
+            "text": "Whirlpool 20.6-cu ft Counter-depth Side-by-Side Refrigerator with Ice Maker (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "H3JZMVDCuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKrzaw+5rIg/qvNrD7msiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACq82sPuayoP6rzaw+5rIg/AAAAAAAAAACq82sPuayIPwAAAAAAAAAAqvNrD7msiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACq82sPuayIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKrzaw+5rIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKrzaw+5rIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqvNrD7msiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKrzaw+5rIg/qvNrD7msmD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACq82sPuayYPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKrzaw+5rJg/qvNrD7msiD+q82sPuayYP7/2kMuKgaI/H3JZMVDCuz+q82sPuayYP6rzaw+5rIg/qvNrD7msqD+/9pDLioGyPwAAAAAAAAAAqvNrD7msiD+q82sPuayYPwAAAAAAAAAAqvNrD7msiD+q82sPuayoP6rzaw+5rJg/AAAAAAAAAAC/9pDLioGyPwAAAAAAAAAAv/aQy4qBsj+q82sPuayYPwAAAAAAAAAAqvNrD7msiD8AAAAAAAAAAKrzaw+5rIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.124644116,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3649-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Organize foods for your family in this Whirlpool&#174; french door refrigerator available in fingerprint-resistant stainless steel. A humidity-controlled double crisper and two-tier freezer storage provide plenty of room. Spillproof shelves help contain spills and for filtered water right at hand, this refrigerator features an exterior water dispenser with EveryDrop&#174; ice and water filtration.",
+                "brand": "Whirlpool",
+                "title": "Whirlpool 24.7-cu ft 3-Door Standard-Depth 36-in French Door Refrigerator with Exterior Ice and Water Dispenser - Fingerprint Resistant Stainless Steel",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049409238.jpg",
+                "description": "24.7-cu ft 3-Door Standard-Depth 36-in French Door Refrigerator with Exterior Ice and Water Dispenser - Fingerprint Resistant Stainless Steel",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-24-7-cu-ft-3-Door-Standard-Depth-36-in-French-Door-Refrigerator-with-Exterior-Ice-and-Water-Dispenser-Fingerprint-Resistant-Stainless-Steel/1000092933"
+              }
+            },
+            "text": "Whirlpool 24.7-cu ft 3-Door Standard-Depth 36-in French Door Refrigerator with Exterior Ice and Water Dispenser - Fingerprint Resistant Stainless Steel",
+            "embedding": {
+              "dense": {
+                "buffer": "gWxANiAbwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACI0EPoIfSgP9mAbEA2IHs/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2YBsQDYgez/ZgGxANiCLP9mAbEA2IHs/AAAAAAAAAADZgGxANiB7P9mAbEA2IHs/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2YBsQDYgmz/ZgGxANiB7P9mAbEA2IIs/AAAAAAAAAAAAAAAAAAAAANmAbEA2IHs/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANmAbEA2IIs/o2BRsChYlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADZgGxANiCLPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL7wXngvvKc/AAAAAAAAAACjYFGwKFiUP6NgUbAoWJQ/vvBeeC+8tz/ZgGxANiCLP9mAbEA2IIs/2YBsQDYgmz+I0EPoIfSwPwAAAAAAAAAAAAAAAAAAAADZgGxANiCbPwAAAAAAAAAA9BB6CD2Erj/ZgGxANiCrP9mAbEA2IJs/AAAAAAAAAAC+8F54L7y3P6NgUbAoWKQ/o2BRsChYtD/ZgGxANiB7PwAAAAAAAAAA2YBsQDYgez/ZgGxANiB7PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12469238,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          }
+        ],
+        "tags": {
+          "full_description": "counter-depth refrigerator in white"
+        },
+        "text": "counter-depth refrigerator in white",
+        "embedding": {
+          "dense": {
+            "buffer": "Fl/xFV/xtT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAd1EEd1EGdPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB3UQR3UQZ0/AAAAAAAAAAAd1EEd1EGdPx3UQR3UQZ0/kiRJkiRJwj8d1EEd1EGdPx3UQR3UQZ0/HdRBHdRBrT8WX/EVX/G1PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHdRBHdRBrT8d1EEd1EGtPx3UQR3UQZ0/AAAAAAAAAACSJEmSJEnCPwAAAAAAAAAAHdRBHdRBvT8d1EEd1EGdPwAAAAAAAAAAHdRBHdRBnT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "shape": [
+              96
+            ],
+            "dtype": "<f8",
+            "quantization": 0,
+            "maxVal": 0,
+            "minVal": 0,
+            "scale": 0,
+            "originalDtype": ""
+          }
+        },
+        "granularity": 0,
+        "adjacency": 0,
+        "parentId": "",
+        "chunks": [],
+        "weight": 0,
+        "uri": "",
+        "mimeType": "",
+        "location": [],
+        "offset": 0,
+        "scores": {},
+        "modality": "",
+        "evaluations": {}
+      }
+    ],
+    "groundtruths": []
+  }
+}

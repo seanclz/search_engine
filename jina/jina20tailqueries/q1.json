@@ -1,0 +1,1021 @@
+{
+  "requestId": "cc4aaf03-ff88-44e6-a435-e419da9878bd",
+  "data": {
+    "docs": [
+      {
+        "id": "501ac2b0-7a0a-11ec-be6b-5d6790f603b1",
+        "matches": [
+          {
+            "id": "cf61b600-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Whirlpool 25.2-cu ft 3-Door 36-in French Door Refrigerator with Ice Maker and Interior Water Dispenser - Fingerprint Resistant Stainless Steel",
+                "full_description": "Get the storage your family needs and easily access filtered water with this refrigerator with water dispenser. Crisper drawers provide room to store fruits and veggies in their ideal environment while the produce preserver helps produce stay fresher longer. This ENERGY STAR&#174; certified refrigerator also has LED lighting to keep food looking as great as it tastes.",
+                "description": "25.2-cu ft 3-Door 36-in French Door Refrigerator with Ice Maker and Interior Water Dispenser - Fingerprint Resistant Stainless Steel",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049442068.jpg",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-25-2-cu-ft-3-Door-36-in-French-Door-Refrigerator-with-Ice-Maker-and-Interior-Water-Dispenser-Fingerprint-Resistant-Stainless-Steel/1000228559",
+                "brand": "Whirlpool"
+              }
+            },
+            "text": "Whirlpool 25.2-cu ft 3-Door 36-in French Door Refrigerator with Ice Maker and Interior Water Dispenser - Fingerprint Resistant Stainless Steel",
+            "embedding": {
+              "dense": {
+                "buffer": "DiRaYXMgwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVticPwubA4lW2Hw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8LmwOJVtiMPwAAAAAAAAAAC5sDiVbYfD8LmwOJVth8PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASLTC5kCilT8AAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYfD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/C5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEi0wuZAoqU/AAAAAAAAAABItMLmQKKVPwubA4lW2Hw/qSfjt0s9uT8LmwOJVtiMPwubA4lW2Iw/SLTC5kCilT/nQKIVNgeyPwAAAAAAAAAAC5sDiVbYfD8LmwOJVticPwAAAAAAAAAANgcSrbA5sD8LmwOJVtisP0i0wuZAopU/AAAAAAAAAACpJ+O3Sz25P0i0wuZAoqU/50CiFTYHsj8LmwOJVth8PwAAAAAAAAAAC5sDiVbYfD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.08624665,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b6e4-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/GE-Profile-27-8-cu-ft-French-Door-Refrigerator-with-Ice-Maker-and-Door-within-Door-Fingerprint-resistant-Stainless-Steel/1002619100",
+                "description": "Profile 27.8-cu ft French Door Refrigerator with Ice Maker and Door within Door (Fingerprint-resistant Stainless Steel)",
+                "full_description": "Built on the belief that modern life needs modern solutions, GE Profile Appliances are designed to make daily life simpler by incorporating Smart Home technology and cutting-edge features in every appliance. GE Profile&#8217;s sleek design and quality engineering will give your kitchen the most up-to-date look and the best innovative performance you&#8217;ve been looking for.",
+                "title": "GE Profile 27.8-cu ft French Door Refrigerator with Ice Maker and Door within Door (Fingerprint-resistant Stainless Steel)",
+                "brand": "GE",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691848752.jpg"
+              }
+            },
+            "text": "GE Profile 27.8-cu ft French Door Refrigerator with Ice Maker and Door within Door (Fingerprint-resistant Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "O9q8T3HJwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADvavE9xyYA/O9q8T3HJgD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA72rxPccmQPzvavE9xyYA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO9q8T3HJgD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADvavE9xyYA/O9q8T3HJgD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWEeb9ykumT872rxPccmAPzvavE9xyZA/O9q8T3HJgD8AAAAAAAAAADvavE9xyYA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO9q8T3HJgD8AAAAAAAAAAAAAAAAAAAAAO9q8T3HJgD8AAAAAAAAAADvavE9xyYA/O9q8T3HJkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMkQrKPN+6Q/AAAAAAAAAABYR5v3KS6ZPzvavE9xyYA/EayjzfsUtz9YR5v3KS6ZPzvavE9xyZA/WEeb9ykumT+CdbR5n+KyPwAAAAAAAAAAO9q8T3HJgD9YR5v3KS6ZPwAAAAAAAAAA532KS4ZgrT872rxPccmwPzvavE9xyYA/AAAAAAAAAABYR5v3KS65PzvavE9xyaA/gnW0eZ/isj872rxPccmAPwAAAAAAAAAAO9q8T3HJkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.08629748,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b664-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Whirlpool-26-8-cu-ft-3-Door-36-in-French-Door-Refrigerator-with-Exterior-Ice-Water-Dispenser-and-Dual-Icemakers-Fingerprint-Resistant-Stainless-Steel/1000494367",
+                "full_description": "Get more room with purposeful storage spaces for the items you use most in this french door refrigerator with dual icemakers. Features such as the platter pocket, In-Door-Ice&#174; storage, LED lights and a deli drawer make your family's favorites easy to fit and find. This ENERGY STAR&#174; refrigerator also has a fingerprint-resistant exterior that resists smudges and easily wipes clean.",
+                "title": "Whirlpool 26.8-cu ft 3-Door 36-in French Door Refrigerator with Exterior Ice - Water Dispenser and Dual Icemakers - Fingerprint Resistant Stainless Steel",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049464336.jpg",
+                "brand": "Whirlpool",
+                "description": "26.8-cu ft 3-Door 36-in French Door Refrigerator with Exterior Ice - Water Dispenser and Dual Icemakers - Fingerprint Resistant Stainless Steel"
+              }
+            },
+            "text": "Whirlpool 26.8-cu ft 3-Door 36-in French Door Refrigerator with Exterior Ice - Water Dispenser and Dual Icemakers - Fingerprint Resistant Stainless Steel",
+            "embedding": {
+              "dense": {
+                "buffer": "kpGRkZGRwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARZrsQZrugPxtwxRpwxXo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG3DFGnDFej8bcMUacMWKPwAAAAAAAAAAAAAAAAAAAAAbcMUacMWKPwAAAAAAAAAAG3DFGnDFej8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG3DFGnDFmj8bcMUacMV6PxtwxRpwxYo/AAAAAAAAAAAAAAAAAAAAABtwxRpwxYo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABtwxRpwxYo/G3DFGnDFij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbcMUacMWKPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABfCbBfCbKc/AAAAAAAAAAAbcMUacMWaPxtwxRpwxXo/GRkZGRkZuT8bcMUacMWKPxtwxRpwxYo/FBQUFBQUlD8RZrsQZruwPwAAAAAAAAAAG3DFGnDFej8RZrsQZrugPxtwxRpwxXo/G3DFGnDFqj8bcMUacMWqPxQUFBQUFJQ/AAAAAAAAAAAXwmwXwmy3PxfCbBfCbKc/EWa7EGa7sD8bcMUacMWKPwAAAAAAAAAAG3DFGnDFej8bcMUacMV6PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.08839479,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b601-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049445533.jpg",
+                "full_description": "Get the storage you need in this refrigerator with water dispenser. An exterior refrigerated drawer keeps frequently used items within easy reach. This ENERGY STAR&#174; certified refrigerator with LED lighting also gives you access to filtered ice and water without ever opening the door. Tap Touch controls are also as easy to clean as they are to use.",
+                "brand": "Whirlpool",
+                "description": "24.5-cu ft 4-Door 36-in French Door Refrigerator with Exterior Ice and Water Dispenser - Fingerprint Resistant Stainless Steel",
+                "title": "Whirlpool 24.5-cu ft 4-Door 36-in French Door Refrigerator with Exterior Ice and Water Dispenser - Fingerprint Resistant Stainless Steel",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-24-5-cu-ft-4-Door-36-in-French-Door-Refrigerator-with-Exterior-Ice-and-Water-Dispenser-Fingerprint-Resistant-Stainless-Steel/1000257811"
+              }
+            },
+            "text": "Whirlpool 24.5-cu ft 4-Door 36-in French Door Refrigerator with Exterior Ice and Water Dispenser - Fingerprint Resistant Stainless Steel",
+            "embedding": {
+              "dense": {
+                "buffer": "8fDw8PDwwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6ePx4eHh4eHn4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4efj8eHh4eHh5+Px4eHh4eHo4/Hh4eHh4efj8eHh4eHh5+PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAl5aWlpaWlj8eHh4eHh5+Px4eHh4eHo4/AAAAAAAAAAAAAAAAAAAAAB4eHh4eHn4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/Hh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6OPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANPS0tLS0qI/AAAAAAAAAACXlpaWlpaWPx4eHh4eHn4/eHh4eHh4uD8eHh4eHh6OPx4eHh4eHo4/l5aWlpaWlj/T0tLS0tKyPwAAAAAAAAAAAAAAAAAAAAAeHh4eHh6ePwAAAAAAAAAAHh4eHh4erj8eHh4eHh6uP5eWlpaWlpY/AAAAAAAAAAB4eHh4eHi4P5eWlpaWlqY/09LS0tLSsj8eHh4eHh5+PwAAAAAAAAAAHh4eHh4efj8eHh4eHh5+PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.09050843,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b95d-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Kenmore Elite Stainless Steel 5-Burner Liquid Propane and Natural Gas Infrared Gas Grill with Rotisserie Burner",
+                "image_url": "https://mobileimages.lowes.com/product/converted/182995/182995001979.jpg",
+                "full_description": "Get inspired this season with the Kenmore elite 5-burner LP stainless steel gas grill with side searing burner. The five 12, 000 BTU stainless steel burners give you the power to cook practically anything under the sun, even at night with the double halogen build-in lights in firebox, while the convenient 12, 000 BTU side ceramic searing burner is perfect for searing steaks and other delicious creations. Premium 12,000 BTU ceramic rotisserie rear burner for those delicious and juicy rotisserie dishes and the side shelves gives you extra counter space for preparing dishes outside. The solid 8mm stainless steel cooking grids, and beautiful stainless steel handles bring professional quality and style to your backyard. With a high end stainless steel finish this Kenmore gas grill can beautifully complete your outdoor kitchen. Let your creative juices flow with this backyard barbecue all summer long. Cleanup is fast and painless with the convenient grease cup and pullout grease tray, individual electronic ignition lets you quickly fire up the grill, stainless steel fascias and LED lighted control panel, doors have a powder coated finish with stainless steel trim for added durability, the 5 - premium stainless steel main burners are 12, 000 BTU each ; side burner is 12, 000 BTU and rotisserie burner is 12,000 BTU, heavy duty 3\" swivel casters let you move this grill anywhere on the patio, the heavy duty exterior temperature gauge lets you closely monitor your meals, beautiful porcelain metallic-enameled lid with stainless steel handle. Shipped pre-assembled except for the sides-simply attach sides and you are ready to grill!",
+                "product_url": "https://www.lowes.com/pd/Kenmore-Elite-Stainless-Steel-5-Burner-Liquid-Propane-and-Natural-Gas-Infrared-Gas-Grill-with-Rotisserie-Burner/1002260776",
+                "description": "Stainless Steel 5-Burner Liquid Propane and Natural Gas Infrared Gas Grill with Rotisserie Burner",
+                "brand": "Kenmore Elite"
+              }
+            },
+            "text": "Kenmore Elite Stainless Steel 5-Burner Liquid Propane and Natural Gas Infrared Gas Grill with Rotisserie Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "whT5rBtMwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA1J4G4UHOCPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANSeBuFBzgj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA1J4G4UHOSPwAAAAAAAAAAAAAAAAAAAAA1J4G4UHOCPwAAAAAAAAAA0LrBFPmsmz8AAAAAAAAAADUngbhQc4I/AAAAAAAAAAA1J4G4UHOCPzUngbhQc4I/AAAAAAAAAAA1J4G4UHOCPwAAAAAAAAAANSeBuFBzgj8AAAAAAAAAADUngbhQc4I/NSeBuFBzkj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADUngbhQc7I/AAAAAAAAAAAAAAAAAAAAANC6wRT5rJs/0LrBFPmsuz81J4G4UHOCPwAAAAAAAAAANSeBuFBzgj81J4G4UHOyPwAAAAAAAAAAAAAAAAAAAADQusEU+ayrPzUngbhQc4I/TgJxoeYksD/QusEU+aybPzUngbhQc4I/NSeBuFBzgj/plbH9jl65P9C6wRT5rKs/0LrBFPmsqz81J4G4UHOiPwAAAAAAAAAANSeBuFBzgj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.091398194,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b606-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "GE",
+                "full_description": "At GE Appliances, we bring good things to life. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home.",
+                "description": "27.8-cu ft French Door Refrigerator with Ice Maker and Door within Door (Fingerprint-Resistant Stainless Steel)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691847465.jpg",
+                "product_url": "https://www.lowes.com/pd/GE-27-8-cu-ft-French-Door-Refrigerator-with-Ice-Maker-and-Door-within-Door-Fingerprint-Resistant-Stainless-Steel/1000940212",
+                "title": "GE 27.8-cu ft French Door Refrigerator with Ice Maker and Door within Door (Fingerprint-Resistant Stainless Steel)"
+              }
+            },
+            "text": "GE 27.8-cu ft French Door Refrigerator with Ice Maker and Door within Door (Fingerprint-Resistant Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "eQ3lNZTXwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAfwX0E94E/cB/BfQT3gT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwH8F9BPeRP3AfwX0E94E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3gT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAfwX0E94E/cB/BfQT3gT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKK+hvIbymj9wH8F9BPeBP3AfwX0E95E/cB/BfQT3gT8AAAAAAAAAAHAfwX0E94E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3gT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAfwX0E95E/cB/BfQT3kT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAExnMZ3FdKY/AAAAAAAAAAAor6G8hvKaP3AfwX0E94E/TGcxncV0tj9wH8F9BPeRP3AfwX0E95E/KK+hvIbymj9wH8F9BPexPwAAAAAAAAAAcB/BfQT3gT9wH8F9BPeRPwAAAAAAAAAABPcR3Edwrz8E9xHcR3CvP3AfwX0E94E/AAAAAAAAAABMZzGdxXS2P3AfwX0E96E/XkN5DeU1tD9wH8F9BPeBPwAAAAAAAAAAcB/BfQT3kT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.09238899,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b630-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049464329.jpg",
+                "brand": "Whirlpool",
+                "description": "26.8-cu ft 3-Door 36-in French Door Refrigerator with Exterior Ice - Water Dispenser and Platter Pocket - Fingerprint Resistant Stainless Steel",
+                "title": "Whirlpool 26.8-cu ft 3-Door 36-in French Door Refrigerator with Exterior Ice - Water Dispenser and Platter Pocket - Fingerprint Resistant Stainless Steel",
+                "full_description": "Get more room with purposeful storage spaces for the items you use most in this French door refrigerator with large freezer. Features such as the platter pocket, In-Door-Ice&#174; storage, LED lights and a deli drawer make your family's favorites easy to fit and find. This ENERGY STAR&#174; refrigerator also has a fingerprint-resistant exterior that resists smudges and easily wipes clean.",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-26-8-cu-ft-3-Door-36-in-French-Door-Refrigerator-with-Exterior-Ice-Water-Dispenser-and-Platter-Pocket-Fingerprint-Resistant-Stainless-Steel/1000514563"
+              }
+            },
+            "text": "Whirlpool 26.8-cu ft 3-Door 36-in French Door Refrigerator with Exterior Ice - Water Dispenser and Platter Pocket - Fingerprint Resistant Stainless Steel",
+            "embedding": {
+              "dense": {
+                "buffer": "kpGRkZGRwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARZrsQZrugPxtwxRpwxXo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG3DFGnDFej8bcMUacMWKPwAAAAAAAAAAAAAAAAAAAAAbcMUacMWKPwAAAAAAAAAAG3DFGnDFej8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUlD8bcMUacMV6PxtwxRpwxYo/AAAAAAAAAAAAAAAAAAAAABtwxRpwxXo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG3DFGnDFij8AAAAAAAAAABtwxRpwxYo/G3DFGnDFij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbcMUacMWKPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFKQ/AAAAAAAAAAAbcMUacMWaPxtwxRpwxXo/GRkZGRkZuT8bcMUacMWKPxtwxRpwxYo/FBQUFBQUlD8RZrsQZruwPwAAAAAAAAAAG3DFGnDFej8RZrsQZrugPwAAAAAAAAAAG3DFGnDFqj8eHh4eHh6uPxQUFBQUFJQ/AAAAAAAAAAAXwmwXwmy3PxQUFBQUFKQ/FmvAFWvAtT8bcMUacMV6PwAAAAAAAAAAG3DFGnDFej8bcMUacMV6PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.093190916,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b65f-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "24.7-cu ft 3-Door Standard-Depth 36-in French Door Refrigerator with Exterior Ice and Water Dispenser - Fingerprint Resistant Stainless Steel",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049409238.jpg",
+                "title": "Whirlpool 24.7-cu ft 3-Door Standard-Depth 36-in French Door Refrigerator with Exterior Ice and Water Dispenser - Fingerprint Resistant Stainless Steel",
+                "full_description": "Organize foods for your family in this Whirlpool&#174; french door refrigerator available in fingerprint-resistant stainless steel. A humidity-controlled double crisper and two-tier freezer storage provide plenty of room. Spillproof shelves help contain spills and for filtered water right at hand, this refrigerator features an exterior water dispenser with EveryDrop&#174; ice and water filtration.",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-24-7-cu-ft-3-Door-Standard-Depth-36-in-French-Door-Refrigerator-with-Exterior-Ice-and-Water-Dispenser-Fingerprint-Resistant-Stainless-Steel/1000092933",
+                "brand": "Whirlpool"
+              }
+            },
+            "text": "Whirlpool 24.7-cu ft 3-Door Standard-Depth 36-in French Door Refrigerator with Exterior Ice and Water Dispenser - Fingerprint Resistant Stainless Steel",
+            "embedding": {
+              "dense": {
+                "buffer": "gWxANiAbwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACI0EPoIfSgP9mAbEA2IHs/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2YBsQDYgez/ZgGxANiCLP9mAbEA2IHs/AAAAAAAAAADZgGxANiB7P9mAbEA2IHs/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2YBsQDYgmz/ZgGxANiB7P9mAbEA2IIs/AAAAAAAAAAAAAAAAAAAAANmAbEA2IHs/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANmAbEA2IIs/o2BRsChYlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADZgGxANiCLPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL7wXngvvKc/AAAAAAAAAACjYFGwKFiUP6NgUbAoWJQ/vvBeeC+8tz/ZgGxANiCLP9mAbEA2IIs/2YBsQDYgmz+I0EPoIfSwPwAAAAAAAAAAAAAAAAAAAADZgGxANiCbPwAAAAAAAAAA9BB6CD2Erj/ZgGxANiCrP9mAbEA2IJs/AAAAAAAAAAC+8F54L7y3P6NgUbAoWKQ/o2BRsChYtD/ZgGxANiB7PwAAAAAAAAAA2YBsQDYgez/ZgGxANiB7PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.09415952,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b770-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Farberware",
+                "description": "Classic 4.4-cu ft Freestanding Mini Fridge Freezer Compartment (Vcm Stainless Look)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/815658/815658024793.jpg",
+                "full_description": "The Farberware Black 4.4 Cu Ft Compact Refrigerator offers innovative features and elegant sleek style for any small area where you need to keep food and drinks chilled. The simple controls; convenient can and bottle storage; easy-clean glass shelves; and space-saving clever reversible door hinge and flat back design make this the ideal choice for virtually any room in your home or at work. Its Energy Star compliance helps save on electricity costs and the adjustable controls lets you customize your cooling.",
+                "title": "Farberware Classic 4.4-cu ft Freestanding Mini Fridge Freezer Compartment (Vcm Stainless Look)",
+                "product_url": "https://www.lowes.com/pd/Farberware-Classic-4-4-cu-ft-Freestanding-Mini-Fridge-Freezer-Compartment-Vcm-Stainless-Look/1001852052"
+              }
+            },
+            "text": "Farberware Classic 4.4-cu ft Freestanding Mini Fridge Freezer Compartment (Vcm Stainless Look)",
+            "embedding": {
+              "dense": {
+                "buffer": "eDbqOxv1vT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFcQkyuIyYU/VxCTK4jJhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABXEJMriMmFP1cQkyuIyYU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFcQkyuIyZU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFcQkyuIyZU/AAAAAAAAAAAAAAAAAAAAAFcQkyuIyaU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFcQkyuIyYU/VxCTK4jJhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVxCTK4jJhT8AAAAAAAAAAAAAAAAAAAAAVxCTK4jJhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEFMriAmV7A/VxCTK4jJhT9BTK4gJlegP1cQkyuIyZU/bdR3Nuo7uz9XEJMriMmFP1cQkyuIyZU/AAAAAAAAAABBTK4gJlewPwAAAAAAAAAAVxCTK4jJhT9XEJMriMmVP0FMriAmV6A/bdR3Nuo7qz9BTK4gJlegP1cQkyuIyYU/AAAAAAAAAABXEJMriMm1P23UdzbqO6s/bdR3Nuo7qz9XEJMriMmFPwAAAAAAAAAAVxCTK4jJhT8AAAAAAAAAAAAAAAAAAAAAVxCTK4jJhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.095793255,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b6f7-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "27-cu ft French Door Refrigerator with Ice Maker (Fingerprint-resistant Stainless Steel) ENERGY STAR",
+                "title": "Haier 27-cu ft French Door Refrigerator with Ice Maker (Fingerprint-resistant Stainless Steel) ENERGY STAR",
+                "brand": "Haier",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691853817.jpg",
+                "product_url": "https://www.lowes.com/pd/Haier-27-cu-ft-French-Door-Refrigerator-with-Ice-Maker-Fingerprint-resistant-Stainless-Steel-ENERGY-STAR/5001229711",
+                "full_description": "Haier appliances are born for the city and designed to keep pace with a new way of living. Our appliances combine world-class design, innovative technology and a touch of city hustle, so you can live your best life 24/7. By making chores easier and life more livable, we bring the spirit of the city into your home. You can live life your way and, on your time, when you have our amazing appliances at your fingertips."
+              }
+            },
+            "text": "Haier 27-cu ft French Door Refrigerator with Ice Maker (Fingerprint-resistant Stainless Steel) ENERGY STAR",
+            "embedding": {
+              "dense": {
+                "buffer": "OqQmGG9lvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMF4K/scUoM/wXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMF4K/scUoM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz/BeCv7HFKTP8F4K/scUpM/wXgr+xxSgz/BeCv7HFKDP8F4K/scUoM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz/BeCv7HFKDPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACI1wXgr+5w/IjXBeCv7nD/BeCv7HFKDPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPJW9jmkJqg/AAAAAAAAAAAiNcF4K/ucPwAAAAAAAAAACsZb2eeQuj/BeCv7HFKTP8F4K/scUpM/wXgr+xxSkz+pCcZb2eewPwAAAAAAAAAAwXgr+xxSgz/BeCv7HFKTPwAAAAAAAAAA8lb2OaQmqD8iNcF4K/ucP8F4K/scUoM/AAAAAAAAAADyVvY5pCa4P8F4K/scUqM/wXgr+xxSsz/BeCv7HFKDPwAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.09747789,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b948-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/818899/818899020401.jpg",
+                "full_description": "",
+                "brand": "Sunstone",
+                "title": "Sunstone Stainless Steel 4-Burner Liquid Propane Gas Grill with Rotisserie Burner and Integrated Smoker Box",
+                "description": "Stainless Steel 4-Burner Liquid Propane Gas Grill with Rotisserie Burner and Integrated Smoker Box",
+                "product_url": "https://www.lowes.com/pd/Sunstone-Stainless-Steel-4-Burner-Liquid-Propane-Gas-Grill-with-Rotisserie-Burner-and-Integrated-Smoker-Box/1000663823"
+              }
+            },
+            "text": "Sunstone Stainless Steel 4-Burner Liquid Propane Gas Grill with Rotisserie Burner and Integrated Smoker Box",
+            "embedding": {
+              "dense": {
+                "buffer": "p67l4Ga/wD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC/ECtK4yODPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL8QK0rjI4M/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfmUDv1LWcPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvxArSuMjkz8AAAAAAAAAAL8QK0rjI4M/AAAAAAAAAAAAAAAAAAAAAL8QK0rjI4M/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvxArSuMjgz8AAAAAAAAAAL8QK0rjI4M/vxArSuMjoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO/UtRzc7Kc/AAAAAAAAAAAAAAAAAAAAAB+ZQO/UtZw/H5lA79S1vD8AAAAAAAAAAL8QK0rjI4M/vxArSuMjgz+nruXgZr+wPwAAAAAAAAAAvxArSuMjgz+/ECtK4yOjP78QK0rjI4M/vxArSuMjsz/v1LUc3OynP78QK0rjI4M/vxArSuMjgz/XcnCzX4i1Px+ZQO/Utaw/p67l4Ga/sD+/ECtK4yOjPwAAAAAAAAAAvxArSuMjgz+/ECtK4yODPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.09796897,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b6dc-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "KitchenAid 19.7-cu ft French Door Refrigerator with Ice Maker (Stainless Steel)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049360348.jpg",
+                "product_url": "https://www.lowes.com/pd/KitchenAid-19-7-cu-ft-French-Door-Refrigerator-with-Ice-Maker-Stainless-Steel/50415266",
+                "description": "19.7-cu ft French Door Refrigerator with Ice Maker (Stainless Steel)",
+                "full_description": "This 30-inch refrigerator is an ideal solution in small kitchens that can typically only accept a top-freezer refrigerator. French doors open with a narrow door swing similar to a side-by-side refrigerator. And inside you&#8217;ll find appealing features including an interior water dispenser and a full-width pantry drawer that helps keep your fresh food organized and easy to reach.",
+                "brand": "KitchenAid"
+              }
+            },
+            "text": "KitchenAid 19.7-cu ft French Door Refrigerator with Ice Maker (Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "aCAqHdkzwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADZMxCVjuyJP9kzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/AAAAAAAAAADZMxCVjuyJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAA2TMQlY7siT8AAAAAAAAAANkzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/AAAAAAAAAADZMxCVjuyJPwAAAAAAAAAA2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/2TMQlY7smT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOMmzO9qcaM/AAAAAAAAAADZMxCVjuypP9kzEJWO7Ik/VDqyZyAqvT/ZMxCVjuyZP9kzEJWO7Ik/4ybM72pxoz9oICod2TOwPwAAAAAAAAAA2TMQlY7siT/ZMxCVjuyZPwAAAAAAAAAA4ybM72pxoz/jJszvanGjPwAAAAAAAAAAAAAAAAAAAADjJszvanGzP9kzEJWO7Jk/4ybM72pxsz/ZMxCVjuyJPwAAAAAAAAAA2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.09806296,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b67e-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/GE-Profile-22-2-cu-ft-Counter-Depth-French-Door-Refrigerator-with-Ice-Maker-and-Door-within-Door-Fingerprint-Resistant-Stainless-Steel/1002619142",
+                "description": "Profile 22.2-cu ft Counter-Depth French Door Refrigerator with Ice Maker and Door within Door (Fingerprint-Resistant Stainless Steel)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691848820.jpg",
+                "brand": "GE",
+                "title": "GE Profile 22.2-cu ft Counter-Depth French Door Refrigerator with Ice Maker and Door within Door (Fingerprint-Resistant Stainless Steel)",
+                "full_description": "Built on the belief that modern life needs modern solutions, GE Profile Appliances are designed to make daily life simpler by incorporating Smart Home technology and cutting-edge features in every appliance. GE Profile&#8217;s sleek design and quality engineering will give your kitchen the most up-to-date look and the best innovative performance you&#8217;ve been looking for."
+              }
+            },
+            "text": "GE Profile 22.2-cu ft Counter-Depth French Door Refrigerator with Ice Maker and Door within Door (Fingerprint-Resistant Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHn4/Hh4eHh4efj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACXlpaWlpaWPx4eHh4eHn4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAl5aWlpaWlj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHn4/Hh4eHh4enj8eHh4eHh5+Px4eHh4eHo4/Hh4eHh4efj8AAAAAAAAAAB4eHh4eHn4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4efj8AAAAAAAAAAAAAAAAAAAAAHh4eHh4efj8AAAAAAAAAAB4eHh4eHo4/Hh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANPS0tLS0qI/AAAAAAAAAACXlpaWlpaWPx4eHh4eHn4/eHh4eHh4uD+XlpaWlpaWPx4eHh4eHo4/Hh4eHh4enj/x8PDw8PCwPwAAAAAAAAAAHh4eHh4efj+XlpaWlpaWPwAAAAAAAAAAHh4eHh4erj/x8PDw8PCwPx4eHh4eHo4/AAAAAAAAAACXlpaWlpa2Px4eHh4eHp4/tbS0tLS0tD8eHh4eHh6OPwAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.09823343,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b947-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/818899/818899020432.jpg",
+                "title": "Sunstone Stainless Steel 5-Burner Natural Gas Infrared Gas Grill with Rotisserie Burner and Integrated Smoker Box",
+                "product_url": "https://www.lowes.com/pd/Sunstone-Stainless-Steel-5-Burner-Natural-Gas-Infrared-Gas-Grill-with-Rotisserie-Burner-and-Integrated-Smoker-Box/1000663831",
+                "brand": "Sunstone",
+                "description": "Stainless Steel 5-Burner Natural Gas Infrared Gas Grill with Rotisserie Burner and Integrated Smoker Box",
+                "full_description": ""
+              }
+            },
+            "text": "Sunstone Stainless Steel 5-Burner Natural Gas Infrared Gas Grill with Rotisserie Burner and Integrated Smoker Box",
+            "embedding": {
+              "dense": {
+                "buffer": "wdsPCbz9wD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4+yGBtx+CPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAePshgbcfgj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0+bJBky+bPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANPmyQZMvmz8AAAAAAAAAAHj7IYG3H5I/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4+yGBtx+CPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHj7IYG3H4I/ePshgbcfoj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHj7IYG3H7I/AAAAAAAAAAAAAAAAAAAAADT5skGTL5s/NPmyQZMvuz94+yGBtx+CP3j7IYG3H4I/ePshgbcfgj9WemphpaemPwAAAAAAAAAAePshgbcfgj9WemphpaemP3j7IYG3H4I/ePshgbcfsj94+yGBtx+iPwAAAAAAAAAAAAAAAAAAAADFuY5RnOu4PxJ4+yGBt68/ePshgbcfsj94+yGBtx+iPwAAAAAAAAAAePshgbcfgj94+yGBtx+CPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.098395124,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b6b2-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Get purposefully designed zones for items you use most with this ENERGY STAR&#174; certified counter depth French door refrigerator. A unique shelving system in this ENERGY STAR&#174; certified refrigerator lets you store 30% more with features like the auto-humidity crisper drawer to help keep fruits and veggies fresh. Refrigerator LED lighting also keeps food looking as good as it tastes.",
+                "title": "Whirlpool 23.8-cu ft 3-Door Counter-Depth 36-in French Door Refrigerator with Exterior Ice and Water Dispenser - Fingerprint Resistant Stainless Steel",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-23-8-cu-ft-3-Door-Counter-Depth-36-in-French-Door-Refrigerator-with-Exterior-Ice-and-Water-Dispenser-Fingerprint-Resistant-Stainless-Steel/1000290043",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049463209.jpg",
+                "brand": "Whirlpool",
+                "description": "23.8-cu ft 3-Door Counter-Depth 36-in French Door Refrigerator with Exterior Ice and Water Dispenser - Fingerprint Resistant Stainless Steel"
+              }
+            },
+            "text": "Whirlpool 23.8-cu ft 3-Door Counter-Depth 36-in French Door Refrigerator with Exterior Ice and Water Dispenser - Fingerprint Resistant Stainless Steel",
+            "embedding": {
+              "dense": {
+                "buffer": "N9BpA502wD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGhP08b6LSBTns/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATxvotIFOez97FK5H4XqUPwAAAAAAAAAAAAAAAAAAAABPG+i0gU57PwAAAAAAAAAATxvotIFOez8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE8b6LSBTns/TxvotIFOmz9PG+i0gU57P08b6LSBTos/AAAAAAAAAAAAAAAAAAAAAE8b6LSBTns/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE8b6LSBTos/TxvotIFOiz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABPG+i0gU6LPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREaE/AAAAAAAAAAB7FK5H4XqUP08b6LSBTns/mpmZmZmZuT9PG+i0gU6LP08b6LSBTos/TxvotIFOmz8RERERERGxPwAAAAAAAAAAAAAAAAAAAABPG+i0gU6bPwAAAAAAAAAAuB6F61G4rj+4HoXrUbiuP08b6LSBTps/AAAAAAAAAADlF0t+seS3P3sUrkfheqQ/exSuR+F6tD9PG+i0gU6LPwAAAAAAAAAATxvotIFOez9PG+i0gU57PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.09875722,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b76f-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Farberware-Classic-3-1-cu-ft-Freestanding-Mini-Fridge-Freezer-Compartment-Vcm-Stainless-look/1001857948",
+                "title": "Farberware Classic 3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Vcm Stainless-look)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/815658/815658024625.jpg",
+                "brand": "Farberware",
+                "description": "Classic 3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Vcm Stainless-look)",
+                "full_description": "The Farberware 3.1 Cu Ft Compact Refrigerator offers innovative features and elegant sleek style for any small area where you need to keep food and drinks chilled. The simple controls; convenient can and bottle storage; easy-clean glass shelf; and space-saving clever reversible door hinge and flat back design make this the ideal choice for virtually any room in your home or at work. Its Energy Star compliance helps save on electricity costs and the adjustable controls lets you customize your cooling."
+              }
+            },
+            "text": "Farberware Classic 3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Vcm Stainless-look)",
+            "embedding": {
+              "dense": {
+                "buffer": "bdR3Nuo7uz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFcQkyuIyYU/VxCTK4jJhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABXEJMriMmVP1cQkyuIyYU/AAAAAAAAAAAAAAAAAAAAAFcQkyuIyYU/AAAAAAAAAABXEJMriMmFPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFcQkyuIyZU/AAAAAAAAAAAAAAAAAAAAAFcQkyuIyaU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVxCTK4jJhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVxCTK4jJhT8AAAAAAAAAAAAAAAAAAAAAVxCTK4jJhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEFMriAmV7A/VxCTK4jJhT9BTK4gJlegP1cQkyuIyZU/bdR3Nuo7uz9XEJMriMmFP1cQkyuIyZU/AAAAAAAAAABBTK4gJlewPwAAAAAAAAAAVxCTK4jJhT9BTK4gJlegP0FMriAmV6A/bdR3Nuo7qz9BTK4gJlegP1cQkyuIyYU/AAAAAAAAAABXEJMriMm1P23UdzbqO6s/bdR3Nuo7qz9XEJMriMmFPwAAAAAAAAAAVxCTK4jJhT8AAAAAAAAAAAAAAAAAAAAAVxCTK4jJhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.098832026,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b9bf-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Enjoy the outdoors this season with this rugged stainless steel grill designed for years of amazing meals. Enjoy the multi-cooking options with 5 main stainless steel burners, 1 internal sear burner and 1 side burner. This grill is designed to put out up to 96,000 BTU of cooking power. The stainless steel seamless weld lid has a built in window for easy viewing and features a built-in thermometer. Includes built in smoke box and electric rotisserie for flavor rich cooking. Enjoy cooking at all hours with the LED lit control knobs. Convertible to natural gas with purchase of conversion kit (sold separately).",
+                "brand": "Monument",
+                "image_url": "https://mobileimages.lowes.com/product/converted/856597/856597007553.jpg",
+                "description": "Clearview Stainless Steel 6-Burner Liquid Propane and Natural Gas Grill with 1 Side Burner and Rotisserie Burner and Integrated Smoker Box",
+                "product_url": "https://www.lowes.com/pd/Monument-Clearview-Stainless-Steel-6-Burner-Liquid-Propane-and-Natural-Gas-Grill-with-1-Side-Burner-and-Rotisserie-Burner-and-Integrated-Smoker-Box/1002944400",
+                "title": "Monument Clearview Stainless Steel 6-Burner Liquid Propane and Natural Gas Grill with 1 Side Burner and Rotisserie Burner and Integrated Smoker Box"
+              }
+            },
+            "text": "Monument Clearview Stainless Steel 6-Burner Liquid Propane and Natural Gas Grill with 1 Side Burner and Rotisserie Burner and Integrated Smoker Box",
+            "embedding": {
+              "dense": {
+                "buffer": "kiRJkiRJwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD3BpSJK917PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPcGlIkr3Xs/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD3BpSJK917PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD3BpSJK92bP/cGlIkr3Xs/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9waUiSvdiz8AAAAAAAAAAPcGlIkr3Xs/AAAAAAAAAAAAAAAAAAAAAPcGlIkr3Xs/9waUiSvdez/3BpSJK917PwAAAAAAAAAA9waUiSvdez8AAAAAAAAAAPcGlIkr3Xs/9waUiSvdmz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFuE/DU7arE/AAAAAAAAAAAAAAAAAAAAADkFL6fg5aQ/9waUiSvduz8AAAAAAAAAAPcGlIkr3Xs/9waUiSvdez/Wh8b60FivPwAAAAAAAAAA9waUiSvdez85BS+n4OWkP/cGlIkr3Ys/ysSV7g0osz9bhPw1O2qhP/cGlIkr3Xs/9waUiSvdez+pRchfs6O2P1uE/DU7aqE/9waUiSvdqz85BS+n4OWkP/cGlIkr3Xs/9waUiSvdiz/3BpSJK917PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.098936744,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b6c8-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049407593.jpg",
+                "description": "21.7-cu ft 3-Door 33-in French Door Refrigerator with Beverage Chiller Compartment - Fingerprint Resistant Stainless Steel",
+                "brand": "Maytag",
+                "product_url": "https://www.lowes.com/pd/Maytag-21-7-cu-ft-3-Door-33-in-French-Door-Refrigerator-with-Beverage-Chiller-Compartment-Fingerprint-Resistant-Stainless-Steel/1000121077",
+                "title": "Maytag 21.7-cu ft 3-Door 33-in French Door Refrigerator with Beverage Chiller Compartment - Fingerprint Resistant Stainless Steel",
+                "full_description": "This Maytag&#174; french door refrigerator is made with heavy-duty components and features that deliver the right kind of cold exactly where it's needed. It's available in Fingerprint Resistant Stainless Steel to keep this fridge looking as good on the outside as it works on the inside. With the touch of a button, the PowerCold&#174; feature quickly chills down the stainless steel refrigerator. Gallon-sized drinks also stay refreshing and just the right temperature when they're stored in the Beverage Chiller&#8482; compartment. The temperature-controlled Wide-N-Fresh&#8482; deli drawer provides the perfect place to keep deli items so they stay fresh longer. And when it comes to durability, this french door refrigerator has stainless steel handles to give you something hardy to grab on to, while the 10-year limited parts warranty on the compressor means you can count on it hold the cold for years."
+              }
+            },
+            "text": "Maytag 21.7-cu ft 3-Door 33-in French Door Refrigerator with Beverage Chiller Compartment - Fingerprint Resistant Stainless Steel",
+            "embedding": {
+              "dense": {
+                "buffer": "8Af8AX/Avz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwB/wBf8CfP/AH/AF/wH8/AAAAAAAAAAAAAAAAAAAAAPAH/AF/wH8/8Af8AX/Afz/0BX1BX9CXPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPAH/AF/wH8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwB/wBf8B/P/AH/AF/wI8/8Af8AX/Ajz8AAAAAAAAAAPAH/AF/wI8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8Af8AX/Afz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPAH/AF/wI8/8Af8AX/Ajz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPKGvCFvyKs/AAAAAAAAAADwB/wBf8CPPwAAAAAAAAAAc8acMWfMuT/wB/wBf8CPP/AH/AF/wJ8/9AV9QV/Qlz/wB/wBf8CvPwAAAAAAAAAAAAAAAAAAAADwB/wBf8CfP/AH/AF/wI8/8oa8IW/Iqz/0BX1BX9CnP/AH/AF/wI8/AAAAAAAAAAB1RV1RV9S1P/AH/AF/wJ8/dUVdUVfUtT/wB/wBf8B/P/AH/AF/wH8/8Af8AX/Afz8AAAAAAAAAAPAH/AF/wH8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.09922158,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b698-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/KitchenAid-26-8-cu-ft-French-Door-Refrigerator-with-Ice-Maker-Black-Stainless-with-Printshield/1000526103",
+                "title": "KitchenAid 26.8-cu ft French Door Refrigerator with Ice Maker (Black Stainless with Printshield)",
+                "description": "26.8-cu ft French Door Refrigerator with Ice Maker (Black Stainless with Printshield)",
+                "full_description": "This 26.8 cu. ft. French door refrigerator helps fresh produce stay that way with the ExtendFresh&#8482; Temperature Management System. A pull-out tray accommodates large platters with ease, while a FreshChill&#8482; Temperature-Controlled Full-Width Pantry lets you optimize temperature and airflow for the specific food you're storing. The refined interior design features LED lighting, and metallic accents add a touch of elegance.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049464305.jpg",
+                "brand": "KitchenAid"
+              }
+            },
+            "text": "KitchenAid 26.8-cu ft French Door Refrigerator with Ice Maker (Black Stainless with Printshield)",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFVVVVVVVYU/VVVVVVVVhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVVVVVVVWFP1VVVVVVVYU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVVVVVVVVhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVVVVVVVWFPwAAAAAAAAAAVVVVVVVVhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVVVVVVVVhT9VVVVVVVWFPwAAAAAAAAAAVVVVVVVVhT8AAAAAAAAAAFVVVVVVVYU/AAAAAAAAAAAAAAAAAAAAAFVVVVVVVYU/AAAAAAAAAABVVVVVVVWFPwAAAAAAAAAAVVVVVVVVhT8AAAAAAAAAAAAAAAAAAAAAVVVVVVVVhT8AAAAAAAAAAFVVVVVVVYU/VVVVVVVVhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFVVVVVVVaU/AAAAAAAAAACrqqqqqqqqP1VVVVVVVZU/VVVVVVVVtT9VVVVVVVWVP1VVVVVVVYU/q6qqqqqqqj9VVVVVVVW1PwAAAAAAAAAAVVVVVVVVlT8AAAAAAACgPwAAAAAAAAAAVVVVVVVVpT8AAAAAAACgPwAAAAAAAAAAAAAAAAAAAACrqqqqqqqyPwAAAAAAAKA/q6qqqqqqsj9VVVVVVVWFPwAAAAAAAAAAVVVVVVVVlT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.0997718,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b6c9-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "19.7-cu ft French Door Refrigerator with Ice Maker (Black Stainless with Printshield)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049418926.jpg",
+                "product_url": "https://www.lowes.com/pd/KitchenAid-19-7-cu-ft-French-Door-Refrigerator-with-Ice-Maker-Black-Stainless-with-Printshield/1000140505",
+                "full_description": "This 30-inch refrigerator is an ideal solution in small kitchens that can typically only accept a top-freezer refrigerator. French doors open with a narrow door swing similar to a side-by-side refrigerator. And inside you&#8217;ll find appealing features including an interior water dispenser and a full-width pantry drawer that helps keep your fresh food organized and easy to reach.",
+                "brand": "KitchenAid",
+                "title": "KitchenAid 19.7-cu ft French Door Refrigerator with Ice Maker (Black Stainless with Printshield)"
+              }
+            },
+            "text": "KitchenAid 19.7-cu ft French Door Refrigerator with Ice Maker (Black Stainless with Printshield)",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFVVVVVVVYU/VVVVVVVVhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVVVVVVVWFP1VVVVVVVYU/AAAAAAAAAAAAAAAAAAAAAFVVVVVVVYU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFVVVVVVVYU/AAAAAAAAAABVVVVVVVWFPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVVVVVVVVhT9VVVVVVVWFPwAAAAAAAAAAVVVVVVVVhT8AAAAAAAAAAFVVVVVVVYU/AAAAAAAAAAAAAAAAAAAAAFVVVVVVVYU/AAAAAAAAAABVVVVVVVWFPwAAAAAAAAAAVVVVVVVVhT8AAAAAAAAAAAAAAAAAAAAAVVVVVVVVhT8AAAAAAAAAAFVVVVVVVYU/VVVVVVVVhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFVVVVVVVaU/AAAAAAAAAACrqqqqqqqqP1VVVVVVVZU/VVVVVVVVtT9VVVVVVVWVP1VVVVVVVYU/q6qqqqqqqj9VVVVVVVW1PwAAAAAAAAAAVVVVVVVVlT8AAAAAAACgPwAAAAAAAAAAVVVVVVVVpT8AAAAAAACgPwAAAAAAAAAAAAAAAAAAAACrqqqqqqqyPwAAAAAAAKA/q6qqqqqqsj9VVVVVVVWFPwAAAAAAAAAAVVVVVVVVlT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.0997718,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          }
+        ],
+        "tags": {},
+        "text": "refrigerator with french door and ice maker in stainless steel",
+        "embedding": {
+          "dense": {
+            "buffer": "lVJKKaWUwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQQQgghhLA/AAAAAAAAAACEEEIIIYSgP4QQQgghhKA/hBBCCCGEwD+EEEIIIYSgP4QQQgghhJA/hBBCCCGEoD+llFJKKaW0PwAAAAAAAAAAhBBCCCGEkD+EEEIIIYSgP4QQQgghhJA/hBBCCCGEsD/GGGOMMcaoPwAAAAAAAAAAAAAAAAAAAADnnHPOOee8P4QQQgghhLA/hBBCCCGEsD8AAAAAAAAAAAAAAAAAAAAAhBBCCCGEkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "shape": [
+              96
+            ],
+            "dtype": "<f8",
+            "quantization": 0,
+            "maxVal": 0,
+            "minVal": 0,
+            "scale": 0,
+            "originalDtype": ""
+          }
+        },
+        "granularity": 0,
+        "adjacency": 0,
+        "parentId": "",
+        "chunks": [],
+        "weight": 0,
+        "uri": "",
+        "mimeType": "",
+        "location": [],
+        "offset": 0,
+        "scores": {},
+        "modality": "",
+        "evaluations": {}
+      }
+    ],
+    "groundtruths": []
+  }
+}

@@ -1,0 +1,1021 @@
+{
+  "requestId": "0a8b3eb5-8859-4122-8d12-3cc8a4f14c1f",
+  "data": {
+    "docs": [
+      {
+        "id": "ed39e632-5e87-11ec-9e82-17576e5cd1d2",
+        "matches": [
+          {
+            "id": "82f2b040-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "3.3-cu ft Freestanding Mini Fridge (Silver Mist)",
+                "title": "Frigidaire 3.3-cu ft Freestanding Mini Fridge (Silver Mist)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505645501.jpg",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-3-3-cu-ft-Freestanding-Mini-Fridge-Silver-Mist/1000788204",
+                "full_description": "",
+                "brand": "Frigidaire"
+              }
+            },
+            "text": "Frigidaire 3.3-cu ft Freestanding Mini Fridge (Silver Mist)",
+            "embedding": {
+              "dense": {
+                "buffer": "VwQNJ3Vfvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/DSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPw0ndV8eW5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJ3VfHluhPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJS6L4+tCKo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADSd1Xx5boT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW6E/AAAAAAAAAAANJ3VfHluRP5S6L4+tCKo/0HBS9+WxtT8NJ3VfHluRP5S6L4+tCKo/AAAAAAAAAADvy2MrgobDPwAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPwAAAAAAAAAAlLovj60Iqj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADQcFL35bG1Pw0ndV8eW6E/lLovj60Iqj8NJ3VfHluRPw0ndV8eW5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18374702,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b042-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Frigidaire-4-5-cu-ft-Freestanding-Mini-Fridge-Freezer-Compartment-Silver-Mist/1001354724",
+                "description": "4.5-cu ft Freestanding Mini Fridge Freezer Compartment (Silver Mist)",
+                "title": "Frigidaire 4.5-cu ft Freestanding Mini Fridge Freezer Compartment (Silver Mist)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505645655.jpg",
+                "brand": "Frigidaire",
+                "full_description": ""
+              }
+            },
+            "text": "Frigidaire 4.5-cu ft Freestanding Mini Fridge Freezer Compartment (Silver Mist)",
+            "embedding": {
+              "dense": {
+                "buffer": "VDqyZyAqvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADZMxCVjuyJP9kzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAANkzEJWO7Kk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2TMQlY7smT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOMmzO9qcaM/AAAAAAAAAADZMxCVjuyJP+MmzO9qcaM/VDqyZyAqvT/ZMxCVjuyJP+MmzO9qcaM/AAAAAAAAAABUOrJnICq9PwAAAAAAAAAAAAAAAAAAAADZMxCVjuyJP9kzEJWO7Jk/2TMQlY7sqT/ZMxCVjuyJP9kzEJWO7Ik/AAAAAAAAAADZMxCVjuy5P9kzEJWO7Jk/aCAqHdkzsD/ZMxCVjuyJP9kzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18891272,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b039-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Frigidaire-3-1-cu-ft-Freestanding-Mini-Fridge-Freezer-Compartment-Silver-Mist/1000940476",
+                "full_description": "",
+                "brand": "Frigidaire",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505645532.jpg",
+                "description": "3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Silver Mist)",
+                "title": "Frigidaire 3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Silver Mist)"
+              }
+            },
+            "text": "Frigidaire 3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Silver Mist)",
+            "embedding": {
+              "dense": {
+                "buffer": "VDqyZyAqvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADZMxCVjuyJP9kzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/AAAAAAAAAADZMxCVjuyJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAANkzEJWO7Kk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2TMQlY7smT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOMmzO9qcaM/AAAAAAAAAADZMxCVjuyJP+MmzO9qcaM/VDqyZyAqvT/ZMxCVjuyJP+MmzO9qcaM/AAAAAAAAAABUOrJnICq9PwAAAAAAAAAAAAAAAAAAAADZMxCVjuyJP9kzEJWO7Jk/2TMQlY7sqT/ZMxCVjuyJP9kzEJWO7Ik/AAAAAAAAAADZMxCVjuy5P9kzEJWO7Jk/aCAqHdkzsD/ZMxCVjuyJP9kzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18891272,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b032-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/819130/819130027128.jpg",
+                "product_url": "https://www.lowes.com/pd/Hisense-2-7-cu-ft-Freestanding-Mini-Fridge-Silver/1002981228",
+                "description": "2.7-cu ft Freestanding Mini Fridge (Silver)",
+                "brand": "Hisense",
+                "full_description": "This energy star 2.7 Cu. Ft. Single door stainless steel look mini fridge is perfect for college dorms, break rooms, or just extra storage for your home and office space. The adjustable legs and reversible door design allow for placement of this mini refrigerator virtually anywhere you need it. The sleek and fashionable all fridge design does not compromise its functionality. This model has convenient storage shelves on the door for canned beverages and a 2-Liter bottle as well as extra space for single-serve yogurt or other condiments/snacks. Removable fresh-food glass shelves provide storage for larger items to efficiently utilize interior capacity.",
+                "title": "Hisense 2.7-cu ft Freestanding Mini Fridge (Silver)"
+              }
+            },
+            "text": "Hisense 2.7-cu ft Freestanding Mini Fridge (Silver)",
+            "embedding": {
+              "dense": {
+                "buffer": "Hh4eHh4evj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFJQ/FBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPxQUFBQUFJQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFJQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFKQ/AAAAAAAAAAAUFBQUFBSUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFJQ/AAAAAAAAAAAUFBQUFBSUPxQUFBQUFKQ/Hh4eHh4evj8UFBQUFBSUPxQUFBQUFKQ/AAAAAAAAAAAeHh4eHh6+PwAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPwAAAAAAAAAAFBQUFBQUtD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6uPx4eHh4eHq4/FBQUFBQUpD8UFBQUFBSUPxQUFBQUFJQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20286301,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b02e-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/819130/819130027142.jpg",
+                "brand": "Hisense",
+                "title": "Hisense 4.4-cu ft Freestanding Mini Fridge (Silver)",
+                "product_url": "https://www.lowes.com/pd/Hisense-4-4-cu-ft-Freestanding-Mini-Fridge-Silver/1002927622",
+                "description": "4.4-cu ft Freestanding Mini Fridge (Silver)",
+                "full_description": "This energy star 4.4 cu ft single door stainless steel look mini fridge is perfect for college dorms, break rooms, or just extra storage for your home and office space. The adjustable legs and reversible door design allow for placement of this mini refrigerator virtually anywhere you need it. The sleek and fashionable all fridge design does not compromise its functionality. This model has convenient storage shelves on the door for canned beverages and a 2-Liter bottle as well as extra space for single-serve yogurt or other condiments/snacks. Removable fresh-food glass shelves provide storage for larger items to efficiently utilize interior capacity."
+              }
+            },
+            "text": "Hisense 4.4-cu ft Freestanding Mini Fridge (Silver)",
+            "embedding": {
+              "dense": {
+                "buffer": "Hh4eHh4evj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFJQ/FBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPxQUFBQUFJQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFKQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFKQ/AAAAAAAAAAAUFBQUFBSUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFJQ/AAAAAAAAAAAUFBQUFBSUPxQUFBQUFKQ/Hh4eHh4evj8UFBQUFBSUPxQUFBQUFKQ/AAAAAAAAAAAeHh4eHh6+PwAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPwAAAAAAAAAAFBQUFBQUtD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6uPx4eHh4eHq4/FBQUFBQUpD8UFBQUFBSUPxQUFBQUFJQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20474945,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b033-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Hisense",
+                "description": "3.3-cu ft Freestanding Mini Fridge (Silver)",
+                "title": "Hisense 3.3-cu ft Freestanding Mini Fridge (Silver)",
+                "product_url": "https://www.lowes.com/pd/Hisense-3-3-cu-ft-Freestanding-Mini-Fridge-Silver/1002927610",
+                "full_description": "This energy star 3.3 Cu. Ft. Single door stainless steel look mini fridge is perfect for college dorms, break rooms, or just extra storage for your home and office space. The adjustable legs and reversible door design allow for placement of this mini refrigerator virtually anywhere you need it. The sleek and fashionable all fridge design does not compromise its functionality. This model has convenient storage shelves on the door for canned beverages and a 2-Liter bottle as well as extra space for single-serve yogurt or other condiments/snacks. Removable fresh-food glass shelves provide storage for larger items to efficiently utilize interior capacity.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/819130/819130027135.jpg"
+              }
+            },
+            "text": "Hisense 3.3-cu ft Freestanding Mini Fridge (Silver)",
+            "embedding": {
+              "dense": {
+                "buffer": "Hh4eHh4evj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFJQ/FBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPxQUFBQUFJQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBSkPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFKQ/AAAAAAAAAAAUFBQUFBSUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFJQ/AAAAAAAAAAAUFBQUFBSUPxQUFBQUFKQ/Hh4eHh4evj8UFBQUFBSUPxQUFBQUFKQ/AAAAAAAAAAAeHh4eHh6+PwAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPwAAAAAAAAAAFBQUFBQUtD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6uPx4eHh4eHq4/FBQUFBQUpD8UFBQUFBSUPxQUFBQUFJQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20474945,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b0aa-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Premium Levella 3.2-cu ft Freestanding Mini Fridge (White)",
+                "brand": "Premium Levella",
+                "full_description": "This 3.2 cu. Ft. refrigerator is the perfect size for the dorm room, work shop, she shed, man cave or if you simply want a little extra refrigerator storage. The adjustable shelves in the main compartment and door storage keep your food items organized. The energy efficiency of this refrigerator will not only save on energy usage it will save you money too.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100287/1002872476.jpg",
+                "product_url": "https://www.lowes.com/pd/Premium-Levella-3-2-cu-ft-Freestanding-Mini-Fridge-White/1002872476",
+                "description": "3.2-cu ft Freestanding Mini Fridge (White)"
+              }
+            },
+            "text": "Premium Levella 3.2-cu ft Freestanding Mini Fridge (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "R1juaYTlvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJZ7GmG5p5E/lnsaYbmnkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACWexphuaeRP5Z7GmG5p5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlnsaYbmnkT+WexphuaeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJZ7GmG5p6E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJZ7GmG5p5E/lnsaYbmnkT8AAAAAAAAAAAAAAAAAAAAAlnsaYbmnkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACWexphuaeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJZ7GmG5p6E/AAAAAAAAAACWexphuaeRP5Z7GmG5p6E/R1juaYTlvj+WexphuaeRP5Z7GmG5p6E/lnsaYbmnkT9huacRlnu6PwAAAAAAAAAAAAAAAAAAAACWexphuaehP5Z7GmG5p6E/YbmnEZZ7qj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABhuacRlnuqP5Z7GmG5p5E/YbmnEZZ7qj+WexphuaehP5Z7GmG5p5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20592363,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b195-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "22-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+                "brand": "Frigidaire",
+                "title": "Frigidaire 22-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505645761.jpg",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-22-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-White/1000245223",
+                "full_description": ""
+              }
+            },
+            "text": "Frigidaire 22-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "Hh4eHh4evj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/Hh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACXlpaWlpamPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4enj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/AAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/Hh4eHh4enj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6OPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJeWlpaWlqY/Hh4eHh4ejj8eHh4eHh6eP5eWlpaWlqY/Hh4eHh4evj8eHh4eHh6ePx4eHh4eHp4/Hh4eHh4enj8eHh4eHh6+PwAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6OPwAAAAAAAAAAAAAAAAAAAACXlpaWlpa2PwAAAAAAAAAAHh4eHh4erj8eHh4eHh6OPwAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAB4eHh4eHo4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20629278,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b194-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Frigidaire-25-5-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-White/1000245229",
+                "description": "25.5-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+                "brand": "Frigidaire",
+                "title": "Frigidaire 25.5-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+                "full_description": "",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505645822.jpg"
+              }
+            },
+            "text": "Frigidaire 25.5-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "HdRBHdRBvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB3UQR3UQY0/HdRBHdRBjT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWX/EVX/GlPx3UQR3UQY0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHdRBHdRBjT8AAAAAAAAAAAAAAAAAAAAAHdRBHdRBnT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB3UQR3UQY0/AAAAAAAAAAAAAAAAAAAAAB3UQR3UQY0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHdRBHdRBjT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB3UQR3UQY0/HdRBHdRBnT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAd1EEd1EGNPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABZf8RVf8aU/HdRBHdRBjT8d1EEd1EGdPxZf8RVf8aU/HdRBHdRBvT8d1EEd1EGdPx3UQR3UQZ0/HdRBHdRBnT8d1EEd1EG9PwAAAAAAAAAAHdRBHdRBjT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAd1EEd1EGNPwAAAAAAAAAAAAAAAAAAAAAWX/EVX/G1PwAAAAAAAAAAHdRBHdRBrT8d1EEd1EGNPwAAAAAAAAAAHdRBHdRBjT8AAAAAAAAAAB3UQR3UQY0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20876487,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b02c-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "This energy star 3.3 Cu. Ft. Double door stainless steel look mini fridge is perfect for college dorms, break rooms, or just extra storage for your home and office space. Separate 1.0 cu. Ft. freezer provides storage room for ice cream and frozen meals. The adjustable legs and reversible door design allow for placement of this mini refrigerator virtually anywhere you need it. The sleek and fashionable design does not compromise its functionality. This model has convenient storage shelves on the refrigerator door for 2-Liter bottles as well as extra space for single-serve yogurt or canned beverages. Removable glass shelves provide storage for larger items to efficiently utilize interior capacity. The sliding crisper drawer makes it easy to store fresh fruits and vegetables.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/819130/819130026954.jpg",
+                "title": "Hisense 3.3-cu ft Freestanding Mini Fridge Freezer Compartment (Silver)",
+                "product_url": "https://www.lowes.com/pd/Hisense-3-3-cu-ft-Freestanding-Mini-Fridge-Freezer-Compartment-Silver/1002922034",
+                "description": "3.3-cu ft Freestanding Mini Fridge Freezer Compartment (Silver)",
+                "brand": "Hisense"
+              }
+            },
+            "text": "Hisense 3.3-cu ft Freestanding Mini Fridge Freezer Compartment (Silver)",
+            "embedding": {
+              "dense": {
+                "buffer": "C5sDiVbYvD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/C5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVticPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAEi0wuZAoqU/AAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Jw/AAAAAAAAAAALmwOJVtiMPwubA4lW2Jw/50CiFTYHwj8LmwOJVtiMPwubA4lW2Jw/AAAAAAAAAABItMLmQKK1PwAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwubA4lW2Jw/50CiFTYHsj8LmwOJVtiMPwubA4lW2Iw/AAAAAAAAAABItMLmQKK1P0i0wuZAoqU/C5sDiVbYrD8LmwOJVtiMPwubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.210513,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b030-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Hisense-4-4-cu-ft-Freestanding-Mini-Fridge-Freezer-Compartment-Silver/1002981218",
+                "title": "Hisense 4.4-cu ft Freestanding Mini Fridge Freezer Compartment (Silver)",
+                "full_description": "This energy star 4.4 Cu. Ft. Double door stainless steel look mini fridge is perfect for college dorms, break rooms, or just extra storage for your home and office space. Separate 1.1 cu. Ft. freezer provides storage room for ice cream and frozen meals. The adjustable legs and reversible door design allow for placement of this mini refrigerator virtually anywhere you need it. The sleek and fashionable design does not compromise its functionality. This model has convenient storage shelves on the refrigerator door for 2-Liter bottles as well as extra space for single-serve yogurt or canned beverages. Removable glass shelves provide storage for larger items to efficiently utilize interior capacity. The sliding crisper drawer makes it easy to store your fresh fruits and vegetables.",
+                "description": "4.4-cu ft Freestanding Mini Fridge Freezer Compartment (Silver)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/819130/819130027173.jpg",
+                "brand": "Hisense"
+              }
+            },
+            "text": "Hisense 4.4-cu ft Freestanding Mini Fridge Freezer Compartment (Silver)",
+            "embedding": {
+              "dense": {
+                "buffer": "C5sDiVbYvD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/C5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Jw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAEi0wuZAoqU/AAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Jw/AAAAAAAAAAALmwOJVtiMPwubA4lW2Jw/50CiFTYHwj8LmwOJVtiMPwubA4lW2Jw/AAAAAAAAAABItMLmQKK1PwAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwubA4lW2Jw/50CiFTYHsj8LmwOJVtiMPwubA4lW2Iw/AAAAAAAAAABItMLmQKK1P0i0wuZAoqU/C5sDiVbYrD8LmwOJVtiMPwubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.210513,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b079-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Danby Designer 2.6-cu ft Freestanding Mini Fridge (White)",
+                "description": "Designer 2.6-cu ft Freestanding Mini Fridge (White)",
+                "product_url": "https://www.lowes.com/pd/Danby-Designer-2-6-cu-ft-Freestanding-Mini-Fridge-White/1000485937",
+                "full_description": "The Danby Designer Energy Star 2.6 cu. ft. compact all refrigerator is energy efficient refrigeration in a convenient, compact unit. Perfect for small spaces, this model makes a great addition to the student dorm room or small office. It includes the CanStor beverage dispenser, tall bottle storage and a scratch resistant work top to store accessories. With a reversible door hinge, an integrated door handle and a smooth-back design, this handy refrigerator will fit almost anywhere.",
+                "brand": "Danby",
+                "image_url": "https://mobileimages.lowes.com/product/converted/067638/067638998994.jpg"
+              }
+            },
+            "text": "Danby Designer 2.6-cu ft Freestanding Mini Fridge (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "BPcR3Edwvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAfwX0E95E/cB/BfQT3kT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwH8F9BPeRP3AfwX0E95E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3kT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwH8F9BPeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3oT8AAAAAAAAAAHAfwX0E96E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3kT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwH8F9BPeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAfwX0E96E/cB/BfQT3kT9wH8F9BPeRP3AfwX0E96E/KK+hvIbyuj9wH8F9BPeRPyivobyG8qo/cB/BfQT3kT8or6G8hvK6PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATGcxncV0tj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAor6G8hvKqP3AfwX0E96E/KK+hvIbyqj9wH8F9BPeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAfwX0E95E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.21267906,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b046-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Danby Contemporary Classic 4.4-cu ft Freestanding Mini Fridge (Iridium Silver Steel)",
+                "full_description": "Drawing inspiration from mid-century styling and simplicity, Danby's Contemporary Classic compact all refrigerator reimagines retro for the modern consumer. Featuring Danby's exclusive retro-inspired curved door design, metallic door finish, door lock, rubber-grip ergonomic chrome handle and stylized chrome worktop, its exterior features are only outmatched by its signature black interior with white LED light. Boasting 4.4 cubic-feet (124 liters) of cooling space, it features two and a half tempered-glass shelves for maximum storage versatility and a covered vegetable crisper. There's more than enough room for larger bottles and it also includes an efficient CanStor beverage dispenser. Maintenance and cleaning are as simple as can be with the automatic defrost system. Plus, this model is built for convenience as the reversible door hinge allows you to adjust it for either left or right-handed opening.",
+                "brand": "Danby",
+                "description": "Contemporary Classic 4.4-cu ft Freestanding Mini Fridge (Iridium Silver Steel)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/067638/067638005227.jpg",
+                "product_url": "https://www.lowes.com/pd/Danby-Contemporary-Classic-4-4-cu-ft-Freestanding-Mini-Fridge-Iridium-Silver-Steel/1000485953"
+              }
+            },
+            "text": "Danby Contemporary Classic 4.4-cu ft Freestanding Mini Fridge (Iridium Silver Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "nud5nud5vj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYYg/GIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYhmEYhmGIPxiGYRiGYYg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYZg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYZg/GIZhGIZhiD8AAAAAAAAAABiGYRiGYZg/AAAAAAAAAAAAAAAAAAAAABiGYRiGYYg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGIZhGIZhmD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYag/GIZhGIZhiD8YhmEYhmGYP5IkSZIkSaI/VVVVVVVVtT8YhmEYhmGIPxiGYRiGYZg/AAAAAAAAAAAYhmEYhmG4PwAAAAAAAAAAAAAAAAAAAACSJEmSJEmiPxiGYRiGYZg/nud5nud5rj8YhmEYhmGYPxiGYRiGYYg/AAAAAAAAAACSJEmSJEmyP5IkSZIkSaI/GIZhGIZhqD8YhmEYhmGYPxiGYRiGYYg/AAAAAAAAAAAAAAAAAAAAABiGYRiGYZg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.21633936,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b193-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Frigidaire-22-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-Black/1000245225",
+                "title": "Frigidaire 22-cu ft Side-by-Side Refrigerator with Ice Maker (Black)",
+                "brand": "Frigidaire",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505645754.jpg",
+                "description": "22-cu ft Side-by-Side Refrigerator with Ice Maker (Black)",
+                "full_description": ""
+              }
+            },
+            "text": "Frigidaire 22-cu ft Side-by-Side Refrigerator with Ice Maker (Black)",
+            "embedding": {
+              "dense": {
+                "buffer": "Hh4eHh4evj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/Hh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACXlpaWlpamPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4enj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6OPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/AAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/Hh4eHh4enj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHq4/Hh4eHh4ejj+XlpaWlpamP5eWlpaWlqY/WlpaWlpauj8eHh4eHh6ePx4eHh4eHp4/Hh4eHh4ejj9aWlpaWlq6PwAAAAAAAAAAHh4eHh4enj8eHh4eHh6OPwAAAAAAAAAAAAAAAAAAAAAeHh4eHh6OPwAAAAAAAAAAAAAAAAAAAACXlpaWlpa2PwAAAAAAAAAAl5aWlpaWpj8eHh4eHh6OPwAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAB4eHh4eHo4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.21718729,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b293-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "NAPOLEON Prestige Grey 4-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner and Rotisserie Burner",
+                "brand": "NAPOLEON",
+                "description": "Prestige Grey 4-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner and Rotisserie Burner",
+                "full_description": "The Napoleon Prestige&#174; 500 Propane Gas Grill with Infrared Side and Rear Burners is the total grilling package; with a stunning porcelain enamel grey hood and stainless steel construction, this cart model has the capabilities of a full outdoor kitchen. With four main burners, an infrared rear and side burner, this grill can cook meals using eight unique cooking styles. Grill for a crowd with a capacity for up to thirty hamburgers, and up to eight more on the side burner. You'll know it's a Napoleon with the Iconic WAVE&#8482; cooking grids for those distinctive sear marks. Not just durable on the outside; under the lid, is the same quality stainless steel used for the tube burners, dual-level sear plates and cooking grids. Seven stainless steel sear plates provide extra surface area for any drippings from your food to vaporize, avoiding flare-ups. Never leave your barbecue on again as all the Prestige&#174; series grills come with the SafetyGlow feature where the control knobs glow red when the burner is on. Enjoy evenly cooked restuarant style meals with the rear infrared burner and rotisserie.",
+                "product_url": "https://www.lowes.com/pd/NAPOLEON-Prestige-Grey-4-Burner-Liquid-Propane-Infrared-Gas-Grill-with-1-Side-Burner-and-Rotisserie-Burner/1002565684",
+                "image_url": "https://mobileimages.lowes.com/product/converted/629162/629162131362.jpg"
+              }
+            },
+            "text": "NAPOLEON Prestige Grey 4-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner and Rotisserie Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "NcF4K/scwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKDPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMF4K/scUoM/AAAAAAAAAAAAAAAAAAAAAMF4K/scUoM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz8iNcF4K/ucPwAAAAAAAAAAAAAAAAAAAADBeCv7HFKDPwAAAAAAAAAAIjXBeCv7nD8AAAAAAAAAAMF4K/scUoM/AAAAAAAAAAAAAAAAAAAAAMF4K/scUpM/AAAAAAAAAADBeCv7HFKTP8F4K/scUpM/IjXBeCv7nD8AAAAAAAAAAMF4K/scUoM/wXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMF4K/scUqM/AAAAAAAAAAAAAAAAAAAAAMF4K/scUqM/CsZb2eeQuj/BeCv7HFKDP8F4K/scUoM/wXgr+xxSgz/BeCv7HFKzPwAAAAAAAAAAAAAAAAAAAADBeCv7HFKTPwAAAAAAAAAAIjXBeCv7rD/BeCv7HFKTP8F4K/scUoM/wXgr+xxSgz86pCYYb2W/P8F4K/scUqM/IjXBeCv7nD/BeCv7HFKjPwAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAMF4K/scUoM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.2172808,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b2d5-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Prestige Grey 5-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner and Rotisserie Burner",
+                "product_url": "https://www.lowes.com/pd/NAPOLEON-Prestige-Grey-5-Burner-Liquid-Propane-Infrared-Gas-Grill-with-1-Side-Burner-and-Rotisserie-Burner/1002565876",
+                "full_description": "The Napoleon prestige&#174; 665 propane gas grill with infrared side and rear burners is the total grilling package; with a stunning porcelain enamel grey hood and stainless steel construction, this full sized cart model barbecue has the capabilities of a full outdoor kitchen. With five main burners, an infrared rear and side burner, this grill can cook meals using eight unique cooking styles. You'll know it's a Napoleon with the iconic wave&#8482; cooking grids for those distinctive sear marks. Not just durable on the outside; under the lid, is the same quality stainless steel used for the basin, tube burners, dual-level sear plates, and cooking grids. The stainless steel sear plates provide extra surface area for any drippings from your food to vaporize, avoiding flare-ups. Never leave your barbecue on again as all the prestige&#174; series grills come with the safety glow feature where the control knobs glow red when the burner is on.",
+                "brand": "NAPOLEON",
+                "image_url": "https://mobileimages.lowes.com/product/converted/629162/629162131867.jpg",
+                "title": "NAPOLEON Prestige Grey 5-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner and Rotisserie Burner"
+              }
+            },
+            "text": "NAPOLEON Prestige Grey 5-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner and Rotisserie Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "NcF4K/scwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKDPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMF4K/scUoM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz8iNcF4K/ucPwAAAAAAAAAAAAAAAAAAAADBeCv7HFKDPwAAAAAAAAAAIjXBeCv7nD8AAAAAAAAAAMF4K/scUoM/AAAAAAAAAAAAAAAAAAAAAMF4K/scUpM/AAAAAAAAAADBeCv7HFKTP8F4K/scUpM/IjXBeCv7nD8AAAAAAAAAAMF4K/scUoM/wXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMF4K/scUqM/AAAAAAAAAAAAAAAAAAAAAMF4K/scUqM/CsZb2eeQuj/BeCv7HFKDP8F4K/scUoM/wXgr+xxSgz/BeCv7HFKzPwAAAAAAAAAAAAAAAAAAAADBeCv7HFKTPwAAAAAAAAAAIjXBeCv7rD/BeCv7HFKTP8F4K/scUoM/wXgr+xxSgz86pCYYb2W/P8F4K/scUqM/IjXBeCv7nD/BeCv7HFKjPwAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAMF4K/scUoM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.2172808,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b27e-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/100129/1001298752.jpg",
+                "full_description": "Portable Infrared Grill",
+                "description": "Silver 1-Burner Liquid Propane Infrared Gas Grill",
+                "product_url": "https://www.lowes.com/pd/Vivere-Silver-1-Burner-Liquid-Propane-Infrared-Gas-Grill/1001298752",
+                "brand": "Vivere",
+                "title": "Vivere Silver 1-Burner Liquid Propane Infrared Gas Grill"
+              }
+            },
+            "text": "Vivere Silver 1-Burner Liquid Propane Infrared Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACSJEmSJEmSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIkSZIkSZI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACSJEmSJEmSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkiRJkiRJoj8AAAAAAAAAAJIkSZIkSZI/AAAAAAAAAAAAAAAAAAAAAJIkSZIkSZI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANu2bdu2bas/AAAAAAAAAAAAAAAAAAAAAJIkSZIkSaI/27Zt27Ztuz+SJEmSJEmSPwAAAAAAAAAAAAAAAAAAAAC3bdu2bdu2PwAAAAAAAAAAAAAAAAAAAADbtm3btm2rPwAAAAAAAAAA27Zt27Ztqz+SJEmSJEmSP5IkSZIkSZI/kiRJkiRJkj+SJEmSJEnCP5IkSZIkSZI/AAAAAAAAAACSJEmSJEmiP5IkSZIkSaI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.21787341,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b27d-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Silver 1-Burner Liquid Propane Infrared Gas Grill",
+                "brand": "Vivere",
+                "product_url": "https://www.lowes.com/pd/Vivere-Silver-1-Burner-Liquid-Propane-Infrared-Gas-Grill/1001273324",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100127/1001273324.jpg",
+                "title": "Vivere Silver 1-Burner Liquid Propane Infrared Gas Grill",
+                "full_description": "You heard us, a larger cooking space."
+              }
+            },
+            "text": "Vivere Silver 1-Burner Liquid Propane Infrared Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACSJEmSJEmSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIkSZIkSZI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACSJEmSJEmSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkiRJkiRJoj8AAAAAAAAAAJIkSZIkSZI/AAAAAAAAAAAAAAAAAAAAAJIkSZIkSZI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANu2bdu2bas/AAAAAAAAAAAAAAAAAAAAAJIkSZIkSaI/27Zt27Ztuz+SJEmSJEmSPwAAAAAAAAAAAAAAAAAAAAC3bdu2bdu2PwAAAAAAAAAAAAAAAAAAAADbtm3btm2rPwAAAAAAAAAA27Zt27Ztqz+SJEmSJEmSP5IkSZIkSZI/kiRJkiRJkj+SJEmSJEnCP5IkSZIkSZI/AAAAAAAAAACSJEmSJEmiP5IkSZIkSaI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.21787341,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b27f-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Infrared grill.",
+                "brand": "Vivere",
+                "title": "Vivere Silver 1-Burner Liquid Propane Infrared Gas Grill",
+                "description": "Silver 1-Burner Liquid Propane Infrared Gas Grill",
+                "product_url": "https://www.lowes.com/pd/Vivere-Silver-1-Burner-Liquid-Propane-Infrared-Gas-Grill/1001307552",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100130/1001307552.jpg"
+              }
+            },
+            "text": "Vivere Silver 1-Burner Liquid Propane Infrared Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACSJEmSJEmSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIkSZIkSZI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACSJEmSJEmSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkiRJkiRJoj8AAAAAAAAAAJIkSZIkSZI/AAAAAAAAAAAAAAAAAAAAAJIkSZIkSZI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANu2bdu2bas/AAAAAAAAAAAAAAAAAAAAAJIkSZIkSaI/27Zt27Ztuz+SJEmSJEmSPwAAAAAAAAAAAAAAAAAAAAC3bdu2bdu2PwAAAAAAAAAAAAAAAAAAAADbtm3btm2rPwAAAAAAAAAA27Zt27Ztqz+SJEmSJEmSP5IkSZIkSZI/kiRJkiRJkj+SJEmSJEnCP5IkSZIkSZI/AAAAAAAAAACSJEmSJEmiP5IkSZIkSaI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.21787341,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b05e-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691820680.jpg",
+                "product_url": "https://www.lowes.com/pd/GE-3-1-cu-ft-Freestanding-Mini-Fridge-Freezer-Compartment-White/1000060825",
+                "title": "GE 3.1-cu ft Freestanding Mini Fridge Freezer Compartment (White)",
+                "brand": "GE",
+                "full_description": "At GE Appliances, we bring good things to life. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home.",
+                "description": "3.1-cu ft Freestanding Mini Fridge Freezer Compartment (White)"
+              }
+            },
+            "text": "GE 3.1-cu ft Freestanding Mini Fridge Freezer Compartment (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "IPiBH/iBvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACD4gR/4gY8/IPiBH/iBjz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg+IEf+IGPPyD4gR/4gY8/AAAAAAAAAAAAAAAAAAAAACD4gR/4gY8/AAAAAAAAAAAg+IEf+IGPPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACD4gR/4gY8/AAAAAAAAAAAg+IEf+IGPPxh6oRd6oac/IPiBH/iBjz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIPiBH/iBjz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg+IEf+IGPPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACD4gR/4gZ8/AAAAAAAAAAAg+IEf+IGPPyD4gR/4gZ8/IPiBH/iBvz8g+IEf+IGPPyD4gR/4gZ8/IPiBH/iBjz8UO7ETO7GzPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACD4gR/4gZ8/IPiBH/iBrz8g+IEf+IGPPyD4gR/4gY8/AAAAAAAAAAAUO7ETO7GzPyD4gR/4gY8/FDuxEzuxsz8g+IEf+IGPPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIPiBH/iBjz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.21805428,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          }
+        ],
+        "tags": {},
+        "text": "red mini fridge",
+        "embedding": {
+          "dense": {
+            "buffer": "ERERERERwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREcE/ERERERERwT8RERERERGxPxEREREREbE/AAAAAAAAAACamZmZmZnJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREbE/ERERERERsT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERHBPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "shape": [
+              96
+            ],
+            "dtype": "<f8",
+            "quantization": 0,
+            "maxVal": 0,
+            "minVal": 0,
+            "scale": 0,
+            "originalDtype": ""
+          }
+        },
+        "granularity": 0,
+        "adjacency": 0,
+        "parentId": "",
+        "chunks": [],
+        "weight": 0,
+        "uri": "",
+        "mimeType": "",
+        "location": [],
+        "offset": 0,
+        "scores": {},
+        "modality": "",
+        "evaluations": {}
+      }
+    ],
+    "groundtruths": []
+  }
+}

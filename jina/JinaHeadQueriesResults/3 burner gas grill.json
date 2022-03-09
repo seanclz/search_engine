@@ -1,0 +1,1021 @@
+{
+  "requestId": "e8628a4e-8820-41ff-b977-bec52836d6e8",
+  "data": {
+    "docs": [
+      {
+        "id": "0e36c3ce-40b4-11ec-a63e-e3ebb0d407f3",
+        "matches": [
+          {
+            "id": "2db79ab2-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/062703/062703851174.jpg",
+                "product_url": "https://www.lowes.com/pd/Broil-King-Regal-S420-Stainless-Steel-4-Burner-Natural-Gas-Grill/1000955506",
+                "full_description": "",
+                "description": "Regal S420 Stainless Steel 4-Burner Natural Gas Grill",
+                "title": "Broil King Regal S420 Stainless Steel 4-Burner Natural Gas Grill",
+                "brand": "Broil King"
+              }
+            },
+            "text": "Broil King Regal S420 Stainless Steel 4-Burner Natural Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAACQPwAAAAAAAAAAAAAAAAAAkD8AAAAAAAAAAAAAAAAAAKA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJA/AAAAAAAAqD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAtD8AAAAAAAAAAAAAAAAAAKA/AAAAAAAAAAAAAAAAAACwPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAC8PwAAAAAAAAAAAAAAAAAAqD8AAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAC0PwAAAAAAAKg/AAAAAAAAqD8AAAAAAACgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17864238,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79a77-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Regal 420 Pro Black 4-Burner Liquid Propane Gas Grill",
+                "title": "Broil King Regal 420 Pro Black 4-Burner Liquid Propane Gas Grill",
+                "full_description": "",
+                "product_url": "https://www.lowes.com/pd/Broil-King-Regal-420-Pro-Black-4-Burner-Liquid-Propane-Gas-Grill/1000164319",
+                "image_url": "https://mobileimages.lowes.com/product/converted/062703/062703562148.jpg",
+                "brand": "Broil King"
+              }
+            },
+            "text": "Broil King Regal 420 Pro Black 4-Burner Liquid Propane Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAxD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAACQPwAAAAAAAAAAAAAAAAAAkD8AAAAAAAAAAAAAAAAAAKA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACoPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQPwAAAAAAAJA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoD8AAAAAAAAAAAAAAAAAAJA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALA/AAAAAAAAAAAAAAAAAACQPwAAAAAAAJA/AAAAAAAAqD8AAAAAAAAAAAAAAAAAAKA/AAAAAAAAAAAAAAAAAAC0PwAAAAAAAAAAAAAAAAAAkD8AAAAAAAC0PwAAAAAAAAAAAAAAAAAAqD8AAAAAAACoPwAAAAAAAJA/AAAAAAAAkD8AAAAAAAC4PwAAAAAAAJA/AAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17879416,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2eab7d86-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Spirit II E-310 Black 3-Burner Natural Gas Grill",
+                "title": "Weber Spirit II E-310 Black 3-Burner Natural Gas Grill",
+                "full_description": "Get ready to step up your grilling experience with the Spirit II E-310 3-burner natural gas BBQ grill. As the family sits down for dinner, enjoy the convenience of a spacious cooking area and the various opportunities of the 3 burners. Upgraded with the strong GS4 grilling system and iGrill capability, this gas grill is sure to take you to the next level.",
+                "brand": "Weber",
+                "image_url": "https://mobileimages.lowes.com/product/converted/077924/077924058592.jpg",
+                "product_url": "https://www.lowes.com/pd/Weber-Spirit-II-E-310-Black-3-Burner-Natural-Gas-Grill/1000366155"
+              }
+            },
+            "text": "Weber Spirit II E-310 Black 3-Burner Natural Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "aC+hvYT2wj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPaiPwAAAAAAAAAAAAAAAAAAAABoL6G9hPaSP2gvob2E9pI/AAAAAAAAAABoL6G9hPaiPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPaiPwAAAAAAAAAAAAAAAAAAAABoL6G9hPaSPwAAAAAAAAAAaC+hvYT2oj8AAAAAAAAAAGgvob2E9qI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPaSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPaSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9rI/aC+hvYT2kj9oL6G9hPaSPwAAAAAAAAAAHMdxHMdxrD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcx3Ecx3GsPwAAAAAAAAAAaC+hvYT2kj9oL6G9hPayPwAAAAAAAAAAaC+hvYT2kj8AAAAAAAAAAGgvob2E9pI/AAAAAAAAAAAcx3Ecx3G8P2gvob2E9pI/aC+hvYT2oj9oL6G9hPaiPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1795437,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79a6f-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Char-Griller Black 3-Burner Liquid Propane Gas Grill with 1 Side Burner",
+                "product_url": "https://www.lowes.com/pd/Char-Griller-Black-3-Burner-Liquid-Propane-Gas-Grill-with-1-Side-Burner/3097393",
+                "image_url": "https://mobileimages.lowes.com/product/converted/789792/789792030012.jpg",
+                "full_description": "Whip up a range of delicious recipes with the help of this Char-Griller&#174; 3-Burner Gas Grill. Constructed of sturdy tubular steel and featuring dual smoke stacks for better ventilation, this 3-burner grill has porcelain-coated cast iron cooking grates and a stainless steel thermometer. Additional features include an igniter probe on every burner for added convenience.",
+                "brand": "Char-Griller",
+                "description": "Black 3-Burner Liquid Propane Gas Grill with 1 Side Burner"
+              }
+            },
+            "text": "Char-Griller Black 3-Burner Liquid Propane Gas Grill with 1 Side Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "50CiFTYHwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVticPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABItMLmQKKlPwubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASLTC5kCipT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Kw/AAAAAAAAAAALmwOJVtiMPwubA4lW2Jw/50CiFTYHsj8AAAAAAAAAAAAAAAAAAAAAC5sDiVbYnD9ItMLmQKK1PwAAAAAAAAAAC5sDiVbYjD/nQKIVNgeyPwAAAAAAAAAASLTC5kCipT8LmwOJVtiMPwubA4lW2Iw/C5sDiVbYjD82BxKtsDnAPwubA4lW2Iw/C5sDiVbYjD9ItMLmQKKlPwAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18036631,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79ab1-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Signature S520 Stainless Steel 5-Burner Natural Gas Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/062703/062703106205.jpg",
+                "title": "Broil King Signature S520 Stainless Steel 5-Burner Natural Gas Grill",
+                "brand": "Broil King",
+                "product_url": "https://www.lowes.com/pd/Broil-King-Signature-S520-Stainless-Steel-5-Burner-Natural-Gas-Grill/1000955502",
+                "full_description": ""
+              }
+            },
+            "text": "Broil King Signature S520 Stainless Steel 5-Burner Natural Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "8fDw8PDwwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6OPwAAAAAAAAAAAAAAAAAAAAAeHh4eHh6OPwAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAHh4eHh4enj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6ePwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4enj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6OPwAAAAAAAAAAAAAAAAAAAAAeHh4eHh6OPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4erj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANPS0tLS0rI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA09LS0tLSsj8AAAAAAAAAAB4eHh4eHp4/AAAAAAAAAADT0tLS0tKyPwAAAAAAAAAAAAAAAAAAAACXlpaWlpa2PwAAAAAAAAAAHh4eHh4erj8eHh4eHh6OPwAAAAAAAAAAAAAAAAAAAACXlpaWlpa2P5eWlpaWlqY/Hh4eHh4erj+XlpaWlpamPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18098204,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79a8c-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/062703/062703563145.jpg",
+                "product_url": "https://www.lowes.com/pd/Broil-King-Regal-S420-Pro-Stainless-Steel-4-Burner-Liquid-Propane-Gas-Grill/1000052733",
+                "brand": "Broil King",
+                "description": "Regal S420 Pro Stainless Steel 4-Burner Liquid Propane Gas Grill",
+                "title": "Broil King Regal S420 Pro Stainless Steel 4-Burner Liquid Propane Gas Grill",
+                "full_description": ""
+              }
+            },
+            "text": "Broil King Regal S420 Pro Stainless Steel 4-Burner Liquid Propane Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "xpJfLPnFwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABPG+i0gU6LPwAAAAAAAAAAAAAAAAAAAABPG+i0gU6LPwAAAAAAAAAATxvotIFOiz8AAAAAAAAAAE8b6LSBTps/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABPG+i0gU6bPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATxvotIFOmz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABPG+i0gU6LP08b6LSBTos/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATxvotIFOmz8AAAAAAAAAAE8b6LSBTos/exSuR+F6pD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE8b6LSBTqs/AAAAAAAAAAAAAAAAAAAAAE8b6LSBTos/exSuR+F6tD8AAAAAAAAAAE8b6LSBTps/AAAAAAAAAAB7FK5H4Xq0PwAAAAAAAAAAAAAAAAAAAAB7FK5H4Xq0PwAAAAAAAAAATxvotIFOqz97FK5H4XqkP08b6LSBTos/TxvotIFOiz97FK5H4Xq0P3sUrkfheqQ/TxvotIFOmz9PG+i0gU6bPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18116222,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79a98-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Silver 1-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500021/5000216147.jpg",
+                "product_url": "https://www.lowes.com/pd/Gyber-Silver-1-Burner-Liquid-Propane-and-Natural-Gas-Infrared-Gas-Grill/5000216147",
+                "full_description": "There&#8217;s nothing quite like enjoying a thick, juicy steak when summer is in full swing, cooking up some shrimp when you&#8217;re tailgating, or sharing in some burgers with friends; especially when you&#8217;be got an easy-to-use boulder infrared grill! These propane grill systems heat up quickly, provide even heat distribution and cooking, and let you load up your favorite meats, vegetables, and snacks so everyone can have a great time enjoying amazing food.",
+                "title": "Gyber Silver 1-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+                "brand": "Gyber"
+              }
+            },
+            "text": "Gyber Silver 1-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "50CiFTYHwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYrD8AAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKkn47dLPbk/C5sDiVbYjD8AAAAAAAAAAEi0wuZAoqU/50CiFTYHsj8LmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAALmwOJVtisPwAAAAAAAAAAAAAAAAAAAAALmwOJVtisPwAAAAAAAAAAC5sDiVbYrD8LmwOJVtiMPwubA4lW2Iw/C5sDiVbYjD82BxKtsDnAPwubA4lW2Jw/C5sDiVbYjD9ItMLmQKKlPwubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18261309,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79a9a-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Silver 1-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+                "title": "Gyber Silver 1-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+                "brand": "Gyber",
+                "product_url": "https://www.lowes.com/pd/Gyber-Silver-1-Burner-Liquid-Propane-and-Natural-Gas-Infrared-Gas-Grill/5000216143",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500021/5000216143.jpg",
+                "full_description": "There&#8217;s nothing quite like enjoying a thick, juicy steak when summer is in full swing, cooking up some shrimp when you&#8217;re tailgating, or sharing in some burgers with friends; especially when you&#8217;be got an easy-to-use anvil-go infrared grill! These propane grill systems heat up quickly, provide even heat distribution and cooking, and let you load up your favorite meats, vegetables, and snacks so everyone can have a great time enjoying amazing food."
+              }
+            },
+            "text": "Gyber Silver 1-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "50CiFTYHwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYrD8AAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKkn47dLPbk/C5sDiVbYjD8AAAAAAAAAAEi0wuZAoqU/50CiFTYHsj8LmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAALmwOJVtisPwAAAAAAAAAAAAAAAAAAAAALmwOJVtisPwAAAAAAAAAAC5sDiVbYrD8LmwOJVtiMPwubA4lW2Iw/C5sDiVbYjD82BxKtsDnAPwubA4lW2Jw/C5sDiVbYjD9ItMLmQKKlPwubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18261309,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79a9b-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "There&#8217;s nothing quite like enjoying a thick, juicy steak when summer is in full swing, cooking up some shrimp when you&#8217;re tailgating, or sharing in some burgers with friends; especially when you&#8217;be got an easy-to-use anvil-pro infrared grill! These propane grill systems heat up quickly, provide even heat distribution and cooking, and let you load up your favorite meats, vegetables, and snacks so everyone can have a great time enjoying amazing food.",
+                "title": "Gyber Silver 1-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+                "brand": "Gyber",
+                "product_url": "https://www.lowes.com/pd/Gyber-Silver-1-Burner-Liquid-Propane-and-Natural-Gas-Infrared-Gas-Grill/5000216149",
+                "description": "Silver 1-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500021/5000216149.jpg"
+              }
+            },
+            "text": "Gyber Silver 1-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "50CiFTYHwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYrD8AAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKkn47dLPbk/C5sDiVbYjD8AAAAAAAAAAEi0wuZAoqU/50CiFTYHsj8LmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAALmwOJVtisPwAAAAAAAAAAAAAAAAAAAAALmwOJVtisPwAAAAAAAAAAC5sDiVbYrD8LmwOJVtiMPwubA4lW2Iw/C5sDiVbYjD82BxKtsDnAPwubA4lW2Jw/C5sDiVbYjD9ItMLmQKKlPwubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18261309,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79a99-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "There&#8217;s nothing quite like enjoying a thick, juicy steak when summer is in full swing, cooking up some shrimp when you&#8217;re tailgating, or sharing in some burgers with friends; especially when you&#8217;be got an easy-to-use Dutton infrared grill! These propane grill systems heat up quickly, provide even heat distribution and cooking, and let you load up your favorite meats, vegetables, and snacks so everyone can have a great time enjoying amazing food.",
+                "product_url": "https://www.lowes.com/pd/Gyber-Silver-1-Burner-Liquid-Propane-and-Natural-Gas-Infrared-Gas-Grill/5000216145",
+                "title": "Gyber Silver 1-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+                "description": "Silver 1-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+                "brand": "Gyber",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500021/5000216145.jpg"
+              }
+            },
+            "text": "Gyber Silver 1-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "50CiFTYHwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYrD8AAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKkn47dLPbk/C5sDiVbYjD8AAAAAAAAAAEi0wuZAoqU/50CiFTYHsj8LmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAALmwOJVtisPwAAAAAAAAAAAAAAAAAAAAALmwOJVtisPwAAAAAAAAAAC5sDiVbYrD8LmwOJVtiMPwubA4lW2Iw/C5sDiVbYjD82BxKtsDnAPwubA4lW2Jw/C5sDiVbYjD9ItMLmQKKlPwubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18261309,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79aaf-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Broil-King-Baron-320-Black-3-Burner-Liquid-Propane-Gas-Grill/1000421937",
+                "brand": "Broil King",
+                "description": "Baron 320 Black 3-Burner Liquid Propane Gas Grill",
+                "title": "Broil King Baron 320 Black 3-Burner Liquid Propane Gas Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/062703/062703211541.jpg",
+                "full_description": "The Baron&#8482; 320 offers both power and performance in a compact size for the everyday griller. At the heart of the Baron&#8482; 320 is the legendary Broil King&#174; cooking system: heavy-duty cast iron cooking grids, stainless steel Flav-R-Wave&#8482; technology and powerful stainless steel Dual-Tube&#8482; burners. Grill the perfect steak, rotisserie cook your favorite roast and bake a pizza. The Baron&#8482; 320 is designed to make life easy and provide exceptional results. The exterior of the grill boasts an urban style and a performance package that rivals any other grill. The Baron&#8482; series is truly in a class by itself. Proudly built in North America and built to last."
+              }
+            },
+            "text": "Broil King Baron 320 Black 3-Burner Liquid Propane Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "MzMzMzMzwz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGRPwAAAAAAAAAAAAAAAAAAAAARERERERGRPwAAAAAAAAAAERERERERkT8RERERERGhPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGxPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGRPxEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREbE/AAAAAAAAAAARERERERGRPxEREREREZE/ERERERERoT8AAAAAAAAAABEREREREZE/AAAAAAAAAABVVVVVVVW1PwAAAAAAAAAAERERERERkT8RERERERGxPwAAAAAAAAAAERERERERsT+amZmZmZmpPxEREREREZE/ERERERERkT+amZmZmZm5PxEREREREZE/AAAAAAAAAAARERERERGhPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18392162,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79a87-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/NAPOLEON-Rogue-XT-Black-3-Burner-Natural-Gas-Infrared-Gas-Grill-with-1-Side-Burner/1002657024",
+                "image_url": "https://mobileimages.lowes.com/product/converted/629162/629162134745.jpg",
+                "brand": "NAPOLEON",
+                "title": "NAPOLEON Rogue XT Black 3-Burner Natural Gas Infrared Gas Grill with 1 Side Burner",
+                "full_description": "Napoleon's rogue&#174; XT 425 black hood natural gas grill with infrared side burner has three burners, cast iron grids, and a high top lid. This grill lights easily, every time, with a battery-free ignition. Grill the perfect steak using the integrated sear station, or use it to make sauces and sides while grilling, and searing on the main area. The durable materials are both stylish and easy to maintain.",
+                "description": "Rogue XT Black 3-Burner Natural Gas Infrared Gas Grill with 1 Side Burner"
+              }
+            },
+            "text": "NAPOLEON Rogue XT Black 3-Burner Natural Gas Infrared Gas Grill with 1 Side Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "S9SuRO1KxD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD6GJyPwfmIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPoYnI/B+Yg/AAAAAAAAAAD6GJyPwfmIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+hicj8H5iD+7ErUrUbuiPwAAAAAAAAAAAAAAAAAAAAD6GJyPwfmIPwAAAAAAAAAAuxK1K1G7oj8AAAAAAAAAAPoYnI/B+Yg/AAAAAAAAAAAAAAAAAAAAAPoYnI/B+Yg/AAAAAAAAAAC7ErUrUbuiP/oYnI/B+Zg/+hicj8H5iD8AAAAAAAAAAPoYnI/B+Yg/+hicj8H5iD/6GJyPwfmIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPoYnI/B+Yg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALsStStRu7I/AAAAAAAAAAD6GJyPwfmIP/oYnI/B+Zg/OB+D8zE4rz/6GJyPwfmIP/oYnI/B+Yg/+hicj8H5iD+7ErUrUbuiPwAAAAAAAAAA+hicj8H5iD/6GJyPwfmoPwAAAAAAAAAAuxK1K1G7oj/6GJyPwfmIPwAAAAAAAAAAAAAAAAAAAAD6GJyPwfm4P/oYnI/B+Zg/+hicj8H5mD/6GJyPwfmoPwAAAAAAAAAA+hicj8H5iD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1840725,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79a9d-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Kenmore",
+                "full_description": "The Kenmore 3-burner patio grill is both stylish and spacious. This smartly designed pedestal grill comes with a compact pedestal base and provides 512 sq. Inches of uncompromising cooking space while packing 30, 000 BTUs of power. It features fordable side shelves for efficient storage when not in use and plenty of shelf space for convenient food prep, with 6 tool hooks for easy access to cooking utensils making this grill an attractive option for smaller outdoor patio spaces. The enclosed cabinet safely houses the propane tank. This 3-burner patio grill has many convenient features such as electronic ignition for quick and easy lighting of the 3 - premium stainless steel burners, porcelain-coated cast iron cooking grates for exceptional heat retention and even cooking, a durable layer porcelain-enameled lid, and a stainless steel handle. Features 4 wheels and a push bar for easy mobility once the grill is in desired location set in place with the 2 lockable wheels for extra stability. 1 Year limited , 5 years on the stainless steel burner.",
+                "description": "Pearl 3-Burner Liquid Propane and Natural Gas Grill",
+                "product_url": "https://www.lowes.com/pd/Kenmore-Pearl-3-Burner-Liquid-Propane-and-Natural-Gas-Grill/5000182809",
+                "image_url": "https://mobileimages.lowes.com/product/converted/810050/810050790161.jpg",
+                "title": "Kenmore Pearl 3-Burner Liquid Propane and Natural Gas Grill"
+              }
+            },
+            "text": "Kenmore Pearl 3-Burner Liquid Propane and Natural Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "DSd1Xx5bwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADSd1Xx5boT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPw0ndV8eW5E/AAAAAAAAAAANJ3VfHluRPwAAAAAAAAAADSd1Xx5boT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJS6L4+tCLo/AAAAAAAAAAAAAAAAAAAAAA0ndV8eW6E/0HBS9+WxtT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACUui+PrQiqPwAAAAAAAAAAAAAAAAAAAAANJ3VfHluxPw0ndV8eW5E/DSd1Xx5bsT8NJ3VfHluhPw0ndV8eW5E/DSd1Xx5bkT9XBA0ndV++Pw0ndV8eW5E/DSd1Xx5bkT+Uui+PrQiqPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18416789,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2eab7d8b-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "NAPOLEON",
+                "product_url": "https://www.lowes.com/pd/NAPOLEON-Prestige-Black-4-Burner-Natural-Gas-Infrared-Gas-Grill-with-1-Side-Burner-and-Rotisserie-Burner/1002565636",
+                "full_description": "The Napoleon prestige&#174; 500 natural gas grill with infrared side and rear burners is the total grilling package; with a stunning porcelain enamel grey hood and stainless steel construction, this cart model has the capabilities of a full outdoor kitchen. With four main burners, an infrared rear and side burner, this grill can cook meals using eight unique cooking styles. Grill for a crowd with a capacity for up to thirty hamburgers, and up to eight more on the side burner. You'll know it's a Napoleon with the iconic wave&#8482; cooking grids for those distinctive sear marks. Not just durable on the outside; under the lid, is the same quality stainless steel used for the basin, tube burners, dual-level sear plates, and cooking grids. Seven stainless steel sear plates provide extra surface area for any drippings from your food to vaporize, avoiding flare-ups. Never leave your barbecue on again as all the prestige&#174; series grills come with the safety glow feature where the control knobs glow red when the burner is on.",
+                "description": "Prestige Black 4-Burner Natural Gas Infrared Gas Grill with 1 Side Burner and Rotisserie Burner",
+                "title": "NAPOLEON Prestige Black 4-Burner Natural Gas Infrared Gas Grill with 1 Side Burner and Rotisserie Burner",
+                "image_url": "https://mobileimages.lowes.com/product/converted/629162/629162131300.jpg"
+              }
+            },
+            "text": "NAPOLEON Prestige Black 4-Burner Natural Gas Infrared Gas Grill with 1 Side Burner and Rotisserie Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "Yid2Yid2wj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GDPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sYM/AAAAAAAAAAAAAAAAAAAAABQ7sRM7sYM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxgz8UO7ETO7GjPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GDPwAAAAAAAAAAntiJndiJnT8AAAAAAAAAABQ7sRM7sYM/AAAAAAAAAAAAAAAAAAAAABQ7sRM7sYM/AAAAAAAAAACe2Imd2ImdPxQ7sRM7sZM/FDuxEzuxkz8AAAAAAAAAABQ7sRM7sYM/FDuxEzuxgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALETO7ETO7E/AAAAAAAAAAAUO7ETO7GDP57YiZ3YiZ0/dmIndmIntj8UO7ETO7GDPxQ7sRM7sYM/FDuxEzuxgz+e2Imd2ImtPwAAAAAAAAAAFDuxEzuxgz8UO7ETO7GjPwAAAAAAAAAA2Ymd2ImdqD8UO7ETO7GDPwAAAAAAAAAAAAAAAAAAAACe2Imd2Im9P9mJndiJnag/FDuxEzuxoz8UO7ETO7GjPwAAAAAAAAAAFDuxEzuxgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18431887,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2eab7d91-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "The Napoleon prestige&#174; 665 natural gas grill with infrared side and rear burners is the total grilling package; with a stunning porcelain enamel black hood and stainless steel construction, this full sized cart model barbecue has the capabilities of a full outdoor kitchen. With five main burners, an infrared rear and side burner, this grill can cook meals using eight unique cooking styles. You'll know it's a Napoleon with the iconic wave&#8482; cooking grids for those distinctive sear marks. Not just durable on the outside; under the lid, is the same quality stainless steel used for the basin, tube burners, dual-level sear plates, and cooking grids. The stainless steel sear plates provide extra surface area for any drippings from your food to vaporize, avoiding flare-ups. Never leave your barbecue on again as all the prestige&#174; series grills come with the safety glow feature where the control knobs glow red when the burner is on.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/629162/629162131850.jpg",
+                "product_url": "https://www.lowes.com/pd/NAPOLEON-Prestige-Black-5-Burner-Natural-Gas-Infrared-Gas-Grill-with-1-Side-Burner-and-Rotisserie-Burner/1002565828",
+                "title": "NAPOLEON Prestige Black 5-Burner Natural Gas Infrared Gas Grill with 1 Side Burner and Rotisserie Burner",
+                "description": "Prestige Black 5-Burner Natural Gas Infrared Gas Grill with 1 Side Burner and Rotisserie Burner",
+                "brand": "NAPOLEON"
+              }
+            },
+            "text": "NAPOLEON Prestige Black 5-Burner Natural Gas Infrared Gas Grill with 1 Side Burner and Rotisserie Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "Yid2Yid2wj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GDPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sYM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxgz8UO7ETO7GjPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GDPwAAAAAAAAAAntiJndiJnT8AAAAAAAAAABQ7sRM7sYM/AAAAAAAAAAAAAAAAAAAAABQ7sRM7sYM/AAAAAAAAAACe2Imd2ImdPxQ7sRM7sZM/FDuxEzuxkz8AAAAAAAAAABQ7sRM7sYM/FDuxEzuxgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALETO7ETO7E/AAAAAAAAAAAUO7ETO7GDP57YiZ3YiZ0/dmIndmIntj8UO7ETO7GDPxQ7sRM7sYM/FDuxEzuxgz+e2Imd2ImtPwAAAAAAAAAAFDuxEzuxgz8UO7ETO7GjPwAAAAAAAAAA2Ymd2ImdqD8UO7ETO7GDPwAAAAAAAAAAAAAAAAAAAACe2Imd2Im9P9mJndiJnag/FDuxEzuxoz8UO7ETO7GjPwAAAAAAAAAAFDuxEzuxgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18431887,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79a7a-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Weber Genesis II E-310 Black 3-Burner Natural Gas Grill",
+                "brand": "Weber",
+                "product_url": "https://www.lowes.com/pd/Weber-Genesis-II-E-310-Black-3-Burner-Natural-Gas-Grill/1000681357",
+                "image_url": "https://mobileimages.lowes.com/product/converted/007150/00715064986176.jpg",
+                "description": "Genesis II E-310 Black 3-Burner Natural Gas Grill",
+                "full_description": "An exclusive world-class grilling engine, three powerful burners, with iGrill 3 smart technology compatibility- all backed by the Weber 10 year lid to wheels warranty. This is the new standard in gas grilling. The Genesis II E-310 gas grill is equipped with Premium features such as porcelain-enameled, cast-iron cooking grates that are easy to clean and durable. The open-cart design provides convenient access of grilling tools so that everything you need is within arm&#8217;s reach."
+              }
+            },
+            "text": "Weber Genesis II E-310 Black 3-Burner Natural Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "nhLkKUGewj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6iPwAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SP54S5ClBnpI/AAAAAAAAAACeEuQpQZ6iPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6iPwAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SPwAAAAAAAAAA7RvWvmHtqz8AAAAAAAAAAJ4S5ClBnqI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ4S5ClBnrI/nhLkKUGekj+eEuQpQZ6SPwAAAAAAAAAARhdddNFFtz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6iPwAAAAAAAAAAnhLkKUGekj+eEuQpQZ6yPwAAAAAAAAAAnhLkKUGeoj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UW3P+0b1r5h7as/nhLkKUGekj+eEuQpQZ6iPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18442021,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79a8d-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/062703/062703851143.jpg",
+                "title": "Broil King Regal S420 Stainless Steel 4-Burner Liquid Propane Gas Grill",
+                "full_description": "",
+                "product_url": "https://www.lowes.com/pd/Broil-King-Regal-S420-Stainless-Steel-4-Burner-Liquid-Propane-Gas-Grill/1000955504",
+                "description": "Regal S420 Stainless Steel 4-Burner Liquid Propane Gas Grill",
+                "brand": "Broil King"
+              }
+            },
+            "text": "Broil King Regal S420 Stainless Steel 4-Burner Liquid Propane Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "50CiFTYHwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAubA4lW2Jw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVticPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYnD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAubA4lW2Iw/SLTC5kCipT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Kw/AAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/SLTC5kCitT8AAAAAAAAAAAubA4lW2Jw/AAAAAAAAAABItMLmQKK1PwAAAAAAAAAAAAAAAAAAAABItMLmQKK1PwAAAAAAAAAAC5sDiVbYrD8LmwOJVticPwubA4lW2Iw/C5sDiVbYjD/nQKIVNgeyP0i0wuZAoqU/C5sDiVbYnD8LmwOJVticPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18447445,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79ab3-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Regal S520 Stainless Steel 5-Burner Liquid Propane Gas Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/062703/062703105642.jpg",
+                "product_url": "https://www.lowes.com/pd/Broil-King-Regal-S520-Stainless-Steel-5-Burner-Liquid-Propane-Gas-Grill/1000955500",
+                "title": "Broil King Regal S520 Stainless Steel 5-Burner Liquid Propane Gas Grill",
+                "full_description": "",
+                "brand": "Broil King"
+              }
+            },
+            "text": "Broil King Regal S520 Stainless Steel 5-Burner Liquid Propane Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "50CiFTYHwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAC5sDiVbYnD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVticPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYnD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAubA4lW2Iw/SLTC5kCipT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Kw/AAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/SLTC5kCitT8AAAAAAAAAAAubA4lW2Jw/AAAAAAAAAABItMLmQKK1PwAAAAAAAAAAAAAAAAAAAABItMLmQKK1PwAAAAAAAAAAC5sDiVbYrD8LmwOJVticPwubA4lW2Iw/C5sDiVbYjD/nQKIVNgeyP0i0wuZAoqU/C5sDiVbYnD8LmwOJVticPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18447445,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79abd-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/062703/062703868547.jpg",
+                "description": "Signet 320 Stainless Steel 3-Burner Liquid Propane Gas Grill",
+                "full_description": "",
+                "product_url": "https://www.lowes.com/pd/Broil-King-Signet-320-Stainless-Steel-3-Burner-Liquid-Propane-Gas-Grill/1000004912",
+                "title": "Broil King Signet 320 Stainless Steel 3-Burner Liquid Propane Gas Grill",
+                "brand": "Broil King"
+              }
+            },
+            "text": "Broil King Signet 320 Stainless Steel 3-Burner Liquid Propane Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "50CiFTYHwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAC5sDiVbYjD8LmwOJVticPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVticPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYnD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAASLTC5kCipT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEi0wuZAoqU/AAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/SLTC5kCitT8AAAAAAAAAAAubA4lW2Jw/AAAAAAAAAACpJ+O3Sz25PwAAAAAAAAAAAAAAAAAAAADnQKIVNgeyPwAAAAAAAAAA50CiFTYHsj8LmwOJVticPwubA4lW2Iw/C5sDiVbYjD/nQKIVNgeyP0i0wuZAoqU/SLTC5kCipT8LmwOJVticPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18453418,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2eab7ed0-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "EdgeStar",
+                "full_description": "",
+                "title": "EdgeStar 3-Burner Natural Gas Built-In Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/846844/846844012041.jpg",
+                "product_url": "https://www.lowes.com/pd/EdgeStar-3-Burner-Natural-Gas-Built-In-Grill/1001089534",
+                "description": "3-Burner Natural Gas Built-In Grill"
+              }
+            },
+            "text": "EdgeStar 3-Burner Natural Gas Built-In Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "F1100UUXvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWnPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWXPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWnPwAAAAAAAAAAAAAAAAAAAABGF1100UWXPwAAAAAAAAAARhdddNFFpz8AAAAAAAAAAEYXXXTRRZc/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWXPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARhdddNFFlz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEYXXXTRRbc/AAAAAAAAAAAAAAAAAAAAAEYXXXTRRZc/RhdddNFFpz8AAAAAAAAAAEYXXXTRRZc/AAAAAAAAAABGF1100UWnPwAAAAAAAAAAAAAAAAAAAABGF1100UW3PwAAAAAAAAAARhdddNFFpz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXXXTRRRe9P0YXXXTRRZc/dNFFF110sT900UUXXXSxPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18501675,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          }
+        ],
+        "tags": {},
+        "text": "3 burner gas grill",
+        "embedding": {
+          "dense": {
+            "buffer": "VVVVVVVVxT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcx3Ecx3GsPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABzHcRzHcaw/HMdxHMdxrD8AAAAAAAAAAAAAAAAAAAAAHMdxHMdxrD8AAAAAAAAAABzHcRzHcbw/AAAAAAAAAAAcx3Ecx3GsPwAAAAAAAAAAAAAAAAAAAAAcx3Ecx3G8PwAAAAAAAAAAHMdxHMdxrD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVVVVVVVXFPxzHcRzHcaw/AAAAAAAAAAAcx3Ecx3GsPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "shape": [
+              96
+            ],
+            "dtype": "<f8",
+            "quantization": 0,
+            "maxVal": 0,
+            "minVal": 0,
+            "scale": 0,
+            "originalDtype": ""
+          }
+        },
+        "granularity": 0,
+        "adjacency": 0,
+        "parentId": "",
+        "chunks": [],
+        "weight": 0,
+        "uri": "",
+        "mimeType": "",
+        "location": [],
+        "offset": 0,
+        "scores": {},
+        "modality": "",
+        "evaluations": {}
+      }
+    ],
+    "groundtruths": []
+  }
+}

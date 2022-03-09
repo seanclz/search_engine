@@ -1,0 +1,1021 @@
+{
+  "requestId": "efb1d751-7ad8-4b04-ba8d-13f1cc0e636a",
+  "data": {
+    "docs": [
+      {
+        "id": "e01c3420-458a-11ec-956e-e3601f14962f",
+        "matches": [
+          {
+            "id": "cb0fa5aa-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Monument",
+                "product_url": "https://www.lowes.com/pd/Monument-Stainless-Steel-6-Burner-Liquid-Propane-Gas-Grill-with-1-Side-Burner/1000605031",
+                "title": "Monument Stainless Steel 6-Burner Liquid Propane Gas Grill with 1 Side Burner",
+                "description": "Stainless Steel 6-Burner Liquid Propane Gas Grill with 1 Side Burner",
+                "full_description": "Enjoy the outdoors with friends and family this season cooking on the rugged stainless steel propane gas grill with cast iron side caps from Monument. Be captivated with the multi-cooking options including 6 main burners and side burner. Featuring 6-main stainless steel burners and one side burner, this grill is designed with an electronic ignition for easy starting and delivers up to 84,000 BTU of cooking power. The stainless steel wrapped cooking grids delivers even-heat across the entire surface for flavor rich cooking and large easy to read thermometer for precise temperature control. Enjoy cooking evening hours with the blue LED back lit control knobs. Easily portable thanks to 4 heavy-duty casters that also lock into position when you need it stationary.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/856597/856597007102.jpg"
+              }
+            },
+            "text": "Monument Stainless Steel 6-Burner Liquid Propane Gas Grill with 1 Side Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "kiRJkiRJwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC+Y2pg75iKPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL5jamDvmIo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC+Y2pg75iKPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC+Y2pg75iaPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvmNqYO+Ymj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL5jamDvmIo/vmNqYO+Yij8AAAAAAAAAAAAAAAAAAAAAvmNqYO+Yij8AAAAAAAAAAAAAAAAAAAAAzspPiLPyoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM7KT4iz8qM/AAAAAAAAAAAAAAAAAAAAAL5jamDvmJo/vmNqYO+Yuj8AAAAAAAAAAAAAAAAAAAAAvmNqYO+Yij/Oyk+Is/KzPwAAAAAAAAAAAAAAAAAAAAC+Y2pg75iqP75jamDvmIo/zspPiLPysz++Y2pg75iaP75jamDvmIo/vmNqYO+Yij/Oyk+Is/KzP87KT4iz8qM/vmNqYO+Yqj++Y2pg75iqPwAAAAAAAAAAvmNqYO+Yij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.10796505,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa5ab-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/860448/860448000372.jpg",
+                "full_description": "Enjoy the outdoors with friends and family this season cooking on the rugged all stainless steel propane gas grill from Monument Grill. Be captivated with the multi-cooking options including 4 main burners, one side burner and plug in rotisserie kit with motor. Featuring 4 main stainless steel burners and one side burner, this grill is designed with an electronic ignition for easy starting and delivers up to 60,000 BTU of cooking power. The porcelain coated cast iron cooking grids delivers even-heat across the entire surface for flavor rich cooking and large easy to read thermometer for precise temperature control. Enjoy cooking evening hours with the blue LED back lit control knobs. Easily portable thanks to four heavy duty casters that also lock into position when you need it stationary.",
+                "product_url": "https://www.lowes.com/pd/Monument-Stainless-Steel-4-Burner-Liquid-Propane-Gas-Grill-with-1-Side-Burner/1000605013",
+                "brand": "Monument",
+                "title": "Monument Stainless Steel 4-Burner Liquid Propane Gas Grill with 1 Side Burner",
+                "description": "Stainless Steel 4-Burner Liquid Propane Gas Grill with 1 Side Burner"
+              }
+            },
+            "text": "Monument Stainless Steel 4-Burner Liquid Propane Gas Grill with 1 Side Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "kiRJkiRJwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC+Y2pg75iKPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL5jamDvmIo/AAAAAAAAAAAAAAAAAAAAAL5jamDvmIo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC+Y2pg75iaPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvmNqYO+Ymj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL5jamDvmIo/vmNqYO+Yij8AAAAAAAAAAAAAAAAAAAAAvmNqYO+Yij8AAAAAAAAAAAAAAAAAAAAAzspPiLPyoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM7KT4iz8qM/AAAAAAAAAAAAAAAAAAAAAL5jamDvmJo/vmNqYO+Yuj8AAAAAAAAAAAAAAAAAAAAAvmNqYO+Yij/Oyk+Is/KzPwAAAAAAAAAAAAAAAAAAAAC+Y2pg75iqP75jamDvmIo/zspPiLPysz++Y2pg75iaP75jamDvmIo/vmNqYO+Yij/Oyk+Is/KzP87KT4iz8qM/vmNqYO+Yqj++Y2pg75iqPwAAAAAAAAAAvmNqYO+Yij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.10796505,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa5ad-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/060162/060162651649.jpg",
+                "description": "Stainless Steel/Black 4-Burner Liquid Propane Gas Grill with 1 Side Burner",
+                "product_url": "https://www.lowes.com/pd/Huntington-Stainless-Steel-Black-4-Burner-Liquid-Propane-Gas-Grill-with-1-Side-Burner/1000938250",
+                "brand": "Huntington",
+                "full_description": "The Huntington 4-burner gas grill is designed to give you the best results and delicious food every time. With a design-engineered cooking system that features stainless steel tube burners, a stainless steel cooking system, a stainless steel cook box with cast aluminum end caps, and porcelain-coated cast iron cooking grids, this grill will give you even heat and a consistent cooking experience. The grill is as stylish as it is durable featuring a double-walled stainless steel lid with cast aluminum end caps, black painted side shelves with stainless steel fascias, and a black painted steel cart design. The 10,000 BTU flush mounted side burner gives you extra cooking versatility, allowing you to prepare delicious side dishes or warm up your favorite BBQ sauce. Other features include Linear Flow&#8482; valves, a Sure-Lite&#8482; electronic ignition, Accu-Temp&#8482; lid thermometer, and removable grease pan. Proudly made in North America and featuring North American-sourced steel and a strong warranty to back it all up, this grill is designed to last and perform in your backyard for years to come!",
+                "title": "Huntington Stainless Steel/Black 4-Burner Liquid Propane Gas Grill with 1 Side Burner"
+              }
+            },
+            "text": "Huntington Stainless Steel/Black 4-Burner Liquid Propane Gas Grill with 1 Side Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "kZCQkJCQwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYGBgYGBiIPwAAAAAAAAAAGBgYGBgYiD8AAAAAAAAAABgYGBgYGIg/AAAAAAAAAAAAAAAAAAAAABgYGBgYGIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASEhISEhKiPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGBgYGBgYmD8YGBgYGBiIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGBgYGIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGBgYGBgYiD8AAAAAAAAAAAAAAAAAAAAAEhISEhISoj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGBgYGKg/AAAAAAAAAAAYGBgYGBiIPxgYGBgYGJg/FRUVFRUVtT8AAAAAAAAAABgYGBgYGIg/GBgYGBgYiD8VFRUVFRW1PwAAAAAAAAAAGBgYGBgYiD8eHh4eHh6uPwAAAAAAAAAAFRUVFRUVtT8YGBgYGBiYPxgYGBgYGIg/GBgYGBgYiD8SEhISEhKyPxISEhISEqI/Hh4eHh4erj8YGBgYGBioPwAAAAAAAAAAGBgYGBgYiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.10907926,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa546-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Monument-Clearview-Stainless-Steel-4-Burner-Liquid-Propane-Gas-Grill-with-2-Side-Burners/1001269678",
+                "title": "Monument Clearview Stainless Steel 4-Burner Liquid Propane Gas Grill with 2 Side Burners",
+                "image_url": "https://mobileimages.lowes.com/product/converted/860448/860448000396.jpg",
+                "brand": "Monument",
+                "full_description": "Enjoy the outdoors this season with this rugged all stainless steel grill designed for years of amazing meals. Enjoy the multi-cooking options with 4 main burners, 1 side burner and 1 side sear burner. Featuring 6 stainless steel burners (4 stainless steel burners, 1 side burner and 1 ceramic sear burner), this grill is designed to put out up to 72,000 BTU of cooking power. The stainless steel seamless weld lid delivers flavor rich cooking has a built in window for easy viewing and features a built-in thermometer. Enjoy cooking at all hours with the LED lit control knobs.",
+                "description": "Clearview Stainless Steel 4-Burner Liquid Propane Gas Grill with 2 Side Burners"
+              }
+            },
+            "text": "Monument Clearview Stainless Steel 4-Burner Liquid Propane Gas Grill with 2 Side Burners",
+            "embedding": {
+              "dense": {
+                "buffer": "dNFFF110wT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWHPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARhdddNFFhz8AAAAAAAAAAEYXXXTRRYc/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWXP0YXXXTRRYc/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARhdddNFFlz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEYXXXTRRYc/RhdddNFFhz8AAAAAAAAAAAAAAAAAAAAARhdddNFFhz8AAAAAAAAAAAAAAAAAAAAAdNFFF110oT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEYXXXTRRac/AAAAAAAAAAAAAAAAAAAAAEYXXXTRRZc/F1100UUXvT8AAAAAAAAAAAAAAAAAAAAARhdddNFFhz9ddNFFF120PwAAAAAAAAAAAAAAAAAAAAAXXXTRRRetP0YXXXTRRYc/dNFFF110sT9GF1100UWXP0YXXXTRRYc/RhdddNFFhz9ddNFFF120P0YXXXTRRac/RhdddNFFpz9GF1100UWnP0YXXXTRRYc/RhdddNFFlz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11004423,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa5a9-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Enjoy the outdoors with friends and family this season cooking on the rugged porcelain enamel coated propane gas grill from Monument Grill. Be captivated with the multi-cooking options including 4 main burners, one side burner and USB light. Featuring 4 main stainless steel burners and one side burner, this grill is designed with an electronic ignition for easy starting and delivers up to 60,000 BTU of cooking power. The porcelain coated cast iron cooking grids delivers even-heat across the entire surface for flavor rich cooking and large easy to read thermometer for precise temperature control. Enjoy cooking evening hours with the blue LED back lit control knobs. Easily portable thanks to four heavy duty casters that also lock into position when you need it stationary.",
+                "description": "Black/Porcelain Enamel 4-Burner Liquid Propane Gas Grill with 1 Side Burner",
+                "title": "Monument Black/Porcelain Enamel 4-Burner Liquid Propane Gas Grill with 1 Side Burner",
+                "product_url": "https://www.lowes.com/pd/Monument-Black-Porcelain-Enamel-4-Burner-Liquid-Propane-Gas-Grill-with-1-Side-Burner/1000605019",
+                "brand": "Monument",
+                "image_url": "https://mobileimages.lowes.com/product/converted/860448/860448000358.jpg"
+              }
+            },
+            "text": "Monument Black/Porcelain Enamel 4-Burner Liquid Propane Gas Grill with 1 Side Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "MQzDMAzDwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYhmEYhmGIPwAAAAAAAAAAGIZhGIZhiD8AAAAAAAAAABiGYRiGYYg/AAAAAAAAAAAAAAAAAAAAABiGYRiGYYg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACSJEmSJEmiPwAAAAAAAAAAAAAAAAAAAAAYhmEYhmGIPwAAAAAAAAAAGIZhGIZhmD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYYg/GIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAGIZhGIZhmD8AAAAAAAAAAAAAAAAAAAAAGIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ7neZ7nea4/AAAAAAAAAAAYhmEYhmGYPxiGYRiGYZg/VVVVVVVVtT8AAAAAAAAAAAAAAAAAAAAAGIZhGIZhiD+SJEmSJEmyPwAAAAAAAAAAGIZhGIZhiD+e53me53muPxiGYRiGYZg/VVVVVVVVtT+SJEmSJEmiPxiGYRiGYYg/GIZhGIZhiD9VVVVVVVW1PxiGYRiGYYg/GIZhGIZhmD8YhmEYhmGoPwAAAAAAAAAAGIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.110294074,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa580-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Kenmore-Stainless-Steel-4-Burner-Liquid-Propane-and-Natural-Gas-Grill-with-1-Side-Burner/5000182803",
+                "title": "Kenmore Stainless Steel 4-Burner Liquid Propane and Natural Gas Grill with 1 Side Burner",
+                "brand": "Kenmore",
+                "full_description": "Feed your guests something to savor with this 4 burner gas grill with side burner and stainless steel lid. With an impressive 622 sq. In. Of cooking space, you'll be able to host all your friends. Cook up a storm with the 4 main burners plus a side burner that reaches to 13, 000 BTU for cooking versatility and convenience. The electronic ignition, storage shelves and easy-to-clean design help you spend less time cooking and more time enjoying the party with your guests.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/810050/810050790109.jpg",
+                "description": "Stainless Steel 4-Burner Liquid Propane and Natural Gas Grill with 1 Side Burner"
+              }
+            },
+            "text": "Kenmore Stainless Steel 4-Burner Liquid Propane and Natural Gas Grill with 1 Side Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "6aKLLrrowj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWHPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEYXXXTRRYc/AAAAAAAAAAAAAAAAAAAAAEYXXXTRRYc/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWXPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARhdddNFFlz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWHP0YXXXTRRYc/AAAAAAAAAABGF1100UWHPwAAAAAAAAAARhdddNFFhz8AAAAAAAAAAAAAAAAAAAAAdNFFF110oT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHTRRRdddLE/AAAAAAAAAAAAAAAAAAAAAHTRRRdddKE/L7rooosuuj8AAAAAAAAAAAAAAAAAAAAARhdddNFFhz900UUXXXSxPwAAAAAAAAAAAAAAAAAAAAAXXXTRRRetP0YXXXTRRYc/dNFFF110sT9GF1100UWXP0YXXXTRRYc/RhdddNFFhz9GF1100UW3P3TRRRdddKE/RhdddNFFpz9GF1100UWnPwAAAAAAAAAARhdddNFFhz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.110434696,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa583-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Stainless Steel 4-Burner Liquid Propane and Natural Gas Grill with 1 Side Burner",
+                "product_url": "https://www.lowes.com/pd/Kenmore-Stainless-Steel-4-Burner-Liquid-Propane-and-Natural-Gas-Grill-with-1-Side-Burner/5000182801",
+                "image_url": "https://mobileimages.lowes.com/product/converted/182995/182995001955.jpg",
+                "title": "Kenmore Stainless Steel 4-Burner Liquid Propane and Natural Gas Grill with 1 Side Burner",
+                "brand": "Kenmore",
+                "full_description": "Kenmore, stainless steel 4 burner LP gas grill with side burner, 53,000 total BTU's with stainless steel burners 10K BTU each, 606 SQIN total cooking surface, 27\" x 17\" firebox, 13,000 BTU side burner, fully welded stainless steel lid with temperature gauge and steel liner, stainless steel warming rack, solid 6 mm stainless steel cooking grates, stainless steel firebox and flavoring bars, stainless steel control panel and side shelves, chrome plated knobs, stainless steel enclosed cart with doors, aluminum grease box, electronic ignition and 3\" casters with 2 locking, includes side rail utensil hooks."
+              }
+            },
+            "text": "Kenmore Stainless Steel 4-Burner Liquid Propane and Natural Gas Grill with 1 Side Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "6aKLLrrowj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWHPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEYXXXTRRYc/AAAAAAAAAAAAAAAAAAAAAEYXXXTRRYc/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWXPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARhdddNFFlz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWHP0YXXXTRRYc/AAAAAAAAAABGF1100UWHPwAAAAAAAAAARhdddNFFhz8AAAAAAAAAAAAAAAAAAAAAdNFFF110oT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHTRRRdddLE/AAAAAAAAAAAAAAAAAAAAAHTRRRdddKE/L7rooosuuj8AAAAAAAAAAAAAAAAAAAAARhdddNFFhz900UUXXXSxPwAAAAAAAAAAAAAAAAAAAAAXXXTRRRetP0YXXXTRRYc/dNFFF110sT9GF1100UWXP0YXXXTRRYc/RhdddNFFhz9GF1100UW3P3TRRRdddKE/RhdddNFFpz9GF1100UWnPwAAAAAAAAAARhdddNFFhz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.110434696,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a2095-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Cal Flame 5-Burner Built-in Stainless Steel Propane Gas Convection Grill with Infrared Rotisserie",
+                "full_description": "An industry-first, the 5-burner convection grill features five cast stainless steel burners and a powerful centrifugal fan that uniformly circulates heat up to 100,000 BTUs throughout the grilling area. An option once only found in the kitchen is now available for the cooking enthusiast outdoors. By circulating hot air, cooking times are greatly reduced and food is cooked evenly, especially when compared to conventional barbecue grills. The result is 50% quicker grilling over 1,000 sq inch.",
+                "brand": "Cal Flame",
+                "product_url": "https://www.lowes.com/pd/Cal-Flame-5-Burner-Built-in-Stainless-Steel-Propane-Gas-Convection-Grill-with-Infrared-Rotisserie/1002720830",
+                "description": "5-Burner Built-in Stainless Steel Propane Gas Convection Grill with Infrared Rotisserie",
+                "image_url": "https://mobileimages.lowes.com/product/converted/089245/089245088752.jpg"
+              }
+            },
+            "text": "Cal Flame 5-Burner Built-in Stainless Steel Propane Gas Convection Grill with Infrared Rotisserie",
+            "embedding": {
+              "dense": {
+                "buffer": "IHRU4Iurvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAV+OLqBx2VPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFfji6gcdhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAV+OLqBx2VPxX44uoHHZU/AAAAAAAAAAAAAAAAAAAAABX44uoHHYU/Ffji6gcdlT8AAAAAAAAAABX44uoHHYU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFfji6gcdhT8AAAAAAAAAABX44uoHHYU/Ffji6gcdlT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACB0VOCLq68/AAAAAAAAAAAV+OLqBx2FPxX44uoHHYU/Grab5Ulkuj8V+OLqBx2FPwAAAAAAAAAAFfji6gcdhT8V+OLqBx21PwAAAAAAAAAAAAAAAAAAAAASmYbtZnmyPxX44uoHHYU/EpmG7WZ5sj8V+OLqBx2lPxX44uoHHYU/AAAAAAAAAAASmYbtZnmyPxq2m+VJZKo/IHRU4Iurrz8V+OLqBx2VPxX44uoHHYU/Ffji6gcdhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11132839,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a2096-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "4-Burner Built-in Stainless Steel Propane Gas Convection Grill with Infrared Rotisserie",
+                "product_url": "https://www.lowes.com/pd/Cal-Flame-4-Burner-Built-in-Stainless-Steel-Propane-Gas-Convection-Grill-with-Infrared-Rotisserie/1002720798",
+                "brand": "Cal Flame",
+                "full_description": "The Cal Flame 4 burner convection grill offers exclusive convection technology on a roomy 4-burner grill. Solid stainless steel burners emit 60,000 BTUs and are lifetime warranted. The infrared back burner is perfect for rotisserie. Get gourmet results with 50% quicker grilling.",
+                "title": "Cal Flame 4-Burner Built-in Stainless Steel Propane Gas Convection Grill with Infrared Rotisserie",
+                "image_url": "https://mobileimages.lowes.com/product/converted/089245/089245088745.jpg"
+              }
+            },
+            "text": "Cal Flame 4-Burner Built-in Stainless Steel Propane Gas Convection Grill with Infrared Rotisserie",
+            "embedding": {
+              "dense": {
+                "buffer": "IHRU4Iurvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAV+OLqBx2VPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABX44uoHHYU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAV+OLqBx2VPxX44uoHHZU/AAAAAAAAAAAAAAAAAAAAABX44uoHHYU/Ffji6gcdlT8AAAAAAAAAABX44uoHHYU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFfji6gcdhT8AAAAAAAAAABX44uoHHYU/Ffji6gcdlT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACB0VOCLq68/AAAAAAAAAAAV+OLqBx2FPxX44uoHHYU/Grab5Ulkuj8V+OLqBx2FPwAAAAAAAAAAFfji6gcdhT8V+OLqBx21PwAAAAAAAAAAAAAAAAAAAAASmYbtZnmyPxX44uoHHYU/EpmG7WZ5sj8V+OLqBx2lPxX44uoHHYU/AAAAAAAAAAASmYbtZnmyPxq2m+VJZKo/IHRU4Iurrz8V+OLqBx2VPxX44uoHHYU/Ffji6gcdhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11132839,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa355-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Whirlpool 5.1-cu ft Undercounter Mini Fridge (Stainless Steel)",
+                "description": "5.1-cu ft Undercounter Mini Fridge (Stainless Steel)",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-5-1-cu-ft-Undercounter-Mini-Fridge-Stainless-Steel/1000512625",
+                "brand": "Whirlpool",
+                "full_description": "Stay organized with purposeful spaces for any item. This undercounter 5.1 cu. ft. refrigerator features fingerprint-resistant stainless steel that makes it easy to clean. LED interior lighting keeps food looking as good as it tastes, and this undercounter fridge has a temperature sensor alert to makes sure drinks stay cold.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049456010.jpg"
+              }
+            },
+            "text": "Whirlpool 5.1-cu ft Undercounter Mini Fridge (Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "55xzzjnnvD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQQQgghhJA/hBBCCCGEkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEEEIIIYSQP4QQQgghhJA/AAAAAAAAAAAAAAAAAAAAAIQQQgghhJA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhBBCCCGEkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQQQgghhJA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhBBCCCGEkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhBBCCCGEoD8AAAAAAAAAAIQQQgghhJA/AAAAAAAAAACEEEIIIYSQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQQQgghhJA/AAAAAAAAAACEEEIIIYSgP4QQQgghhKA/xhhjjDHGuD+EEEIIIYSQP4QQQgghhJA/hBBCCCGEkD+llFJKKaW0PwAAAAAAAAAAAAAAAAAAAACEEEIIIYSwPwAAAAAAAAAAhBBCCCGEsD/GGGOMMcaoP4QQQgghhJA/AAAAAAAAAACEEEIIIYSwP4QQQgghhKA/hBBCCCGEsD+EEEIIIYSgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11214,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa572-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Metallic Gun Metal 4-Burner Liquid Propane and Natural Gas Grill with 1 Side Burner",
+                "image_url": "https://mobileimages.lowes.com/product/converted/182995/182995001962.jpg",
+                "title": "Kenmore Elite Metallic Gun Metal 4-Burner Liquid Propane and Natural Gas Grill with 1 Side Burner",
+                "full_description": "Get inspired this season with the Kenmore elite 4-burner LP gas grill with side burner in metallic gun metal finish. The four 12, 000 BTU stainless steel burners give you the power to cook practically anything under the sun, even at night with the double halogen built-in lights in a firebox, while the convenient 12, 000 BTU side burner is perfect for your favorite side dishes and other delicious creations. The side shelves give you extra counter space for preparing dishes outside. The solid 8mm stainless steel cooking grids and beautiful stainless steel handles bring professional quality and style to your backyard. With an exquisite metallic finish, this Kenmore gas grill can beautifully complete your outdoor kitchen. Let your creative juices flow with this backyard barbecue all season long. Cleanup is fast and painless with the convenient grease cup and pullout grease tray, individual electronic ignition lets you quickly fire up the grill, stainless steel fascias and LED lighted control panel, doors have a powder-coated finish with stainless steel trim for added durability, the 4 - premium stainless steel main burners are 12, 000 BTU each; side burner is 12, 000 BTU, heavy-duty 3\" swivel casters let you move this grill anywhere on the patio, the heavy-duty exterior temperature gauge lets you closely monitor your meals, beautiful porcelain metallic-enameled lid with stainless steel handle. Shipped reassembled except for the sides-simply attach sides and you are ready to grill!",
+                "product_url": "https://www.lowes.com/pd/Kenmore-Elite-Metallic-Gun-Metal-4-Burner-Liquid-Propane-and-Natural-Gas-Grill-with-1-Side-Burner/1002236450",
+                "brand": "Kenmore Elite"
+              }
+            },
+            "text": "Kenmore Elite Metallic Gun Metal 4-Burner Liquid Propane and Natural Gas Grill with 1 Side Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "lMg0bDfLwz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAV+OLqBx2FPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABX44uoHHYU/AAAAAAAAAAAAAAAAAAAAABX44uoHHYU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAV+OLqBx2VPwAAAAAAAAAAAAAAAAAAAAAV+OLqBx2FPwAAAAAAAAAAIHRU4Iurnz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAV+OLqBx2FPxX44uoHHYU/Ffji6gcdlT8V+OLqBx2FPwAAAAAAAAAAFfji6gcdhT8AAAAAAAAAAAAAAAAAAAAAFfji6gcdhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABKZhu1mebI/AAAAAAAAAAAV+OLqBx2FPyB0VOCLq58/GFc/6KjAtz8AAAAAAAAAAAAAAAAAAAAAFfji6gcdhT8SmYbtZnmyPwAAAAAAAAAAAAAAAAAAAAASmYbtZnmyPxX44uoHHYU/IHRU4Iurrz8V+OLqBx2VPxX44uoHHYU/Ffji6gcdhT8V+OLqBx21PxX44uoHHYU/Grab5Ulkqj8atpvlSWSqPwAAAAAAAAAAFfji6gcdhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11267986,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa59f-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Broil King",
+                "image_url": "https://mobileimages.lowes.com/product/converted/062703/062703868547.jpg",
+                "full_description": "",
+                "title": "Broil King Signet 320 Stainless Steel 3-Burner Liquid Propane Gas Grill",
+                "description": "Signet 320 Stainless Steel 3-Burner Liquid Propane Gas Grill",
+                "product_url": "https://www.lowes.com/pd/Broil-King-Signet-320-Stainless-Steel-3-Burner-Liquid-Propane-Gas-Grill/1000004912"
+              }
+            },
+            "text": "Broil King Signet 320 Stainless Steel 3-Burner Liquid Propane Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "50CiFTYHwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAC5sDiVbYjD8LmwOJVticPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVticPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYnD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAASLTC5kCipT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEi0wuZAoqU/AAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/SLTC5kCitT8AAAAAAAAAAAubA4lW2Jw/AAAAAAAAAACpJ+O3Sz25PwAAAAAAAAAAAAAAAAAAAADnQKIVNgeyPwAAAAAAAAAA50CiFTYHsj8LmwOJVticPwubA4lW2Iw/C5sDiVbYjD/nQKIVNgeyP0i0wuZAoqU/SLTC5kCipT8LmwOJVticPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11276656,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa554-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Monument-Stainless-Steel-4-Burner-Liquid-Propane-Gas-Grill-with-2-Side-Burners/1002886158",
+                "title": "Monument Stainless Steel 4-Burner Liquid Propane Gas Grill with 2 Side Burners",
+                "brand": "Monument",
+                "description": "Stainless Steel 4-Burner Liquid Propane Gas Grill with 2 Side Burners",
+                "image_url": "https://mobileimages.lowes.com/product/converted/860448/860448000389.jpg",
+                "full_description": "Enjoy the outdoors with friends and family this season cooking on the rugged stainless steel propane gas grill with cast iron side caps from Monument Grill. Be captivated with the multi-cooking options including 4 main burners, burner and side sear burner. Featuring 4 main stainless steel burners one side burner and one side sear burner, this grill is designed with an electronic ignition for easy starting and delivers up to 72,000 BTU of cooking power. The porcelain coated cast iron cooking grids delivers even-heat across the entire surface for flavor rich cooking and large easy to read thermometer for precise temperature control. Enjoy cooking evening hours with the blue LED back lit control knobs. Easily portable thanks to four heavy duty casters that also lock into position when you need it stationary."
+              }
+            },
+            "text": "Monument Stainless Steel 4-Burner Liquid Propane Gas Grill with 2 Side Burners",
+            "embedding": {
+              "dense": {
+                "buffer": "0iAN0iANwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAapEEapEGKPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGqRBGqRBij8AAAAAAAAAABqkQRqkQYo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAapEEapEGaPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGqRBGqRBmj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABqkQRqkQYo/GqRBGqRBij8AAAAAAAAAAAAAAAAAAAAAGqRBGqRBij8AAAAAAAAAAAAAAAAAAAAAFDuxEzuxoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7saM/AAAAAAAAAAAAAAAAAAAAABqkQRqkQZo/GqRBGqRBuj8AAAAAAAAAAAAAAAAAAAAAGqRBGqRBij8UO7ETO7GzPwAAAAAAAAAAAAAAAAAAAAAapEEapEGqPxqkQRqkQYo/FDuxEzuxsz8apEEapEGaPxqkQRqkQYo/GqRBGqRBij8UO7ETO7GzPxqkQRqkQao/GqRBGqRBqj8apEEapEGqPwAAAAAAAAAAGqRBGqRBij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.113203704,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa5d5-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Monument Clearview Stainless Steel 6-Burner Liquid Propane and Natural Gas Grill with 1 Side Burner and Rotisserie Burner and Integrated Smoker Box",
+                "description": "Clearview Stainless Steel 6-Burner Liquid Propane and Natural Gas Grill with 1 Side Burner and Rotisserie Burner and Integrated Smoker Box",
+                "image_url": "https://mobileimages.lowes.com/product/converted/856597/856597007553.jpg",
+                "full_description": "Enjoy the outdoors this season with this rugged stainless steel grill designed for years of amazing meals. Enjoy the multi-cooking options with 5 main stainless steel burners, 1 internal sear burner and 1 side burner. This grill is designed to put out up to 96,000 BTU of cooking power. The stainless steel seamless weld lid has a built in window for easy viewing and features a built-in thermometer. Includes built in smoke box and electric rotisserie for flavor rich cooking. Enjoy cooking at all hours with the LED lit control knobs. Convertible to natural gas with purchase of conversion kit (sold separately).",
+                "product_url": "https://www.lowes.com/pd/Monument-Clearview-Stainless-Steel-6-Burner-Liquid-Propane-and-Natural-Gas-Grill-with-1-Side-Burner-and-Rotisserie-Burner-and-Integrated-Smoker-Box/1002944400",
+                "brand": "Monument"
+              }
+            },
+            "text": "Monument Clearview Stainless Steel 6-Burner Liquid Propane and Natural Gas Grill with 1 Side Burner and Rotisserie Burner and Integrated Smoker Box",
+            "embedding": {
+              "dense": {
+                "buffer": "kiRJkiRJwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD3BpSJK917PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPcGlIkr3Xs/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD3BpSJK917PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD3BpSJK92bP/cGlIkr3Xs/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9waUiSvdiz8AAAAAAAAAAPcGlIkr3Xs/AAAAAAAAAAAAAAAAAAAAAPcGlIkr3Xs/9waUiSvdez/3BpSJK917PwAAAAAAAAAA9waUiSvdez8AAAAAAAAAAPcGlIkr3Xs/9waUiSvdmz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFuE/DU7arE/AAAAAAAAAAAAAAAAAAAAADkFL6fg5aQ/9waUiSvduz8AAAAAAAAAAPcGlIkr3Xs/9waUiSvdez/Wh8b60FivPwAAAAAAAAAA9waUiSvdez85BS+n4OWkP/cGlIkr3Ys/ysSV7g0osz9bhPw1O2qhP/cGlIkr3Xs/9waUiSvdez+pRchfs6O2P1uE/DU7aqE/9waUiSvdqz85BS+n4OWkP/cGlIkr3Xs/9waUiSvdiz/3BpSJK917PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.113390304,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa56e-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Broil King",
+                "product_url": "https://www.lowes.com/pd/Broil-King-Regal-S420-Pro-Stainless-Steel-4-Burner-Liquid-Propane-Gas-Grill/1000052733",
+                "description": "Regal S420 Pro Stainless Steel 4-Burner Liquid Propane Gas Grill",
+                "title": "Broil King Regal S420 Pro Stainless Steel 4-Burner Liquid Propane Gas Grill",
+                "full_description": "",
+                "image_url": "https://mobileimages.lowes.com/product/converted/062703/062703563145.jpg"
+              }
+            },
+            "text": "Broil King Regal S420 Pro Stainless Steel 4-Burner Liquid Propane Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "xpJfLPnFwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABPG+i0gU6LPwAAAAAAAAAAAAAAAAAAAABPG+i0gU6LPwAAAAAAAAAATxvotIFOiz8AAAAAAAAAAE8b6LSBTps/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABPG+i0gU6bPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATxvotIFOmz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABPG+i0gU6LP08b6LSBTos/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATxvotIFOmz8AAAAAAAAAAE8b6LSBTos/exSuR+F6pD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE8b6LSBTqs/AAAAAAAAAAAAAAAAAAAAAE8b6LSBTos/exSuR+F6tD8AAAAAAAAAAE8b6LSBTps/AAAAAAAAAAB7FK5H4Xq0PwAAAAAAAAAAAAAAAAAAAAB7FK5H4Xq0PwAAAAAAAAAATxvotIFOqz97FK5H4XqkP08b6LSBTos/TxvotIFOiz97FK5H4Xq0P3sUrkfheqQ/TxvotIFOmz9PG+i0gU6bPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11374581,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa53e-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Char-Broil-Performance-Stainless-6-Burner-Liquid-Propane-Gas-Grill-with-1-Side-Burner/1000713050",
+                "image_url": "https://mobileimages.lowes.com/product/converted/047362/047362324481.jpg",
+                "title": "Char-Broil Performance Stainless 6-Burner Liquid Propane Gas Grill with 1 Side Burner",
+                "full_description": "The Char-Broil&#169; Performance Series&#8482; 6-Burner Gas Grill packs a ton of grilling features into a sleek stainless steel cabinet design. This grill is made to last, with porcelain-coated cast iron grates that are rust-resistant and easy to clean. All the features are here including a removable porcelain-coated grease pan, cabinet doors for storage, an electronic igniter and a 15,000 BTU sear burner for locking in juices and grilling up flavorful steaks.",
+                "description": "Performance Stainless 6-Burner Liquid Propane Gas Grill with 1 Side Burner",
+                "brand": "Char-Broil"
+              }
+            },
+            "text": "Char-Broil Performance Stainless 6-Burner Liquid Propane Gas Grill with 1 Side Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "kZCQkJCQwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYGBgYGBiYPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGBgYGIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYGBgYGBiIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASEhISEhKiPxgYGBgYGIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGBgYGBgYmD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGBgYGIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGBgYGBgYmD8AAAAAAAAAAAAAAAAAAAAAGBgYGBgYmD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHq4/AAAAAAAAAAAYGBgYGBiIPxgYGBgYGJg/FRUVFRUVtT8YGBgYGBiIPwAAAAAAAAAAGBgYGBgYmD8VFRUVFRW1PwAAAAAAAAAAAAAAAAAAAAAYGBgYGBioPxgYGBgYGIg/Hh4eHh4erj8SEhISEhKiPxgYGBgYGIg/GBgYGBgYiD8eHh4eHh6+PxISEhISEqI/GBgYGBgYmD8SEhISEhKiPwAAAAAAAAAAGBgYGBgYiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11506705,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa53b-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Performance Stainless 4-Burner Liquid Propane Gas Grill with 1 Side Burner",
+                "brand": "Char-Broil",
+                "product_url": "https://www.lowes.com/pd/Char-Broil-Performance-Stainless-4-Burner-Liquid-Propane-Gas-Grill-with-1-Side-Burner/1000523559",
+                "title": "Char-Broil Performance Stainless 4-Burner Liquid Propane Gas Grill with 1 Side Burner",
+                "image_url": "https://mobileimages.lowes.com/product/converted/047362/047362334213.jpg",
+                "full_description": "The Char-Broil&#169; Performance Series&#8482; 4-Burner Gas Grill packs a ton of grilling features into a sleek all stainless steel cabinet design. This grill is made to last, with stainless steel grates that are rust-resistant and easy to clean. All the features are here including a removable porcelain-coated grease pan, cabinet doors for storage, an electronic igniter and a 10,000 BTU side burner for added grilling versatility."
+              }
+            },
+            "text": "Char-Broil Performance Stainless 4-Burner Liquid Propane Gas Grill with 1 Side Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "kZCQkJCQwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYGBgYGBiYPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGBgYGIg/AAAAAAAAAAAAAAAAAAAAABgYGBgYGIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASEhISEhKiPxgYGBgYGIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGBgYGBgYmD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGBgYGIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGBgYGBgYmD8AAAAAAAAAAAAAAAAAAAAAGBgYGBgYmD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHq4/AAAAAAAAAAAYGBgYGBiIPxgYGBgYGJg/FRUVFRUVtT8YGBgYGBiIPwAAAAAAAAAAGBgYGBgYmD8VFRUVFRW1PwAAAAAAAAAAAAAAAAAAAAAYGBgYGBioPxgYGBgYGIg/Hh4eHh4erj8SEhISEhKiPxgYGBgYGIg/GBgYGBgYiD8eHh4eHh6+PxISEhISEqI/GBgYGBgYmD8SEhISEhKiPwAAAAAAAAAAGBgYGBgYiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11506705,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb1a209c-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Broil King",
+                "product_url": "https://www.lowes.com/pd/Broil-King-Imperial-490-4-Burner-Stainless-Steel-Built-in-Liquid-Propane-Gas-Grill/1000721488",
+                "image_url": "https://mobileimages.lowes.com/product/converted/062703/062703560847.jpg",
+                "title": "Broil King Imperial 490 4-Burner Stainless Steel Built-in Liquid Propane Gas Grill",
+                "description": "Imperial 490 4-Burner Stainless Steel Built-in Liquid Propane Gas Grill",
+                "full_description": ""
+              }
+            },
+            "text": "Broil King Imperial 490 4-Burner Stainless Steel Built-in Liquid Propane Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "LFG7ErUrwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD6GJyPwfmYPwAAAAAAAAAAAAAAAAAAAAD6GJyPwfmIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPoYnI/B+Zg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD6GJyPwfmIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC7ErUrUbuiPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+hicj8H5mD8AAAAAAAAAAPoYnI/B+Yg/AAAAAAAAAAD6GJyPwfmIP/oYnI/B+Yg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+hicj8H5iD8AAAAAAAAAAAAAAAAAAAAA+hicj8H5mD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPoYnI/B+ag/AAAAAAAAAAAAAAAAAAAAAPoYnI/B+Yg/uxK1K1G7sj8AAAAAAAAAAPoYnI/B+Yg/AAAAAAAAAAAZnI/B+Ri8PwAAAAAAAAAAAAAAAAAAAADblahdidq1P/oYnI/B+Yg/OB+D8zE4rz/6GJyPwfmYP/oYnI/B+Zg/+hicj8H5iD+7ErUrUbuyP7sStStRu6I/uxK1K1G7oj+7ErUrUbuiPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11513458,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa545-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Blue-Rhino-Black-and-Silver-Porcelain-and-Stainless-Steel-3-Burner-Liquid-Propane-Gas-Grill/1000714158",
+                "description": "Black and Silver/Porcelain and Stainless Steel 3-Burner Liquid Propane Gas Grill",
+                "brand": "Blue Rhino",
+                "image_url": "https://mobileimages.lowes.com/product/converted/841765/841765101362.jpg",
+                "full_description": "The Blue Rhino 3 burner stainless steel gas grill features three stainless steel burners for a total of 27000-BTU of power. Cook up to 25 burgers at a time. A push and turn ignition makes this grill easy to light and simple to use. Side shelves offer extra space. The wheels make transporting easy for your next event.",
+                "title": "Blue Rhino Black and Silver/Porcelain and Stainless Steel 3-Burner Liquid Propane Gas Grill"
+              }
+            },
+            "text": "Blue Rhino Black and Silver/Porcelain and Stainless Steel 3-Burner Liquid Propane Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "EQ7hEA7hwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXaIEWaIGGPwAAAAAAAAAAF2iBFmiBhj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXaIEWaIGGPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARDuEQDuGgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF2iBFmiBlj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABdogRZogYY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF2iBFmiBlj8AAAAAAAAAABdogRZogYY/EQ7hEA7hoD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sbM/AAAAAAAAAAAXaIEWaIGWPxEO4RAO4aA/F2iBFmiBtj8AAAAAAAAAAAAAAAAAAAAAF2iBFmiBhj8UO7ETO7GzPwAAAAAAAAAAF2iBFmiBhj8XaIEWaIG2PwAAAAAAAAAAFDuxEzuxsz8RDuEQDuGgPxdogRZogYY/F2iBFmiBhj8RDuEQDuGwPxEO4RAO4aA/F2iBFmiBlj8RDuEQDuGgPxdogRZogYY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.115995064,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cb0fa553-4588-11ec-956e-e3601f14962f",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Smoke-Hollow-Stainless-Steel-1-Burner-Liquid-Propane-Gas-Grill/1000478983",
+                "brand": "Smoke Hollow",
+                "description": "Stainless Steel 1-Burner Liquid Propane Gas Grill",
+                "title": "Smoke Hollow Stainless Steel 1-Burner Liquid Propane Gas Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/812771/812771018401.jpg",
+                "full_description": "The Smoke Hollow Tabletop Gas Grill is perfect for camping, tailgating, picnics, or any outdoor use. With 305 sq inches of cooking surface and a 11.25 In. x 18.5 In. warming rack, this portable Stainless steel table top gas grill is built for BBQ-grillers on the go. The long-lasting Stainless steel construction allows you to experience outdoor cooking wherever you enjoy it most - on picnics, camping, boating, tailgating or even in your own backyard. The compact design with locking lid, folding legs, and a large front carry handle makes this grill very portable and easy to transport or store. The grill operates on small, disposable, one-pound propane cylinders (not included)."
+              }
+            },
+            "text": "Smoke Hollow Stainless Steel 1-Burner Liquid Propane Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "hBBCCCGEwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEEEIIIYSQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQQQgghhJA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEEEIIIYSQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhBBCCCGEoD+EEEIIIYSQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQQQgghhJA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhBBCCCGEkD8AAAAAAAAAAAAAAAAAAAAAxhhjjDHGqD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMYYY4wxxqg/AAAAAAAAAAAAAAAAAAAAAIQQQgghhJA/xhhjjDHGuD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEEEIIIYSwPwAAAAAAAAAAhBBCCCGEkD/GGGOMMca4P4QQQgghhJA/xhhjjDHGqD+EEEIIIYSwP4QQQgghhJA/hBBCCCGEkD+EEEIIIYSwP8YYY4wxxqg/hBBCCCGEoD+EEEIIIYSgPwAAAAAAAAAAhBBCCCGEkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11607784,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          }
+        ],
+        "tags": {},
+        "text": "napoleon grill with 1 side burner",
+        "embedding": {
+          "dense": {
+            "buffer": "ZZNNNtlkwz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgffPDBB58/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgffPDBB58/CB988MEHnz8AAAAAAAAAAAgffPDBB58/RhdddNFFtz8AAAAAAAAAAAgffPDBB58/CB988MEHnz9GF1100UW3PwAAAAAAAAAAAAAAAAAAAABGF1100UW3PwAAAAAAAAAARhdddNFFtz8IH3zwwQevPwgffPDBB58/AAAAAAAAAABGF1100UW3PwgffPDBB58/CB988MEHnz8IH3zwwQefPwAAAAAAAAAACB988MEHnz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "shape": [
+              96
+            ],
+            "dtype": "<f8",
+            "quantization": 0,
+            "maxVal": 0,
+            "minVal": 0,
+            "scale": 0,
+            "originalDtype": ""
+          }
+        },
+        "granularity": 0,
+        "adjacency": 0,
+        "parentId": "",
+        "chunks": [],
+        "weight": 0,
+        "uri": "",
+        "mimeType": "",
+        "location": [],
+        "offset": 0,
+        "scores": {},
+        "modality": "",
+        "evaluations": {}
+      }
+    ],
+    "groundtruths": []
+  }
+}

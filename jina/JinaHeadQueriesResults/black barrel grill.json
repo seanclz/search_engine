@@ -1,0 +1,1021 @@
+{
+  "requestId": "20c9e3a7-b567-4f48-9843-5b55de8bff8a",
+  "data": {
+    "docs": [
+      {
+        "id": "59861820-5e87-11ec-9e82-17576e5cd1d2",
+        "matches": [
+          {
+            "id": "82faadf8-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "King-Griller",
+                "full_description": "If you have been searching for a high-quality charcoal grill at a great price, look no further than the King-Griller&#8482; Gambler&#8482; (E1416) by Char-Griller. Outfitted with cast iron cooking grates, an adjustable fire grate, and Easy Dump&#8482; ash pan this charcoal grill is the ideal grilling machine.",
+                "title": "King-Griller Gambler Black Barrel Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/789792/789792014166.jpg",
+                "description": "Gambler Black Barrel Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/King-Griller-Gambler-Black-Barrel-Charcoal-Grill/5000182861"
+              }
+            },
+            "text": "King-Griller Gambler Black Barrel Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "q6qqqqqquj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVVVVVVVWVPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVVVVVVVWlP1VVVVVVVZU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAsD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVVVVVVVWVPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKuqqqqqqro/VVVVVVVVlT9VVVVVVVWlPwAAAAAAAAAAAAAAAAAAsD8AAAAAAAAAAFVVVVVVVZU/VVVVVVVVlT8AAAAAAACwPwAAAAAAAAAAVVVVVVVVlT9VVVVVVVXFP1VVVVVVVZU/VVVVVVVVlT9VVVVVVVWVPwAAAAAAAAAAAAAAAAAAAACrqqqqqqrCPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15214516,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b300-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Char-Griller Wrangler 23-in Black Barrel Charcoal Grill",
+                "full_description": "There&#8217;s nothing like the smoky taste of char-grilled food, and the Char-Griller&#174; Wrangler&#174; Charcoal Grill delivers just that. Its steel construction provides excellent heat transfer to produce juicy, flavorful foods, and 638 Sq. In. of total cooking space leaves you with plenty of room for preparing pork chops, fish or steak. Use the warming rack to easily melt cheese over burgers or heat corn on the cob to accompany the meal. The front and side shelves offer convenient prep space and a place to hold your cooking utensils so they&#8217;re always within reach. With the adjustable charcoal grate and built-in temperature gauge, you can easily monitor cooking temperatures so your food comes out just the way you like it. Cleanup is a breeze with the removable ash catcher, and the Char-Griller&#174; grate lifter that easily removes the grids, so you can quickly wash them in time for the next cookout. Lastly, this grill is compatible with the Char-Griller&#174; Side Fire Box (Lowe's SKU 11236 - sold separately), allowing you to turn the Wrangler&#174; into a Texas-style smoker.",
+                "product_url": "https://www.lowes.com/pd/Char-Griller-Wrangler-23-in-Black-Barrel-Charcoal-Grill/999977662",
+                "description": "Wrangler 23-in Black Barrel Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/789792/789792028231.jpg",
+                "brand": "Char-Griller"
+              }
+            },
+            "text": "Char-Griller Wrangler 23-in Black Barrel Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "7RvWvmHtuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6iPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGekj+eEuQpQZ6SPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6iP54S5ClBnqI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGeoj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO0b1r5h7bs/AAAAAAAAAACeEuQpQZ6iPwAAAAAAAAAA7RvWvmHtqz8AAAAAAAAAAJ4S5ClBnpI/nhLkKUGeoj/tG9a+Ye2rPwAAAAAAAAAAnhLkKUGekj+eEuQpQZ7CPwAAAAAAAAAAnhLkKUGeoj+eEuQpQZ6SPwAAAAAAAAAAAAAAAAAAAADylCBPCfLEPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17514697,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faadd7-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "36-in Black Barrel Charcoal Grill",
+                "brand": "Char-Griller",
+                "full_description": "The grill of choice for professionals and back yard enthusiasts! The Char-Griller&#8482; Outlaw BBQ Grill provides a massive 950 sq. in. of extreme grilling capacity. That means you can fit 38 burgers on this grill! Equipped with an easy-dump ash pan, adjustable fire grates, and made of heavy-duty steel, this grill is built to last. Add the Side Fire Box (sold separately) for great Texas style smoking.",
+                "title": "Char-Griller 36-in Black Barrel Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Char-Griller-36-in-Black-Barrel-Charcoal-Grill/50375234",
+                "image_url": "https://mobileimages.lowes.com/product/converted/789792/789792021379.jpg"
+              }
+            },
+            "text": "Char-Griller 36-in Black Barrel Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "velNb3rTuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAABkIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP2QhC1nIQqY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchCpj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL3pTW9607s/AAAAAAAAAABkIQtZyEKmPwAAAAAAAAAAZCELWchCpj8AAAAAAAAAAAAAAAAAAAAAZCELWchCpj8LWchCFrKwPwAAAAAAAAAAZCELWchClj84velNb3rDPwAAAAAAAAAAZCELWchClj9kIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAA4velNb3rDPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18284242,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faadc8-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Charcoal Grill 20-in Black Charcoal Grill",
+                "brand": "UltraPlay",
+                "image_url": "https://mobileimages.lowes.com/product/converted/845720/845720001940.jpg",
+                "title": "UltraPlay Charcoal Grill 20-in Black Charcoal Grill",
+                "full_description": "Outdoor charcoal grill with 280 square inches of cooking space.",
+                "product_url": "https://www.lowes.com/pd/UltraPlay-Charcoal-Grill-20-in-Black-Charcoal-Grill/3800579"
+              }
+            },
+            "text": "UltraPlay Charcoal Grill 20-in Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "Hh4eHh4evj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPwAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPwAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPxQUFBQUFKQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUpD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFJQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJKRkZGRkcE/AAAAAAAAAAAeHh4eHh6uPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUpD8eHh4eHh6uPwAAAAAAAAAAFBQUFBQUlD+XlpaWlpbGPwAAAAAAAAAAFBQUFBQUlD8UFBQUFBSkPwAAAAAAAAAAAAAAAAAAAAAZGRkZGRm5PwAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFJQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19228354,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae2b-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/077924/077924018831.jpg",
+                "brand": "Weber",
+                "description": "240-sq in Black Portable Charcoal Grill",
+                "title": "Weber 240-sq in Black Portable Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Weber-240-sq-in-Black-Portable-Charcoal-Grill/1000732074",
+                "full_description": "Take your Weber Kettle Cooker on the go with this extra-large 18 in. Jumbo Joe charcoal BBQ grill. It's outfitted with a user-friendly tuck-n-carry lid lock so you can transport it effortlessly via the top-mounted handle. Get jumbo-sized output from this portable charcoal grill at tailgates, campsites or the beach, showcasing your cooking talents at any site no matter how remote."
+              }
+            },
+            "text": "Weber 240-sq in Black Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "ERERERERwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXbMEWbMGWPwAAAAAAAAAAAAAAAAAAAAAXbMEWbMGWPwAAAAAAAAAAF2zBFmzBlj8AAAAAAAAAABdswRZswZY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXbMEWbMGWPxdswRZswZY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF2zBFmzBlj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF2zBFmzBlj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXbMEWbMGWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABdswRZswbY/F2zBFmzBpj8XbMEWbMGmPwAAAAAAAAAAERERERERsT8AAAAAAAAAAAAAAAAAAAAAF2zBFmzBlj8XbMEWbMGmPwAAAAAAAAAAF2zBFmzBlj8cx3Ecx3G8PwAAAAAAAAAAF2zBFmzBlj8XbMEWbMGmPwAAAAAAAAAAF2zBFmzBlj8XbMEWbMG2PxdswRZswZY/F2zBFmzBlj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19309053,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b2fc-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Char-Griller",
+                "full_description": "The grill of choice for professionals and back yard enthusiasts! The Char-Griller&#174; Super Pro&#174; charcoal grill provides 850 Sq In of superior grilling capacity. This grill is compatible with the Char-Griller&#174; Side Fire Box (Lowe's item # 11236 - sold separately), allowing you to turn the Super Pro&#174; into a Texas-style smoker.",
+                "title": "Char-Griller Super Pro 30-in Black Barrel Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Char-Griller-Super-Pro-30-in-Black-Barrel-Charcoal-Grill/3033621",
+                "description": "Super Pro 30-in Black Barrel Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/789792/789792021218.jpg"
+              }
+            },
+            "text": "Char-Griller Super Pro 30-in Black Barrel Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACSJEmSJEmiPwAAAAAAAAAAAAAAAAAAAACSJEmSJEmSPwAAAAAAAAAAAAAAAAAAAACSJEmSJEmSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACSJEmSJEmiP5IkSZIkSaI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkiRJkiRJoj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALdt27Zt27Y/AAAAAAAAAACSJEmSJEmiPwAAAAAAAAAA27Zt27Ztqz8AAAAAAAAAAAAAAAAAAAAAkiRJkiRJoj/btm3btm2rPwAAAAAAAAAAkiRJkiRJkj8AAAAAAADAPwAAAAAAAAAAkiRJkiRJkj+SJEmSJEmiP5IkSZIkSZI/AAAAAAAAAAAlSZIkSZLEPwAAAAAAAAAAAAAAAAAAAACSJEmSJEmSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19312395,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faadd4-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/789792/789792021904.jpg",
+                "brand": "Char-Griller",
+                "product_url": "https://www.lowes.com/pd/Char-Griller-Legacy-33-in-Black-Charcoal-Grill/1000169637",
+                "title": "Char-Griller Legacy 33-in Black Charcoal Grill",
+                "full_description": "The Char-Griller&#174; Legacy&#8482; Charcoal Grill features dual dampers, heat gauge, and triple wall steel with insulation to deliver a superior grilling experience. With the easy dump ash pan clean up is easy and the hinged lid keeps the lid in place while you cook. Lastly, this grill is compatible with the Char-Griller&#174; Side Fire Box (Lowe's SKU 11236 - sold separately), allowing you to turn the Legacy&#8482; into a Texas-style smoker.",
+                "description": "Legacy 33-in Black Charcoal Grill"
+              }
+            },
+            "text": "Char-Griller Legacy 33-in Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "velNb3rTuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKWP2QhC1nIQqY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchCpj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL3pTW9607s/AAAAAAAAAAALWchCFrKwPwAAAAAAAAAAZCELWchCpj8AAAAAAAAAAGQhC1nIQpY/ZCELWchCpj8LWchCFrKwPwAAAAAAAAAAZCELWchClj8LWchCFrLAPwAAAAAAAAAAZCELWchClj9kIQtZyEKWPwAAAAAAAAAAAAAAAAAAAAC96U1vetO7PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19641112,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faadea-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Clihome Ac Milan Grills 22-in Black Barrel Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100226/1002269080.jpg",
+                "description": "Ac Milan Grills 22-in Black Barrel Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Clihome-Ac-Milan-Grills-22-in-Black-Barrel-Charcoal-Grill/1002269080",
+                "full_description": "Are you thinking about buying smoker grill?Â?Our smoker grill have been designed to give you the best smoker grill experience ever. Thanks to the controllable air supply and two layers design, our smoker will give you full control. Take the smoker grill to your home, you can barbecue with your family anytime and anywhere!",
+                "brand": "Clihome"
+              }
+            },
+            "text": "Clihome Ac Milan Grills 22-in Black Barrel Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "cB/BfQT3wT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwH8F9BPeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3oT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3kT9wH8F9BPehP3AfwX0E96E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3oT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3kT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAExnMZ3FdLY/AAAAAAAAAAAor6G8hvKqPwAAAAAAAAAAcB/BfQT3oT8AAAAAAAAAAAAAAAAAAAAAcB/BfQT3oT9MZzGdxXS2PwAAAAAAAAAAcB/BfQT3kT9eQ3kN5TXEP3AfwX0E95E/cB/BfQT3oT9wH8F9BPehPwAAAAAAAAAAAAAAAAAAAABMZzGdxXS2P3AfwX0E95E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20067088,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faadf9-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Char-Griller Char-Griller Premium Kettle, Black 22-in Black Kettle Charcoal Grill",
+                "brand": "Char-Griller",
+                "full_description": "If you have been searching for a totally unique kettle-style grill, the Char-Griller Premium Red Kettle Charcoal Grill is what you need. Equipped with a hinged lid for easy use, side shelves for cooking preparation and an Easy Dump&#8482; ash pan, this kettle grill is a great option for grillers who are looking for a great all-around grill.",
+                "description": "Char-Griller Premium Kettle, Black 22-in Black Kettle Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/789792/789792048222.jpg",
+                "product_url": "https://www.lowes.com/pd/Char-Griller-Char-Griller-Premium-Kettle-Black-22-in-Black-Kettle-Charcoal-Grill/5000182863"
+              }
+            },
+            "text": "Char-Griller Char-Griller Premium Kettle, Black 22-in Black Kettle Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "HMdxHMdxvD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4OnW/LBIiT9oL6G9hPaiPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4OnW/LBImT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg6db8sEiZP2gvob2E9qI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaC+hvYT2oj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg6db8sEiZPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4OnW/LBIiT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9rI/AAAAAAAAAABoL6G9hPaiPwAAAAAAAAAApAw83Zoftj8AAAAAAAAAAAAAAAAAAAAAaC+hvYT2oj9YpAw83ZqvPwAAAAAAAAAA4OnW/LBImT/KwNOt+WHBP+Dp1vywSJk/4OnW/LBIiT/g6db8sEiJPwAAAAAAAAAAAAAAAAAAAAAcx3Ecx3G8PwAAAAAAAAAA4OnW/LBIqT/g6db8sEiJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20191886,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae85-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "GrillPro GrillPro Electric Table Top Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/060162/060162011191.jpg",
+                "product_url": "https://www.lowes.com/pd/GrillPro-GrillPro-Electric-Table-Top-Grill/1003259690",
+                "description": "GrillPro Electric Table Top Grill",
+                "brand": "GrillPro",
+                "full_description": "The GrillPro Electric Table Top Grill offers up the performance you would expect from a portable gas grill in a convenient, compact electric grill. The powerful 1,500-Watt/120-Volt electric cooking element heats up quickly to get you grilling fast and offers up a wide range of control to let you get to your desired cooking temperature. The cast iron cooking grid retains the heat to provide a great sear, adding another layer of flavor to your food. The folding legs allow the grill to be easily stored when not in use. This grill is intended for outdoor use only and is ideal for grillers in apartments, condos, or any other residence where use of gas or charcoal grills is restricted."
+              }
+            },
+            "text": "GrillPro GrillPro Electric Table Top Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "nud5nud5vj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYhmEYhmGYPwAAAAAAAAAAkiRJkiRJsj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGIZhGIZhqD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYhmEYhmGoPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYZg/GIZhGIZhmD8YhmEYhmGoPwAAAAAAAAAAGIZhGIZhqD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYhmEYhmG4PwAAAAAAAAAAAAAAAAAAAAAYhmEYhmHIPwAAAAAAAAAAAAAAAAAAAACSJEmSJEmyPxiGYRiGYZg/AAAAAAAAAACSJEmSJEnCPwAAAAAAAAAAGIZhGIZhmD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20296368,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae2a-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Mr. Bar-B-Q",
+                "title": "Mr. Bar-B-Q Portable charcoal grill 206-sq in Black/Porcelain Coated Portable Charcoal Grill",
+                "description": "Portable charcoal grill 206-sq in Black/Porcelain Coated Portable Charcoal Grill",
+                "full_description": "The Mr. Bar-B-Q portable charcoal grill is great for backyard barbecues, camping and tailgating. Portable design for grilling anywhere.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/841765/841765101355.jpg",
+                "product_url": "https://www.lowes.com/pd/Mr-Bar-B-Q-Portable-charcoal-grill-206-sq-in-Black-Porcelain-Coated-Portable-Charcoal-Grill/1000714194"
+              }
+            },
+            "text": "Mr. Bar-B-Q Portable charcoal grill 206-sq in Black/Porcelain Coated Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "6k1vetObvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALWchCFrKgP2QhC1nIQoY/ZCELWchChj9kIQtZyEKGPwAAAAAAAAAAZCELWchChj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKGPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALWchCFrKgP2QhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchChj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZCELWchChj8AAAAAAAAAAAAAAAAAAAAAC1nIQhayoD9kIQtZyEKGPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL3pTW9607s/ZCELWchClj+96U1vetOrP2QhC1nIQoY/ZCELWchCpj8AAAAAAAAAAGQhC1nIQoY/ZCELWchClj9kIQtZyEKmPwAAAAAAAAAAZCELWchChj+96U1vetO7PwAAAAAAAAAAZCELWchClj8LWchCFrKwPwAAAAAAAAAAZCELWchChj+RhSxkIQu5P2QhC1nIQoY/C1nIQhayoD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.2029848,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b2fa-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "King-Griller Smokin' Ace 30-in Black Barrel Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/King-Griller-Smokin-Ace-30-in-Black-Barrel-Charcoal-Grill/1000596759",
+                "description": "Smokin' Ace 30-in Black Barrel Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/789792/789792030180.jpg",
+                "brand": "King-Griller",
+                "full_description": "The King-Griller&#8482; (by Char-Griller&#174;) Smokin' Ace&#8482; Charcoal Grill provides the versatility valued by barbecue pros and backyard enthusiasts, at a family friendly cost. It features a large grilling area with cast iron cooking grates and a warming rack. The built-in temperature gauge and adjustable fire grates provide added temperature control. The included side firebox is equipped with an easy to clean ash drawer. Manufactured with durable steel ensures this grill will last for years."
+              }
+            },
+            "text": "King-Griller Smokin' Ace 30-in Black Barrel Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "R1juaYTlvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACWexphuaeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACWexphuaehPwAAAAAAAAAAAAAAAAAAAACWexphuaeRPwAAAAAAAAAAAAAAAAAAAACWexphuaeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlnsaYbmnkT+WexphuaehP5Z7GmG5p5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlnsaYbmnoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACWexphuaeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlnsaYbmnkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJZ7GmG5p7E/AAAAAAAAAABhuacRlnuqPwAAAAAAAAAAYbmnEZZ7qj8AAAAAAAAAAJZ7GmG5p5E/lnsaYbmnkT98GmG5pxG2PwAAAAAAAAAAlnsaYbmnoT9HWO5phOW+P5Z7GmG5p5E/YbmnEZZ7qj+WexphuaehPwAAAAAAAAAAAAAAAAAAAABhuacRlnu6PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20373273,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faaddf-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "The black Ranch Kettle grill features a 1,104 sq. In. cooking area to give you ample space to grill for yourself or a crowd. The hinged cooking grate helps make it easy to add fuel as you cook and the tuck-away lid holder saves you space. The BBQ grill also features a porcelain-enameled ash catcher to help keep your outdoor living space clean.",
+                "brand": "Weber",
+                "description": "37-in Black Kettle Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/077924/077924024177.jpg",
+                "title": "Weber 37-in Black Kettle Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Weber-37-in-Black-Kettle-Charcoal-Grill/1000240877"
+              }
+            },
+            "text": "Weber 37-in Black Kettle Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "kAZpkAZpwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAapEEapEGaPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAapEEapEGaPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABqkQRqkQZo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAapEEapEGaPxqkQRqkQZo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGqRBGqRBmj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAapEEapEGaPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAapEEapEGaPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sbM/GqRBGqRBmj8apEEapEGqPwAAAAAAAAAAGqRBGqRBuj8AAAAAAAAAAAAAAAAAAAAAGqRBGqRBmj8apEEapEGqPwAAAAAAAAAAGqRBGqRBmj+QBmmQBmnAPwAAAAAAAAAAGqRBGqRBmj8apEEapEGaPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GzPwAAAAAAAAAAGqRBGqRBqj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20432535,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faadcb-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/715064/715064986626.jpg",
+                "title": "Weber 18-in Black Kettle Charcoal Grill",
+                "full_description": "The Weber 18 in. Smokey Mountain Cooker smoker features a generous 481 sq. In. of cooking space across two plated-steel grill grates, enough room to smoke several slabs of ribs and a whole roast concurrently. This charcoal smoker has a built-in lid thermometer with a smoke-zone sweet-spot identifier between 200 and 275&deg;F that makes it easy to monitor heat and regulate accordingly with air dampers and briquette adjustments. To keep foods moist and flavorful, a porcelain-enameled water pan is included for high-humidity slow-cooks that produce juicy, tender, professional-grade results every time.",
+                "brand": "Weber",
+                "description": "18-in Black Kettle Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Weber-18-in-Black-Kettle-Charcoal-Grill/1002096376"
+              }
+            },
+            "text": "Weber 18-in Black Kettle Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "kAZpkAZpwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAapEEapEGaPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABqkQRqkQZo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGqRBGqRBmj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAapEEapEGaPxqkQRqkQZo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGqRBGqRBmj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAapEEapEGaPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAapEEapEGaPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sbM/GqRBGqRBmj8apEEapEGqPwAAAAAAAAAAGqRBGqRBuj8AAAAAAAAAAAAAAAAAAAAAGqRBGqRBmj8apEEapEGqPwAAAAAAAAAAGqRBGqRBmj+QBmmQBmnAPwAAAAAAAAAAGqRBGqRBmj8apEEapEGaPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GzPwAAAAAAAAAAGqRBGqRBqj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20432535,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faadc5-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Lordear Portable outdoor charcoal grill 10-in Black Charcoal Grill",
+                "brand": "Lordear",
+                "product_url": "https://www.lowes.com/pd/Lordear-Portable-outdoor-charcoal-grill-10-in-Black-Charcoal-Grill/1003265762",
+                "full_description": "The portable charcoal grill is suitable for 7 - 10 people barbecue party in a variety of venues. Such as picnic, trailing, camping patio, indoor, outdoor parties, tourism, gardens, parks, beaches. A number of unique design can provide you with great convenience.",
+                "description": "Portable outdoor charcoal grill 10-in Black Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100326/1003265762.jpg"
+              }
+            },
+            "text": "Lordear Portable outdoor charcoal grill 10-in Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "CB988MEHvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIH3zwwQePPwAAAAAAAAAAAAAAAAAAAAAIH3zwwQePPwgffPDBB48/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIH3zwwQePPwgffPDBB48/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACB988MEHjz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgffPDBB48/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACB988MEHjz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACebbLLJJrs/CB988MEHjz8IH3zwwQevPwgffPDBB58/CB988MEHnz8AAAAAAAAAAAgffPDBB48/CB988MEHnz9GF1100UWnPwAAAAAAAAAACB988MEHjz8IH3zwwQe/PwAAAAAAAAAACB988MEHjz8nm2yyySa7PwAAAAAAAAAAAAAAAAAAAAAIH3zwwQe/PwAAAAAAAAAACB988MEHnz8IH3zwwQePPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20477915,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faadc6-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/100326/1003265764.jpg",
+                "product_url": "https://www.lowes.com/pd/Lordear-Portable-outdoor-charcoal-grill-15-in-Black-Charcoal-Grill/1003265764",
+                "description": "Portable outdoor charcoal grill 15-in Black Charcoal Grill",
+                "brand": "Lordear",
+                "title": "Lordear Portable outdoor charcoal grill 15-in Black Charcoal Grill",
+                "full_description": "A portable fold grill is suitable for 3-5 people barbecue parties in a variety of venues. Such as picnic, trailing, camping patio, indoor, outdoor parties, tourism, gardens, parks, beaches. A number of unique design can provide you with great convenience."
+              }
+            },
+            "text": "Lordear Portable outdoor charcoal grill 15-in Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "CB988MEHvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIH3zwwQePPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgffPDBB48/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACB988MEHjz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIH3zwwQePPwgffPDBB48/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACB988MEHjz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgffPDBB48/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACB988MEHjz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACebbLLJJrs/CB988MEHjz8IH3zwwQevPwgffPDBB58/CB988MEHnz8AAAAAAAAAAAgffPDBB48/CB988MEHnz9GF1100UWnPwAAAAAAAAAACB988MEHjz8IH3zwwQe/PwAAAAAAAAAACB988MEHjz8nm2yyySa7PwAAAAAAAAAAAAAAAAAAAAAIH3zwwQe/PwAAAAAAAAAACB988MEHnz8IH3zwwQePPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20477915,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faadec-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Clihome-Ac-Milan-Charcoal-Smoker-and-Grill-25-in-Black-Barrel-Charcoal-Grill/1001855942",
+                "full_description": "This multi-functional charcoal smoker lets you have it all with both grilling and smoking capacity. 2-Access doors design to make adding charcoal and wood easier while smoking. With the top and bottom adjustable air vents, heat control is in your hand. The heavy-duty protective grill cover is made of 600D oxford fabric which is weather-resistant and dust-proof. Our grill cover can protect your grill from the elements of forces, such as wind, sand storms, sun and rain etc. assembled dimensions: 25 in. x 20 in. x 41 in. total cooking area (sq. In.). 969 Sq. in. Fuel type: charcoal/wood body construction: heavy-duty steel cooking grate material: chrome-plated cooking grate quantity: 3-Pieces.",
+                "brand": "Clihome",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100185/1001855942.jpg",
+                "description": "Ac Milan Charcoal Smoker and Grill 25-in Black Barrel Charcoal Grill",
+                "title": "Clihome Ac Milan Charcoal Smoker and Grill 25-in Black Barrel Charcoal Grill"
+              }
+            },
+            "text": "Clihome Ac Milan Charcoal Smoker and Grill 25-in Black Barrel Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "bCivobyGwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAor6G8hvKKPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKK+hvIbyij8AAAAAAAAAAAAAAAAAAAAAKK+hvIbyij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKK+hvIbyij8or6G8hvKaP15DeQ3lNaQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKK+hvIbymj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKK+hvIbyij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKK+hvIbyij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACivobyG8ro/AAAAAAAAAAAor6G8hvKqPyivobyG8oo/XkN5DeU1pD8AAAAAAAAAAAAAAAAAAAAAXkN5DeU1pD95DeU1lNewPwAAAAAAAAAAKK+hvIbymj95DeU1lNfAPyivobyG8po/XkN5DeU1pD8or6G8hvKqPwAAAAAAAAAAAAAAAAAAAABDeQ3lNZS3PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20575115,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faade9-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Clihome",
+                "full_description": "This multi-functional charcoal smoker lets you have it all with both grilling and smoking capacity. 2-Access doors design to make adding charcoal and wood easier while smoking, with the top and bottom adjustable air vents, heat control is in your hand, the heavy-duty protective grill cover is made of 600D oxford fabric which is weather-resistant and dust-proof. Our grill cover can protect your grill from the elements of forces, such as wind, sand storms, sun and rain etc. fuel type: charcoal/wood body construction: heavy-duty steel cooking grate material: chrome-plated cooking grate quantity: 3-Pieces.",
+                "product_url": "https://www.lowes.com/pd/Clihome-Ac-Milan-Charcoal-Smoker-and-Grill-24-8-in-Black-Barrel-Charcoal-Grill/1002269088",
+                "title": "Clihome Ac Milan Charcoal Smoker and Grill 24.8-in Black Barrel Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100226/1002269088.jpg",
+                "description": "Ac Milan Charcoal Smoker and Grill 24.8-in Black Barrel Charcoal Grill"
+              }
+            },
+            "text": "Clihome Ac Milan Charcoal Smoker and Grill 24.8-in Black Barrel Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "0iAN0iANwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAapEEapEGKPxqkQRqkQYo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGqRBGqRBij8AAAAAAAAAABqkQRqkQYo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGqRBGqRBij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGqRBGqRBij8apEEapEGaPxQ7sRM7saM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGqRBGqRBmj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGqRBGqRBij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGqRBGqRBij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABqkQRqkQbo/AAAAAAAAAAAapEEapEGqPxqkQRqkQYo/FDuxEzuxoz8AAAAAAAAAAAAAAAAAAAAAFDuxEzuxoz+QBmmQBmmwPwAAAAAAAAAAGqRBGqRBmj+QBmmQBmnAPxqkQRqkQZo/FDuxEzuxoz8apEEapEGqPwAAAAAAAAAAAAAAAAAAAACXb/mWb/m2PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20725395,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b30c-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/872076/872076040545.jpg",
+                "product_url": "https://www.lowes.com/pd/FlamePro-FlamePro-by-Dyna-Glo-24-9-in-Black-Barrel-Charcoal-Grill/1000978072",
+                "description": "FlamePro by Dyna-Glo 24.9-in Black Barrel Charcoal Grill",
+                "title": "FlamePro FlamePro by Dyna-Glo 24.9-in Black Barrel Charcoal Grill",
+                "brand": "FlamePro",
+                "full_description": "Tame the flame at your next cookout with this charcoal cart-style grill from FlamePro by Dyna-Glo. Whether you&#8217;re searing steaks or roasting a rack of ribs, this grill provides plenty of cooking space to grill for friends and family with a 405 square inch primary cooking surface, plus a 142 square inch pivoting warming rack. Its heavy-duty cast-iron cooking grates retain heat and transfer it to food, so you can achieve restaurant-quality sear marks every time. Fine tune and monitor the cooking temperature with the height-adjustable charcoal tray, side air damper, smoke stack with adjustable flue cap, and the built-in lid thermometer. The convenient side and front shelf offer the perfect storage space for serve ware, and the under-grill storage grid helps keep your utensils and charcoal handy. Clean-up is hassle-free with the removable ash tray, and the wheels and folding front work station allow for easy mobility and compact storage. So bring the heat to your next barbecue with this charcoal grill from FlamePro by Dyna-Glo."
+              }
+            },
+            "text": "FlamePro FlamePro by Dyna-Glo 24.9-in Black Barrel Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "IPiBH/iBvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg+IEf+IGfPyD4gR/4gY8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIPiBH/iBjz8AAAAAAAAAACD4gR/4gY8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg+IEf+IGPPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg+IEf+IGfPyD4gR/4gY8/IPiBH/iBjz8AAAAAAAAAACD4gR/4gZ8/IPiBH/iBnz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIPiBH/iBnz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABy5kRu5kbs/IPiBH/iBjz8g+IEf+IGfPwAAAAAAAAAAGHqhF3qhpz8AAAAAAAAAAAAAAAAAAAAAIPiBH/iBjz8g+IEf+IGfPwAAAAAAAAAAIPiBH/iBjz8g+IEf+IG/PyD4gR/4gZ8/IPiBH/iBnz8g+IEf+IGvPwAAAAAAAAAAAAAAAAAAAAAYeqEXeqG3PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACD4gR/4gZ8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20907527,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faadd8-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Dyna-Glo",
+                "product_url": "https://www.lowes.com/pd/Dyna-Glo-24-in-Black-Barrel-Charcoal-Grill/999901549",
+                "full_description": "This Dyna-Glo barrel charcoal grill provides everything you need to grill, yet in a compact size.  Steel cooking grates sear foods to perfection, while locking in juicy flavors. A charcoal tray adjustable crank and smokestack with an adjustable flue allows you to adjust temperature to your liking. It also includes a temperature gauge to measure internal heat levels for perfectly grilled meat. Complete with a warming rack and side shelves, this grill allows you to keep all of your grilling essentials at your fingertips.",
+                "title": "Dyna-Glo 24-in Black Barrel Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/872076/872076029779.jpg",
+                "description": "24-in Black Barrel Charcoal Grill"
+              }
+            },
+            "text": "Dyna-Glo 24-in Black Barrel Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "nud5nud5vj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYhmEYhmGoPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGIZhGIZhmD8AAAAAAAAAABiGYRiGYZg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYhmEYhmGoPxiGYRiGYZg/GIZhGIZhmD8AAAAAAAAAAAAAAAAAAAAAGIZhGIZhqD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ7neZ7neb4/AAAAAAAAAAAYhmEYhmGoPwAAAAAAAAAAGIZhGIZhmD8AAAAAAAAAAAAAAAAAAAAAGIZhGIZhmD8YhmEYhmGoPwAAAAAAAAAAGIZhGIZhmD+SJEmSJEnCPwAAAAAAAAAAGIZhGIZhqD8YhmEYhmGoPwAAAAAAAAAAAAAAAAAAAAAYhmEYhmG4PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYZg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20937946,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          }
+        ],
+        "tags": {},
+        "text": "black barrel grill",
+        "embedding": {
+          "dense": {
+            "buffer": "HMdxHMdxvD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABzHcRzHcbw/HMdxHMdxvD8cx3Ecx3GsPwAAAAAAAAAAHMdxHMdxrD8AAAAAAAAAABzHcRzHcaw/AAAAAAAAAAAcx3Ecx3GsPwAAAAAAAAAAHMdxHMdxrD8cx3Ecx3HMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVVVVVVVXFPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "shape": [
+              96
+            ],
+            "dtype": "<f8",
+            "quantization": 0,
+            "maxVal": 0,
+            "minVal": 0,
+            "scale": 0,
+            "originalDtype": ""
+          }
+        },
+        "granularity": 0,
+        "adjacency": 0,
+        "parentId": "",
+        "chunks": [],
+        "weight": 0,
+        "uri": "",
+        "mimeType": "",
+        "location": [],
+        "offset": 0,
+        "scores": {},
+        "modality": "",
+        "evaluations": {}
+      }
+    ],
+    "groundtruths": []
+  }
+}

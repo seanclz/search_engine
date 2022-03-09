@@ -1,0 +1,1021 @@
+{
+  "requestId": "e6fd2eb2-0a97-45ee-83bd-8e7c124ba19a",
+  "data": {
+    "docs": [
+      {
+        "id": "2d0ea34e-7a0b-11ec-be6b-5d6790f603b1",
+        "matches": [
+          {
+            "id": "cf61b99b-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Char-Broil-Commercial-Stainless-Black-4-Burner-Liquid-Propane-and-Natural-Gas-Infrared-Gas-Grill-with-1-Side-Burner/1000364739",
+                "full_description": "Never choose between grilling on low or searing on high again. The Commercial&#8482; Double Header delivers ultimate grilling versatility with two independent cooking zones, each equipped with patented TRU-Infrared&#8482; cooking technology. Enjoy stress-free grilling knowing even heat means evenly cooked food and no flare-ups. The Double Header features four main burners and comes equipped with a stove top and griddle side burner. It&#8217;s also Dual Fuel&#174; enabled for an easy conversion from liquid propane to natural gas. Simply ignite the Surefire&#174; Electronic Ignition with the push of a button to start grilling. Compatible with Char-broil's universal cover, Lowe's item #608949",
+                "image_url": "https://mobileimages.lowes.com/product/converted/047362/047362324559.jpg",
+                "description": "Commercial Stainless/Black 4-Burner Liquid Propane and Natural Gas Infrared Gas Grill with 1 Side Burner",
+                "title": "Char-Broil Commercial Stainless/Black 4-Burner Liquid Propane and Natural Gas Infrared Gas Grill with 1 Side Burner",
+                "brand": "Char-Broil"
+              }
+            },
+            "text": "Char-Broil Commercial Stainless/Black 4-Burner Liquid Propane and Natural Gas Infrared Gas Grill with 1 Side Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "C1nIQhaywD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdgaKtBs+RPwAAAAAAAAAAHYGirQbPgT8AAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAAAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdgaKtBs+hPx2Boq0Gz5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAq8FzBIq2mj8AAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAAAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAdgaKtBs+BPwAAAAAAAAAAHYGirQbPgT8AAAAAAAAAAAAAAAAAAAAAHYGirQbPkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIhxvy6pfLg/AAAAAAAAAAAdgaKtBs+RPx2Boq0Gz6E/82Hcr0sqrz8dgaKtBs+BPwAAAAAAAAAAHYGirQbPkT8dgaKtBs+xPwAAAAAAAAAAHYGirQbPgT/zYdyvSyqvPx2Boq0Gz5E/q8FzBIq2qj+rwXMEiraaPx2Boq0Gz4E/HYGirQbPgT+rwXMEira6Px2Boq0Gz6E/q8FzBIq2mj8dgaKtBs+hPwAAAAAAAAAAHYGirQbPgT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1337877,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b990-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Char-Broil-Commercial-Stainless-Black-3-Burner-Liquid-Propane-and-Natural-Gas-Infrared-Gas-Grill-with-1-Side-Burner/1000107411",
+                "description": "Commercial Stainless/Black 3-Burner Liquid Propane and Natural Gas Infrared Gas Grill with 1 Side Burner",
+                "full_description": "The Commercial&#8482; 3 Burner Gas Grill features a sleek stainless steel design that looks great on a patio or in the backyard. Using TRU-Infrared&#8482; cooking technology, the Commercial 3 Burner Gas Grill delivers juicier flavor and even heat without flare-ups versus a standard gas grill. This grill is Dual Fuel&#8482; enabled so you can run your grill on propane or convert it to run off your home&#8217;s natural gas line. With premium features like porcelain-coated cast iron grates and stainless steel burners, you can be sure the Commercial 3 Burner Gas Grill can handle all types of grilling. Compatible with Char-broil's universal cover, Lowe's item #754697",
+                "title": "Char-Broil Commercial Stainless/Black 3-Burner Liquid Propane and Natural Gas Infrared Gas Grill with 1 Side Burner",
+                "brand": "Char-Broil",
+                "image_url": "https://mobileimages.lowes.com/product/converted/047362/047362324252.jpg"
+              }
+            },
+            "text": "Char-Broil Commercial Stainless/Black 3-Burner Liquid Propane and Natural Gas Infrared Gas Grill with 1 Side Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "C1nIQhaywD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdgaKtBs+RPwAAAAAAAAAAHYGirQbPgT8AAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAdgaKtBs+BPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdgaKtBs+hPx2Boq0Gz5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAq8FzBIq2mj8AAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAAAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAdgaKtBs+BPwAAAAAAAAAAHYGirQbPgT8AAAAAAAAAAAAAAAAAAAAAHYGirQbPkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIhxvy6pfLg/AAAAAAAAAAAdgaKtBs+RPx2Boq0Gz6E/82Hcr0sqrz8dgaKtBs+BPwAAAAAAAAAAHYGirQbPkT8dgaKtBs+xPwAAAAAAAAAAHYGirQbPgT/zYdyvSyqvPx2Boq0Gz5E/q8FzBIq2qj+rwXMEiraaPx2Boq0Gz4E/HYGirQbPgT+rwXMEira6Px2Boq0Gz6E/q8FzBIq2mj8dgaKtBs+hPwAAAAAAAAAAHYGirQbPgT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1337877,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b98f-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Char-Broil Commercial Stainless/Black 4-Burner Liquid Propane and Natural Gas Infrared Gas Grill with 1 Side Burner",
+                "description": "Commercial Stainless/Black 4-Burner Liquid Propane and Natural Gas Infrared Gas Grill with 1 Side Burner",
+                "brand": "Char-Broil",
+                "full_description": "The Commercial Series&#8482; 4-burner grill features a sleek stainless steel design and the TRU-Infrared system for no flare ups and even heat. Choose from 3 compatible Char-Broil universal covers; Lowe's item #'s 754690, 732079, or 754691.",
+                "product_url": "https://www.lowes.com/pd/Char-Broil-Commercial-Stainless-Black-4-Burner-Liquid-Propane-and-Natural-Gas-Infrared-Gas-Grill-with-1-Side-Burner/1000107415",
+                "image_url": "https://mobileimages.lowes.com/product/converted/047362/047362324276.jpg"
+              }
+            },
+            "text": "Char-Broil Commercial Stainless/Black 4-Burner Liquid Propane and Natural Gas Infrared Gas Grill with 1 Side Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "C1nIQhaywD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdgaKtBs+RPwAAAAAAAAAAHYGirQbPgT8AAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAAAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdgaKtBs+hPx2Boq0Gz5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAq8FzBIq2mj8AAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAAAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAdgaKtBs+BPwAAAAAAAAAAHYGirQbPgT8AAAAAAAAAAAAAAAAAAAAAHYGirQbPkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIhxvy6pfLg/AAAAAAAAAAAdgaKtBs+RPx2Boq0Gz6E/82Hcr0sqrz8dgaKtBs+BPwAAAAAAAAAAHYGirQbPkT8dgaKtBs+xPwAAAAAAAAAAHYGirQbPgT/zYdyvSyqvPx2Boq0Gz5E/q8FzBIq2qj+rwXMEiraaPx2Boq0Gz4E/HYGirQbPgT+rwXMEira6Px2Boq0Gz6E/q8FzBIq2mj8dgaKtBs+hPwAAAAAAAAAAHYGirQbPgT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1337877,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b929-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Char-Broil Commercial Stainless Steel 3-Burner Liquid Propane and Natural Gas Infrared Gas Grill with 1 Side Burner",
+                "product_url": "https://www.lowes.com/pd/Char-Broil-Commercial-Stainless-Steel-3-Burner-Liquid-Propane-and-Natural-Gas-Infrared-Gas-Grill-with-1-Side-Burner/1001462424",
+                "image_url": "https://mobileimages.lowes.com/product/converted/047362/047362335524.jpg",
+                "brand": "Char-Broil",
+                "description": "Commercial Stainless Steel 3-Burner Liquid Propane and Natural Gas Infrared Gas Grill with 1 Side Burner",
+                "full_description": "Stylish and compact with a generous cooking area, the Char-Broil&#174; Commercial Series&#8482; TRU-Infrared&#8482; 3-Burner Gas Grill prevents flare-ups, delivers even heat and cooks juicier food with no hot or cold spots to worry about. Boasting 420-square-inches of primary cooking space, this grill can fit 25 burgers on porcelain-coated, cast-iron grates that are easy-to-clean and rust resistant. It&#8217;s easy to assemble and equipped with premium features like SureFire&#174; electronic ignition, integrated LED lights and cabinet storage to make your cookouts fun and easy."
+              }
+            },
+            "text": "Char-Broil Commercial Stainless Steel 3-Burner Liquid Propane and Natural Gas Infrared Gas Grill with 1 Side Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "HYGirQbPwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdgaKtBs+RPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAdgaKtBs+BPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACrwXMEiraaPx2Boq0Gz5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAq8FzBIq2mj8AAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAAAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAdgaKtBs+BPwAAAAAAAAAAHYGirQbPgT8AAAAAAAAAAAAAAAAAAAAAq8FzBIq2mj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQrY/AAAAAAAAAAAdgaKtBs+BPx2Boq0Gz6E/QdFWg+cItD8dgaKtBs+BPwAAAAAAAAAAHYGirQbPkT8dgaKtBs+xPwAAAAAAAAAAAAAAAAAAAADzYdyvSyqvPx2Boq0Gz5E/q8FzBIq2qj+rwXMEiraaPx2Boq0Gz4E/HYGirQbPgT+rwXMEira6Px2Boq0Gz6E/HYGirQbPoT8dgaKtBs+hPwAAAAAAAAAAHYGirQbPgT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13455744,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b927-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Commercial Stainless Steel 4-Burner Liquid Propane and Natural Gas Infrared Gas Grill with 1 Side Burner",
+                "product_url": "https://www.lowes.com/pd/Char-Broil-Commercial-Stainless-Steel-4-Burner-Liquid-Propane-and-Natural-Gas-Infrared-Gas-Grill-with-1-Side-Burner/1001462436",
+                "full_description": "The Char-Broil&#174; Commercial Series&#8482; TRU-Infrared&#8482; 4-Burner Gas Grill prevents flare-ups, delivers even heat and cooks juicier food over an expansive cooking area with no hot or cold spots to worry about. Boasting 525-square-inches of primary cooking space, this grill can fit 29 burgers on porcelain-coated, cast-iron grates that are easy-to-clean and rust resistant. It&#8217;s easy to assemble and equipped with premium features like SureFire&#174; electronic ignition, integrated LED lights and cabinet storage to keep your tools and supplies handy.",
+                "brand": "Char-Broil",
+                "title": "Char-Broil Commercial Stainless Steel 4-Burner Liquid Propane and Natural Gas Infrared Gas Grill with 1 Side Burner",
+                "image_url": "https://mobileimages.lowes.com/product/converted/047362/047362325754.jpg"
+              }
+            },
+            "text": "Char-Broil Commercial Stainless Steel 4-Burner Liquid Propane and Natural Gas Infrared Gas Grill with 1 Side Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "HYGirQbPwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdgaKtBs+RPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAAAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACrwXMEiraaPx2Boq0Gz5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAq8FzBIq2mj8AAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAAAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAdgaKtBs+BPwAAAAAAAAAAHYGirQbPgT8AAAAAAAAAAAAAAAAAAAAAq8FzBIq2mj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQrY/AAAAAAAAAAAdgaKtBs+BPx2Boq0Gz6E/QdFWg+cItD8dgaKtBs+BPwAAAAAAAAAAHYGirQbPkT8dgaKtBs+xPwAAAAAAAAAAAAAAAAAAAADzYdyvSyqvPx2Boq0Gz5E/q8FzBIq2qj+rwXMEiraaPx2Boq0Gz4E/HYGirQbPgT+rwXMEira6Px2Boq0Gz6E/HYGirQbPoT8dgaKtBs+hPwAAAAAAAAAAHYGirQbPgT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13455744,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b984-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/047362/047362324719.jpg",
+                "title": "Char-Broil Commercial 3-Burner Liquid Propane and Natural Gas Grill",
+                "brand": "Char-Broil",
+                "product_url": "https://www.lowes.com/pd/Char-Broil-Commercial-3-Burner-Liquid-Propane-and-Natural-Gas-Grill/3031236",
+                "description": "Commercial 3-Burner Liquid Propane and Natural Gas Grill",
+                "full_description": ""
+              }
+            },
+            "text": "Char-Broil Commercial 3-Burner Liquid Propane and Natural Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "Z7fwqzGRvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABnt/CrMZGePwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABnt/CrMZGOPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABnt/CrMZGeP2e38KsxkZ4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZ7fwqzGRnj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGe38KsxkY4/AAAAAAAAAABnt/CrMZGOPwAAAAAAAAAAZ7fwqzGRjj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHqgcnYLv7o/AAAAAAAAAABnt/CrMZGOP2e38KsxkZ4/jYn0QOXspj8AAAAAAAAAAAAAAAAAAAAAZ7fwqzGRjj+gcnYLvxqzPwAAAAAAAAAAAAAAAAAAAACgcnYLvxqzP2e38KsxkZ4/jYn0QOXspj+NifRA5eymP2e38KsxkY4/Z7fwqzGRjj9nt/CrMZG+P2e38KsxkY4/Z7fwqzGRjj+NifRA5eymPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13565512,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b983-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Char-Broil Commercial 3-Burner Liquid Propane and Natural Gas Grill",
+                "product_url": "https://www.lowes.com/pd/Char-Broil-Commercial-3-Burner-Liquid-Propane-and-Natural-Gas-Grill/3110361",
+                "brand": "Char-Broil",
+                "full_description": "",
+                "description": "Commercial 3-Burner Liquid Propane and Natural Gas Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/047362/047362325716.jpg"
+              }
+            },
+            "text": "Char-Broil Commercial 3-Burner Liquid Propane and Natural Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "Z7fwqzGRvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABnt/CrMZGePwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABnt/CrMZGOPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABnt/CrMZGeP2e38KsxkZ4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZ7fwqzGRnj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGe38KsxkY4/AAAAAAAAAABnt/CrMZGOPwAAAAAAAAAAZ7fwqzGRjj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHqgcnYLv7o/AAAAAAAAAABnt/CrMZGOP2e38KsxkZ4/jYn0QOXspj8AAAAAAAAAAAAAAAAAAAAAZ7fwqzGRjj+gcnYLvxqzPwAAAAAAAAAAAAAAAAAAAACgcnYLvxqzP2e38KsxkZ4/jYn0QOXspj+NifRA5eymP2e38KsxkY4/Z7fwqzGRjj9nt/CrMZG+P2e38KsxkY4/Z7fwqzGRjj+NifRA5eymPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13565512,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf6c595e-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Sunstone Ruby 5-Burner Natural Gas Built-In Grill",
+                "full_description": "Ruby series, by Sunstone &#8211; pro sear 5 burner grill with infra-red burner and rotisserie is superior in its class, built with all 304 grade stainless steel construction, seamless edging, and eye catching features. Exclusive all 304 SS fabricated I-burners with a minimal BTU output of 100,000 and an additional 15,000 BTU extra-wide rotisserie back burner all with integrated flame-thrower ignition in all burner positions. The cooking grids are solid 304 stainless steel, with exclusive variable rod spacing, for larger items on the left and right sides and smaller items in the middle. The warming grids are designed to work as a heat-riser, to push extra heat towards the front, creating an even heat distribution. At the same time the angled warming grid sheds most oils and cooking grease towards the back spill-away so you have less flare-ups. Exclusive pro sear thermal cooking grid, transfers heat evenly across the cooking grid at up to 700 degrees with the hood up, and up to 800 degrees with the hood down all in under 3 minutes of heat up time and from a single burner.",
+                "brand": "Sunstone",
+                "description": "Ruby 5-Burner Natural Gas Built-In Grill",
+                "product_url": "https://www.lowes.com/pd/Sunstone-Ruby-5-Burner-Natural-Gas-Built-In-Grill/1001004336",
+                "image_url": "https://mobileimages.lowes.com/product/converted/818899/818899020760.jpg"
+              }
+            },
+            "text": "Sunstone Ruby 5-Burner Natural Gas Built-In Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "1ofG+tBYvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DlpD8AAAAAAAAAADkFL6fg5ZQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5ZQ/OQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANaHxvrQWK8/OQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAOQUvp+DlpD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPwAAAAAAAAAAAAAAAAAAAAA5BS+n4OW0PwAAAAAAAAAAOQUvp+DltD85BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAA5BS+n4OW0PzkFL6fg5aQ/1ofG+tBYrz+IxvrQWB+6PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5ZQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1360971,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf6c5968-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/846844/846844012089.jpg",
+                "full_description": "",
+                "description": "3-Burner Natural Gas Built-In Grill",
+                "brand": "EdgeStar",
+                "product_url": "https://www.lowes.com/pd/EdgeStar-3-Burner-Natural-Gas-Built-In-Grill/1001089546",
+                "title": "EdgeStar 3-Burner Natural Gas Built-In Grill"
+              }
+            },
+            "text": "EdgeStar 3-Burner Natural Gas Built-In Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "F1100UUXvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWnPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWXPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWnPwAAAAAAAAAAAAAAAAAAAABGF1100UWXPwAAAAAAAAAARhdddNFFpz8AAAAAAAAAAEYXXXTRRZc/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWXPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARhdddNFFlz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEYXXXTRRbc/AAAAAAAAAAAAAAAAAAAAAEYXXXTRRZc/RhdddNFFpz8AAAAAAAAAAEYXXXTRRZc/AAAAAAAAAABGF1100UWnPwAAAAAAAAAAAAAAAAAAAABGF1100UW3PwAAAAAAAAAARhdddNFFpz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXXXTRRRe9P0YXXXTRRZc/dNFFF110sT900UUXXXSxPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13614714,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf6c5969-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "3-Burner Natural Gas Built-In Grill",
+                "full_description": "",
+                "title": "EdgeStar 3-Burner Natural Gas Built-In Grill",
+                "brand": "EdgeStar",
+                "image_url": "https://mobileimages.lowes.com/product/converted/846844/846844012065.jpg",
+                "product_url": "https://www.lowes.com/pd/EdgeStar-3-Burner-Natural-Gas-Built-In-Grill/1001089532"
+              }
+            },
+            "text": "EdgeStar 3-Burner Natural Gas Built-In Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "F1100UUXvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWnPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWXPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWnPwAAAAAAAAAAAAAAAAAAAABGF1100UWXPwAAAAAAAAAARhdddNFFpz8AAAAAAAAAAEYXXXTRRZc/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWXPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARhdddNFFlz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEYXXXTRRbc/AAAAAAAAAAAAAAAAAAAAAEYXXXTRRZc/RhdddNFFpz8AAAAAAAAAAEYXXXTRRZc/AAAAAAAAAABGF1100UWnPwAAAAAAAAAAAAAAAAAAAABGF1100UW3PwAAAAAAAAAARhdddNFFpz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXXXTRRRe9P0YXXXTRRZc/dNFFF110sT900UUXXXSxPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13614714,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf6c5966-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "3-Burner Natural Gas Built-In Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/846844/846844012041.jpg",
+                "product_url": "https://www.lowes.com/pd/EdgeStar-3-Burner-Natural-Gas-Built-In-Grill/1001089534",
+                "full_description": "",
+                "title": "EdgeStar 3-Burner Natural Gas Built-In Grill",
+                "brand": "EdgeStar"
+              }
+            },
+            "text": "EdgeStar 3-Burner Natural Gas Built-In Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "F1100UUXvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWnPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWXPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWnPwAAAAAAAAAAAAAAAAAAAABGF1100UWXPwAAAAAAAAAARhdddNFFpz8AAAAAAAAAAEYXXXTRRZc/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWXPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARhdddNFFlz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEYXXXTRRbc/AAAAAAAAAAAAAAAAAAAAAEYXXXTRRZc/RhdddNFFpz8AAAAAAAAAAEYXXXTRRZc/AAAAAAAAAABGF1100UWnPwAAAAAAAAAAAAAAAAAAAABGF1100UW3PwAAAAAAAAAARhdddNFFpz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXXXTRRRe9P0YXXXTRRZc/dNFFF110sT900UUXXXSxPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13614714,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b941-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/047362/047362364234.jpg",
+                "product_url": "https://www.lowes.com/pd/Char-Broil-Commercial-Stainless-2-Burner-Liquid-Propane-and-Natural-Gas-Infrared-Gas-Grill/999981916",
+                "title": "Char-Broil Commercial Stainless 2-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+                "brand": "Char-Broil",
+                "full_description": "The Char-Broil&#174; Commercial Series&#8482; 2-Burner Gas Grill features a sleek stainless steel design that looks great on a patio or in the backyard. It's equipped with TRU-Infrared cooking technology that prevents flare-ups, delivers even-heat and creates juicier food. With premium durability features including porcelain-coated cast iron grates and stainless steel burners, you can be sure the Commercial Series 2-Burner Gas Grill can tackle anything thrown at it.",
+                "description": "Commercial Stainless 2-Burner Liquid Propane and Natural Gas Infrared Gas Grill"
+              }
+            },
+            "text": "Char-Broil Commercial Stainless 2-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "n/RJn/RJvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXbMEWbMGWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF2zBFmzBhj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXbMEWbMGWPxdswRZswZY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERoT8AAAAAAAAAABdswRZswYY/AAAAAAAAAAAAAAAAAAAAABdswRZswYY/AAAAAAAAAAAXbMEWbMGGPwAAAAAAAAAAF2zBFmzBhj8AAAAAAAAAAAAAAAAAAAAAF2zBFmzBhj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABzHcRzHcbw/AAAAAAAAAAAXbMEWbMGGPxEREREREaE/HMdxHMdxrD8XbMEWbMGGPwAAAAAAAAAAF2zBFmzBhj8RERERERGxPwAAAAAAAAAAAAAAAAAAAAARERERERGxPxdswRZswZY/HMdxHMdxrD8RERERERGhPxdswRZswYY/F2zBFmzBhj8cx3Ecx3G8PxdswRZswaY/F2zBFmzBlj8RERERERGhPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13653965,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b9b3-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "NAPOLEON",
+                "full_description": "The Napoleon rogue&#174; 625 natural gas grill with infrared side burner in black is a large and durable, easy to maintain gas grill. Featuring five main burners, stainless steel sear plates, cast grids, and a high top lid, this grill has everything you need for gourmet meals. Sear restaurant-style steaks on the integrated sear station, while generous side shelves provide plenty of prep space.",
+                "description": "Rogue XT Black 5-Burner Natural Gas Infrared Gas Grill with 1 Side Burner",
+                "product_url": "https://www.lowes.com/pd/NAPOLEON-Rogue-XT-Black-5-Burner-Natural-Gas-Infrared-Gas-Grill-with-1-Side-Burner/1002657094",
+                "image_url": "https://mobileimages.lowes.com/product/converted/629162/629162134608.jpg",
+                "title": "NAPOLEON Rogue XT Black 5-Burner Natural Gas Infrared Gas Grill with 1 Side Burner"
+              }
+            },
+            "text": "NAPOLEON Rogue XT Black 5-Burner Natural Gas Infrared Gas Grill with 1 Side Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "S9SuRO1KxD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD6GJyPwfmIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPoYnI/B+Yg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+hicj8H5iD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+hicj8H5iD+7ErUrUbuiPwAAAAAAAAAAAAAAAAAAAAD6GJyPwfmIPwAAAAAAAAAAuxK1K1G7oj8AAAAAAAAAAPoYnI/B+Yg/AAAAAAAAAAAAAAAAAAAAAPoYnI/B+Yg/AAAAAAAAAAC7ErUrUbuiP/oYnI/B+Zg/+hicj8H5iD8AAAAAAAAAAPoYnI/B+Yg/+hicj8H5iD/6GJyPwfmIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPoYnI/B+Yg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALsStStRu7I/AAAAAAAAAAD6GJyPwfmIP/oYnI/B+Zg/OB+D8zE4rz/6GJyPwfmIP/oYnI/B+Yg/+hicj8H5iD+7ErUrUbuiPwAAAAAAAAAA+hicj8H5iD/6GJyPwfmoPwAAAAAAAAAAuxK1K1G7oj/6GJyPwfmIPwAAAAAAAAAAAAAAAAAAAAD6GJyPwfm4P/oYnI/B+Zg/+hicj8H5mD/6GJyPwfmoPwAAAAAAAAAA+hicj8H5iD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1368899,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b996-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Royal Gourmet",
+                "product_url": "https://www.lowes.com/pd/Royal-Gourmet-Silver-6-Burner-Liquid-Propane-Infrared-Gas-Grill-with-1-Side-Burner/1000606287",
+                "image_url": "https://mobileimages.lowes.com/product/converted/853252/853252006784.jpg",
+                "full_description": "Fire up your family reunion or large patio party with Royal Gourmet&#174; mirage two split lid, 6-burner liquid propane, infrared burner gas grill with side burner. The huge 963 sq. In. Primary cooking area fits 80 hot dogs at a time. Two stainless steel lids with cast aluminum end caps keep heat during the cooking, and let you cook different kinds of food in either firebox. Porcelain cast iron cooking grates with slope design trap oil imparting a better flavor to meat. Sturdy stainless-steel side tables with plastic end cap, also provide the hooks for tools. An enclosed stainless-steel cabinet with stainless-steel doors provides storage space for both LP tank and other grill necessities. Moving the behemoth is just a piece of cake, with four flexible casters that feature brake system for quick stop.",
+                "description": "Silver 6-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner",
+                "title": "Royal Gourmet Silver 6-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner"
+              }
+            },
+            "text": "Royal Gourmet Silver 6-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "uxK1K1G7wj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD6GJyPwfmIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPoYnI/B+Yg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD6GJyPwfmIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD6GJyPwfmYPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAuxK1K1G7oj8AAAAAAAAAAPoYnI/B+Yg/AAAAAAAAAAAAAAAAAAAAAPoYnI/B+Yg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+hicj8H5iD8AAAAAAAAAAPoYnI/B+Yg/+hicj8H5mD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPoYnI/B+ag/AAAAAAAAAAAAAAAAAAAAALsStStRu6I/25WoXYnatT/6GJyPwfmIPwAAAAAAAAAA+hicj8H5iD+7ErUrUbuyPwAAAAAAAAAAAAAAAAAAAAD6GJyPwfmoP/oYnI/B+Yg/+hicj8H5qD+7ErUrUbuiP/oYnI/B+Yg/+hicj8H5iD84H4PzMTi/P/oYnI/B+Yg/+hicj8H5mD/6GJyPwfmoP/oYnI/B+Yg/+hicj8H5iD8AAAAAAAAAAPoYnI/B+Yg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13797206,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b966-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Gyber-Silver-1-Burner-Liquid-Propane-and-Natural-Gas-Infrared-Gas-Grill/5000216143",
+                "title": "Gyber Silver 1-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+                "full_description": "There&#8217;s nothing quite like enjoying a thick, juicy steak when summer is in full swing, cooking up some shrimp when you&#8217;re tailgating, or sharing in some burgers with friends; especially when you&#8217;be got an easy-to-use anvil-go infrared grill! These propane grill systems heat up quickly, provide even heat distribution and cooking, and let you load up your favorite meats, vegetables, and snacks so everyone can have a great time enjoying amazing food.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500021/5000216143.jpg",
+                "description": "Silver 1-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+                "brand": "Gyber"
+              }
+            },
+            "text": "Gyber Silver 1-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "50CiFTYHwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYrD8AAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKkn47dLPbk/C5sDiVbYjD8AAAAAAAAAAEi0wuZAoqU/50CiFTYHsj8LmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAALmwOJVtisPwAAAAAAAAAAAAAAAAAAAAALmwOJVtisPwAAAAAAAAAAC5sDiVbYrD8LmwOJVtiMPwubA4lW2Iw/C5sDiVbYjD82BxKtsDnAPwubA4lW2Jw/C5sDiVbYjD9ItMLmQKKlPwubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13813446,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b967-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Gyber",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500021/5000216149.jpg",
+                "title": "Gyber Silver 1-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+                "full_description": "There&#8217;s nothing quite like enjoying a thick, juicy steak when summer is in full swing, cooking up some shrimp when you&#8217;re tailgating, or sharing in some burgers with friends; especially when you&#8217;be got an easy-to-use anvil-pro infrared grill! These propane grill systems heat up quickly, provide even heat distribution and cooking, and let you load up your favorite meats, vegetables, and snacks so everyone can have a great time enjoying amazing food.",
+                "description": "Silver 1-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+                "product_url": "https://www.lowes.com/pd/Gyber-Silver-1-Burner-Liquid-Propane-and-Natural-Gas-Infrared-Gas-Grill/5000216149"
+              }
+            },
+            "text": "Gyber Silver 1-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "50CiFTYHwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYrD8AAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKkn47dLPbk/C5sDiVbYjD8AAAAAAAAAAEi0wuZAoqU/50CiFTYHsj8LmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAALmwOJVtisPwAAAAAAAAAAAAAAAAAAAAALmwOJVtisPwAAAAAAAAAAC5sDiVbYrD8LmwOJVtiMPwubA4lW2Iw/C5sDiVbYjD82BxKtsDnAPwubA4lW2Jw/C5sDiVbYjD9ItMLmQKKlPwubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13813446,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b964-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Silver 1-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+                "product_url": "https://www.lowes.com/pd/Gyber-Silver-1-Burner-Liquid-Propane-and-Natural-Gas-Infrared-Gas-Grill/5000216147",
+                "full_description": "There&#8217;s nothing quite like enjoying a thick, juicy steak when summer is in full swing, cooking up some shrimp when you&#8217;re tailgating, or sharing in some burgers with friends; especially when you&#8217;be got an easy-to-use boulder infrared grill! These propane grill systems heat up quickly, provide even heat distribution and cooking, and let you load up your favorite meats, vegetables, and snacks so everyone can have a great time enjoying amazing food.",
+                "title": "Gyber Silver 1-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+                "brand": "Gyber",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500021/5000216147.jpg"
+              }
+            },
+            "text": "Gyber Silver 1-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "50CiFTYHwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYrD8AAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKkn47dLPbk/C5sDiVbYjD8AAAAAAAAAAEi0wuZAoqU/50CiFTYHsj8LmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAALmwOJVtisPwAAAAAAAAAAAAAAAAAAAAALmwOJVtisPwAAAAAAAAAAC5sDiVbYrD8LmwOJVtiMPwubA4lW2Iw/C5sDiVbYjD82BxKtsDnAPwubA4lW2Jw/C5sDiVbYjD9ItMLmQKKlPwubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13813446,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b965-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Silver 1-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+                "brand": "Gyber",
+                "title": "Gyber Silver 1-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500021/5000216145.jpg",
+                "full_description": "There&#8217;s nothing quite like enjoying a thick, juicy steak when summer is in full swing, cooking up some shrimp when you&#8217;re tailgating, or sharing in some burgers with friends; especially when you&#8217;be got an easy-to-use Dutton infrared grill! These propane grill systems heat up quickly, provide even heat distribution and cooking, and let you load up your favorite meats, vegetables, and snacks so everyone can have a great time enjoying amazing food.",
+                "product_url": "https://www.lowes.com/pd/Gyber-Silver-1-Burner-Liquid-Propane-and-Natural-Gas-Infrared-Gas-Grill/5000216145"
+              }
+            },
+            "text": "Gyber Silver 1-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "50CiFTYHwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYrD8AAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKkn47dLPbk/C5sDiVbYjD8AAAAAAAAAAEi0wuZAoqU/50CiFTYHsj8LmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAALmwOJVtisPwAAAAAAAAAAAAAAAAAAAAALmwOJVtisPwAAAAAAAAAAC5sDiVbYrD8LmwOJVtiMPwubA4lW2Iw/C5sDiVbYjD82BxKtsDnAPwubA4lW2Jw/C5sDiVbYjD9ItMLmQKKlPwubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13813446,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf6c5970-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Summer barbecue season does&#8217;t have to end with this Cal Flame built-in gas infrared grill. The stainless steel construction is durable, easy to clean and weather-resistant so it won&#8217;t rust or stain year-round. It features four high-powered burners that retain heat for even cooking, an infrared back burner for extra rotisserie cooking power and a full-width pull-out drip tray to catch messes. With piezo ignition, it offers fast and easy startups, and its integrated lights allow you to cook even after the sun sets. This built-in grills classic design and powerful heat are bound to make your next barbecue one to remember.",
+                "product_url": "https://www.lowes.com/pd/Cal-Flame-4-Burner-Built-In-Liquid-Propane-and-Natural-Gas-Infrared-Grill/50195163",
+                "image_url": "https://mobileimages.lowes.com/product/converted/089245/089245601135.jpg",
+                "title": "Cal Flame 4-Burner Built-In Liquid Propane and Natural Gas Infrared Grill",
+                "description": "4-Burner Built-In Liquid Propane and Natural Gas Infrared Grill",
+                "brand": "Cal Flame"
+              }
+            },
+            "text": "Cal Flame 4-Burner Built-In Liquid Propane and Natural Gas Infrared Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "jBgxYsSIwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgwIEDBw6cPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODAgQMHDow/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgwIEDBw6cP+DAgQMHDow/AAAAAAAAAAAAAAAAAAAAAODAgQMHDow/4MCBAwcOnD8AAAAAAAAAAODAgQMHDpw/AAAAAAAAAAAAAAAAAAAAAODAgQMHDow/AAAAAAAAAADgwIEDBw6MPwAAAAAAAAAA4MCBAwcOjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODAgQMHDrw/AAAAAAAAAAAAAAAAAAAAAKhQoUKFCqU/4MCBAwcOrD/gwIEDBw6MPwAAAAAAAAAAAAAAAAAAAADgwIEDBw6sPwAAAAAAAAAAAAAAAAAAAACoUKFChQq1P+DAgQMHDow/jBgxYsSIsT/gwIEDBw6MP+DAgQMHDow/4MCBAwcOjD/EiBEjRoy4P+DAgQMHDow/4MCBAwcOnD/gwIEDBw6sPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13867739,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b92c-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/047362/047362364425.jpg",
+                "product_url": "https://www.lowes.com/pd/Char-Broil-Commercial-Stainless-Steel-2-Burner-Liquid-Propane-and-Natural-Gas-Infrared-Gas-Grill/1001462412",
+                "title": "Char-Broil Commercial Stainless Steel 2-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+                "brand": "Char-Broil",
+                "full_description": "Designed with space-saving style in mind, the Char-Broil&#174; Commercial Series&#8482; TRU-Infrared&#8482; 2-Burner Gas Grill prevents flare-ups, delivers even heat and cooks juicier food with no hot or cold spots to worry about. Boasting 325-square-inches of primary cooking space, this grill can fit up to 18 burgers on porcelain-coated, cast-iron grates that are easy-to-clean and rust resistant. It&#8217;s easy to assemble and equipped with premium features like SureFire&#174; electronic ignition, integrated LED lights and folding side shelves to make your cookouts and your life easier.",
+                "description": "Commercial Stainless Steel 2-Burner Liquid Propane and Natural Gas Infrared Gas Grill"
+              }
+            },
+            "text": "Char-Broil Commercial Stainless Steel 2-Burner Liquid Propane and Natural Gas Infrared Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVVVVVVVWVPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVVVVVVVVhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVVVVVVVWVP1VVVVVVVZU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoD8AAAAAAAAAAFVVVVVVVYU/AAAAAAAAAAAAAAAAAAAAAFVVVVVVVYU/AAAAAAAAAABVVVVVVVWFPwAAAAAAAAAAVVVVVVVVhT8AAAAAAAAAAAAAAAAAAAAAVVVVVVVVlT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKuqqqqqqro/AAAAAAAAAABVVVVVVVWFPwAAAAAAAKA/q6qqqqqqsj9VVVVVVVWFPwAAAAAAAAAAVVVVVVVVhT8AAAAAAACwPwAAAAAAAAAAAAAAAAAAAACrqqqqqqqyP1VVVVVVVZU/q6qqqqqqqj8AAAAAAACgP1VVVVVVVYU/VVVVVVVVhT+rqqqqqqq6P1VVVVVVVaU/AAAAAAAAoD8AAAAAAACgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13871533,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          }
+        ],
+        "tags": {},
+        "text": "natural gas grill with 5-burner from ruby",
+        "embedding": {
+          "dense": {
+            "buffer": "uxK1K1G7wj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD6GJyPwfmYPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+hicj8H5mD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALsStStRu7I/+hicj8H5qD8AAAAAAAAAAAAAAAAAAAAA+hicj8H5mD/6GJyPwfmYP/oYnI/B+ag/+hicj8H5mD/6GJyPwfmoPwAAAAAAAAAAAAAAAAAAAAC7ErUrUbuyP/oYnI/B+Zg/+hicj8H5qD/6GJyPwfmYPwAAAAAAAAAAAAAAAAAAAAC7ErUrUbvCP/oYnI/B+Zg/+hicj8H5qD+7ErUrUbuyPwAAAAAAAAAA+hicj8H5mD8AAAAAAAAAAPoYnI/B+Zg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "shape": [
+              96
+            ],
+            "dtype": "<f8",
+            "quantization": 0,
+            "maxVal": 0,
+            "minVal": 0,
+            "scale": 0,
+            "originalDtype": ""
+          }
+        },
+        "granularity": 0,
+        "adjacency": 0,
+        "parentId": "",
+        "chunks": [],
+        "weight": 0,
+        "uri": "",
+        "mimeType": "",
+        "location": [],
+        "offset": 0,
+        "scores": {},
+        "modality": "",
+        "evaluations": {}
+      }
+    ],
+    "groundtruths": []
+  }
+}

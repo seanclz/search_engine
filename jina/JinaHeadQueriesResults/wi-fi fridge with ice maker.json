@@ -1,0 +1,1021 @@
+{
+  "requestId": "bcabdfef-5c5a-4338-a664-1ba493f1545b",
+  "data": {
+    "docs": [
+      {
+        "id": "aa76442a-40b5-11ec-a63e-e3ebb0d407f3",
+        "matches": [
+          {
+            "id": "2db79995-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Frigidaire-22-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-White/1000245223",
+                "brand": "Frigidaire",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505645761.jpg",
+                "title": "Frigidaire 22-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+                "full_description": "",
+                "description": "22-cu ft Side-by-Side Refrigerator with Ice Maker (White)"
+              }
+            },
+            "text": "Frigidaire 22-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "Hh4eHh4evj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/Hh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACXlpaWlpamPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4enj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/AAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/Hh4eHh4enj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6OPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJeWlpaWlqY/Hh4eHh4ejj8eHh4eHh6eP5eWlpaWlqY/Hh4eHh4evj8eHh4eHh6ePx4eHh4eHp4/Hh4eHh4enj8eHh4eHh6+PwAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6OPwAAAAAAAAAAAAAAAAAAAACXlpaWlpa2PwAAAAAAAAAAHh4eHh4erj8eHh4eHh6OPwAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAB4eHh4eHo4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1342877,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79994-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "25.5-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+                "full_description": "",
+                "title": "Frigidaire 25.5-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505645822.jpg",
+                "brand": "Frigidaire",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-25-5-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-White/1000245229"
+              }
+            },
+            "text": "Frigidaire 25.5-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "HdRBHdRBvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB3UQR3UQY0/HdRBHdRBjT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWX/EVX/GlPx3UQR3UQY0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHdRBHdRBjT8AAAAAAAAAAAAAAAAAAAAAHdRBHdRBnT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB3UQR3UQY0/AAAAAAAAAAAAAAAAAAAAAB3UQR3UQY0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHdRBHdRBjT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB3UQR3UQY0/HdRBHdRBnT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAd1EEd1EGNPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABZf8RVf8aU/HdRBHdRBjT8d1EEd1EGdPxZf8RVf8aU/HdRBHdRBvT8d1EEd1EGdPx3UQR3UQZ0/HdRBHdRBnT8d1EEd1EG9PwAAAAAAAAAAHdRBHdRBjT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAd1EEd1EGNPwAAAAAAAAAAAAAAAAAAAAAWX/EVX/G1PwAAAAAAAAAAHdRBHdRBrT8d1EEd1EGNPwAAAAAAAAAAHdRBHdRBjT8AAAAAAAAAAB3UQR3UQY0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13733192,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79993-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Frigidaire 22-cu ft Side-by-Side Refrigerator with Ice Maker (Black)",
+                "brand": "Frigidaire",
+                "full_description": "",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-22-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-Black/1000245225",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505645754.jpg",
+                "description": "22-cu ft Side-by-Side Refrigerator with Ice Maker (Black)"
+              }
+            },
+            "text": "Frigidaire 22-cu ft Side-by-Side Refrigerator with Ice Maker (Black)",
+            "embedding": {
+              "dense": {
+                "buffer": "Hh4eHh4evj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/Hh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACXlpaWlpamPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4enj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6OPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/AAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/Hh4eHh4enj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHq4/Hh4eHh4ejj+XlpaWlpamP5eWlpaWlqY/WlpaWlpauj8eHh4eHh6ePx4eHh4eHp4/Hh4eHh4ejj9aWlpaWlq6PwAAAAAAAAAAHh4eHh4enj8eHh4eHh6OPwAAAAAAAAAAAAAAAAAAAAAeHh4eHh6OPwAAAAAAAAAAAAAAAAAAAACXlpaWlpa2PwAAAAAAAAAAl5aWlpaWpj8eHh4eHh6OPwAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAB4eHh4eHo4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14306694,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db7998c-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Frigidaire 25.5-cu ft Side-by-Side Refrigerator with Ice Maker (Black)",
+                "brand": "Frigidaire",
+                "full_description": "",
+                "description": "25.5-cu ft Side-by-Side Refrigerator with Ice Maker (Black)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505645815.jpg",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-25-5-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-Black/1000245231"
+              }
+            },
+            "text": "Frigidaire 25.5-cu ft Side-by-Side Refrigerator with Ice Maker (Black)",
+            "embedding": {
+              "dense": {
+                "buffer": "HdRBHdRBvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB3UQR3UQY0/HdRBHdRBjT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWX/EVX/GlPx3UQR3UQY0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHdRBHdRBjT8AAAAAAAAAAAAAAAAAAAAAHdRBHdRBnT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAd1EEd1EGNPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB3UQR3UQY0/AAAAAAAAAAAAAAAAAAAAAB3UQR3UQY0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHdRBHdRBjT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB3UQR3UQY0/HdRBHdRBnT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB3UQR3UQa0/HdRBHdRBjT8WX/EVX/GlPxZf8RVf8aU/mpmZmZmZuT8d1EEd1EGdPx3UQR3UQZ0/HdRBHdRBjT+amZmZmZm5PwAAAAAAAAAAHdRBHdRBnT8d1EEd1EGNPwAAAAAAAAAAAAAAAAAAAAAd1EEd1EGNPwAAAAAAAAAAAAAAAAAAAAAWX/EVX/G1PwAAAAAAAAAAFl/xFV/xpT8d1EEd1EGNPwAAAAAAAAAAHdRBHdRBjT8AAAAAAAAAAB3UQR3UQY0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14618312,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db799d7-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "GE",
+                "description": "25.3-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+                "full_description": "At GE Appliances, we bring good things to life. Our goal is to help people improve their lives at home by providing quality appliances that were made for real life. Whether it's enjoying the tradition of making meals from scratch or tackling a mountain of muddy jeans and soccer jerseys, GE Appliances are crafted to support any and every task in the home.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691808916.jpg",
+                "title": "GE 25.3-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+                "product_url": "https://www.lowes.com/pd/GE-25-3-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-White/50296403"
+              }
+            },
+            "text": "GE 25.3-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "hBBCCCGEwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQQQgghhJA/hBBCCCGEkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADGGGOMMcaoP4QQQgghhJA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhBBCCCGEkD+EEEIIIYSQPwAAAAAAAAAAhBBCCCGEkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEEEIIIYSQPwAAAAAAAAAAhBBCCCGEkD8AAAAAAAAAAIQQQgghhJA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhBBCCCGEkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQQQgghhJA/hBBCCCGEoD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEEEIIIYSQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQQQgghhKA/hBBCCCGEkD+EEEIIIYSgP4QQQgghhKA/55xzzjnnvD+EEEIIIYSgP4QQQgghhJA/hBBCCCGEoD+llFJKKaW0PwAAAAAAAAAAhBBCCCGEkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEEEIIIYSQPwAAAAAAAAAAAAAAAAAAAACEEEIIIYSwPwAAAAAAAAAAhBBCCCGEsD+EEEIIIYSQPwAAAAAAAAAAhBBCCCGEkD8AAAAAAAAAAIQQQgghhJA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15785763,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db7999c-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049434919.jpg",
+                "product_url": "https://www.lowes.com/pd/Amana-21-4-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-White/1001008602",
+                "full_description": "Our 33-inch Amana&#174; Side-by-Side Refrigerator is great for smaller spaces, giving you the right amount of storage room. This 21 Cu. Ft. refrigerator with ice and water dispenser lets you grab fresh H2O with a Dual Pad Dispenser with EveryDrop&#8482; Water Filter. Easily set temps with Electronic Temperature Controls. And big items fit in the Gallon Door Storage Bins.",
+                "brand": "Amana",
+                "description": "21.4-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+                "title": "Amana 21.4-cu ft Side-by-Side Refrigerator with Ice Maker (White)"
+              }
+            },
+            "text": "Amana 21.4-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "IPiBH/iBvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACD4gR/4gY8/IPiBH/iBjz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYeqEXeqGnPyD4gR/4gY8/AAAAAAAAAAAAAAAAAAAAACD4gR/4gY8/IPiBH/iBjz8AAAAAAAAAACD4gR/4gY8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIPiBH/iBjz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACD4gR/4gY8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIPiBH/iBjz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACD4gR/4gY8/IPiBH/iBnz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg+IEf+IGPPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACD4gR/4ga8/IPiBH/iBjz8g+IEf+IGfPyD4gR/4gZ8/HLmRG7mRuz8g+IEf+IGfPyD4gR/4gY8/IPiBH/iBnz8UO7ETO7GzPwAAAAAAAAAAIPiBH/iBjz8AAAAAAAAAACD4gR/4gY8/IPiBH/iBjz8g+IEf+IGPPwAAAAAAAAAAAAAAAAAAAAAg+IEf+IGvPwAAAAAAAAAAIPiBH/iBrz8g+IEf+IGPPwAAAAAAAAAAIPiBH/iBjz8AAAAAAAAAACD4gR/4gY8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15930997,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db799dd-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "24.6-cu ft Side-by-Side Refrigerator with Ice Maker (Biscuit)",
+                "brand": "Whirlpool",
+                "full_description": "Purposefully-designed spaces help you maximize your storage so you can fit and find it all in this side-by-side refrigerator. Adjustable gallon door bins give you increased loading flexibility. The refrigerator with ice and water dispenser lets you get ice and water without opening the door while LED lights also keep food looking as good as it tastes.",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-24-6-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-Biscuit/1000384077",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049435831.jpg",
+                "title": "Whirlpool 24.6-cu ft Side-by-Side Refrigerator with Ice Maker (Biscuit)"
+              }
+            },
+            "text": "Whirlpool 24.6-cu ft Side-by-Side Refrigerator with Ice Maker (Biscuit)",
+            "embedding": {
+              "dense": {
+                "buffer": "C5sDiVbYvD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/C5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABItMLmQKKlPwubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/C5sDiVbYnD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Jw/C5sDiVbYjD9ItMLmQKKlPwubA4lW2Jw/SLTC5kCitT8LmwOJVticPwubA4lW2Iw/C5sDiVbYnD+pJ+O3Sz25PwAAAAAAAAAAC5sDiVbYjD8LmwOJVticPwAAAAAAAAAAAAAAAAAAAABItMLmQKKlPwubA4lW2Iw/AAAAAAAAAADnQKIVNgeyPwubA4lW2Iw/C5sDiVbYrD8LmwOJVticPwAAAAAAAAAAC5sDiVbYjD8AAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1594163,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db799e1-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/KitchenAid-30-cu-ft-Built-In-Side-by-Side-Refrigerator-with-Ice-Maker-Black-Stainless-with-Printshield/1000237349",
+                "description": "30-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Black Stainless with Printshield)",
+                "brand": "KitchenAid",
+                "full_description": "This versatile 30.0 cu. ft built-in refrigerator features the ExtendFresh&#8482; Plus Temperature Management System, which maintains the perfect temperature for fresh ingredients. The Produce Preserver extends freshness by neutralizing the over-ripening effects of ethylene emitted by certain fruits and vegetables. It also features PrintShield&#8482; Finish, a fingerprint resistant finish, which protects against smudges and enhances the look of the refrigerator.",
+                "title": "KitchenAid 30-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Black Stainless with Printshield)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049412023.jpg"
+              }
+            },
+            "text": "KitchenAid 30-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Black Stainless with Printshield)",
+            "embedding": {
+              "dense": {
+                "buffer": "ntiJndiJvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sYM/FDuxEzuxgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GjPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GDPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GDPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxgz8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GDPwAAAAAAAAAAFDuxEzuxgz8AAAAAAAAAAAAAAAAAAAAAFDuxEzuxgz8AAAAAAAAAABQ7sRM7sYM/ntiJndiJnT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7saM/FDuxEzuxgz8UO7ETO7GjPxQ7sRM7saM/dmIndmIntj8UO7ETO7GTPxQ7sRM7sYM/FDuxEzuxoz87sRM7sRO7PwAAAAAAAAAAFDuxEzuxkz8UO7ETO7GjPwAAAAAAAAAAFDuxEzuxoz8UO7ETO7GDPwAAAAAAAAAAAAAAAAAAAADZiZ3YiZ2oP57YiZ3YiZ0/FDuxEzuxsz8UO7ETO7GTPwAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAABQ7sRM7sYM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15987213,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db7999a-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "InstaView 26.8-cu ft Side-by-Side Refrigerator with Ice Maker (Platinum Silver)",
+                "title": "LG InstaView 26.8-cu ft Side-by-Side Refrigerator with Ice Maker (Platinum Silver)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/048231/048231807234.jpg",
+                "brand": "LG",
+                "full_description": "With a generous 27 cu. Ft. Capacity side by side featuring our InstaView&#8482; Door-in-Door&#174; refrigerator maximizes food storage space to accommodate all of your family's food. From post-workout protein shakes to after-school snacks, LG's Door-in-Door&#174; design keeps all your favorites at your fingertips while reducing cold air loss to help keep foods, fresher longer and conserve on precious energy &#8212;all with the push of a button. It's designed with convenient multiple crisper drawers&#8212; to help facilitate organization, so you can find just what you need in a snap. Plus, it comes with sophisticated LG styling and features like an intuitive LED display, contoured doors, and multi-air flow filter.",
+                "product_url": "https://www.lowes.com/pd/LG-InstaView-26-8-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-Platinum-Silver/1002543654"
+              }
+            },
+            "text": "LG InstaView 26.8-cu ft Side-by-Side Refrigerator with Ice Maker (Platinum Silver)",
+            "embedding": {
+              "dense": {
+                "buffer": "OB+D8zE4vz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPoYnI/B+Yg/+hicj8H5iD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC7ErUrUbuiP/oYnI/B+Yg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+hicj8H5iD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD6GJyPwfmIPwAAAAAAAAAA+hicj8H5iD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+hicj8H5iD8AAAAAAAAAAPoYnI/B+Zg/AAAAAAAAAAAAAAAAAAAAAPoYnI/B+Yg/+hicj8H5iD8AAAAAAAAAAAAAAAAAAAAA+hicj8H5iD8AAAAAAAAAAPoYnI/B+Yg/uxK1K1G7oj8AAAAAAAAAAAAAAAAAAAAA+hicj8H5iD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPoYnI/B+ag/+hicj8H5iD/6GJyPwfmYP/oYnI/B+Zg/+hicj8H5uD/6GJyPwfmYP/oYnI/B+Yg/+hicj8H5iD/blahdidq1PwAAAAAAAAAA+hicj8H5iD/6GJyPwfmYP/oYnI/B+Yg/+hicj8H5mD/6GJyPwfmIPwAAAAAAAAAAAAAAAAAAAAA4H4PzMTivP/oYnI/B+Yg/OB+D8zE4rz/6GJyPwfmYP/oYnI/B+Yg/+hicj8H5mD8AAAAAAAAAAPoYnI/B+Yg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16027519,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db7999f-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Whirlpool 21.4-cu ft Side-by-Side Refrigerator with Single Ice Maker (White)",
+                "brand": "Whirlpool",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-21-4-cu-ft-Side-by-Side-Refrigerator-with-Single-Ice-Maker-White/1000332335",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049435053.jpg",
+                "full_description": "Get purposefully-designed storage spaces for items you use most in this side-by-side refrigerator. An in-door can caddy frees up shelf space while frameless glass shelves in the refrigerator with ice and water dispenser lets you store more items on each shelf for loading flexibility. The deli drawer refrigerator gives you plenty of space to store meat and cheese, too.",
+                "description": "21.4-cu ft Side-by-Side Refrigerator with Single Ice Maker (White)"
+              }
+            },
+            "text": "Whirlpool 21.4-cu ft Side-by-Side Refrigerator with Single Ice Maker (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "DeU1lNdQvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACivobyG8oo/KK+hvIbyij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABeQ3kN5TWkPyivobyG8oo/AAAAAAAAAAAAAAAAAAAAACivobyG8oo/KK+hvIbyij8AAAAAAAAAACivobyG8oo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACivobyG8oo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKK+hvIbyij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACivobyG8oo/XkN5DeU1pD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAor6G8hvKaPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACivobyG8po/KK+hvIbyij8or6G8hvKaPyivobyG8po/KK+hvIbyuj8or6G8hvKaPyivobyG8po/XkN5DeU1pD9DeQ3lNZS3PwAAAAAAAAAAKK+hvIbyij9eQ3kN5TWkPwAAAAAAAAAAKK+hvIbyij9eQ3kN5TWkPyivobyG8oo/AAAAAAAAAAB5DeU1lNewPwAAAAAAAAAAKK+hvIbyqj8or6G8hvKKPwAAAAAAAAAAKK+hvIbyij8AAAAAAAAAACivobyG8oo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16152306,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db799e2-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "KitchenAid 25.5-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Black Stainless with Printshield)",
+                "product_url": "https://www.lowes.com/pd/KitchenAid-25-5-cu-ft-Built-In-Side-by-Side-Refrigerator-with-Ice-Maker-Black-Stainless-with-Printshield/1000237347",
+                "brand": "KitchenAid",
+                "description": "25.5-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Black Stainless with Printshield)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049412016.jpg",
+                "full_description": ""
+              }
+            },
+            "text": "KitchenAid 25.5-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Black Stainless with Printshield)",
+            "embedding": {
+              "dense": {
+                "buffer": "IjXBeCv7vD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMF4K/scUoM/wXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKjP8F4K/scUoM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz/BeCv7HFKTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMF4K/scUpM/AAAAAAAAAADBeCv7HFKDPwAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAMF4K/scUoM/IjXBeCv7nD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMF4K/scUqM/wXgr+xxSgz/BeCv7HFKjP8F4K/scUqM/2eeQmmC8tT/BeCv7HFKTP8F4K/scUoM/wXgr+xxSoz8KxlvZ55C6PwAAAAAAAAAAwXgr+xxSkz/BeCv7HFKjPwAAAAAAAAAAwXgr+xxSoz/BeCv7HFKDPwAAAAAAAAAAAAAAAAAAAADyVvY5pCaoPyI1wXgr+5w/wXgr+xxSsz/BeCv7HFKTPwAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAMF4K/scUoM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16198803,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db799aa-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Whirlpool",
+                "description": "28.4-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049450445.jpg",
+                "title": "Whirlpool 28.4-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-28-4-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-White/1000286265",
+                "full_description": "Store more of your family's favorites with purposeful storage spaces. This extra-large refrigerator features In-Door-Ice&#174; storage to give you an extra full shelf in the freezer. Get convenient access to filtered water with the exterior ice and water dispenser with EveryDrop&#8482; filtration. Plus, our side-by-side refrigerator's Accu-Chill&#8482; temperature management system keeps family favorites in their ideal environment with quick cooling."
+              }
+            },
+            "text": "Whirlpool 28.4-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "24G5dmCuvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANuBuXZgro0/24G5dmCujT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP9uBuXZgro0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA24G5dmCujT8AAAAAAAAAANuBuXZgro0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA24G5dmCujT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANuBuXZgro0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA24G5dmCujT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANuBuXZgro0/24G5dmCunT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbgbl2YK6dPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANuBuXZgrp0/24G5dmCujT/bgbl2YK6dP9uBuXZgrp0/oFHiZ5T4uT/bgbl2YK6dP9uBuXZgro0/ZCELWchCpj9kIQtZyEK2PwAAAAAAAAAA24G5dmCujT/bgbl2YK6dPwAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP9uBuXZgro0/AAAAAAAAAAAp8TNK/IyyPwAAAAAAAAAA24G5dmCurT/bgbl2YK6NPwAAAAAAAAAA24G5dmCujT8AAAAAAAAAANuBuXZgro0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16312645,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79992-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "24.5-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+                "brand": "Whirlpool",
+                "full_description": "Fit and find it all in this side-by-side refrigerator with purposefully-designed storage spaces for items you use most. An in-door can caddy frees up shelf space while frameless glass shelves lets you store more items on each shelf for loading flexibility. The deli drawer gives you plenty of space to store meat and cheese, too.&#65279;",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049435886.jpg",
+                "title": "Whirlpool 24.5-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-24-5-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-White/1000332343"
+              }
+            },
+            "text": "Whirlpool 24.5-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "24G5dmCuvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANuBuXZgro0/24G5dmCujT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP9uBuXZgro0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA24G5dmCujT8AAAAAAAAAANuBuXZgro0/24G5dmCujT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANuBuXZgro0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA24G5dmCujT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANuBuXZgro0/24G5dmCunT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbgbl2YK6dPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANuBuXZgrp0/24G5dmCujT/bgbl2YK6dP9uBuXZgrp0/oFHiZ5T4uT/bgbl2YK6dP9uBuXZgro0/ZCELWchCpj9kIQtZyEK2PwAAAAAAAAAA24G5dmCujT/bgbl2YK6dPwAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP9uBuXZgro0/AAAAAAAAAAAp8TNK/IyyPwAAAAAAAAAA24G5dmCurT/bgbl2YK6NPwAAAAAAAAAA24G5dmCujT8AAAAAAAAAANuBuXZgro0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16312645,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db799e0-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "24.5-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+                "brand": "Whirlpool",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049436029.jpg",
+                "title": "Whirlpool 24.5-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+                "full_description": "Purposefully-designed spaces help you maximize your storage in this side-by-side refrigerator. Get the room you need, even if it's just an inch, with the Infinity Slide shelf. Easily store pizzas upright with the Pizza Pocket in the side-by-side refrigerator. The deli drawer refrigerator gives you plenty of space to store meat and cheese, too.",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-24-5-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-White/1000379187"
+              }
+            },
+            "text": "Whirlpool 24.5-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "24G5dmCuvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANuBuXZgro0/24G5dmCujT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP9uBuXZgro0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA24G5dmCujT8AAAAAAAAAANuBuXZgro0/24G5dmCujT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANuBuXZgro0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA24G5dmCujT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANuBuXZgro0/24G5dmCunT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbgbl2YK6dPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANuBuXZgrp0/24G5dmCujT/bgbl2YK6dP9uBuXZgrp0/oFHiZ5T4uT/bgbl2YK6dP9uBuXZgro0/ZCELWchCpj9kIQtZyEK2PwAAAAAAAAAA24G5dmCujT/bgbl2YK6dPwAAAAAAAAAAAAAAAAAAAABkIQtZyEKmP9uBuXZgro0/AAAAAAAAAAAp8TNK/IyyPwAAAAAAAAAA24G5dmCurT/bgbl2YK6NPwAAAAAAAAAA24G5dmCujT8AAAAAAAAAANuBuXZgro0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16312645,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db799f7-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "KitchenAid",
+                "title": "KitchenAid 30-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+                "product_url": "https://www.lowes.com/pd/KitchenAid-30-cu-ft-Built-In-Side-by-Side-Refrigerator-with-Ice-Maker-Stainless-Steel-with-Printshield/999908701",
+                "description": "30-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+                "full_description": "",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049357256.jpg"
+              }
+            },
+            "text": "KitchenAid 30-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+            "embedding": {
+              "dense": {
+                "buffer": "ntiJndiJvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sYM/FDuxEzuxgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GjPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GDPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GDPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxgz8UO7ETO7GDPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GDPwAAAAAAAAAAFDuxEzuxgz8AAAAAAAAAAAAAAAAAAAAAFDuxEzuxgz8AAAAAAAAAABQ7sRM7sYM/FDuxEzuxoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ7YiZ3YiZ0/FDuxEzuxgz+e2Imd2ImdPxQ7sRM7saM/O7ETO7ETuz8UO7ETO7GTPxQ7sRM7sYM/FDuxEzuxoz87sRM7sRO7PwAAAAAAAAAAFDuxEzuxgz8UO7ETO7GjPwAAAAAAAAAAFDuxEzuxoz8UO7ETO7GDPwAAAAAAAAAAAAAAAAAAAADZiZ3YiZ2oP57YiZ3YiZ0/dmIndmIntj8UO7ETO7GTPwAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAABQ7sRM7sYM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16364028,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79a02-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Samsung 27.4-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+                "description": "27.4-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+                "brand": "Samsung",
+                "full_description": "Samsung's 27.4 cubic foot large capacity Side-by-Side refrigerator that is beautifully designed with a minimal display dispenser, modern design that blends beautifully into your kitchen.",
+                "product_url": "https://www.lowes.com/pd/Samsung-27-4-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-White/1002238570",
+                "image_url": "https://mobileimages.lowes.com/product/converted/887276/887276372228.jpg"
+              }
+            },
+            "text": "Samsung 27.4-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "Z7fwqzGRvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGe38KsxkY4/Z7fwqzGRjj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACNifRA5eymP2e38KsxkY4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZ7fwqzGRjj8AAAAAAAAAAGe38KsxkY4/AAAAAAAAAAAAAAAAAAAAAGe38KsxkY4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGe38KsxkY4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZ7fwqzGRjj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGe38KsxkY4/jYn0QOXspj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABnt/CrMZGOPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI2J9EDl7KY/Z7fwqzGRjj9nt/CrMZGeP2e38KsxkZ4/eqBydgu/uj9nt/CrMZGeP2e38KsxkZ4/Z7fwqzGRnj+gcnYLvxqzPwAAAAAAAAAAZ7fwqzGRjj8AAAAAAAAAAGe38KsxkY4/Z7fwqzGRjj9nt/CrMZGOPwAAAAAAAAAAAAAAAAAAAABnt/CrMZGuP2e38KsxkY4/Z7fwqzGRrj9nt/CrMZGePwAAAAAAAAAAZ7fwqzGRjj8AAAAAAAAAAGe38KsxkY4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16373646,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db799f8-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "KitchenAid",
+                "title": "KitchenAid 20.8-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+                "product_url": "https://www.lowes.com/pd/KitchenAid-20-8-cu-ft-Built-In-Side-by-Side-Refrigerator-with-Ice-Maker-Stainless-Steel-with-Printshield/999908703",
+                "description": "20.8-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049357201.jpg",
+                "full_description": "This versatile 20.8 cu. ft built-in refrigerator features the ExtendFresh&#8482; Plus Temperature Management System, which maintains the perfect temperature for fresh ingredients. The Produce Preserver extends freshness by neutralizing the over-ripening effects of ethylene emitted by certain fruits and vegetables. It also features PrintShield&#8482; Finish, a fingerprint resistant finish, which protects against smudges and enhances the look of the refrigerator."
+              }
+            },
+            "text": "KitchenAid 20.8-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+            "embedding": {
+              "dense": {
+                "buffer": "IjXBeCv7vD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMF4K/scUoM/wXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKjP8F4K/scUoM/AAAAAAAAAADBeCv7HFKDPwAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz/BeCv7HFKDPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMF4K/scUpM/AAAAAAAAAADBeCv7HFKDPwAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAMF4K/scUoM/wXgr+xxSoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACI1wXgr+5w/wXgr+xxSgz8iNcF4K/ucP8F4K/scUqM/CsZb2eeQuj/BeCv7HFKTP8F4K/scUoM/wXgr+xxSoz8KxlvZ55C6PwAAAAAAAAAAwXgr+xxSgz/BeCv7HFKjPwAAAAAAAAAAwXgr+xxSoz/BeCv7HFKDPwAAAAAAAAAAAAAAAAAAAADyVvY5pCaoPyI1wXgr+5w/2eeQmmC8tT/BeCv7HFKTPwAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAMF4K/scUoM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16487226,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db799ee-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "KitchenAid",
+                "description": "25.5-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+                "full_description": "",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049357225.jpg",
+                "product_url": "https://www.lowes.com/pd/KitchenAid-25-5-cu-ft-Built-In-Side-by-Side-Refrigerator-with-Ice-Maker-Stainless-Steel-with-Printshield/999908705",
+                "title": "KitchenAid 25.5-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)"
+              }
+            },
+            "text": "KitchenAid 25.5-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+            "embedding": {
+              "dense": {
+                "buffer": "IjXBeCv7vD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMF4K/scUoM/wXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKjP8F4K/scUoM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz/BeCv7HFKDPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMF4K/scUpM/AAAAAAAAAADBeCv7HFKDPwAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAMF4K/scUoM/wXgr+xxSoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACI1wXgr+5w/wXgr+xxSgz8iNcF4K/ucP8F4K/scUqM/CsZb2eeQuj/BeCv7HFKTP8F4K/scUoM/wXgr+xxSoz8KxlvZ55C6PwAAAAAAAAAAwXgr+xxSgz/BeCv7HFKjPwAAAAAAAAAAwXgr+xxSoz/BeCv7HFKDPwAAAAAAAAAAAAAAAAAAAADyVvY5pCaoPyI1wXgr+5w/2eeQmmC8tT/BeCv7HFKTPwAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAMF4K/scUoM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16541117,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db799ae-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/KitchenAid-24-8-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-Black-Stainless-with-Printshield-ENERGY-STAR/1001254552",
+                "full_description": "This 24.8 cu ft. Side-by-side refrigerator features the Preserva&#174; Food Care System. Its two independent cooling systems help keep food fresh while the FreshFlow&#8482; Air Filter minimizes odors, and the Produce Preserver delays over-ripening. PrintShield&#8482; Finish on the stainless steel exterior resists fingerprints and smudges for easy cleaning.",
+                "description": "24.8-cu ft Side-by-Side Refrigerator with Ice Maker (Black Stainless with Printshield) ENERGY STAR",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049490892.jpg",
+                "brand": "KitchenAid",
+                "title": "KitchenAid 24.8-cu ft Side-by-Side Refrigerator with Ice Maker (Black Stainless with Printshield) ENERGY STAR"
+              }
+            },
+            "text": "KitchenAid 24.8-cu ft Side-by-Side Refrigerator with Ice Maker (Black Stainless with Printshield) ENERGY STAR",
+            "embedding": {
+              "dense": {
+                "buffer": "hOjxXTiIvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKAsgU37yYI/oCyBTfvJgj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwwkH0+C6cP6AsgU37yYI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoCyBTfvJgj8AAAAAAAAAAKAsgU37yYI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoCyBTfvJgj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoCyBTfvJkj+gLIFN+8mCPwAAAAAAAAAAAAAAAAAAAACgLIFN+8mSPwAAAAAAAAAAoCyBTfvJgj8AAAAAAAAAAKAsgU37yYI/AAAAAAAAAACgLIFN+8mCPwAAAAAAAAAAoCyBTfvJgj+gLIFN+8mCPwAAAAAAAAAAoCyBTfvJgj8AAAAAAAAAAPDCQfT4Lpw/oCyBTfvJoj+gLIFN+8mCPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoCyBTfvJgj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKAsgU37yaI/oCyBTfvJgj+gLIFN+8miP6AsgU37yaI/NFIxtzojtT+gLIFN+8mSP6AsgU37yYI/oCyBTfvJoj/Id+Egeny3PwAAAAAAAAAAoCyBTfvJkj/wwkH0+C6cPwAAAAAAAAAA8MJB9PgunD+gLIFN+8mCPwAAAAAAAAAAAAAAAAAAAADId+EgenynP/DCQfT4Lpw/DAfR47twsD+gLIFN+8mCPwAAAAAAAAAAoCyBTfvJkj8AAAAAAAAAAKAsgU37yYI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16541705,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db7998d-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Frigidaire 22-cu ft Side-by-Side Refrigerator with Ice Maker (EasyCare Stainless Steel)",
+                "brand": "Frigidaire",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-22-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-EasyCare-Stainless-Steel/1000245227",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505645778.jpg",
+                "description": "22-cu ft Side-by-Side Refrigerator with Ice Maker (EasyCare Stainless Steel)",
+                "full_description": ""
+              }
+            },
+            "text": "Frigidaire 22-cu ft Side-by-Side Refrigerator with Ice Maker (EasyCare Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "+s3Wod9svT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMikeIFMioc/yKR4gUyKhz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACWexphuaehPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAyKR4gUyKlz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMikeIFMioc/AAAAAAAAAADIpHiBTIqHP8ikeIFMioc/AAAAAAAAAAAAAAAAAAAAAMikeIFMioc/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAyKR4gUyKhz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMikeIFMioc/yKR4gUyKpz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJZ7GmG5p7E/yKR4gUyKhz/IpHiBTIqXP5Z7GmG5p6E/SvECmRQvwD/IpHiBTIqXP8ikeIFMipc/yKR4gUyKhz/IpHiBTIq3PwAAAAAAAAAAyKR4gUyKhz/IpHiBTIqXPwAAAAAAAAAAyKR4gUyKhz/IpHiBTIqHPwAAAAAAAAAAAAAAAAAAAAAvkEnxApm0P5Z7GmG5p6E/+s3Wod9srT/IpHiBTIqHPwAAAAAAAAAAyKR4gUyKhz8AAAAAAAAAAMikeIFMipc/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.16610667,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          }
+        ],
+        "tags": {},
+        "text": "wi-fi fridge with ice maker",
+        "embedding": {
+          "dense": {
+            "buffer": "aC+hvYT2wj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPaiPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9qI/AAAAAAAAAABoL6G9hPaiP2gvob2E9qI/HMdxHMdxvD9oL6G9hPayP2gvob2E9qI/aC+hvYT2oj9CewntJbTHPwAAAAAAAAAAaC+hvYT2oj8AAAAAAAAAAGgvob2E9qI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPayPwAAAAAAAAAAaC+hvYT2oj8AAAAAAAAAAAAAAAAAAAAAaC+hvYT2sj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "shape": [
+              96
+            ],
+            "dtype": "<f8",
+            "quantization": 0,
+            "maxVal": 0,
+            "minVal": 0,
+            "scale": 0,
+            "originalDtype": ""
+          }
+        },
+        "granularity": 0,
+        "adjacency": 0,
+        "parentId": "",
+        "chunks": [],
+        "weight": 0,
+        "uri": "",
+        "mimeType": "",
+        "location": [],
+        "offset": 0,
+        "scores": {},
+        "modality": "",
+        "evaluations": {}
+      }
+    ],
+    "groundtruths": []
+  }
+}

@@ -1,0 +1,1023 @@
+{
+  "requestId": "f46cee0d-b1de-45c5-9d74-5edab8ae7166",
+  "data": {
+    "docs": [
+      {
+        "id": "910d4b24-44c4-11ec-a081-d3da2e768b04",
+        "matches": [
+          {
+            "id": "0c0a36f6-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "3.3-cu ft Freestanding Mini Fridge (Silver Mist)",
+                "title": "Frigidaire 3.3-cu ft Freestanding Mini Fridge (Silver Mist)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505645501.jpg",
+                "full_description": "",
+                "brand": "Frigidaire",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-3-3-cu-ft-Freestanding-Mini-Fridge-Silver-Mist/1000788204"
+              }
+            },
+            "text": "Frigidaire 3.3-cu ft Freestanding Mini Fridge (Silver Mist)",
+            "embedding": {
+              "dense": {
+                "buffer": "VwQNJ3Vfvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/DSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPw0ndV8eW5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJ3VfHluhPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJS6L4+tCKo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADSd1Xx5boT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW6E/AAAAAAAAAAANJ3VfHluRP5S6L4+tCKo/0HBS9+WxtT8NJ3VfHluRP5S6L4+tCKo/AAAAAAAAAADvy2MrgobDPwAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPwAAAAAAAAAAlLovj60Iqj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADQcFL35bG1Pw0ndV8eW6E/lLovj60Iqj8NJ3VfHluRPw0ndV8eW5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.17538291,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a371b-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Cooluli",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100209/1002099628.jpg",
+                "title": "Cooluli Infinity 0.53-cu ft Freestanding Mini Fridge (White)",
+                "description": "Infinity 0.53-cu ft Freestanding Mini Fridge (White)",
+                "product_url": "https://www.lowes.com/pd/Cooluli-Infinity-0-53-cu-ft-Freestanding-Mini-Fridge-White/1002099628",
+                "full_description": "The Infinity-15L Cooler Warmer Mini Fridge by Cooluli boasts efficiency and durability in one stylish, compact unit. The all-purpose, thermoelectric Infinity goes from cooling to warming with one quick switch. The Infinity is perfect anywhere you need to store food, snacks, drinks, breast milk, insulin, skincare and beauty products, and medications. Its compact design features a roomy 15-liter capacity, tempered glass front, and the molded foldaway top handle makes transport a breeze. Fits up to 18 standard 12 ounce soda, beer and drink cans. Use it everywhere&#8212;the Infinity&#8217;s sleek construction matches any decor, making it the perfect addition to your home, office, dorm, car, or on your next road trip. Exclusive EcoMax Technology features Cooluli&#8217;s unique cooling system that helps prevent frost; it&#8217;s also powerful, quiet, and cost-effective&#8212;when maximum efficiency is reached, the Infinity goes into ECOmode&#8212;saving you money! 100% environmentally friendly, it uses no refrigerants or Freons. It&#8217;s dual voltage and works anywhere in the world. This unit features a one-year limited warranty and Cooluli&#8217;s unparalleled customer service."
+              }
+            },
+            "text": "Cooluli Infinity 0.53-cu ft Freestanding Mini Fridge (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "3t3d3d3dvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/ERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGRPxEREREREZE/AAAAAAAAAAARERERERGRPwAAAAAAAAAAAAAAAAAAAAARERERERGRPwAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/AAAAAAAAAAAAAAAAAAAAABEREREREaE/AAAAAAAAAAAAAAAAAAAAABEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/AAAAAAAAAAARERERERGRPxEREREREaE/ERERERERsT8RERERERGhPxEREREREaE/ERERERERkT8RERERERHBPwAAAAAAAAAAAAAAAAAAAAARERERERGhPwAAAAAAAAAAVVVVVVVVtT8RERERERGhPwAAAAAAAAAAAAAAAAAAAAARERERERGhPxEREREREZE/ERERERERsT8RERERERGhPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18321009,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a371c-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Cooluli",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100209/1002099712.jpg",
+                "product_url": "https://www.lowes.com/pd/Cooluli-Vibe-0-53-cu-ft-Freestanding-Mini-Fridge-White/1002099712",
+                "title": "Cooluli Vibe 0.53-cu ft Freestanding Mini Fridge (White)",
+                "full_description": "The Vibe-15LE Thermoelectric Cooler/Warmer Mini Fridge by Cooluli puts the fun in functional&#8212;its magnetic, dry-erase whiteboard front bring a whole new level of cool to the standard mini fridge. Versatile and useful dry-erase board helps organize and prep various notes and lists. Use with dry-erase markers (not included).The all-purpose Vibe is durable, efficient, and stylishly compact; change from cooling to warming with 1 quick switch. Perfect for storing food, drinks, breast milk, insulin, skincare and beauty products, medicine, and more.The compact design features a spacious 15-liter capacity, and molded foldaway top handle for easy portability. Fits up to 18 standard 12-oz. beverage cans! Use it everywhere&#8212;the Vibe&#8217;s sturdy construction and sleek look match any dÃ©cor, making it the perfect addition to your home, office, dorm, hotel, car, and road trip!Exclusive EcoMax Technology features Cooluli&#8217;s unique cooling system that prevents frost, is quiet, energy efficient, and cost-effective. When maximum efficiency is reached, the Vibe goes into ECOmode&#8212;saving you money! The environmentally-friendly Vibe uses no refrigerants or Freons. It&#8217;s dual voltage and works worldwide. This unit features a 1 Year Limited Warranty and Cooluli&#8217;s unparalleled customer service.",
+                "description": "Vibe 0.53-cu ft Freestanding Mini Fridge (White)"
+              }
+            },
+            "text": "Cooluli Vibe 0.53-cu ft Freestanding Mini Fridge (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIkSZIkSZI/kiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACSJEmSJEmSP5IkSZIkSZI/AAAAAAAAAACSJEmSJEmSPwAAAAAAAAAAAAAAAAAAAACSJEmSJEmSPwAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIkSZIkSZI/AAAAAAAAAAAAAAAAAAAAAJIkSZIkSaI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkiRJkiRJkj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkiRJkiRJkj+SJEmSJEmSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIkSZIkSZI/kiRJkiRJkj+SJEmSJEmSP5IkSZIkSaI/t23btm3btj+SJEmSJEmSP5IkSZIkSaI/kiRJkiRJkj8AAAAAAADAPwAAAAAAAAAAAAAAAAAAAACSJEmSJEmiPwAAAAAAAAAA27Zt27Ztqz+SJEmSJEmiPwAAAAAAAAAAAAAAAAAAAACSJEmSJEmiP5IkSZIkSZI/27Zt27Ztqz+SJEmSJEmiPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18666176,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3760-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/100287/1002872476.jpg",
+                "description": "3.2-cu ft Freestanding Mini Fridge (White)",
+                "title": "Premium Levella 3.2-cu ft Freestanding Mini Fridge (White)",
+                "brand": "Premium Levella",
+                "full_description": "This 3.2 cu. Ft. refrigerator is the perfect size for the dorm room, work shop, she shed, man cave or if you simply want a little extra refrigerator storage. The adjustable shelves in the main compartment and door storage keep your food items organized. The energy efficiency of this refrigerator will not only save on energy usage it will save you money too.",
+                "product_url": "https://www.lowes.com/pd/Premium-Levella-3-2-cu-ft-Freestanding-Mini-Fridge-White/1002872476"
+              }
+            },
+            "text": "Premium Levella 3.2-cu ft Freestanding Mini Fridge (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "R1juaYTlvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJZ7GmG5p5E/lnsaYbmnkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACWexphuaeRP5Z7GmG5p5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlnsaYbmnkT+WexphuaeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJZ7GmG5p6E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJZ7GmG5p5E/lnsaYbmnkT8AAAAAAAAAAAAAAAAAAAAAlnsaYbmnkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACWexphuaeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJZ7GmG5p6E/AAAAAAAAAACWexphuaeRP5Z7GmG5p6E/R1juaYTlvj+WexphuaeRP5Z7GmG5p6E/lnsaYbmnkT9huacRlnu6PwAAAAAAAAAAAAAAAAAAAACWexphuaehP5Z7GmG5p6E/YbmnEZZ7qj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABhuacRlnuqP5Z7GmG5p5E/YbmnEZZ7qj+WexphuaehP5Z7GmG5p5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1867338,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a36f8-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "4.5-cu ft Freestanding Mini Fridge Freezer Compartment (Silver Mist)",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-4-5-cu-ft-Freestanding-Mini-Fridge-Freezer-Compartment-Silver-Mist/1001354724",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505645655.jpg",
+                "full_description": "",
+                "brand": "Frigidaire",
+                "title": "Frigidaire 4.5-cu ft Freestanding Mini Fridge Freezer Compartment (Silver Mist)"
+              }
+            },
+            "text": "Frigidaire 4.5-cu ft Freestanding Mini Fridge Freezer Compartment (Silver Mist)",
+            "embedding": {
+              "dense": {
+                "buffer": "VDqyZyAqvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADZMxCVjuyJP9kzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAANkzEJWO7Kk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2TMQlY7smT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOMmzO9qcaM/AAAAAAAAAADZMxCVjuyJP+MmzO9qcaM/VDqyZyAqvT/ZMxCVjuyJP+MmzO9qcaM/AAAAAAAAAABUOrJnICq9PwAAAAAAAAAAAAAAAAAAAADZMxCVjuyJP9kzEJWO7Jk/2TMQlY7sqT/ZMxCVjuyJP9kzEJWO7Ik/AAAAAAAAAADZMxCVjuy5P9kzEJWO7Jk/aCAqHdkzsD/ZMxCVjuyJP9kzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1881,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a36ef-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Frigidaire-3-1-cu-ft-Freestanding-Mini-Fridge-Freezer-Compartment-Silver-Mist/1000940476",
+                "title": "Frigidaire 3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Silver Mist)",
+                "full_description": "",
+                "brand": "Frigidaire",
+                "description": "3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Silver Mist)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505645532.jpg"
+              }
+            },
+            "text": "Frigidaire 3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Silver Mist)",
+            "embedding": {
+              "dense": {
+                "buffer": "VDqyZyAqvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADZMxCVjuyJP9kzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/AAAAAAAAAADZMxCVjuyJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAANkzEJWO7Kk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2TMQlY7smT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOMmzO9qcaM/AAAAAAAAAADZMxCVjuyJP+MmzO9qcaM/VDqyZyAqvT/ZMxCVjuyJP+MmzO9qcaM/AAAAAAAAAABUOrJnICq9PwAAAAAAAAAAAAAAAAAAAADZMxCVjuyJP9kzEJWO7Jk/2TMQlY7sqT/ZMxCVjuyJP9kzEJWO7Ik/AAAAAAAAAADZMxCVjuy5P9kzEJWO7Jk/aCAqHdkzsD/ZMxCVjuyJP9kzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1881,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a384b-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505645761.jpg",
+                "description": "22-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+                "full_description": "",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-22-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-White/1000245223",
+                "title": "Frigidaire 22-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+                "brand": "Frigidaire"
+              }
+            },
+            "text": "Frigidaire 22-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "Hh4eHh4evj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/Hh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACXlpaWlpamPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4enj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/AAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/Hh4eHh4enj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6OPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJeWlpaWlqY/Hh4eHh4ejj8eHh4eHh6eP5eWlpaWlqY/Hh4eHh4evj8eHh4eHh6ePx4eHh4eHp4/Hh4eHh4enj8eHh4eHh6+PwAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6OPwAAAAAAAAAAAAAAAAAAAACXlpaWlpa2PwAAAAAAAAAAHh4eHh4erj8eHh4eHh6OPwAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAB4eHh4eHo4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18832718,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a36f7-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "3.3-cu ft Freestanding Mini Fridge (White)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100274/1002749856.jpg",
+                "product_url": "https://www.lowes.com/pd/Avanti-3-3-cu-ft-Freestanding-Mini-Fridge-White/1002749856",
+                "brand": "Avanti",
+                "full_description": "This refrigerator accommodates a variety of foods and beverages. the interior includes two removable, adjustable glass shelves and 2 liter bottle storage in the door. It features full range temperature control and a reversible door. The chiller compartment is great for short-term storage. Capacity (Volume): 3.3 cu ft; Width: 18-1/2-in; Depth: 17-1/2-in; Height: 33-1/2-in.",
+                "title": "Avanti 3.3-cu ft Freestanding Mini Fridge (White)"
+              }
+            },
+            "text": "Avanti 3.3-cu ft Freestanding Mini Fridge (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "1ofG+tBYvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5ZQ/OQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWUPzkFL6fg5ZQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5aQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkFL6fg5aQ/AAAAAAAAAAA5BS+n4OWUPzkFL6fg5aQ/OQUvp+DltD85BS+n4OWUPzkFL6fg5aQ/OQUvp+DllD/Wh8b60Fi/PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DltD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPzkFL6fg5ZQ/OQUvp+DltD85BS+n4OWUPzkFL6fg5ZQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18846393,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a384a-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505645822.jpg",
+                "description": "25.5-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+                "title": "Frigidaire 25.5-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+                "brand": "Frigidaire",
+                "full_description": "",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-25-5-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-White/1000245229"
+              }
+            },
+            "text": "Frigidaire 25.5-cu ft Side-by-Side Refrigerator with Ice Maker (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "HdRBHdRBvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB3UQR3UQY0/HdRBHdRBjT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWX/EVX/GlPx3UQR3UQY0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHdRBHdRBjT8AAAAAAAAAAAAAAAAAAAAAHdRBHdRBnT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB3UQR3UQY0/AAAAAAAAAAAAAAAAAAAAAB3UQR3UQY0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHdRBHdRBjT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB3UQR3UQY0/HdRBHdRBnT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAd1EEd1EGNPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABZf8RVf8aU/HdRBHdRBjT8d1EEd1EGdPxZf8RVf8aU/HdRBHdRBvT8d1EEd1EGdPx3UQR3UQZ0/HdRBHdRBnT8d1EEd1EG9PwAAAAAAAAAAHdRBHdRBjT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAd1EEd1EGNPwAAAAAAAAAAAAAAAAAAAAAWX/EVX/G1PwAAAAAAAAAAHdRBHdRBrT8d1EEd1EGNPwAAAAAAAAAAHdRBHdRBjT8AAAAAAAAAAB3UQR3UQY0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19046177,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a38ad-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "",
+                "product_url": "https://www.lowes.com/pd/KitchenAid-30-cu-ft-Built-In-Side-by-Side-Refrigerator-with-Ice-Maker-Stainless-Steel-with-Printshield/999908701",
+                "title": "KitchenAid 30-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+                "description": "30-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049357256.jpg",
+                "brand": "KitchenAid"
+              }
+            },
+            "text": "KitchenAid 30-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+            "embedding": {
+              "dense": {
+                "buffer": "ntiJndiJvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sYM/FDuxEzuxgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GjPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GDPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GDPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxgz8UO7ETO7GDPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAUO7ETO7GDPwAAAAAAAAAAFDuxEzuxgz8AAAAAAAAAAAAAAAAAAAAAFDuxEzuxgz8AAAAAAAAAABQ7sRM7sYM/FDuxEzuxoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ7YiZ3YiZ0/FDuxEzuxgz+e2Imd2ImdPxQ7sRM7saM/O7ETO7ETuz8UO7ETO7GTPxQ7sRM7sYM/FDuxEzuxoz87sRM7sRO7PwAAAAAAAAAAFDuxEzuxgz8UO7ETO7GjPwAAAAAAAAAAFDuxEzuxoz8UO7ETO7GDPwAAAAAAAAAAAAAAAAAAAADZiZ3YiZ2oP57YiZ3YiZ0/dmIndmIntj8UO7ETO7GTPwAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAABQ7sRM7sYM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19244573,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a372f-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Designer 2.6-cu ft Freestanding Mini Fridge (White)",
+                "full_description": "The Danby Designer Energy Star 2.6 cu. ft. compact all refrigerator is energy efficient refrigeration in a convenient, compact unit. Perfect for small spaces, this model makes a great addition to the student dorm room or small office. It includes the CanStor beverage dispenser, tall bottle storage and a scratch resistant work top to store accessories. With a reversible door hinge, an integrated door handle and a smooth-back design, this handy refrigerator will fit almost anywhere.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/067638/067638998994.jpg",
+                "title": "Danby Designer 2.6-cu ft Freestanding Mini Fridge (White)",
+                "product_url": "https://www.lowes.com/pd/Danby-Designer-2-6-cu-ft-Freestanding-Mini-Fridge-White/1000485937",
+                "brand": "Danby"
+              }
+            },
+            "text": "Danby Designer 2.6-cu ft Freestanding Mini Fridge (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "BPcR3Edwvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAfwX0E95E/cB/BfQT3kT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwH8F9BPeRP3AfwX0E95E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3kT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwH8F9BPeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3oT8AAAAAAAAAAHAfwX0E96E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3kT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwH8F9BPeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAfwX0E96E/cB/BfQT3kT9wH8F9BPeRP3AfwX0E96E/KK+hvIbyuj9wH8F9BPeRPyivobyG8qo/cB/BfQT3kT8or6G8hvK6PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATGcxncV0tj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAor6G8hvKqP3AfwX0E96E/KK+hvIbyqj9wH8F9BPeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAfwX0E95E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19377276,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a38ae-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "KitchenAid 20.8-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049357201.jpg",
+                "full_description": "This versatile 20.8 cu. ft built-in refrigerator features the ExtendFresh&#8482; Plus Temperature Management System, which maintains the perfect temperature for fresh ingredients. The Produce Preserver extends freshness by neutralizing the over-ripening effects of ethylene emitted by certain fruits and vegetables. It also features PrintShield&#8482; Finish, a fingerprint resistant finish, which protects against smudges and enhances the look of the refrigerator.",
+                "brand": "KitchenAid",
+                "product_url": "https://www.lowes.com/pd/KitchenAid-20-8-cu-ft-Built-In-Side-by-Side-Refrigerator-with-Ice-Maker-Stainless-Steel-with-Printshield/999908703",
+                "description": "20.8-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)"
+              }
+            },
+            "text": "KitchenAid 20.8-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+            "embedding": {
+              "dense": {
+                "buffer": "IjXBeCv7vD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMF4K/scUoM/wXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKjP8F4K/scUoM/AAAAAAAAAADBeCv7HFKDPwAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz/BeCv7HFKDPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMF4K/scUpM/AAAAAAAAAADBeCv7HFKDPwAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAMF4K/scUoM/wXgr+xxSoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACI1wXgr+5w/wXgr+xxSgz8iNcF4K/ucP8F4K/scUqM/CsZb2eeQuj/BeCv7HFKTP8F4K/scUoM/wXgr+xxSoz8KxlvZ55C6PwAAAAAAAAAAwXgr+xxSgz/BeCv7HFKjPwAAAAAAAAAAwXgr+xxSoz/BeCv7HFKDPwAAAAAAAAAAAAAAAAAAAADyVvY5pCaoPyI1wXgr+5w/2eeQmmC8tT/BeCv7HFKTPwAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAMF4K/scUoM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19381277,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3735-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/761101/761101062006.jpg",
+                "description": "5.5-cu ft Built-In/Freestanding Mini Fridge (White)",
+                "title": "Summit Appliance 5.5-cu ft Built-In/Freestanding Mini Fridge (White)",
+                "product_url": "https://www.lowes.com/pd/Summit-Appliance-5-5-cu-ft-Built-In-Freestanding-Mini-Fridge-White/1000764352",
+                "brand": "Summit Appliance",
+                "full_description": "Summit offers a quality selection of undercounter refrigeration designed and manufactured in Europe. The BAR61W is a 24-in wide all-refrigerator with a front-breathing design for built-in installation. The fully finished cabinet also allows freestanding use. This model comes in a white finish, with a user-reversible door for easy flexibility. The curved towel bar style handle is mounted horizontally for a modern look. Inside, the BAR61W offers 5.5 cu.ft. of storage capacity. Adjustable glass shelves offer spill-proof storage, with a removable scalloped steel shelf ideal for holding wine or other bottles. Door racks offer convenient storage for condiments and a crisper lets you keep produce at its best. This unit has a white interior for full visibility, with an automatic interior light. Automatic defrost ensures minimum user maintenance. Four leveling legs let you adjust the height up to 34-in. For a 32-in ADA compliant option, see the ADA61W."
+              }
+            },
+            "text": "Summit Appliance 5.5-cu ft Built-In/Freestanding Mini Fridge (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "WlpaWlpauj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/Hh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6ePx4eHh4eHo4/Hh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4enj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4ejj8eHh4eHh6OPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHp4/AAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6OPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHp4/AAAAAAAAAAAeHh4eHh6ePx4eHh4eHp4/09LS0tLSsj8eHh4eHh6OPx4eHh4eHp4/Hh4eHh4ejj8eHh4eHh6+PwAAAAAAAAAAAAAAAAAAAAAeHh4eHh6ePx4eHh4eHp4/09LS0tLSsj8AAAAAAAAAAB4eHh4eHp4/AAAAAAAAAAAeHh4eHh6ePx4eHh4eHo4/09LS0tLSsj+XlpaWlpamPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19398391,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3739-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Summit offers a quality selection of ADA compliant undercounter refrigeration designed and manufactured in Europe. The ADA61W is a 24-in wide all-refrigerator with a front-breathing design for built-in installation. The fully finished cabinet also allows freestanding use. This model comes in a white finish, with a user-reversible door for easy flexibility. The curved towel bar style handle is mounted horizontally for a modern look. Inside, the ADA61W offers 5.5 Cu. Ft. of storage capacity. Adjustable glass shelves offer spill-proof storage, with a removable scalloped steel shelf ideal for holding wine or other bottles. Door racks offer convenient storage for condiments and a crisper lets you keep produce at its best. This unit has a white interior for full visibility, with an automatic interior light. Automatic defrost ensures minimum user maintenance. This model is sized at 32.25-in high to fit under lower ADA compliant counters. For additional ADA compliant options, browse summit&#8217;s complete catalog.",
+                "description": "5.5-cu ft Built-In/Freestanding Mini Fridge (White)",
+                "brand": "Summit Appliance",
+                "product_url": "https://www.lowes.com/pd/Summit-Appliance-5-5-cu-ft-Built-In-Freestanding-Mini-Fridge-White/1000764358",
+                "title": "Summit Appliance 5.5-cu ft Built-In/Freestanding Mini Fridge (White)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/761101/761101062013.jpg"
+              }
+            },
+            "text": "Summit Appliance 5.5-cu ft Built-In/Freestanding Mini Fridge (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "WlpaWlpauj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/Hh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6ePx4eHh4eHo4/Hh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4enj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4ejj8eHh4eHh6OPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHp4/AAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6OPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHp4/AAAAAAAAAAAeHh4eHh6ePx4eHh4eHp4/09LS0tLSsj8eHh4eHh6OPx4eHh4eHp4/Hh4eHh4ejj8eHh4eHh6+PwAAAAAAAAAAAAAAAAAAAAAeHh4eHh6ePx4eHh4eHp4/09LS0tLSsj8AAAAAAAAAAB4eHh4eHp4/AAAAAAAAAAAeHh4eHh6ePx4eHh4eHo4/09LS0tLSsj+XlpaWlpamPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19398391,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a36e8-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Hisense 2.7-cu ft Freestanding Mini Fridge (Silver)",
+                "full_description": "This energy star 2.7 Cu. Ft. Single door stainless steel look mini fridge is perfect for college dorms, break rooms, or just extra storage for your home and office space. The adjustable legs and reversible door design allow for placement of this mini refrigerator virtually anywhere you need it. The sleek and fashionable all fridge design does not compromise its functionality. This model has convenient storage shelves on the door for canned beverages and a 2-Liter bottle as well as extra space for single-serve yogurt or other condiments/snacks. Removable fresh-food glass shelves provide storage for larger items to efficiently utilize interior capacity.",
+                "product_url": "https://www.lowes.com/pd/Hisense-2-7-cu-ft-Freestanding-Mini-Fridge-Silver/1002981228",
+                "image_url": "https://mobileimages.lowes.com/product/converted/819130/819130027128.jpg",
+                "description": "2.7-cu ft Freestanding Mini Fridge (Silver)",
+                "brand": "Hisense"
+              }
+            },
+            "text": "Hisense 2.7-cu ft Freestanding Mini Fridge (Silver)",
+            "embedding": {
+              "dense": {
+                "buffer": "Hh4eHh4evj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFJQ/FBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPxQUFBQUFJQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFJQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFKQ/AAAAAAAAAAAUFBQUFBSUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQUFBQUFJQ/AAAAAAAAAAAUFBQUFBSUPxQUFBQUFKQ/Hh4eHh4evj8UFBQUFBSUPxQUFBQUFKQ/AAAAAAAAAAAeHh4eHh6+PwAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPwAAAAAAAAAAFBQUFBQUtD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6uPx4eHh4eHq4/FBQUFBQUpD8UFBQUFBSUPxQUFBQUFJQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19410774,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a38a4-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "",
+                "product_url": "https://www.lowes.com/pd/KitchenAid-25-5-cu-ft-Built-In-Side-by-Side-Refrigerator-with-Ice-Maker-Stainless-Steel-with-Printshield/999908705",
+                "title": "KitchenAid 25.5-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049357225.jpg",
+                "description": "25.5-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+                "brand": "KitchenAid"
+              }
+            },
+            "text": "KitchenAid 25.5-cu ft Built-In Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+            "embedding": {
+              "dense": {
+                "buffer": "IjXBeCv7vD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMF4K/scUoM/wXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKjP8F4K/scUoM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz/BeCv7HFKDPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMF4K/scUpM/AAAAAAAAAADBeCv7HFKDPwAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAMF4K/scUoM/wXgr+xxSoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACI1wXgr+5w/wXgr+xxSgz8iNcF4K/ucP8F4K/scUqM/CsZb2eeQuj/BeCv7HFKTP8F4K/scUoM/wXgr+xxSoz8KxlvZ55C6PwAAAAAAAAAAwXgr+xxSgz/BeCv7HFKjPwAAAAAAAAAAwXgr+xxSoz/BeCv7HFKDPwAAAAAAAAAAAAAAAAAAAADyVvY5pCaoPyI1wXgr+5w/2eeQmmC8tT/BeCv7HFKTPwAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAMF4K/scUoM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19427145,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a36f2-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Arctic Fresh 2.7-cu ft Freestanding Mini Fridge (White)",
+                "full_description": "This 2.7 Cu. Ft. mini refrigerator is ideal for small space such as dorm, office, garage, game room, etc. It has full-width chiller for cooler option. Two glass shelves to help organize your food. The thermostat controller is on the front so you can set the temperature conveniently. The flat back and reversible door design helps to save more space. There are two types of doors you might receive, it&#8217;d be better to check with your local store first.",
+                "brand": "Arctic Fresh",
+                "image_url": "https://mobileimages.lowes.com/product/converted/840826/840826110022.jpg",
+                "product_url": "https://www.lowes.com/pd/Arctic-Fresh-2-7-cu-ft-Freestanding-Mini-Fridge-White/1001003738",
+                "description": "2.7-cu ft Freestanding Mini Fridge (White)"
+              }
+            },
+            "text": "Arctic Fresh 2.7-cu ft Freestanding Mini Fridge (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "SpCnBHlKwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ4S5ClBnpI/nhLkKUGekj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SP54S5ClBnpI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGekj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ4S5ClBnpI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGekj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO0b1r5h7as/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGekj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ4S5ClBnpI/AAAAAAAAAADtG9a+Ye2rP54S5ClBnqI/RhdddNFFtz+eEuQpQZ6SP54S5ClBnqI/nhLkKUGeoj/tG9a+Ye27PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA7RvWvmHtqz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6yP54S5ClBnqI/nhLkKUGesj+eEuQpQZ6SPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19528018,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3740-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Arctic Fresh",
+                "full_description": "The mini refrigerator is ideal for small space such as dorm, office, etc. The reversible door design makes it suits your space more flexible. The wire shelf and door rack inside helps you to organize your storage easier.",
+                "title": "Arctic Fresh 1.6-cu ft Freestanding Mini Fridge (White)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/840826/840826110015.jpg",
+                "description": "1.6-cu ft Freestanding Mini Fridge (White)",
+                "product_url": "https://www.lowes.com/pd/Arctic-Fresh-1-6-cu-ft-Freestanding-Mini-Fridge-White/1000217103"
+              }
+            },
+            "text": "Arctic Fresh 1.6-cu ft Freestanding Mini Fridge (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "SpCnBHlKwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ4S5ClBnpI/nhLkKUGekj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SP54S5ClBnpI/AAAAAAAAAAAAAAAAAAAAAJ4S5ClBnpI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGekj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO0b1r5h7as/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGekj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ4S5ClBnpI/AAAAAAAAAADtG9a+Ye2rP54S5ClBnqI/RhdddNFFtz+eEuQpQZ6SP54S5ClBnqI/nhLkKUGeoj/tG9a+Ye27PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA7RvWvmHtqz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6yP54S5ClBnqI/nhLkKUGesj+eEuQpQZ6SPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19528018,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3725-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Cooluli",
+                "description": "Infinity 0.35-cu ft Freestanding Mini Fridge (Pink)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100209/1002099460.jpg",
+                "product_url": "https://www.lowes.com/pd/Cooluli-Infinity-0-35-cu-ft-Freestanding-Mini-Fridge-Pink/1002099460",
+                "full_description": "The Infinity-10L Cooler/Warmer Mini Fridge boasts efficiency and durability in a stylish compact unit. The all-purpose, thermoelectric Infinity features upgraded foam for better insulation and goes from cooling to warming with one switch. The Infinity is perfect for storing food, snacks, drinks, breast milk, insulin, skincare, personal care and beauty products, and medications.Â?Â?Its compact design features a 10-liter capacity, tempered glass front, and the molded foldaway top handle makes transport a breeze. Fits up to twelve 12-oz. soda/beer/drink cans! Use it everywhere&#8212;the Infinity&#8217;s stylish construction matches any dÃ©cor, making it the perfect addition to your home, countertop, business/office, dorm, hotel room, car/motor vehicle, or on your next road trip or tailgate!Â?Â?Exclusive EcoMax Technology features Cooluli&#8217;s unique cooling system that helps prevent frost; it&#8217;s also powerful, quiet, and cost-effective&#8212;when maximum efficiency is reached, the Infinity goes into ECOmode&#8212;saving you money! 100% environmentally friendly, it uses no refrigerants or Freon. It&#8217;s dual voltage and works anywhere in the world. This unit features a 1 Year Limited Warranty and Cooluli&#8217;s unparalleled customer service.",
+                "title": "Cooluli Infinity 0.35-cu ft Freestanding Mini Fridge (Pink)"
+              }
+            },
+            "text": "Cooluli Infinity 0.35-cu ft Freestanding Mini Fridge (Pink)",
+            "embedding": {
+              "dense": {
+                "buffer": "VwQNJ3Vfvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/DSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPw0ndV8eW5E/AAAAAAAAAAANJ3VfHluRPwAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPwAAAAAAAAAADSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/AAAAAAAAAAAAAAAAAAAAAA0ndV8eW6E/AAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAADSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/AAAAAAAAAAANJ3VfHluRPw0ndV8eW6E/lLovj60Iqj8NJ3VfHluhPw0ndV8eW6E/AAAAAAAAAAANJ3VfHlvBPwAAAAAAAAAADSd1Xx5bkT8NJ3VfHluhPwAAAAAAAAAAlLovj60Iuj8NJ3VfHluhPwAAAAAAAAAAAAAAAAAAAAANJ3VfHluhPw0ndV8eW5E/lLovj60Iqj8NJ3VfHluhPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19586596,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3721-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Cooluli-Infinity-0-53-cu-ft-Freestanding-Mini-Fridge-Pink/1002099600",
+                "title": "Cooluli Infinity 0.53-cu ft Freestanding Mini Fridge (Pink)",
+                "full_description": "The Infinity-15L Cooler Warmer Mini Fridge by Cooluli boasts efficiency and durability in one stylish, compact unit. The all-purpose, thermoelectric Infinity goes from cooling to warming with one quick switch. The Infinity is perfect anywhere you need to store food, snacks, drinks, breast milk, insulin, skincare and beauty products, and medications. Its compact design features a roomy 15-liter capacity, tempered glass front, and the molded foldaway top handle makes transport a breeze. Fits up to 18 standard 12 ounce soda, beer and drink cans. Use it everywhere&#8212;the Infinity&#8217;s sleek construction matches any decor, making it the perfect addition to your home, office, dorm, car, or on your next road trip. Exclusive EcoMax Technology features Cooluli&#8217;s unique cooling system that helps prevent frost; it&#8217;s also powerful, quiet, and cost-effective&#8212;when maximum efficiency is reached, the Infinity goes into ECOmode&#8212;saving you money! 100% environmentally friendly, it uses no refrigerants or Freons. It&#8217;s dual voltage and works anywhere in the world. This unit features a one-year limited warranty and Cooluli&#8217;s unparalleled customer service.",
+                "description": "Infinity 0.53-cu ft Freestanding Mini Fridge (Pink)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100209/1002099600.jpg",
+                "brand": "Cooluli"
+              }
+            },
+            "text": "Cooluli Infinity 0.53-cu ft Freestanding Mini Fridge (Pink)",
+            "embedding": {
+              "dense": {
+                "buffer": "VwQNJ3Vfvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/DSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPw0ndV8eW5E/AAAAAAAAAAANJ3VfHluRPwAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPwAAAAAAAAAADSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/AAAAAAAAAAAAAAAAAAAAAA0ndV8eW6E/AAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAADSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/AAAAAAAAAAANJ3VfHluRPw0ndV8eW6E/lLovj60Iqj8NJ3VfHluhPw0ndV8eW6E/AAAAAAAAAAANJ3VfHlvBPwAAAAAAAAAADSd1Xx5bkT8NJ3VfHluhPwAAAAAAAAAAlLovj60Iuj8NJ3VfHluhPwAAAAAAAAAAAAAAAAAAAAANJ3VfHluhPw0ndV8eW5E/lLovj60Iqj8NJ3VfHluhPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.19586596,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          }
+        ],
+        "tags": {
+          "full_description": "white mini fridge"
+        },
+        "text": "white mini fridge",
+        "embedding": {
+          "dense": {
+            "buffer": "Hh4eHh4evj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHq4/Hh4eHh4evj8eHh4eHh6uPx4eHh4eHq4/Hh4eHh4erj8eHh4eHh7OPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHq4/Hh4eHh4erj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6uPwAAAAAAAAAAHh4eHh4erj8AAAAAAAAAAAAAAAAAAAAAHh4eHh4erj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "shape": [
+              96
+            ],
+            "dtype": "<f8",
+            "quantization": 0,
+            "maxVal": 0,
+            "minVal": 0,
+            "scale": 0,
+            "originalDtype": ""
+          }
+        },
+        "granularity": 0,
+        "adjacency": 0,
+        "parentId": "",
+        "chunks": [],
+        "weight": 0,
+        "uri": "",
+        "mimeType": "",
+        "location": [],
+        "offset": 0,
+        "scores": {},
+        "modality": "",
+        "evaluations": {}
+      }
+    ],
+    "groundtruths": []
+  }
+}

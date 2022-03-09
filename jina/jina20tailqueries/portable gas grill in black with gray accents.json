@@ -1,0 +1,1021 @@
+{
+  "requestId": "b72bfeee-b8a2-44ba-a8b9-28f5fd378ebc",
+  "data": {
+    "docs": [
+      {
+        "id": "64b75ab2-7a0a-11ec-be6b-5d6790f603b1",
+        "matches": [
+          {
+            "id": "cf6c5873-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Bring the BBQ wherever you roam with the X-Grill Portable Charcoal BBQ Grill, a sleek, electro-plated steel tailgate grill that packs down flatter than a pancake! This highly-portable folding tailgate grill sets up in seconds with its chrome tri-fold cooking grate and durable polyester canvas carrying tote with shoulder strap. All you need is charcoal/kindling, and friends!",
+                "brand": "Picnic Time",
+                "product_url": "https://www.lowes.com/pd/Picnic-Time-New-England-Patriots-Black-Charcoal-Grill/1001085718",
+                "title": "Picnic Time New England Patriots Black Charcoal Grill",
+                "description": "New England Patriots Black Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100108/1001085718.jpg"
+              }
+            },
+            "text": "Picnic Time New England Patriots Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "qQnGW9nnwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKTP8F4K/scUpM/AAAAAAAAAADBeCv7HFKTPwAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKTPwAAAAAAAAAAwXgr+xxSoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPJW9jmkJrg/AAAAAAAAAADBeCv7HFKzP8F4K/scUpM/wXgr+xxSoz8AAAAAAAAAAMF4K/scUpM/wXgr+xxSkz/yVvY5pCa4PwAAAAAAAAAAwXgr+xxSkz/yVvY5pCa4P8F4K/scUpM/IjXBeCv7rD/BeCv7HFKjPwAAAAAAAAAAAAAAAAAAAAAiNcF4K/usP8F4K/scUpM/wXgr+xxSoz8AAAAAAAAAAAAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11526052,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf6c5900-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/500002/5000028633.jpg",
+                "description": "Michigan State Spartans 10-sq in Multicolor Portable Charcoal Grill",
+                "title": "Imperial International Michigan State Spartans 10-sq in Multicolor Portable Charcoal Grill",
+                "brand": "Imperial International",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Michigan-State-Spartans-10-sq-in-Multicolor-Portable-Charcoal-Grill/5000028633",
+                "full_description": ""
+              }
+            },
+            "text": "Imperial International Michigan State Spartans 10-sq in Multicolor Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "HMdxHMdxvD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXbMEWbMGGPwAAAAAAAAAAAAAAAAAAAAAXbMEWbMGGPxdswRZswYY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABdswRZswYY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF2zBFmzBhj8AAAAAAAAAABdswRZswZY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF2zBFmzBlj8AAAAAAAAAAAAAAAAAAAAAF2zBFmzBhj8AAAAAAAAAAAAAAAAAAAAAF2zBFmzBlj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABzHcRzHcbw/F2zBFmzBhj8RERERERGhPwAAAAAAAAAAF2zBFmzBpj8AAAAAAAAAABdswRZswYY/F2zBFmzBlj+UPumTPumzPwAAAAAAAAAAAAAAAAAAAAAXbMEWbMG2PxdswRZswYY/ERERERERsT8cx3Ecx3GsPxdswRZswZY/F2zBFmzBhj+UPumTPumzPxdswRZswZY/lD7pkz7psz8XbMEWbMGGPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.117588945,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf6c590d-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Imperial International San Francisco 49ers San Francisco 49ers Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500003/5000039927.jpg",
+                "brand": "Imperial International",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-San-Francisco-49ers-San-Francisco-49ers-Bucket-Grill-10-sq-in-Muliple-Colors-Metal-Portable-Charcoal-Grill/5000039927",
+                "full_description": "Pack up and bring the tailgate with you with this bucket grill. This fully functional mini-grill uses charcoal and is made from durable, galvanized steel. The bucket grill also includes a wooden handle for convenient and safe transportation to your tailgate, BBQ, beach or campsite. Product is officially licensed by the NFL.",
+                "description": "San Francisco 49ers San Francisco 49ers Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill"
+              }
+            },
+            "text": "Imperial International San Francisco 49ers San Francisco 49ers Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "8Af8AX/Avz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwB/wBf8B/PwAAAAAAAAAA8Af8AX/Afz/wB/wBf8B/P/AH/AF/wH8/AAAAAAAAAAAAAAAAAAAAAPAH/AF/wI8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwB/wBf8CPPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwB/wBf8B/P/AH/AF/wI8/AAAAAAAAAAAAAAAAAAAAAPAH/AF/wI8/8Af8AX/Ajz8AAAAAAAAAAPAH/AF/wI8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAAAAAAAAAAAA8Af8AX/Afz8AAAAAAAAAAAAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHVFXVFX1LU/8Af8AX/Afz/0BX1BX9CnPwAAAAAAAAAA8Af8AX/Arz8AAAAAAAAAAAAAAAAAAAAA8Af8AX/Afz/wB/wBf8CvPwAAAAAAAAAA8Af8AX/Afz/0BX1BX9C3P/AH/AF/wH8/8Af8AX/Arz/yhrwhb8irP/AH/AF/wI8/8Af8AX/Afz91RV1RV9S1P/QFfUFf0Kc/9oQ9YU/Yoz/wB/wBf8CPPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12151628,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b9e1-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "New Orleans Saints Black Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Picnic-Time-New-Orleans-Saints-Black-Charcoal-Grill/1001085734",
+                "brand": "Picnic Time",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100108/1001085734.jpg",
+                "full_description": "Bring the BBQ wherever you roam with the X-Grill Portable Charcoal BBQ Grill, a sleek, electro-plated steel tailgate grill that packs down flatter than a pancake! This highly-portable folding tailgate grill sets up in seconds with its chrome tri-fold cooking grate and durable polyester canvas carrying tote with shoulder strap. All you need is charcoal/kindling, and friends!",
+                "title": "Picnic Time New Orleans Saints Black Charcoal Grill"
+              }
+            },
+            "text": "Picnic Time New Orleans Saints Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "kpGRkZGRwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPxQUFBQUFJQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFBQUFBSUPxQUFBQUFJQ/FBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAFBQUFBQUlD8UFBQUFBSUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkZGRkZGbk/AAAAAAAAAAAUFBQUFBS0PwAAAAAAAAAAHh4eHh4erj8AAAAAAAAAAAAAAAAAAAAAFBQUFBQUlD8ZGRkZGRm5PwAAAAAAAAAAFBQUFBQUlD8ZGRkZGRm5PxQUFBQUFJQ/Hh4eHh4erj8UFBQUFBSUPwAAAAAAAAAAAAAAAAAAAAAeHh4eHh6uPxQUFBQUFKQ/FBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAFBQUFBQUlD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12379023,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf6c58ec-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "",
+                "product_url": "https://www.lowes.com/pd/Cuisinart-254-sq-in-Black-Portable-Charcoal-Grill/1000273881",
+                "title": "Cuisinart 254-sq in Black Portable Charcoal Grill",
+                "brand": "Cuisinart",
+                "image_url": "https://mobileimages.lowes.com/product/converted/817096/817096013186.jpg",
+                "description": "254-sq in Black Portable Charcoal Grill"
+              }
+            },
+            "text": "Cuisinart 254-sq in Black Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "1ofG+tBYvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DllD8AAAAAAAAAADkFL6fg5ZQ/OQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWUPzkFL6fg5aQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIjG+tBYH7o/OQUvp+DllD85BS+n4OWkPwAAAAAAAAAAOQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAOQUvp+DllD85BS+n4OW0PwAAAAAAAAAAOQUvp+DllD+IxvrQWB+6PwAAAAAAAAAAOQUvp+DlpD85BS+n4OWkPwAAAAAAAAAAOQUvp+DllD85BS+n4OW0PzkFL6fg5aQ/OQUvp+DlpD85BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12653142,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b743-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Danby",
+                "title": "Danby Contemporary Classic 4.4-cu ft Freestanding Mini Fridge (Pearl Metallic White)",
+                "full_description": "Drawing inspiration from mid-century styling and simplicity, Danby's Contemporary Classic compact all refrigerator reimagines retro for the modern consumer. Featuring Danby's exclusive retro-inspired curved door design, metallic door finish, door lock, rubber-grip ergonomic chrome handle and stylized chrome worktop, its exterior features are only outmatched by its signature black interior with white LED light. Boasting 4.4 cubic-feet (124 liters) of cooling space, it features two and a half tempered-glass shelves for maximum storage versatility and a covered vegetable crisper. There's more than enough room for larger bottles and it also includes an efficient CanStor beverage dispenser. Maintenance and cleaning are as simple as can be with the automatic defrost system. Plus, this model is built for convenience as the reversible door hinge allows you to adjust it for either left or right-handed opening.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/067638/067638005241.jpg",
+                "description": "Contemporary Classic 4.4-cu ft Freestanding Mini Fridge (Pearl Metallic White)",
+                "product_url": "https://www.lowes.com/pd/Danby-Contemporary-Classic-4-4-cu-ft-Freestanding-Mini-Fridge-Pearl-Metallic-White/1000485965"
+              }
+            },
+            "text": "Danby Contemporary Classic 4.4-cu ft Freestanding Mini Fridge (Pearl Metallic White)",
+            "embedding": {
+              "dense": {
+                "buffer": "nud5nud5vj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYYg/GIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYhmEYhmGIPxiGYRiGYYg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYZg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYZg/GIZhGIZhiD8AAAAAAAAAABiGYRiGYZg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGIZhGIZhmD8AAAAAAAAAAAAAAAAAAAAAGIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYhmEYhmGIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIkSZIkSbI/GIZhGIZhiD+SJEmSJEmiPxiGYRiGYZg/VVVVVVVVtT8YhmEYhmGIPxiGYRiGYZg/GIZhGIZhiD9VVVVVVVW1PwAAAAAAAAAAAAAAAAAAAAAYhmEYhmGoPxiGYRiGYYg/nud5nud5rj8YhmEYhmGYPxiGYRiGYYg/AAAAAAAAAACe53me53muP5IkSZIkSaI/nud5nud5rj8YhmEYhmGIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYZg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12695436,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b9e2-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Picnic-Time-Pittsburgh-Steelers-Black-Charcoal-Grill/1001085814",
+                "description": "Pittsburgh Steelers Black Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100108/1001085814.jpg",
+                "title": "Picnic Time Pittsburgh Steelers Black Charcoal Grill",
+                "full_description": "Bring the BBQ wherever you roam with the X-Grill Portable Charcoal BBQ Grill, a sleek, electro-plated steel tailgate grill that packs down flatter than a pancake! This highly-portable folding tailgate grill sets up in seconds with its chrome tri-fold cooking grate and durable polyester canvas carrying tote with shoulder strap. All you need is charcoal/kindling, and friends!",
+                "brand": "Picnic Time"
+              }
+            },
+            "text": "Picnic Time Pittsburgh Steelers Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "ntiJndiJvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPxQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxoz8AAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ7YiZ3Yia0/FDuxEzuxkz8UO7ETO7GzPwAAAAAAAAAAFDuxEzuxsz8AAAAAAAAAABQ7sRM7sZM/FDuxEzuxoz/ZiZ3YiZ24PwAAAAAAAAAAFDuxEzuxkz/ZiZ3YiZ24PxQ7sRM7sZM/FDuxEzuxkz8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAUO7ETO7GzPxQ7sRM7saM/ntiJndiJrT8UO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1269799,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf6c58fc-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "",
+                "description": "LSU Tigers 10-sq in Multicolor Portable Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500002/5000028627.jpg",
+                "brand": "Imperial International",
+                "title": "Imperial International LSU Tigers 10-sq in Multicolor Portable Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-LSU-Tigers-10-sq-in-Multicolor-Portable-Charcoal-Grill/5000028627"
+              }
+            },
+            "text": "Imperial International LSU Tigers 10-sq in Multicolor Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "NbB3TA3svT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC+Y2pg75iKPwAAAAAAAAAAAAAAAAAAAAC+Y2pg75iKP75jamDvmIo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL5jamDvmIo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvmNqYO+Yij8AAAAAAAAAAL5jamDvmJo/AAAAAAAAAAAAAAAAAAAAAL5jamDvmIo/vmNqYO+Yij8AAAAAAAAAAAAAAAAAAAAAvmNqYO+Yij8AAAAAAAAAAAAAAAAAAAAAvmNqYO+Yij++Y2pg75iKP75jamDvmIo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM7KT4iz8rM/vmNqYO+Yij++Y2pg75iaPwAAAAAAAAAAvmNqYO+Yqj8AAAAAAAAAAL5jamDvmIo/vmNqYO+Yij/Oyk+Is/KzPwAAAAAAAAAAAAAAAAAAAAC+Y2pg75i6P75jamDvmIo/vmNqYO+Yqj9WfkKclZ+wP75jamDvmIo/vmNqYO+Yij9GF1100UW3P75jamDvmJo/vmNqYO+Yqj++Y2pg75iKPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12746139,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b764-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Danby-Contemporary-Classic-4-4-cu-ft-Freestanding-Mini-Fridge-Scarlet-Red-Metallic/1000485957",
+                "image_url": "https://mobileimages.lowes.com/product/converted/067638/067638005210.jpg",
+                "title": "Danby Contemporary Classic 4.4-cu ft Freestanding Mini Fridge (Scarlet Red Metallic)",
+                "full_description": "Drawing inspiration from mid-century styling and simplicity, Danby's Contemporary Classic compact all refrigerator reimagines retro for the modern consumer. Featuring Danby's exclusive retro-inspired curved door design, metallic door finish, door lock, rubber-grip ergonomic chrome handle and stylized chrome worktop, its exterior features are only outmatched by its signature black interior with white LED light. Boasting 4.4 cubic-feet (124 liters) of cooling space, it features two and a half tempered-glass shelves for maximum storage versatility and a covered vegetable crisper. There's more than enough room for larger bottles and it also includes an efficient CanStor beverage dispenser. Maintenance and cleaning are as simple as can be with the automatic defrost system. Plus, this model is built for convenience as the reversible door hinge allows you to adjust it for either left or right-handed opening.",
+                "description": "Contemporary Classic 4.4-cu ft Freestanding Mini Fridge (Scarlet Red Metallic)",
+                "brand": "Danby"
+              }
+            },
+            "text": "Danby Contemporary Classic 4.4-cu ft Freestanding Mini Fridge (Scarlet Red Metallic)",
+            "embedding": {
+              "dense": {
+                "buffer": "nud5nud5vj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYYg/GIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYhmEYhmGIPxiGYRiGYYg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYZg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYZg/GIZhGIZhiD8AAAAAAAAAABiGYRiGYZg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGIZhGIZhmD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYYg/GIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIkSZIkSbI/GIZhGIZhiD8YhmEYhmGoP5IkSZIkSaI/VVVVVVVVtT8YhmEYhmGIPxiGYRiGYZg/AAAAAAAAAACSJEmSJEmyPwAAAAAAAAAAAAAAAAAAAAAYhmEYhmGoPxiGYRiGYYg/nud5nud5rj8YhmEYhmGYPxiGYRiGYYg/AAAAAAAAAACe53me53muP5IkSZIkSaI/nud5nud5rj8YhmEYhmGIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYZg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1279182,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf6c5889-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Bring the BBQ wherever you roam with the X-Grill Portable Charcoal BBQ Grill, a sleek, electro-plated steel tailgate grill that packs down flatter than a pancake! This highly-portable folding tailgate grill sets up in seconds with its chrome tri-fold cooking grate and durable polyester canvas carrying tote with shoulder strap. All you need is charcoal/kindling, and friends!",
+                "title": "Picnic Time Los Angeles Chargers Black Charcoal Grill",
+                "brand": "Picnic Time",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100108/1001085926.jpg",
+                "product_url": "https://www.lowes.com/pd/Picnic-Time-Los-Angeles-Chargers-Black-Charcoal-Grill/1001085926",
+                "description": "Los Angeles Chargers Black Charcoal Grill"
+              }
+            },
+            "text": "Picnic Time Los Angeles Chargers Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "qQnGW9nnwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSkz/BeCv7HFKTP8F4K/scUqM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMF4K/scUpM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMF4K/scUrM/AAAAAAAAAADBeCv7HFKzPwAAAAAAAAAAwXgr+xxSsz8AAAAAAAAAAMF4K/scUqM/wXgr+xxSoz/BeCv7HFKzPwAAAAAAAAAAwXgr+xxSkz/yVvY5pCa4P8F4K/scUpM/wXgr+xxSoz/BeCv7HFKjPwAAAAAAAAAAAAAAAAAAAADBeCv7HFKzPyI1wXgr+6w/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.12800832,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf6c58f5-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Chicago Bears Bucket Grill",
+                "title": "Imperial International Chicago Bears Bucket Grill",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Chicago-Bears-Bucket-Grill/5000039941",
+                "brand": "Imperial International",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500003/5000039941.jpg",
+                "full_description": "Pack up and bring the tailgate with you with this bucket grill. This fully functional mini-grill uses charcoal and is made from durable, galvanized steel. The bucket grill also includes a wooden handle for convenient and safe transportation to your tailgate, BBQ, beach or campsite. Product is officially licensed by the NFL."
+              }
+            },
+            "text": "Imperial International Chicago Bears Bucket Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "iMb60Fgfuj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPzkFL6fg5ZQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DllD8AAAAAAAAAADkFL6fg5aQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIjG+tBYH7o/AAAAAAAAAAA5BS+n4OWkPwAAAAAAAAAAOQUvp+DltD8AAAAAAAAAADkFL6fg5ZQ/OQUvp+DllD85BS+n4OW0PwAAAAAAAAAAOQUvp+DllD85BS+n4OW0PzkFL6fg5ZQ/1ofG+tBYrz85BS+n4OWkPzkFL6fg5ZQ/AAAAAAAAAAA5BS+n4OW0PzkFL6fg5ZQ/1ofG+tBYrz85BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1297813,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b613-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Samsung&#8217;s 28 cu. ft. large capacity, 3-Door French Door Family Hub&#8482; refrigerator has sleek-edge doors, EZ-Open Handle&#8482; and helps you connect to what&#8217;s most important: your family and home, whenever and wherever.",
+                "brand": "Samsung",
+                "title": "Samsung Family Hub Family Hub 27.7-cu ft French Door Refrigerator with Ice Maker (Fingerprint Resistant Black Stainless Steel) ENERGY STAR",
+                "description": "Family Hub Family Hub 27.7-cu ft French Door Refrigerator with Ice Maker (Fingerprint Resistant Black Stainless Steel) ENERGY STAR",
+                "image_url": "https://mobileimages.lowes.com/product/converted/887276/887276429465.jpg",
+                "product_url": "https://www.lowes.com/pd/Samsung-Family-Hub-Family-Hub-27-7-cu-ft-French-Door-Refrigerator-with-Ice-Maker-Fingerprint-Resistant-Black-Stainless-Steel-ENERGY-STAR/1003051808"
+              }
+            },
+            "text": "Samsung Family Hub Family Hub 27.7-cu ft French Door Refrigerator with Ice Maker (Fingerprint Resistant Black Stainless Steel) ENERGY STAR",
+            "embedding": {
+              "dense": {
+                "buffer": "GiV+RomfwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANuBuXZgrn0/24G5dmCufT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbgbl2YK59P9uBuXZgrn0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA24G5dmCufT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANuBuXZgro0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA24G5dmCufT/bgbl2YK59PwAAAAAAAAAA24G5dmCufT/bgbl2YK6NP9uBuXZgrp0/24G5dmCufT/bgbl2YK6NP9uBuXZgrn0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA24G5dmCufT/bgbl2YK59PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANuBuXZgrp0/24G5dmCunT/bgbl2YK59PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA24G5dmCufT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANuBuXZgrq0/24G5dmCujT/bgbl2YK6dPwAAAAAAAAAAKfEzSvyMsj/bgbl2YK6NP2QhC1nIQpY/24G5dmCujT/bgbl2YK6tPwAAAAAAAAAA24G5dmCujT8p8TNK/IyiP2QhC1nIQpY/ZCELWchCpj9kIQtZyEKWP9uBuXZgrn0/AAAAAAAAAADbgbl2YK6tPynxM0r8jKI/24G5dmCurT/bgbl2YK6dPwAAAAAAAAAA24G5dmCufT8AAAAAAAAAANuBuXZgro0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13178936,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf6c58eb-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Fire & Flavor",
+                "description": "HERO Portable Lightweight Charcoal Grill System",
+                "title": "Fire & Flavor HERO Portable Lightweight Charcoal Grill System",
+                "product_url": "https://www.lowes.com/pd/Fire-Flavor-HERO-Portable-Lightweight-Charcoal-Grill-System/1001813188",
+                "image_url": "https://mobileimages.lowes.com/product/converted/892805/892805003825.jpg",
+                "full_description": "Hero makes simple, clean and on the go charcoal grilling easy. At under 10 pounds, the system features a premium non-stick grill for clean cooking and easy clean up. Plus, it&#8217;s the world&#8217;s first dishwasher safe grill. Easy to use components and a rugged carry case give you a charcoal grilled meal anywhere you go."
+              }
+            },
+            "text": "Fire & Flavor HERO Portable Lightweight Charcoal Grill System",
+            "embedding": {
+              "dense": {
+                "buffer": "O9q8T3HJwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO9q8T3HJkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADvavE9xyZA/AAAAAAAAAAA72rxPccmQPzvavE9xyaA/O9q8T3HJkD872rxPccmQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADvavE9xyZA/AAAAAAAAAAAAAAAAAAAAADvavE9xyZA/O9q8T3HJkD8AAAAAAAAAADvavE9xyZA/O9q8T3HJkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADvavE9xybA/O9q8T3HJkD872rxPccmQPwAAAAAAAAAAO9q8T3HJsD8AAAAAAAAAADvavE9xyaA/WEeb9ykuqT872rxPccmwPwAAAAAAAAAAAAAAAAAAAADJEKyjzfu0PzvavE9xyZA/AAAAAAAAAABYR5v3KS6pPwAAAAAAAAAAAAAAAAAAAADJEKyjzfu0PzvavE9xyZA/O9q8T3HJsD8AAAAAAAAAADvavE9xyZA/O9q8T3HJkD8AAAAAAAAAADvavE9xyZA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13203605,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b60d-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Samsung-Family-Hub-Wi-Fi-Enabled-Family-Hub-27-9-cu-ft-4-Door-French-Door-Refrigerator-with-Ice-Maker-Fingerprint-Resistant-Black-Stainless-Steel-ENERGY-STAR/1000437531",
+                "brand": "Samsung",
+                "title": "Samsung Family Hub Wi-Fi Enabled Family Hub 27.9-cu ft 4-Door French Door Refrigerator with Ice Maker (Fingerprint Resistant Black Stainless Steel) ENERGY STAR",
+                "description": "Family Hub Wi-Fi Enabled Family Hub 27.9-cu ft 4-Door French Door Refrigerator with Ice Maker (Fingerprint Resistant Black Stainless Steel) ENERGY STAR",
+                "full_description": "Samsung believes Connected Living starts with people and their busy lives. The kitchen is the heart of home and the FRIDGE is the heart of the kitchen. Samsung's Family Hub refrigerator helps you connect to what's most important: your family and home, whenever and wherever. Family Hub lets you see inside your refrigerator, manage your family's calendars, stream music, see who's at the front door and much more, all right from your fridge.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/887276/887276259284.jpg"
+              }
+            },
+            "text": "Samsung Family Hub Wi-Fi Enabled Family Hub 27.9-cu ft 4-Door French Door Refrigerator with Ice Maker (Fingerprint Resistant Black Stainless Steel) ENERGY STAR",
+            "embedding": {
+              "dense": {
+                "buffer": "sS495u+1wT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKh5E7Rwnk/AqHkTtHCeT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKTPwKh5E7Rwnk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqHkTtHCeT8AAAAAAAAAAAKh5E7Rwnk/AAAAAAAAAAAAAAAAAAAAAAKh5E7Rwnk/AAAAAAAAAAACoeRO0cJ5PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqHkTtHCeT8CoeRO0cJ5PwAAAAAAAAAAAqHkTtHCiT/BeCv7HFKTP6HkTtHCGaA/AqHkTtHCeT8CoeRO0cKJPwKh5E7Rwnk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqHkTtHCeT8CoeRO0cJ5PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKh5E7Rwpk/AqHkTtHCmT8CoeRO0cJ5PwAAAAAAAAAAAAAAAAAAAAACoeRO0cJ5PwAAAAAAAAAAAqHkTtHCeT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACI1wXgr+6w/wXgr+xxSkz8CoeRO0cKZPwKh5E7Rwnk/sS495u+1sT8CoeRO0cKJP8F4K/scUpM/AqHkTtHCiT+h5E7RwhmwPwAAAAAAAAAAAqHkTtHCiT/BeCv7HFKjP8F4K/scUpM/4QwIJXeKpj+h5E7RwhmgPwKh5E7Rwnk/AAAAAAAAAAAiNcF4K/usP6HkTtHCGaA/AqHkTtHCqT8CoeRO0cKZPwAAAAAAAAAAAqHkTtHCeT8AAAAAAAAAAAKh5E7Rwok/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1329795,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf6c58e7-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/077924/077924018831.jpg",
+                "brand": "Weber",
+                "product_url": "https://www.lowes.com/pd/Weber-240-sq-in-Black-Portable-Charcoal-Grill/1000732074",
+                "full_description": "Take your Weber Kettle Cooker on the go with this extra-large 18 in. Jumbo Joe charcoal BBQ grill. It's outfitted with a user-friendly tuck-n-carry lid lock so you can transport it effortlessly via the top-mounted handle. Get jumbo-sized output from this portable charcoal grill at tailgates, campsites or the beach, showcasing your cooking talents at any site no matter how remote.",
+                "description": "240-sq in Black Portable Charcoal Grill",
+                "title": "Weber 240-sq in Black Portable Charcoal Grill"
+              }
+            },
+            "text": "Weber 240-sq in Black Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "ERERERERwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXbMEWbMGWPwAAAAAAAAAAAAAAAAAAAAAXbMEWbMGWPwAAAAAAAAAAF2zBFmzBlj8AAAAAAAAAABdswRZswZY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXbMEWbMGWPxdswRZswZY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF2zBFmzBlj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF2zBFmzBlj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXbMEWbMGWPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABdswRZswbY/F2zBFmzBpj8XbMEWbMGmPwAAAAAAAAAAERERERERsT8AAAAAAAAAAAAAAAAAAAAAF2zBFmzBlj8XbMEWbMGmPwAAAAAAAAAAF2zBFmzBlj8cx3Ecx3G8PwAAAAAAAAAAF2zBFmzBlj8XbMEWbMGmPwAAAAAAAAAAF2zBFmzBlj8XbMEWbMG2PxdswRZswZY/F2zBFmzBlj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13333334,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b703-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Danby Contemporary Classic 4.4-cu ft Freestanding Mini Fridge (Black)",
+                "description": "Contemporary Classic 4.4-cu ft Freestanding Mini Fridge (Black)",
+                "brand": "Danby",
+                "image_url": "https://mobileimages.lowes.com/product/converted/067638/067638005234.jpg",
+                "product_url": "https://www.lowes.com/pd/Danby-Contemporary-Classic-4-4-cu-ft-Freestanding-Mini-Fridge-Black/1000485961",
+                "full_description": "Drawing inspiration from mid-century styling and simplicity, Danby's Contemporary Classic compact all refrigerator reimagines retro for the modern consumer. Featuring Danby's exclusive retro-inspired curved door design, metallic door finish, door lock, rubber-grip ergonomic chrome handle and stylized chrome worktop, its exterior features are only outmatched by its signature black interior with white LED light. Boasting 4.4 cubic-feet (124 liters) of cooling space, it features two and a half tempered-glass shelves for maximum storage versatility and a covered vegetable crisper. There's more than enough room for larger bottles and it also includes an efficient CanStor beverage dispenser. Maintenance and cleaning are as simple as can be with the automatic defrost system. Plus, this model is built for convenience as the reversible door hinge allows you to adjust it for either left or right-handed opening."
+              }
+            },
+            "text": "Danby Contemporary Classic 4.4-cu ft Freestanding Mini Fridge (Black)",
+            "embedding": {
+              "dense": {
+                "buffer": "24G5dmCuvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANuBuXZgro0/24G5dmCujT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbgbl2YK6NP9uBuXZgro0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANuBuXZgrp0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbgbl2YK6NP9uBuXZgrp0/24G5dmCujT8AAAAAAAAAANuBuXZgrp0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA24G5dmCujT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACnxM0r8jLI/24G5dmCujT9kIQtZyEKmP9uBuXZgrp0/24G5dmCurT/bgbl2YK6NP9uBuXZgrp0/AAAAAAAAAAAp8TNK/IyyPwAAAAAAAAAA24G5dmCujT/bgbl2YK6dP9uBuXZgro0/KfEzSvyMsj/bgbl2YK6dP9uBuXZgro0/AAAAAAAAAADbgbl2YK6tP2QhC1nIQqY/ZCELWchCpj/bgbl2YK6NPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANuBuXZgrp0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13334733,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf6c58fd-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Michigan-Wolverines-10-sq-in-Multicolor-Portable-Charcoal-Grill/5000028631",
+                "title": "Imperial International Michigan Wolverines 10-sq in Multicolor Portable Charcoal Grill",
+                "description": "Michigan Wolverines 10-sq in Multicolor Portable Charcoal Grill",
+                "brand": "Imperial International",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500002/5000028631.jpg",
+                "full_description": ""
+              }
+            },
+            "text": "Imperial International Michigan Wolverines 10-sq in Multicolor Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "s6asKWvKuj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD0BX1BX9CHPwAAAAAAAAAAAAAAAAAAAAD0BX1BX9CHP/QFfUFf0Ic/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPQFfUFf0Ic/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9AV9QV/Qhz8AAAAAAAAAAPQFfUFf0Jc/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9AV9QV/Qlz8AAAAAAAAAAAAAAAAAAAAA9AV9QV/Qhz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD0BX1BX9CHPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADZlTVlT1rQ/9AV9QV/Qhz93xB1xR9yhPwAAAAAAAAAAcUfcEXfErT8AAAAAAAAAAPQFfUFf0Ic/9AV9QV/Qlz/0BX1BX9C3PwAAAAAAAAAAAAAAAAAAAACzpqwpa8q6P/QFfUFf0Ic/d8QdcUfcsT93xB1xR9yxP/QFfUFf0Ic/9AV9QV/Qhz82ZU1ZU9a0P/QFfUFf0Jc/9AV9QV/Qpz/0BX1BX9CHP/QFfUFf0Ic/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13363746,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf6c5902-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Pack up and bring the tailgate with you with this bucket grill. This fully functional mini-grill uses charcoal and is made from durable, galvanized steel. The bucket grill also includes a wooden handle for convenient and safe transportation to your tailgate, BBQ, beach or campsite. Product is officially licensed by the NFL.",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Dallas-Cowboys-Bucket-Grill/5000039921",
+                "brand": "Imperial International",
+                "description": "Dallas Cowboys Bucket Grill",
+                "title": "Imperial International Dallas Cowboys Bucket Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500003/5000039921.jpg"
+              }
+            },
+            "text": "Imperial International Dallas Cowboys Bucket Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "mpmZmZmZuT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB7FK5H4XqUP3sUrkfhepQ/exSuR+F6lD8AAAAAAAAAAAAAAAAAAAAAexSuR+F6lD8AAAAAAAAAAHsUrkfheqQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZmZmZmbk/exSuR+F6lD97FK5H4XqUPwAAAAAAAAAAuB6F61G4rj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4HoXrUbiuPwAAAAAAAAAAexSuR+F6lD+4HoXrUbi+P3sUrkfhepQ/uB6F61G4rj+4HoXrUbiuP3sUrkfhepQ/AAAAAAAAAAC4HoXrUbiuP3sUrkfheqQ/uB6F61G4rj97FK5H4XqUPwAAAAAAAAAAexSuR+F6lD8AAAAAAAAAAHsUrkfhepQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13407202,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf6c586d-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Seattle Seahawks Black Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100108/1001085846.jpg",
+                "brand": "Picnic Time",
+                "full_description": "Bring the BBQ wherever you roam with the X-Grill Portable Charcoal BBQ Grill, a sleek, electro-plated steel tailgate grill that packs down flatter than a pancake! This highly-portable folding tailgate grill sets up in seconds with its chrome tri-fold cooking grate and durable polyester canvas carrying tote with shoulder strap. All you need is charcoal/kindling, and friends!",
+                "title": "Picnic Time Seattle Seahawks Black Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Picnic-Time-Seattle-Seahawks-Black-Charcoal-Grill/1001085846"
+              }
+            },
+            "text": "Picnic Time Seattle Seahawks Black Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "1ofG+tBYvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5BS+n4OWUPzkFL6fg5ZQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAOQUvp+DlpD85BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANaHxvrQWL8/AAAAAAAAAAA5BS+n4OW0PwAAAAAAAAAAOQUvp+DltD8AAAAAAAAAAAAAAAAAAAAAOQUvp+DlpD85BS+n4OW0PwAAAAAAAAAAOQUvp+DlpD+IxvrQWB+6PzkFL6fg5ZQ/OQUvp+DllD85BS+n4OWUPwAAAAAAAAAAAAAAAAAAAAA5BS+n4OWkPzkFL6fg5ZQ/OQUvp+DlpD8AAAAAAAAAAAAAAAAAAAAAOQUvp+DllD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13413,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b64b-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Samsung believes Connected Living starts with people and their busy lives. The kitchen is the heart of home and the FRIDGE is the heart of the kitchen. Samsung's Family Hub refrigerator helps you connect to what's most important: your family and home, whenever and wherever. Family Hub lets you see inside your refrigerator, manage your family's calendars, stream music, see who's at the front door and much more, all right from your fridge.",
+                "description": "Family Hub Family Hub 27.7-cu ft 4-Door French Door Refrigerator with Ice Maker (Fingerprint Resistant Black Stainless Steel) ENERGY STAR",
+                "product_url": "https://www.lowes.com/pd/Samsung-Family-Hub-Family-Hub-27-7-cu-ft-4-Door-French-Door-Refrigerator-with-Ice-Maker-Fingerprint-Resistant-Black-Stainless-Steel-ENERGY-STAR/1000948504",
+                "brand": "Samsung",
+                "image_url": "https://mobileimages.lowes.com/product/converted/887276/887276345314.jpg",
+                "title": "Samsung Family Hub Family Hub 27.7-cu ft 4-Door French Door Refrigerator with Ice Maker (Fingerprint Resistant Black Stainless Steel) ENERGY STAR"
+              }
+            },
+            "text": "Samsung Family Hub Family Hub 27.7-cu ft 4-Door French Door Refrigerator with Ice Maker (Fingerprint Resistant Black Stainless Steel) ENERGY STAR",
+            "embedding": {
+              "dense": {
+                "buffer": "lnsaYbmnwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPD4wwGPP3w/8PjDAY8/fD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADw+MMBjz+MP/D4wwGPP3w/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8PjDAY8/fD8AAAAAAAAAAPD4wwGPP3w/AAAAAAAAAAAAAAAAAAAAAPD4wwGPP4w/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8PjDAY8/fD/w+MMBjz98PwAAAAAAAAAA8PjDAY8/jD/w+MMBjz+MP/D4wwGPP5w/8PjDAY8/fD/w+MMBjz+MP/D4wwGPP3w/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8PjDAY8/fD/w+MMBjz98PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPD4wwGPP5w/8PjDAY8/nD/w+MMBjz98PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8PjDAY8/fD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPD4wwGPP6w/8PjDAY8/jD/w+MMBjz+cPwAAAAAAAAAAlnsaYbmnsT/w+MMBjz+MP7T6UkGrL5U/8PjDAY8/jD/w+MMBjz+sPwAAAAAAAAAA8PjDAY8/jD+WexphuaehP7T6UkGrL5U/tPpSQasvpT+WexphuaehP/D4wwGPP3w/AAAAAAAAAAAOePzhgMevP5Z7GmG5p6E/8PjDAY8/rD/w+MMBjz+cPwAAAAAAAAAA8PjDAY8/fD8AAAAAAAAAAPD4wwGPP4w/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.13431619,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          }
+        ],
+        "tags": {},
+        "text": "portable gas grill in black with gray accents",
+        "embedding": {
+          "dense": {
+            "buffer": "lD7pkz7pwz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABzHcRzHcbw/F2zBFmzBpj8RERERERGxPwAAAAAAAAAAF2zBFmzBpj8AAAAAAAAAABEREREREbE/F2zBFmzBlj8RERERERGxPwAAAAAAAAAAF2zBFmzBlj8XbMEWbMG2PwAAAAAAAAAAF2zBFmzBpj8XbMEWbMGWPxdswRZswZY/AAAAAAAAAAARERERERGxPxdswRZswaY/ERERERERsT8AAAAAAAAAAAAAAAAAAAAAF2zBFmzBlj8AAAAAAAAAABdswRZswZY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "shape": [
+              96
+            ],
+            "dtype": "<f8",
+            "quantization": 0,
+            "maxVal": 0,
+            "minVal": 0,
+            "scale": 0,
+            "originalDtype": ""
+          }
+        },
+        "granularity": 0,
+        "adjacency": 0,
+        "parentId": "",
+        "chunks": [],
+        "weight": 0,
+        "uri": "",
+        "mimeType": "",
+        "location": [],
+        "offset": 0,
+        "scores": {},
+        "modality": "",
+        "evaluations": {}
+      }
+    ],
+    "groundtruths": []
+  }
+}

@@ -1,0 +1,1023 @@
+{
+  "requestId": "9c894983-d330-4336-8684-fd01d6b1938d",
+  "data": {
+    "docs": [
+      {
+        "id": "68a89a9e-44c4-11ec-a081-d3da2e768b04",
+        "matches": [
+          {
+            "id": "0c0a36f0-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Hisense-4-4-cu-ft-Freestanding-Mini-Fridge-Black-Stainless-Steel/1002981222",
+                "title": "Hisense 4.4-cu ft Freestanding Mini Fridge (Black Stainless Steel)",
+                "full_description": "This energy star 4.4 Cu. Ft. Single door black stainless steel look mini fridge is perfect for college dorms, break rooms, or just extra storage for your home and office space. The adjustable legs and reversible door design allow for placement of this mini refrigerator virtually anywhere you need it. The sleek and fashionable all fridge design does not compromise its functionality. This model has convenient storage shelves on the door for canned beverages and a 2-Liter bottle as well as extra space for single-serve yogurt or other condiments/snacks. Removable fresh-food glass shelves provide storage for larger items to efficiently utilize interior capacity.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/819130/819130027159.jpg",
+                "description": "4.4-cu ft Freestanding Mini Fridge (Black Stainless Steel)",
+                "brand": "Hisense"
+              }
+            },
+            "text": "Hisense 4.4-cu ft Freestanding Mini Fridge (Black Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "CB988MEHvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgffPDBB48/CB988MEHjz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIH3zwwQePPwgffPDBB48/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgffPDBB58/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIH3zwwQePPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgffPDBB58/AAAAAAAAAAAIH3zwwQePPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACB988MEHjz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACB988MEHnz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEYXXXTRRac/AAAAAAAAAAAIH3zwwQefPwgffPDBB58/CB988MEHvz8IH3zwwQePPwgffPDBB58/AAAAAAAAAABGF1100UW3PwAAAAAAAAAACB988MEHjz9GF1100UWnPwAAAAAAAAAAZZNNNtlksz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIH3zwwQefP2WTTTbZZLM/CB988MEHrz8IH3zwwQePPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1363035,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a38fe-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Avallon",
+                "title": "Avallon 5.5-cu ft Freezerless Refrigerator (Stainless Steel)",
+                "description": "5.5-cu ft Freezerless Refrigerator (Stainless Steel)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/852017/852017005376.jpg",
+                "full_description": "The Avallon 5.5 cubic foot built-in fridge (AFR241SSLH) will satisfy anyone in the market for a miniature refrigerator. At only 24 inches wide and just under 35 inches tall, this built-in model is very versatile as far as where it can be placed. Kitchens large and small as well as home bars, dorm rooms, and basements benefit from the refrigerated storage space this fridge provides. Wherever you place it though, it's sure to look good with a stainless steel door and stainless steel handle. It also has a true-key lock, allowing you to feel a sense of security for the contents of your fridge. It doesn't just look good, though. Store whatever you need in this fridge with the three sanded glass shelves and additional door storage for milk, juice, large soda bottles, or wine. A touch control panel lets you easily regulate the wide temperature range for this single zone fridge, which can be set anywhere from 34F to 50F. This fridge has a left hinged door.",
+                "product_url": "https://www.lowes.com/pd/Avallon-5-5-cu-ft-Freezerless-Refrigerator-Stainless-Steel/1001301104"
+              }
+            },
+            "text": "Avallon 5.5-cu ft Freezerless Refrigerator (Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "mpmZmZmZuT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/ERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGRPxEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/ERERERERoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZmZmZmak/AAAAAAAAAAARERERERGRPwAAAAAAAAAAMzMzMzMzwz8RERERERGhPxEREREREZE/AAAAAAAAAAARERERERGhPwAAAAAAAAAAAAAAAAAAAABVVVVVVVW1PwAAAAAAAAAAERERERERoT8RERERERGhPwAAAAAAAAAAAAAAAAAAAABVVVVVVVW1PxEREREREbE/ERERERERsT8RERERERGRPxEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14611368,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a38ff-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Avallon",
+                "full_description": "With a large, beautifully lit interior, the Avallon AFR241SSOD outdoor built-in fridge creates an optimal storage environment for your food and beverages. Fully encased in stainless steel to withstand outdoor elements, the AFR241SSOD has been designed both inside and out to be sleek, stylish, and functional. A seamless stainless steel door gives this fridge the clean look that makes it ideal either as an under counter built-in or freestanding unit in your outdoor kitchen, bar, patio, and more. The matching stainless steel front vent and solid handlebar are the finishing touches on this expansive, professional looking fridge.",
+                "title": "Avallon 5.5-cu ft Freezerless Refrigerator (Stainless Steel)",
+                "description": "5.5-cu ft Freezerless Refrigerator (Stainless Steel)",
+                "product_url": "https://www.lowes.com/pd/Avallon-5-5-cu-ft-Freezerless-Refrigerator-Stainless-Steel/1001301384",
+                "image_url": "https://mobileimages.lowes.com/product/converted/852017/852017005260.jpg"
+              }
+            },
+            "text": "Avallon 5.5-cu ft Freezerless Refrigerator (Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "mpmZmZmZuT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/ERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGRPxEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/ERERERERoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZmZmZmak/AAAAAAAAAAARERERERGRPwAAAAAAAAAAMzMzMzMzwz8RERERERGhPxEREREREZE/AAAAAAAAAAARERERERGhPwAAAAAAAAAAAAAAAAAAAABVVVVVVVW1PwAAAAAAAAAAERERERERoT8RERERERGhPwAAAAAAAAAAAAAAAAAAAABVVVVVVVW1PxEREREREbE/ERERERERsT8RERERERGRPxEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14611368,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a38f9-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Avallon 3.3-cu ft Freezerless Refrigerator (Stainless Steel)",
+                "product_url": "https://www.lowes.com/pd/Avallon-3-3-cu-ft-Freezerless-Refrigerator-Stainless-Steel/1001301048",
+                "brand": "Avallon",
+                "full_description": "The Avallon 3.4 cubic foot built-in fridge (AFR151SSLH) is a slim and attractive refrigerator that is perfect for a small apartment kitchen, a dorm room, a personal home bar, or as supplemental refrigerated space. Using powerful, fan-forced compressor-based cooling, this fridge has a wide temperature range of 34 to 50 degrees Fahrenheit. Three sanded glass shelves and a \"milk rack\" on the door allow for a variety of different storage options. The door, door handle, and front vent are all made from stainless steel, and give the unit a polished, professional appearance. A white LED temperature display and white and blue alternating internal LED lights give the unit a timeless look as well as soft, interior illumination. A true-key lock is included for additional security. This unit has a left hinged door.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/852017/852017005352.jpg",
+                "description": "3.3-cu ft Freezerless Refrigerator (Stainless Steel)"
+              }
+            },
+            "text": "Avallon 3.3-cu ft Freezerless Refrigerator (Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "mpmZmZmZuT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/ERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGRPxEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGhPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/ERERERERoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZmZmZmak/AAAAAAAAAAARERERERGRPwAAAAAAAAAAMzMzMzMzwz8RERERERGhPxEREREREZE/AAAAAAAAAAARERERERGhPwAAAAAAAAAAAAAAAAAAAABVVVVVVVW1PwAAAAAAAAAAERERERERoT8RERERERGhPwAAAAAAAAAAAAAAAAAAAABVVVVVVVW1PxEREREREbE/ERERERERsT8RERERERGRPxEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14611368,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a38f8-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Avallon-3-3-cu-ft-Freezerless-Refrigerator-Stainless-Steel/1001301076",
+                "description": "3.3-cu ft Freezerless Refrigerator (Stainless Steel)",
+                "title": "Avallon 3.3-cu ft Freezerless Refrigerator (Stainless Steel)",
+                "brand": "Avallon",
+                "image_url": "https://mobileimages.lowes.com/product/converted/852017/852017005369.jpg",
+                "full_description": ""
+              }
+            },
+            "text": "Avallon 3.3-cu ft Freezerless Refrigerator (Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "mpmZmZmZuT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/ERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGRPxEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGhPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/ERERERERoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZmZmZmak/AAAAAAAAAAARERERERGRPwAAAAAAAAAAMzMzMzMzwz8RERERERGhPxEREREREZE/AAAAAAAAAAARERERERGhPwAAAAAAAAAAAAAAAAAAAABVVVVVVVW1PwAAAAAAAAAAERERERERoT8RERERERGhPwAAAAAAAAAAAAAAAAAAAABVVVVVVVW1PxEREREREbE/ERERERERsT8RERERERGRPxEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14611368,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a38f7-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "The Avallon 3.4 cubic foot built-in fridge (AFR151SSLH) is a slim and attractive refrigerator that is perfect for a small apartment kitchen, a dorm room, a personal home bar, or as supplemental refrigerated space. Using powerful, fan-forced compressor-based cooling, this fridge has a wide temperature range of 34 to 50 degrees Fahrenheit. Three sanded glass shelves and a \"milk rack\" on the door allow for a variety of different storage options. The door, door handle, and front vent are all made from stainless steel, and give the unit a polished, professional appearance. A white LED temperature display and white and blue alternating internal LED lights give the unit a timeless look as well as soft, interior illumination. A true-key lock is included for additional security. This unit has a right hinged door.",
+                "product_url": "https://www.lowes.com/pd/Avallon-3-3-cu-ft-Freezerless-Refrigerator-Stainless-Steel/1001301300",
+                "brand": "Avallon",
+                "image_url": "https://mobileimages.lowes.com/product/converted/852017/852017005239.jpg",
+                "title": "Avallon 3.3-cu ft Freezerless Refrigerator (Stainless Steel)",
+                "description": "3.3-cu ft Freezerless Refrigerator (Stainless Steel)"
+              }
+            },
+            "text": "Avallon 3.3-cu ft Freezerless Refrigerator (Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "mpmZmZmZuT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/ERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGRPxEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGhPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/ERERERERoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZmZmZmak/AAAAAAAAAAARERERERGRPwAAAAAAAAAAMzMzMzMzwz8RERERERGhPxEREREREZE/AAAAAAAAAAARERERERGhPwAAAAAAAAAAAAAAAAAAAABVVVVVVVW1PwAAAAAAAAAAERERERERoT8RERERERGhPwAAAAAAAAAAAAAAAAAAAABVVVVVVVW1PxEREREREbE/ERERERERsT8RERERERGRPxEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14611368,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a38f6-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Avallon 3.3-cu ft Freezerless Refrigerator (Stainless Steel)",
+                "full_description": "",
+                "description": "3.3-cu ft Freezerless Refrigerator (Stainless Steel)",
+                "product_url": "https://www.lowes.com/pd/Avallon-3-3-cu-ft-Freezerless-Refrigerator-Stainless-Steel/1001301328",
+                "brand": "Avallon",
+                "image_url": "https://mobileimages.lowes.com/product/converted/852017/852017005246.jpg"
+              }
+            },
+            "text": "Avallon 3.3-cu ft Freezerless Refrigerator (Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "mpmZmZmZuT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/ERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGRPxEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGhPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/ERERERERoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZmZmZmak/AAAAAAAAAAARERERERGRPwAAAAAAAAAAMzMzMzMzwz8RERERERGhPxEREREREZE/AAAAAAAAAAARERERERGhPwAAAAAAAAAAAAAAAAAAAABVVVVVVVW1PwAAAAAAAAAAERERERERoT8RERERERGhPwAAAAAAAAAAAAAAAAAAAABVVVVVVVW1PxEREREREbE/ERERERERsT8RERERERGRPxEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14611368,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a373f-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "This energy star 4.4 Cu. Ft. Double door black stainless steel look mini fridge is perfect for college dorms, break rooms, or just extra storage for your home and office space. Separate 1.1 cu. Ft. freezer provides storage room for ice cream and frozen meals. The adjustable legs and reversible door design allow for placement of this mini refrigerator virtually anywhere you need it. The sleek and fashionable design does not compromise its functionality. This model has convenient storage shelves on the refrigerator door for 2-Liter bottles as well as extra space for single-serve yogurt or canned beverages. Removable glass shelves provide storage for larger items to efficiently utilize interior capacity. The sliding crisper drawer makes it easy to store your fresh fruits and vegetables.",
+                "product_url": "https://www.lowes.com/pd/Hisense-4-4-cu-ft-Freestanding-Mini-Fridge-Freezer-Compartment-Black-Stainless-Steel/1002927634",
+                "image_url": "https://mobileimages.lowes.com/product/converted/819130/819130027166.jpg",
+                "description": "4.4-cu ft Freestanding Mini Fridge Freezer Compartment (Black Stainless Steel)",
+                "title": "Hisense 4.4-cu ft Freestanding Mini Fridge Freezer Compartment (Black Stainless Steel)",
+                "brand": "Hisense"
+              }
+            },
+            "text": "Hisense 4.4-cu ft Freestanding Mini Fridge Freezer Compartment (Black Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "cUfcEXfEvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPQFfUFf0Ic/9AV9QV/Qhz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD0BX1BX9CHP/QFfUFf0Ic/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPQFfUFf0Jc/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD0BX1BX9CHP/QFfUFf0Ic/AAAAAAAAAAAAAAAAAAAAAHfEHXFH3KE/AAAAAAAAAAD0BX1BX9CHPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9AV9QV/Qhz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9AV9QV/Qlz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPQFfUFf0Kc/AAAAAAAAAAD0BX1BX9CXP/QFfUFf0Jc/d8QdcUfcwT/0BX1BX9CHP/QFfUFf0Jc/AAAAAAAAAAB3xB1xR9yxPwAAAAAAAAAA9AV9QV/Qhz93xB1xR9yhP/QFfUFf0Jc/d8QdcUfcsT/0BX1BX9CHP/QFfUFf0Ic/AAAAAAAAAABxR9wRd8StP3FH3BF3xK0/d8QdcUfcsT/0BX1BX9CHPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9AV9QV/Qhz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.14881255,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3900-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/FORNO-Colonge-14-6-cu-ft-Freezerless-Refrigerator-Stainless-steel/1002982968",
+                "full_description": "",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100298/1002982968.jpg",
+                "description": "Colonge 14.6-cu ft Freezerless Refrigerator (Stainless steel)",
+                "brand": "FORNO",
+                "title": "FORNO Colonge 14.6-cu ft Freezerless Refrigerator (Stainless steel)"
+              }
+            },
+            "text": "FORNO Colonge 14.6-cu ft Freezerless Refrigerator (Stainless steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "eqBydgu/uj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGe38KsxkY4/Z7fwqzGRjj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABnt/CrMZGOP2e38KsxkY4/AAAAAAAAAAAAAAAAAAAAAGe38KsxkY4/AAAAAAAAAAAAAAAAAAAAAGe38KsxkY4/AAAAAAAAAABnt/CrMZGOPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGe38KsxkY4/AAAAAAAAAAAAAAAAAAAAAGe38KsxkZ4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABnt/CrMZGOP2e38KsxkZ4/AAAAAAAAAAAAAAAAAAAAAGe38KsxkZ4/Z7fwqzGRjj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGe38KsxkZ4/AAAAAAAAAABnt/CrMZGOPwAAAAAAAAAAoHJ2C78awz9nt/CrMZGeP2e38KsxkZ4/AAAAAAAAAABnt/CrMZGePwAAAAAAAAAAAAAAAAAAAABnt/CrMZGuPwAAAAAAAAAAZ7fwqzGRnj+NifRA5eymPwAAAAAAAAAAAAAAAAAAAACgcnYLvxqzP6Bydgu/GrM/Z7fwqzGRrj9nt/CrMZGOPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZ7fwqzGRjj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15419589,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a38f5-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "3-cu ft Freezerless Refrigerator (Stainless Steel)",
+                "full_description": "",
+                "title": "Maxx Ice 3-cu ft Freezerless Refrigerator (Stainless Steel)",
+                "product_url": "https://www.lowes.com/pd/Maxx-Ice-3-cu-ft-Freezerless-Refrigerator-Stainless-Steel/3735237",
+                "brand": "Maxx Ice",
+                "image_url": "https://mobileimages.lowes.com/product/converted/845035/845035004377.jpg"
+              }
+            },
+            "text": "Maxx Ice 3-cu ft Freezerless Refrigerator (Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "VwQNJ3Vfvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/DSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/AAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/DSd1Xx5boT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJS6L4+tCKo/AAAAAAAAAAANJ3VfHluhPwAAAAAAAAAA0HBS9+WxxT8NJ3VfHluhPw0ndV8eW5E/AAAAAAAAAAANJ3VfHluhPwAAAAAAAAAAAAAAAAAAAACUui+PrQiqPwAAAAAAAAAADSd1Xx5bkT8NJ3VfHluRPwAAAAAAAAAAAAAAAAAAAADQcFL35bG1Pw0ndV8eW7E/DSd1Xx5bsT8NJ3VfHluRPwAAAAAAAAAAAAAAAAAAAAANJ3VfHluhPwAAAAAAAAAADSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15456355,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a38f4-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Maxx Ice 3-cu ft Freezerless Refrigerator (Stainless Steel)",
+                "description": "3-cu ft Freezerless Refrigerator (Stainless Steel)",
+                "product_url": "https://www.lowes.com/pd/Maxx-Ice-3-cu-ft-Freezerless-Refrigerator-Stainless-Steel/3735231",
+                "full_description": "",
+                "image_url": "https://mobileimages.lowes.com/product/converted/845035/845035004360.jpg",
+                "brand": "Maxx Ice"
+              }
+            },
+            "text": "Maxx Ice 3-cu ft Freezerless Refrigerator (Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "VwQNJ3Vfvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/DSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/AAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ndV8eW5E/DSd1Xx5boT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJS6L4+tCKo/AAAAAAAAAAANJ3VfHluhPwAAAAAAAAAA0HBS9+WxxT8NJ3VfHluhPw0ndV8eW5E/AAAAAAAAAAANJ3VfHluhPwAAAAAAAAAAAAAAAAAAAACUui+PrQiqPwAAAAAAAAAADSd1Xx5bkT8NJ3VfHluRPwAAAAAAAAAAAAAAAAAAAADQcFL35bG1Pw0ndV8eW7E/DSd1Xx5bsT8NJ3VfHluRPwAAAAAAAAAAAAAAAAAAAAANJ3VfHluhPwAAAAAAAAAADSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15456355,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3761-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "3.2-cu ft Freestanding Mini Fridge (Black with Stainless Steel Door)",
+                "title": "Premium Levella 3.2-cu ft Freestanding Mini Fridge (Black with Stainless Steel Door)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100287/1002872490.jpg",
+                "brand": "Premium Levella",
+                "product_url": "https://www.lowes.com/pd/Premium-Levella-3-2-cu-ft-Freestanding-Mini-Fridge-Black-with-Stainless-Steel-Door/1002872490",
+                "full_description": "This 3.2 cu. Ft. refrigerator is the perfect size for the dorm room, work shop, she shed, man cave or if you simply want a little extra refrigerator storage. The adjustable shelves in the main compartment and door storage keep your food items organized. The energy efficiency of this refrigerator will not only save on energy usage it will save you money too."
+              }
+            },
+            "text": "Premium Levella 3.2-cu ft Freestanding Mini Fridge (Black with Stainless Steel Door)",
+            "embedding": {
+              "dense": {
+                "buffer": "MQzDMAzDwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYYg/GIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYhmEYhmGIPxiGYRiGYYg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGIZhGIZhiD8YhmEYhmGIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYhmEYhmGIPwAAAAAAAAAAGIZhGIZhiD8AAAAAAAAAABiGYRiGYZg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYYg/GIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAGIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAGIZhGIZhmD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABiGYRiGYag/AAAAAAAAAAAYhmEYhmGYPxiGYRiGYZg/27Zt27Ztuz8YhmEYhmGIPxiGYRiGYZg/GIZhGIZhiD9VVVVVVVW1PwAAAAAAAAAAGIZhGIZhiD+e53me53muPxiGYRiGYZg/GIZhGIZhqD8YhmEYhmGYPwAAAAAAAAAAAAAAAAAAAAAYhmEYhmGoP5IkSZIkSaI/nud5nud5rj8YhmEYhmGYPxiGYRiGYYg/GIZhGIZhiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1561295,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a3766-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Premium-Levella-4-4-cu-ft-Freestanding-Mini-Fridge-Black-Cabinet-with-Stainless-Steel-Door/1003071972",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100307/1003071972.jpg",
+                "description": "4.4-cu ft Freestanding Mini Fridge (Black Cabinet with Stainless Steel Door)",
+                "brand": "Premium Levella",
+                "title": "Premium Levella 4.4-cu ft Freestanding Mini Fridge (Black Cabinet with Stainless Steel Door)",
+                "full_description": "This 4.4 cu. Ft. mini refrigerator is the perfect size for a dorm room, work shop, man cave or if you just need some extra food storage space. This mini refrigerator offers maximum storage options, from door storage to adjustable main compartment shelves, this refrigerator will amaze you with how much food it will hold. It has an energy star rating for year-round energy and money saving."
+              }
+            },
+            "text": "Premium Levella 4.4-cu ft Freestanding Mini Fridge (Black Cabinet with Stainless Steel Door)",
+            "embedding": {
+              "dense": {
+                "buffer": "C1nIQhaywD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQoY/ZCELWchChj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKGP2QhC1nIQoY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkIQtZyEKGP2QhC1nIQoY/ZCELWchChj8AAAAAAAAAAGQhC1nIQpY/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGQhC1nIQoY/ZCELWchChj8AAAAAAAAAAAAAAAAAAAAAZCELWchChj8AAAAAAAAAAAAAAAAAAAAAZCELWchClj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL3pTW9606s/ZCELWchChj9kIQtZyEKWP2QhC1nIQpY/velNb3rTuz9kIQtZyEKGP2QhC1nIQpY/ZCELWchChj9kIQtZyEK2PwAAAAAAAAAAZCELWchChj+96U1vetOrP2QhC1nIQpY/velNb3rTqz9kIQtZyEKWPwAAAAAAAAAAAAAAAAAAAABkIQtZyEKmPwtZyEIWsqA/C1nIQhaysD9kIQtZyEKWP2QhC1nIQoY/ZCELWchChj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15633184,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c0a385a-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Samsung-27-4-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-Fingerprint-Resistant-Black-Stainless-Steel/1002238478",
+                "full_description": "Samsung's 27.4 cubic foot large capacity Side-by-Side refrigerator that is beautifully designed with a minimal display dispenser, modern design that blends beautifully into your kitchen and a finish that withstands everyday smudges.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/887276/887276372204.jpg",
+                "description": "27.4-cu ft Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Black Stainless Steel)",
+                "title": "Samsung 27.4-cu ft Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Black Stainless Steel)",
+                "brand": "Samsung"
+              }
+            },
+            "text": "Samsung 27.4-cu ft Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Black Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "HdRBHdRBvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ4gRM4gYM/FDiBEziBgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAd1EEd1EGdPxQ4gRM4gYM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDiBEziBgz8AAAAAAAAAABQ4gRM4gYM/AAAAAAAAAAAAAAAAAAAAABQ4gRM4gYM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUOIETOIGDPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ4gRM4gYM/AAAAAAAAAAAAAAAAAAAAABQ4gRM4gYM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDiBEziBgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ4gRM4gZM/GIZhGIZhqD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB3UQR3UQa0/FDiBEziBgz8d1EEd1EGdPxQ4gRM4gZM/G63RGq3Ruj8UOIETOIGTPx3UQR3UQZ0/FDiBEziBgz8UOIETOIGzPwAAAAAAAAAAFDiBEziBkz8d1EEd1EGdPxQ4gRM4gYM/GIZhGIZhqD8UOIETOIGDPxQ4gRM4gYM/AAAAAAAAAAAd1EEd1EGtPxiGYRiGYag/FDiBEziBsz8UOIETOIGTPwAAAAAAAAAAFDiBEziBgz8AAAAAAAAAABQ4gRM4gYM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15645593,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c12ba3d-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Imperial International Pittsburgh Steelers Pittsburgh Steelers Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+                "full_description": "Pack up and bring the tailgate with you with this bucket grill. This fully functional mini-grill uses charcoal and is made from durable, galvanized steel. The bucket grill also includes a wooden handle for convenient and safe transportation to your tailgate, BBQ, beach or campsite. Product is officially licensed by the NFL.",
+                "description": "Pittsburgh Steelers Pittsburgh Steelers Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Pittsburgh-Steelers-Pittsburgh-Steelers-Bucket-Grill-10-sq-in-Muliple-Colors-Metal-Portable-Charcoal-Grill/5000039925",
+                "brand": "Imperial International",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500003/5000039925.jpg"
+              }
+            },
+            "text": "Imperial International Pittsburgh Steelers Pittsburgh Steelers Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "8oa8IW/Iuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwB/wBf8B/PwAAAAAAAAAA8Af8AX/Afz/wB/wBf8B/P/AH/AF/wH8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwB/wBf8B/P/AH/AF/wI8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAPAH/AF/wI8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAAAAAAAAAAAA9AV9QV/Qlz8AAAAAAAAAAAAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPKGvCFvyKs/9AV9QV/Qlz/wB/wBf8CPPwAAAAAAAAAA9AV9QV/Qtz8AAAAAAAAAAPAH/AF/wI8/9AV9QV/Qlz/wB/wBf8CvPwAAAAAAAAAA8Af8AX/Afz/yhrwhb8i7P/AH/AF/wH8/8Af8AX/Anz/2hD1hT9ijP/AH/AF/wI8/8Af8AX/Afz91RV1RV9S1P/QFfUFf0Kc/dUVdUVfUtT/wB/wBf8CfPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15663971,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c12ba06-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Pit Boss",
+                "description": "Pit Boss Tailgate Series Stainless Steel 12000-BTU 308-sq in Portable Gas Grill",
+                "title": "Pit Boss Pit Boss Tailgate Series Stainless Steel 12000-BTU 308-sq in Portable Gas Grill",
+                "full_description": "The Pit Stop by Pit Boss lets you take your BBQ on the road, or anywhere your travel takes you. Our 305 sq in cooking surface is large enough for camping, tailgating, picnics and backyard enjoyment. Folding legs allow you to collapse and store in truck bed, car trunk or RV. The Pit Stop is constructed from stainless steel including body, hood, cooking grids and flame tamer. Operates on 1 lb cylinder.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/684678/684678483473.jpg",
+                "product_url": "https://www.lowes.com/pd/Pit-Boss-Pit-Boss-Tailgate-Series-Stainless-Steel-12000-BTU-308-sq-in-Portable-Gas-Grill/1000565787"
+              }
+            },
+            "text": "Pit Boss Pit Boss Tailgate Series Stainless Steel 12000-BTU 308-sq in Portable Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "6aKLLrrowj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWXPwAAAAAAAAAAAAAAAAAAAABGF1100UWnP0YXXXTRRYc/RhdddNFFhz9GF1100UWHPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARhdddNFFhz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB00UUXXXShPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARhdddNFFlz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdNFFF110oT8AAAAAAAAAAAAAAAAAAAAAdNFFF110oT9GF1100UWXP0YXXXTRRYc/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABdddNFFF60/RhdddNFFhz8AAAAAAAAAAAAAAAAAAAAAXXTRRRddtD8AAAAAAAAAAEYXXXTRRYc/AAAAAAAAAABddNFFF120PwAAAAAAAAAAAAAAAAAAAAB00UUXXXSxPwAAAAAAAAAARhdddNFFlz900UUXXXShPwAAAAAAAAAARhdddNFFhz900UUXXXShPy+66KKLLro/dNFFF110sT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15687229,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c12ba14-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "The Pit Boss two-burner stainless steel portable grill is perfect for tailgating, hunting, camping, or a day in the park. The 275 square inch cooking area is large enough for any outdoor gathering. The lightweight design with folding legs and latching hood makes it easy to carry and transport. Two 10,000 BTU independently controlled burners give you the versatility to sear your food, or take your time and go low and slow. Don't head to your next tailgate party without the Pit Boss PB200P.",
+                "title": "Pit Boss Pit Boss Tailgate Series Stainless Steel 20000-BTU 364-sq in Portable Gas Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/684678/684678483008.jpg",
+                "product_url": "https://www.lowes.com/pd/Pit-Boss-Pit-Boss-Tailgate-Series-Stainless-Steel-20000-BTU-364-sq-in-Portable-Gas-Grill/1000194325",
+                "description": "Pit Boss Tailgate Series Stainless Steel 20000-BTU 364-sq in Portable Gas Grill",
+                "brand": "Pit Boss"
+              }
+            },
+            "text": "Pit Boss Pit Boss Tailgate Series Stainless Steel 20000-BTU 364-sq in Portable Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "6aKLLrrowj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWXPwAAAAAAAAAAAAAAAAAAAABGF1100UWnPwAAAAAAAAAARhdddNFFhz9GF1100UWHP0YXXXTRRYc/AAAAAAAAAABGF1100UWHPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB00UUXXXShPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARhdddNFFlz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdNFFF110oT8AAAAAAAAAAAAAAAAAAAAAdNFFF110oT9GF1100UWXP0YXXXTRRYc/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABdddNFFF60/RhdddNFFhz8AAAAAAAAAAAAAAAAAAAAAXXTRRRddtD8AAAAAAAAAAEYXXXTRRYc/AAAAAAAAAABddNFFF120PwAAAAAAAAAAAAAAAAAAAAB00UUXXXSxPwAAAAAAAAAARhdddNFFlz900UUXXXShPwAAAAAAAAAARhdddNFFhz900UUXXXShPy+66KKLLro/dNFFF110sT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15687229,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c12ba7c-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/100183/1001839854.jpg",
+                "product_url": "https://www.lowes.com/pd/brentwood-Stainless-Steel-Electric-Grill/1001839854",
+                "brand": "brentwood",
+                "title": "brentwood Stainless Steel Electric Grill",
+                "full_description": "Use the Brentwood Select Compact Non-Stick Panini Press and Sandwich Maker to make delicious hot paninis right in your kitchen. Grill plates heat up quickly and evenly for perfectly pressed grilled paninis. Power/Ready indicator lights and large, cool touch handle for easy operation. Sandwiches slide right off the non-stick plates and the removable juice tray catches any mess, making clean up a snap. Features a locking lid and legs for compact, upright storage. Our panini maker's brushed stainless steel finish with black accents looks great in every kitchen.",
+                "description": "Stainless Steel Electric Grill"
+              }
+            },
+            "text": "brentwood Stainless Steel Electric Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "mpmZmZmZuT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACamZmZmZmZPwAAAAAAAAAAmpmZmZmZmT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmpmZmZmZqT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZmZmZmZk/mpmZmZmZmT+amZmZmZmpP5qZmZmZmZk/AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzMzMzOzPwAAAAAAAAAAAAAAAAAAAAAAAAAAAADAPwAAAAAAAAAAmpmZmZmZqT+amZmZmZmpPwAAAAAAAAAAAAAAAAAAAAAzMzMzMzOzP5qZmZmZmak/mpmZmZmZuT8AAAAAAAAAAAAAAAAAAAAAmpmZmZmZmT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15867758,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c12baa7-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/089245/089245119678.jpg",
+                "brand": "Cal Flame",
+                "title": "Cal Flame 4-Burner Built-in Propane Gas Grill in Stainless Steel with Accessory Kit",
+                "description": "4-Burner Built-in Propane Gas Grill in Stainless Steel with Accessory Kit",
+                "product_url": "https://www.lowes.com/pd/Cal-Flame-4-Burner-Built-in-Propane-Gas-Grill-in-Stainless-Steel-with-Accessory-Kit/1002720766",
+                "full_description": "The cal flame built-in 4-burner gas BBQ grill has the cooking power of up to 75,000 BTUs. This stainless steel grill features a convenient full width drip tray, four cast stainless steel burners with independent ignitions, lip guards on all burners to prevent clogging, independent knobs with an exclusive patented design and convenient lights to cook day or night. The rotisserie feature has motor mounts on the grills left or right side and includes an independent 15,000 BTUs rear burner that is ideal for rotisserie cooking. Enjoy favorites like eggs or bacon with an easy to store griddle tray designed to fit the Cal Flame grill or infuse BBQ with the smoky flavor everyone loves with a covered accessory smoker tray. The Cal Flame grill cover is included. Grill comes with a 10-year limited warranty."
+              }
+            },
+            "text": "Cal Flame 4-Burner Built-in Propane Gas Grill in Stainless Steel with Accessory Kit",
+            "embedding": {
+              "dense": {
+                "buffer": "v/aQy4qBwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACq82sPuayYPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKrzaw+5rIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqvNrD7msiD+q82sPuayYP6rzaw+5rIg/AAAAAAAAAAAAAAAAAAAAAKrzaw+5rIg/qvNrD7msmD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACq82sPuayIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqvNrD7msiD8AAAAAAAAAAAAAAAAAAAAAqvNrD7msmD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJTwRlPn164/AAAAAAAAAACq82sPuayYPwAAAAAAAAAANHV+7SGXtT8AAAAAAAAAAAAAAAAAAAAAqvNrD7msiD80dX7tIZe1PwAAAAAAAAAAAAAAAAAAAAA0dX7tIZe1P6rzaw+5rIg/lPBGU+fXrj+q82sPuayYP6rzaw+5rIg/AAAAAAAAAACU8EZT59euP5TwRlPn164/lPBGU+fXrj+q82sPuayYPwAAAAAAAAAAqvNrD7msiD8AAAAAAAAAAKrzaw+5rIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15932567,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "0c12ba52-44c3-11ec-a081-d3da2e768b04",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Pit Boss",
+                "image_url": "https://mobileimages.lowes.com/product/converted/684678/684678727706.jpg",
+                "product_url": "https://www.lowes.com/pd/Pit-Boss-Pro-Series-820-sq-in-Black-and-Chestnut-Pellet-Grill/1000601261",
+                "full_description": "Be the boss of your backyard with the Pit Boss 820 pro series wood pellet grill. Built with superior craftmanship, the PB820PS1 offers the best bang for your buck per square inch. Get bigger, hotter, and heavier grilling with 8-in-1 cooking. You can easily: sear, smoke, bbl, roast, char-grill, braise, bake and grill all in one. Your friends and family are going to love savoring the aromatic flavors that only come from 100% hardwood pellet cooking. Plus, you can masterfully infuse hardwood smoke into every dish with the push of a button. The PB820PS1 is so easy to use, it will become your favorite go to tool. Say \"goodbye\" to dry, overcooked foods. With the dial in digital control panel, alongside the Pit Boss meat probe, you can quickly adjust temperatures and monitor cooking progress without ever having to open the lid. So enjoy the party and grill confidently with the freedom of reliable and dependable grilling. The Pit Boss 820 pro series pellet grill adds even more value with additional features such as - the solid side shelf with built in tool hooks, one included meat probe, \"prime\" button feature, large in-line wheels, and folding front table.",
+                "title": "Pit Boss Pro Series 820-sq in Black and Chestnut Pellet Grill",
+                "description": "Pro Series 820-sq in Black and Chestnut Pellet Grill"
+              }
+            },
+            "text": "Pit Boss Pro Series 820-sq in Black and Chestnut Pellet Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "yRCso837xD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA72rxPccmQPwAAAAAAAAAAAAAAAAAAAAA72rxPccmQPwAAAAAAAAAAO9q8T3HJkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO9q8T3HJkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA72rxPccmgPzvavE9xyZA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO9q8T3HJkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWEeb9ykuqT8AAAAAAAAAAAAAAAAAAAAAO9q8T3HJkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADvavE9xyaA/AAAAAAAAAAA72rxPccmQPzvavE9xyZA/yRCso837tD8AAAAAAAAAAAAAAAAAAAAAO9q8T3HJkD872rxPccmwPwAAAAAAAAAAO9q8T3HJkD/JEKyjzfu0PwAAAAAAAAAAWEeb9ykuqT872rxPccmgPwAAAAAAAAAAO9q8T3HJkD9YR5v3KS6pP8kQrKPN+7Q/O9q8T3HJsD872rxPccmQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.15937753,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          }
+        ],
+        "tags": {
+          "full_description": "stainless steel black fridge"
+        },
+        "text": "stainless steel black fridge",
+        "embedding": {
+          "dense": {
+            "buffer": "27Zt27Ztuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIkSZIkSbI/kiRJkiRJoj+SJEmSJEmiP5IkSZIkSaI/kiRJkiRJwj+SJEmSJEmiP5IkSZIkSaI/AAAAAAAAAACSJEmSJEmyPwAAAAAAAAAAkiRJkiRJoj/btm3btm27PwAAAAAAAAAAkiRJkiRJoj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACSJEmSJEmiP5IkSZIkScI/kiRJkiRJsj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "shape": [
+              96
+            ],
+            "dtype": "<f8",
+            "quantization": 0,
+            "maxVal": 0,
+            "minVal": 0,
+            "scale": 0,
+            "originalDtype": ""
+          }
+        },
+        "granularity": 0,
+        "adjacency": 0,
+        "parentId": "",
+        "chunks": [],
+        "weight": 0,
+        "uri": "",
+        "mimeType": "",
+        "location": [],
+        "offset": 0,
+        "scores": {},
+        "modality": "",
+        "evaluations": {}
+      }
+    ],
+    "groundtruths": []
+  }
+}

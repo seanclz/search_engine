@@ -1,0 +1,1021 @@
+{
+  "requestId": "37b0be57-d55e-4836-a99f-d536bc81fe85",
+  "data": {
+    "docs": [
+      {
+        "id": "8ca52d54-5e87-11ec-9e82-17576e5cd1d2",
+        "matches": [
+          {
+            "id": "82faae28-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "The Char-Griller&#174; Portable Grill and Side Fire Box is a 2-in-1 grill. As a table-top grill, it&#8217;s the perfect companion for camping trips or tailgates, with the ability to accommodate up to 10 average-sized burgers. Its sturdy steel feet offer a stable and level cooking surface. As an attachable Side Fire Box, this grill can convert most Char-Griller&#174; barrels into Texas-style smokers. But it doesn't stop there! The removable cast-iron cooking grates and slide-out ash drawer make cleanup a breeze. Grilling or smoking, this 2-in-1 portable charcoal grill delivers the best of both worlds.",
+                "brand": "Char-Griller",
+                "title": "Char-Griller 2-in-1 250-sq in Black Portable Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/789792/789792224244.jpg",
+                "description": "2-in-1 250-sq in Black Portable Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Char-Griller-2-in-1-250-sq-in-Black-Portable-Charcoal-Grill/1002646166"
+              }
+            },
+            "text": "Char-Griller 2-in-1 250-sq in Black Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "VwQNJ3Vfvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJ3VfHluxPwAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPw0ndV8eW5E/DSd1Xx5boT8AAAAAAAAAAAAAAAAAAAAADSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJ3VfHluRPw0ndV8eW6E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADSd1Xx5boT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANBwUvflsbU/DSd1Xx5bkT8NJ3VfHluhPwAAAAAAAAAADSd1Xx5boT8AAAAAAAAAAAAAAAAAAAAADSd1Xx5boT8NJ3VfHluxPwAAAAAAAAAADSd1Xx5bkT9XBA0ndV++PwAAAAAAAAAADSd1Xx5boT8NJ3VfHluhPwAAAAAAAAAADSd1Xx5bkT+Uui+PrQi6Pw0ndV8eW5E/DSd1Xx5bkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.23235215,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae20-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "NAPOLEON",
+                "title": "NAPOLEON Portable grills Red 12500-BTU 285-sq in Portable Gas Grill",
+                "product_url": "https://www.lowes.com/pd/NAPOLEON-Portable-grills-Red-12500-BTU-285-sq-in-Portable-Gas-Grill/1002771810",
+                "image_url": "https://mobileimages.lowes.com/product/converted/629162/629162133939.jpg",
+                "description": "Portable grills Red 12500-BTU 285-sq in Portable Gas Grill",
+                "full_description": "The beautiful red Napoleon travel Q&#8482; 285X portable propane gas grill with scissor cart is a grill that is leading the way with innovation and quality. Napoleon's travel Q&#8482; 285X has everything you need for perfect portable grilling anywhere. Featuring all-terrain wheels, easy folding, setup, and compact storage. Two burners provide precise heat for indirect grilling and smoking, or high heat searing and is ideal for cooking small chickens or roasts thanks to a high-top cast aluminum lid. You'll know it's a Napoleon with the iconic wave&#8482; cooking grids for those distinctive sear marks. The porcelain coated cast iron cooking grids and griddle season up just like a cast iron frying pan. Go anywhere by hooking up a 1.2 lb. propane cylinder, or stay put with a full-sized tank. The travel Q&#8482; 285X has everything you need for successful grilling on the go."
+              }
+            },
+            "text": "NAPOLEON Portable grills Red 12500-BTU 285-sq in Portable Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "Kme38KsxwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABnt/CrMZGePwAAAAAAAAAAAAAAAAAAAABnt/CrMZGeP2e38KsxkY4/Z7fwqzGRnj8AAAAAAAAAAAAAAAAAAAAAZ7fwqzGRnj8AAAAAAAAAAAAAAAAAAAAAZ7fwqzGRjj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZ7fwqzGRjj9nt/CrMZGOPwAAAAAAAAAAAAAAAAAAAABnt/CrMZGOPwAAAAAAAAAAZ7fwqzGRnj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGe38KsxkY4/AAAAAAAAAABnt/CrMZGeP2e38KsxkZ4/jYn0QOXspj8AAAAAAAAAAGe38KsxkY4/AAAAAAAAAABnt/CrMZGOP2e38KsxkY4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI2J9EDl7KY/Z7fwqzGRnj8AAAAAAAAAAGe38KsxkY4/jYn0QOXspj8AAAAAAAAAAGe38KsxkY4/AAAAAAAAAACNifRA5eymPwAAAAAAAAAAAAAAAAAAAACNifRA5ey2PwAAAAAAAAAAZ7fwqzGRjj9nt/CrMZGePwAAAAAAAAAAZ7fwqzGRjj9nt/CrMZGuP42J9EDl7KY/Z7fwqzGRnj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.23271008,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae62-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Broil King Regal Pellet 825-sq in Black Pellet Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/062703/062703106274.jpg",
+                "product_url": "https://www.lowes.com/pd/Broil-King-Regal-Pellet-825-sq-in-Black-Pellet-Grill/1000894096",
+                "full_description": "The Regal Pellet 500 grill is a powerful and innovative pellet grill that uses a Wifi and Bluetooth&#174; enabled digital controller to provide enhanced temperature control allowing you to do anything with this grill including low-and-slow smoking at 225&deg;F, roasting at 350&deg;F, or even high-heat searing 600&deg;F.. This pellet grill comes fully equipped with a powerful auger, 22-lb capacity pellet hopper, removable grease management system, unique ash management system, deluxe rotisserie kit, 2 electronic meat probes, base storage and side shelf, and heavy duty and reversible cast iron cooking grids. Total cooking space on this grill is 865 sq. in. including a porcelain coated warming rack.",
+                "brand": "Broil King",
+                "description": "Regal Pellet 825-sq in Black Pellet Grill"
+              }
+            },
+            "text": "Broil King Regal Pellet 825-sq in Black Pellet Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "FDuxEzuxwz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GjPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDuxEzuxoz8AAAAAAAAAABQ7sRM7sZM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7saM/AAAAAAAAAAAUO7ETO7GTPwAAAAAAAAAA2Ymd2ImduD8AAAAAAAAAABQ7sRM7saM/AAAAAAAAAAAUO7ETO7GzPwAAAAAAAAAAFDuxEzuxkz92Yid2YifGPwAAAAAAAAAAFDuxEzuxoz8UO7ETO7GTPwAAAAAAAAAAFDuxEzuxkz8UO7ETO7GjPxQ7sRM7sZM/FDuxEzuxoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.2362247,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faadff-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Black 9500-BTU 240-sq in Portable Gas Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/099143/099143020822.jpg",
+                "title": "Char-Broil Black 9500-BTU 240-sq in Portable Gas Grill",
+                "brand": "Char-Broil",
+                "product_url": "https://www.lowes.com/pd/Char-Broil-Black-9500-BTU-240-sq-in-Portable-Gas-Grill/1000364737",
+                "full_description": "The Char-Broil, liquid propane portable gas grill 240 is the perfect on-the-go grill for tailgating, beach parties and camping"
+              }
+            },
+            "text": "Char-Broil Black 9500-BTU 240-sq in Portable Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "ewntJbSXwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcx3Ecx3GsPwAAAAAAAAAAAAAAAAAAAAAcx3Ecx3GsPwAAAAAAAAAAaC+hvYT2kj8AAAAAAAAAAGgvob2E9pI/aC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPaSPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcx3Ecx3GsP2gvob2E9pI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaC+hvYT2oj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPaSP2gvob2E9pI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9rI/aC+hvYT2kj9oL6G9hPaSPwAAAAAAAAAAaC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAaC+hvYT2kj8cx3Ecx3GsPwAAAAAAAAAAaC+hvYT2kj9CewntJbS3PwAAAAAAAAAAaC+hvYT2kj9oL6G9hPaiPwAAAAAAAAAAaC+hvYT2kj9oL6G9hPayP2gvob2E9qI/aC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.23823482,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae5b-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "LG Series 914-sq in Black Pellet Grill",
+                "title": "Louisiana Grills LG Series 914-sq in Black Pellet Grill",
+                "brand": "Louisiana Grills",
+                "full_description": "Bigger, hotter, heavier; own a world class BBQ in your own backyard. The LG900 presents the same game-changing features as the LG700 integrated with a larger cooking surface. Perfect for larger families and social gatherings, the LG900 bears an easy to clean, 913 sq in cast iron cooking surface. Elevate you BBQ experience with L g's burn system and slide-plate flame broiler for direct and indirect cooking. Upgrade the LG900 with side shelves or a hopper extension to boos your grilling performance. With eight separate cooking functions, the LG series will change the way your think about BBQ. Sear or smoke, bake or roast, the LG900 with enhance all of your cooking experiences.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/684678/684678080610.jpg",
+                "product_url": "https://www.lowes.com/pd/Louisiana-Grills-LG-Series-914-sq-in-Black-Pellet-Grill/1002197958"
+              }
+            },
+            "text": "Louisiana Grills LG Series 914-sq in Black Pellet Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "nhLkKUGewj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ4S5ClBnpI/AAAAAAAAAAAAAAAAAAAAAJ4S5ClBnpI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA7RvWvmHtqz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ4S5ClBnqI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGekj8AAAAAAAAAAAAAAAAAAAAAnhLkKUGekj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO0b1r5h7as/AAAAAAAAAACeEuQpQZ6SPwAAAAAAAAAAnhLkKUGesj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADtG9a+Ye27PwAAAAAAAAAAnhLkKUGekj9KkKcEeUrAPwAAAAAAAAAAnhLkKUGeoj+eEuQpQZ6SPwAAAAAAAAAAnhLkKUGekj/tG9a+Ye2rP54S5ClBnrI/nhLkKUGekj+eEuQpQZ6SPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.24036053,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae63-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Louisiana Grills",
+                "title": "Louisiana Grills Louisiana Grills LG Series 782-sq in Black Pellet Grill",
+                "description": "Louisiana Grills LG Series 782-sq in Black Pellet Grill",
+                "full_description": "The family is growing! Louisiana Grills is honored to present the all-new LG800 elite. The innovative stainless steel unit has been redesigned to offer the same superior advantage of wood pellet grilling wrapped in a contemporary look. Featuring 838 square inches of ample cooking space, a high-temperature powder-coated finish, l's famous burn system and standard flame broiler to sear your favorite steaks, the elite series is ideal for any family. Equipped with out digital control brad and programmable meat probe, precise cooking control is possible at the push of a button. Experience the 8-in-1 cooking function that Louisiana Grills is proud to offer in the LG800 elite.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/684678/684678080689.jpg",
+                "product_url": "https://www.lowes.com/pd/Louisiana-Grills-Louisiana-Grills-LG-Series-782-sq-in-Black-Pellet-Grill/1000565827"
+              }
+            },
+            "text": "Louisiana Grills Louisiana Grills LG Series 782-sq in Black Pellet Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "chzHcRzHwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcx3Ecx3GMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHMdxHMdxjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABzHcRzHcYw/HMdxHMdxjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcx3Ecx3GMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHMdxHMdxrD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFVVVVVVVaU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHMdxHMdxjD8AAAAAAAAAAAAAAAAAAAAAHMdxHMdxjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHIcx3Ecx7E/AAAAAAAAAAAcx3Ecx3GMPwAAAAAAAAAAHMdxHMdxrD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAPwAAAAAAAAAAHMdxHMdxjD8AAAAAAADAPwAAAAAAAAAAVVVVVVVVpT8cx3Ecx3GcPwAAAAAAAAAAHMdxHMdxjD8cx3Ecx3GsP1VVVVVVVbU/HMdxHMdxjD8cx3Ecx3GcPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.24056262,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae09-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "",
+                "title": "Cuisinart Silver 8000-BTU 146-sq in Portable Gas Grill",
+                "description": "Silver 8000-BTU 146-sq in Portable Gas Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/817096/817096013209.jpg",
+                "brand": "Cuisinart",
+                "product_url": "https://www.lowes.com/pd/Cuisinart-Silver-8000-BTU-146-sq-in-Portable-Gas-Grill/1000116077"
+              }
+            },
+            "text": "Cuisinart Silver 8000-BTU 146-sq in Portable Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "ewntJbSXwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPaiPwAAAAAAAAAAAAAAAAAAAAAcx3Ecx3GsP2gvob2E9pI/AAAAAAAAAAAAAAAAAAAAAGgvob2E9pI/AAAAAAAAAABoL6G9hPaSPwAAAAAAAAAAaC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPaSP2gvob2E9pI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaC+hvYT2oj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAaC+hvYT2kj9oL6G9hPaSP2gvob2E9pI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABzHcRzHcaw/aC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAaC+hvYT2oj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABCewntJbS3PwAAAAAAAAAAAAAAAAAAAABoL6G9hPayPwAAAAAAAAAAaC+hvYT2oj9oL6G9hPaSPwAAAAAAAAAAaC+hvYT2kj9oL6G9hPayPxzHcRzHcaw/aC+hvYT2oj9oL6G9hPaSP2gvob2E9pI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.24322084,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae1b-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Royal-Gourmet-Silver-17000-BTU-238-18-sq-in-Portable-Gas-Grill/1000606323",
+                "full_description": "Stop manhandling those heavy, bulky backyard griddles and show off as grill master with Royal Gourmet&#174; PD1201 2-burner portable gas griddle on your family outings. This griddle has 2 round, stainless-steel burners, which provide a total of 17,000 BTUs output. It comes equipped with an anti-rust, ceramic coated griddle top which offers 238 square inches of cooking area. The large space is perfect for frying rice, eggs, hash browns, French toast, bacon and hamburgers. Durable stainless-steel control panel with piezo ignition system enables quick start-up, making barbecue easier than ever before. Large oil cup collects grease residue for easy cleanup after every use. The portable design provides much convenience for picnics, tailgate party, camping, or nights BBQ on the patio.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/859098/859098006711.jpg",
+                "title": "Royal Gourmet Silver 17000-BTU 238.18-sq in Portable Gas Grill",
+                "brand": "Royal Gourmet",
+                "description": "Silver 17000-BTU 238.18-sq in Portable Gas Grill"
+              }
+            },
+            "text": "Royal Gourmet Silver 17000-BTU 238.18-sq in Portable Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "hBBCCCGEwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEEEIIIYSgP4QQQgghhJA/AAAAAAAAAADGGGOMMcaoP4QQQgghhKA/hBBCCCGEkD+EEEIIIYSQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQQQgghhJA/hBBCCCGEoD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEEEIIIYSQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxhhjjDHGqD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhBBCCCGEkD8AAAAAAAAAAIQQQgghhJA/hBBCCCGEkD+EEEIIIYSQP4QQQgghhJA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMYYY4wxxqg/hBBCCCGEkD8AAAAAAAAAAAAAAAAAAAAAxhhjjDHGqD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADGGGOMMcaoPwAAAAAAAAAAAAAAAAAAAACllFJKKaW0P4QQQgghhJA/hBBCCCGEkD/GGGOMMcaoPwAAAAAAAAAAhBBCCCGEkD+EEEIIIYSwP4QQQgghhKA/hBBCCCGEoD+EEEIIIYSQP4QQQgghhJA/AAAAAAAAAAAAAAAAAAAAAIQQQgghhJA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.24392848,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae73-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Louisiana Grills",
+                "title": "Louisiana Grills Louisiana Grills LG Series 1062-sq in Black Pellet Grill",
+                "product_url": "https://www.lowes.com/pd/Louisiana-Grills-Louisiana-Grills-LG-Series-1062-sq-in-Black-Pellet-Grill/1002198468",
+                "full_description": "Bigger, hotter, heavier; Louisiana Grills is a leader in pellet grills. Fill the grill and maximize your BBQ capabilities with the LG1100. With 1061 square inches of cast iron cooking surface, the LG1100 was designed for entertaining and large social gatherings. Direct or indirect flame grilling, convection heat, and 100% natural hardwood pellets create an authentic smoky flavor and the ultimate BBQ experience in your own backyard. The fill digital control, programmable meat probe and proprietary exhaust system combine for even grilling and smoking. Strengthened with heady duty steel and a reinforced lid, the LG series heats up to 600 F with true convection cooking. Make the most of your backyard BBQ with the LG1100.",
+                "description": "Louisiana Grills LG Series 1062-sq in Black Pellet Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/684678/684678080627.jpg"
+              }
+            },
+            "text": "Louisiana Grills Louisiana Grills LG Series 1062-sq in Black Pellet Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "jBgxYsSIwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgwIEDBw6MPwAAAAAAAAAAAAAAAAAAAADgwIEDBw6MP+DAgQMHDow/4MCBAwcOjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgwIEDBw6MPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgwIEDBw6MPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4MCBAwcOrD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKhQoUKFCqU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4MCBAwcOjD8AAAAAAAAAAAAAAAAAAAAA4MCBAwcOjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIwYMWLEiLE/AAAAAAAAAADgwIEDBw6MPwAAAAAAAAAA4MCBAwcOrD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD8+PHjx4+/PwAAAAAAAAAA4MCBAwcOjD/8+PHjx4+/PwAAAAAAAAAAqFChQoUKpT/gwIEDBw6cPwAAAAAAAAAA4MCBAwcOjD/gwIEDBw6sP6hQoUKFCrU/4MCBAwcOjD/gwIEDBw6cPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.2445748,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae2d-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/076903/076903800009.jpg",
+                "description": "Disposable 10.35-sq in Silver Portable Charcoal Grill",
+                "brand": "Mr. Bar-B-Q",
+                "full_description": "",
+                "title": "Mr. Bar-B-Q Disposable 10.35-sq in Silver Portable Charcoal Grill",
+                "product_url": "https://www.lowes.com/pd/Mr-Bar-B-Q-Disposable-10-35-sq-in-Silver-Portable-Charcoal-Grill/1001459724"
+              }
+            },
+            "text": "Mr. Bar-B-Q Disposable 10.35-sq in Silver Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "IPiBH/iBvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYeqEXeqGnPyD4gR/4gZ8/AAAAAAAAAAAg+IEf+IGPPyD4gR/4gY8/AAAAAAAAAAAg+IEf+IGPPwAAAAAAAAAAIPiBH/iBjz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg+IEf+IGfPyD4gR/4gY8/IPiBH/iBjz8AAAAAAAAAAAAAAAAAAAAAIPiBH/iBjz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIPiBH/iBjz8AAAAAAAAAAAAAAAAAAAAAIPiBH/iBjz8g+IEf+IGPPwAAAAAAAAAAIPiBH/iBjz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ7sRM7sbM/IPiBH/iBnz8g+IEf+IGPPwAAAAAAAAAAGHqhF3qhpz8AAAAAAAAAAAAAAAAAAAAAIPiBH/iBjz8g+IEf+IGvPwAAAAAAAAAAAAAAAAAAAAAYeqEXeqG3PwAAAAAAAAAAIPiBH/iBjz8YeqEXeqGnPyD4gR/4gY8/IPiBH/iBjz8YeqEXeqG3Pxh6oRd6oac/IPiBH/iBjz8AAAAAAAAAACD4gR/4gY8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.2446737,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae12-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Bring amazing food to the great outdoors with the Pit Boss 336GS tabletop gas griddle. Lightweight and ultra-portable, this two-burner griddle is great for tailgating, picnicking, or camping. It features non-slip tabletop legs and a 4.7mm thick, pre-seasoned surface. You can cook with ease and enjoy quick mess-free clean up, thanks to the built-in front-loading grease tray. With 289 square inches of cooking surface, this tabletop griddle can handle everything from scrambled eggs and pancakes to burgers, steaks and more. The Pit Boss 336GS tabletop gas griddle is the best cooking machine for cooking what you want, where you want.",
+                "description": "Black 15000-BTU 289-sq in Portable Gas Grill",
+                "brand": "Pit Boss",
+                "image_url": "https://mobileimages.lowes.com/product/converted/684678/684678105573.jpg",
+                "title": "Pit Boss Black 15000-BTU 289-sq in Portable Gas Grill",
+                "product_url": "https://www.lowes.com/pd/Pit-Boss-Black-15000-BTU-289-sq-in-Portable-Gas-Grill/1002745362"
+              }
+            },
+            "text": "Pit Boss Black 15000-BTU 289-sq in Portable Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "wXgr+xxSwz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKjPwAAAAAAAAAAAAAAAAAAAAAiNcF4K/usP8F4K/scUpM/wXgr+xxSkz8AAAAAAAAAAAAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAAAAAAAAAAAAwXgr+xxSkz/BeCv7HFKTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiNcF4K/usPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKTP8F4K/scUpM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACI1wXgr+6w/wXgr+xxSkz/BeCv7HFKTPwAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiNcF4K/usPwAAAAAAAAAAwXgr+xxSkz/BeCv7HFKzPwAAAAAAAAAAwXgr+xxSkz/BeCv7HFKjPwAAAAAAAAAAwXgr+xxSkz/BeCv7HFKjP8F4K/scUrM/wXgr+xxSoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.24474825,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae25-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Pit-Boss-Black-15000-BTU-289-sq-in-Portable-Gas-Grill/1002745384",
+                "image_url": "https://mobileimages.lowes.com/product/converted/684678/684678105580.jpg",
+                "description": "Black 15000-BTU 289-sq in Portable Gas Grill",
+                "full_description": "Enjoy delicious meals while tailgating, picnicking, or camping with the Pit Boss 336GS tabletop gas griddle. This portable griddle is lightweight and features and a 4.7mm thick, pre-seasoned surface. Enjoy 289 square inches of cooking surface to prep everything from breakfast, lunch, and dinner. Complete with a cover, and four non-slip support legs, the Pit Boss 200GS tabletop gas griddle makes outdoor cooking quick, easy, and versatile.",
+                "title": "Pit Boss Black 15000-BTU 289-sq in Portable Gas Grill",
+                "brand": "Pit Boss"
+              }
+            },
+            "text": "Pit Boss Black 15000-BTU 289-sq in Portable Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "wXgr+xxSwz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKjPwAAAAAAAAAAAAAAAAAAAAAiNcF4K/usP8F4K/scUpM/wXgr+xxSkz8AAAAAAAAAAAAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAAAAAAAAAAAAwXgr+xxSkz/BeCv7HFKTPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiNcF4K/usPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKTP8F4K/scUpM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACI1wXgr+6w/wXgr+xxSkz/BeCv7HFKTPwAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiNcF4K/usPwAAAAAAAAAAwXgr+xxSkz/BeCv7HFKzPwAAAAAAAAAAwXgr+xxSkz/BeCv7HFKjPwAAAAAAAAAAwXgr+xxSkz/BeCv7HFKjP8F4K/scUrM/wXgr+xxSoz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.24474825,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae07-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Cuisinart All-Foods Stainless Steel 15000-BTU 240-sq in Portable Gas Grill",
+                "description": "All-Foods Stainless Steel 15000-BTU 240-sq in Portable Gas Grill",
+                "brand": "Cuisinart",
+                "full_description": "",
+                "product_url": "https://www.lowes.com/pd/Cuisinart-All-Foods-Stainless-Steel-15000-BTU-240-sq-in-Portable-Gas-Grill/4167725",
+                "image_url": "https://mobileimages.lowes.com/product/converted/817096/817096011113.jpg"
+              }
+            },
+            "text": "Cuisinart All-Foods Stainless Steel 15000-BTU 240-sq in Portable Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "KvJZN5givz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcTJHPusGkPwAAAAAAAAAAAAAAAAAAAADQusEU+ayrP9C6wRT5rIs/0LrBFPmsiz8AAAAAAAAAANC6wRT5rIs/0LrBFPmsiz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0LrBFPmsiz/QusEU+ayLP9C6wRT5rIs/AAAAAAAAAAAAAAAAAAAAANC6wRT5rIs/0LrBFPmsmz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0LrBFPmsiz8AAAAAAAAAAAAAAAAAAAAA0LrBFPmsmz/QusEU+ayLP9C6wRT5rIs/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANC6wRT5rKs/0LrBFPmsiz8AAAAAAAAAANC6wRT5rIs/0LrBFPmsqz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADCFPmsG0yxPwAAAAAAAAAAAAAAAAAAAAB2gynyWTe4PwAAAAAAAAAAHEyRz7rBpD8cTJHPusGkPwAAAAAAAAAA0LrBFPmsiz8cTJHPusGkPxxMkc+6wbQ/0LrBFPmsqz/QusEU+ayLPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.24488518,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae5c-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Bigger, hotter, heavier; the innovative LG series is comprised to offer the most versatile cooking system available. Fueled by your selection of wood pellet blends, the LG700 consists of a two-tiered, 707 sq in cooking surface that is perfect for a family of four. The LG burn system will complement your barbecuing ability with true convection cooking, full digital control and a programmable meat probe to regulate the internal temperature of your food. Louisiana Grills famous flame broiler allows for direct grilling, wielding eight distinct cooking methods to serve your every need. Sear or smoke, bake or roast, the LG700 will enhance all of your cooking experiences.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/684678/684678080603.jpg",
+                "product_url": "https://www.lowes.com/pd/Louisiana-Grills-Louisiana-Grills-LG-Series-708-sq-in-Black-Pellet-Grill/1002197448",
+                "description": "Louisiana Grills LG Series 708-sq in Black Pellet Grill",
+                "title": "Louisiana Grills Louisiana Grills LG Series 708-sq in Black Pellet Grill",
+                "brand": "Louisiana Grills"
+              }
+            },
+            "text": "Louisiana Grills Louisiana Grills LG Series 708-sq in Black Pellet Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "chzHcRzHwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcx3Ecx3GMPwAAAAAAAAAAAAAAAAAAAAAcx3Ecx3GMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABzHcRzHcYw/HMdxHMdxjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcx3Ecx3GMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHMdxHMdxrD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFVVVVVVVaU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHMdxHMdxjD8AAAAAAAAAAAAAAAAAAAAAHMdxHMdxjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHIcx3Ecx7E/AAAAAAAAAAAcx3Ecx3GMPwAAAAAAAAAAHMdxHMdxrD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAPwAAAAAAAAAAHMdxHMdxjD8AAAAAAADAPwAAAAAAAAAAVVVVVVVVpT8cx3Ecx3GcPwAAAAAAAAAAHMdxHMdxjD8cx3Ecx3GsP1VVVVVVVbU/HMdxHMdxjD8cx3Ecx3GcPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.2453267,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae26-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Char-Griller Flat Iron Portable Griddle Black 12000-BTU 264-sq in Portable Gas Grill",
+                "full_description": "Take your griddle on the go with the Char-Griller Flat Iron&#174; Portable 17-inch Gas Griddle. Equipped with a 12,000 BTU gas burner, the heavy gauge steel griddle top heats quickly, evenly, and gets better with every cook.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/789792/789792082172.jpg",
+                "product_url": "https://www.lowes.com/pd/Char-Griller-Flat-Iron-Portable-Griddle-Black-12000-BTU-264-sq-in-Portable-Gas-Grill/1002666826",
+                "brand": "Char-Griller",
+                "description": "Flat Iron Portable Griddle Black 12000-BTU 264-sq in Portable Gas Grill"
+              }
+            },
+            "text": "Char-Griller Flat Iron Portable Griddle Black 12000-BTU 264-sq in Portable Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "MQzDMAzDwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACSJEmSJEmiPwAAAAAAAAAAAAAAAAAAAACSJEmSJEmiPxiGYRiGYYg/GIZhGIZhmD8AAAAAAAAAABiGYRiGYYg/AAAAAAAAAAAYhmEYhmGIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYhmEYhmGYPxiGYRiGYYg/AAAAAAAAAAAAAAAAAAAAABiGYRiGYYg/GIZhGIZhqD8AAAAAAAAAABiGYRiGYYg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGIZhGIZhmD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYhmEYhmGIPxiGYRiGYYg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIkSZIkSbI/GIZhGIZhmD8YhmEYhmGIPxiGYRiGYZg/GIZhGIZhqD8AAAAAAAAAAAAAAAAAAAAAGIZhGIZhiD8YhmEYhmGoPwAAAAAAAAAAGIZhGIZhiD/btm3btm27PwAAAAAAAAAAGIZhGIZhmD+SJEmSJEmiPwAAAAAAAAAAGIZhGIZhiD8YhmEYhmG4PxiGYRiGYZg/kiRJkiRJoj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.24571152,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82f2b268-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/047362/047362364708.jpg",
+                "title": "Char-Broil Classic Black 2-Burner Liquid Propane Gas Grill",
+                "full_description": "The Classic 2-burner gas grill is perfect for the smaller cookout. It features in-line Stainless steel burners for even heat, a piezo ignition for easy starts and it&#8217;s equipped with two metal side shelves for extra space. And with the 5-year burner warranty, you can grill for the long haul. Comparable with Char-Broil's universal grill cover; Lowe's item # 754697",
+                "product_url": "https://www.lowes.com/pd/Char-Broil-Classic-Black-2-Burner-Liquid-Propane-Gas-Grill/1000364741",
+                "brand": "Char-Broil",
+                "description": "Classic Black 2-Burner Liquid Propane Gas Grill"
+              }
+            },
+            "text": "Char-Broil Classic Black 2-Burner Liquid Propane Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "R1juaYTlvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACWexphuaehPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlnsaYbmnkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABhuacRlnuqP5Z7GmG5p6E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlnsaYbmnoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJZ7GmG5p5E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlnsaYbmnkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHwaYbmnEbY/AAAAAAAAAACWexphuaehP5Z7GmG5p5E/lnsaYbmnoT8AAAAAAAAAAAAAAAAAAAAAlnsaYbmnkT98GmG5pxG2PwAAAAAAAAAAlnsaYbmnkT98GmG5pxG2PwAAAAAAAAAAlnsaYbmnoT+WexphuaehP5Z7GmG5p5E/lnsaYbmnkT9huacRlnu6P2G5pxGWe6o/AAAAAAAAAACWexphuaehPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.24789375,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae01-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Royal-Gourmet-Silver-27000-BTU-316-2-sq-in-Portable-Gas-Grill/1000606329",
+                "title": "Royal Gourmet Silver 27000-BTU 316.2-sq in Portable Gas Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/853252/853252006838.jpg",
+                "description": "Silver 27000-BTU 316.2-sq in Portable Gas Grill",
+                "full_description": "Stop manhandling those heavy and bulky backyard griddles, show off as a grill master with Royal Gourmet&#174; PD1300 3-burner portable gas griddle for your family outings. This griddle has 3 round stainless steel burners, which provide a total of 27,000 BTU output. It comes equipped with a porcelain enameled griddle top which offers 316 square inches of cooking area. Large cooking space is perfect for frying rice, eggs, hash browns, French toast, bacon and hamburgers. Durable stainless steel control panel with piezo ignition system enables quick start-up and makes barbecue easier than ever before. Large oil cup collects grease residue for easy cleanup after use every time. The portable design provides much convenience for picnics, tailgate party, camping, or nights BBQ on the patio.",
+                "brand": "Royal Gourmet"
+              }
+            },
+            "text": "Royal Gourmet Silver 27000-BTU 316.2-sq in Portable Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "O9q8T3HJwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA72rxPccmgPzvavE9xyZA/AAAAAAAAAABYR5v3KS6pPzvavE9xyZA/O9q8T3HJoD872rxPccmQPwAAAAAAAAAAAAAAAAAAAAA72rxPccmQPzvavE9xyZA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA72rxPccmQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWEeb9ykuqT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO9q8T3HJkD8AAAAAAAAAADvavE9xyZA/O9q8T3HJkD872rxPccmQPzvavE9xyZA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFhHm/cpLqk/O9q8T3HJkD8AAAAAAAAAAAAAAAAAAAAAWEeb9ykuqT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABYR5v3KS6pPwAAAAAAAAAAAAAAAAAAAADJEKyjzfu0PzvavE9xyZA/O9q8T3HJkD9YR5v3KS6pPwAAAAAAAAAAO9q8T3HJkD872rxPccmwPzvavE9xyaA/O9q8T3HJoD872rxPccmQPzvavE9xyZA/AAAAAAAAAAAAAAAAAAAAADvavE9xyZA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.24831091,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faae03-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/047362/047362513304.jpg",
+                "title": "Char-Broil Black 11000-BTU 187-sq in Portable Gas Grill",
+                "description": "Black 11000-BTU 187-sq in Portable Gas Grill",
+                "brand": "Char-Broil",
+                "product_url": "https://www.lowes.com/pd/Char-Broil-Black-11000-BTU-187-sq-in-Portable-Gas-Grill/3097405",
+                "full_description": "Convenient, portable, and perfect for camping, tailgating, or most outdoor cooking adventures. The portable gas grill from Char-Broil is perfectly sized and features legs that raise the cooking height of the grill and fold over to lock the lid into place for easy transport."
+              }
+            },
+            "text": "Char-Broil Black 11000-BTU 187-sq in Portable Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "SpCnBHlKwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADtG9a+Ye2rPwAAAAAAAAAAAAAAAAAAAADtG9a+Ye2rP+0b1r5h7as/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ4S5ClBnpI/nhLkKUGekj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADtG9a+Ye2rP54S5ClBnpI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGeoj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGekj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SP54S5ClBnpI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ4S5ClBnrI/nhLkKUGekj+eEuQpQZ6SPwAAAAAAAAAAnhLkKUGekj8AAAAAAAAAAAAAAAAAAAAAnhLkKUGekj/tG9a+Ye2rPwAAAAAAAAAAnhLkKUGekj9GF1100UW3PwAAAAAAAAAAnhLkKUGekj+eEuQpQZ6iPwAAAAAAAAAAnhLkKUGekj+eEuQpQZ6yP54S5ClBnqI/nhLkKUGekj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.24858646,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faadfe-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/099143/099143017341.jpg",
+                "full_description": "Looking to take your gas grilling on the go? Look no further than the Portable Grill2Go; X200 Gas Grill. Features include a durable die cast aluminum construction, push button ignition, lid-mounted temperature gauge and the TRU-Infrared cooking system for no flare-ups. It's designed to be sturdy and convenient, so you can set up your grill with you when you're tailgating, camping or on the beach.",
+                "description": "Grill2Go Grey And Black 9500-BTU 200-sq in Infrared Portable Gas Grill",
+                "product_url": "https://www.lowes.com/pd/Char-Broil-Grill2Go-Grey-And-Black-9500-BTU-200-sq-in-Infrared-Portable-Gas-Grill/50240033",
+                "title": "Char-Broil Grill2Go Grey And Black 9500-BTU 200-sq in Infrared Portable Gas Grill",
+                "brand": "Char-Broil"
+              }
+            },
+            "text": "Char-Broil Grill2Go Grey And Black 9500-BTU 200-sq in Infrared Portable Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "ysDTrflhwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPaiPwAAAAAAAAAAAAAAAAAAAADg6db8sEipPwAAAAAAAAAA4OnW/LBImT8AAAAAAAAAAAAAAAAAAAAA4OnW/LBIiT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg6db8sEiJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4OnW/LBIiT9oL6G9hPaiP+Dp1vywSIk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWKQMPN2arz8AAAAAAAAAAODp1vywSIk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4OnW/LBIiT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg6db8sEiJP+Dp1vywSIk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFikDDzdmq8/4OnW/LBIiT/g6db8sEiJP+Dp1vywSJk/aC+hvYT2oj/g6db8sEiJPwAAAAAAAAAA4OnW/LBIiT/g6db8sEipPwAAAAAAAAAA4OnW/LBIiT+kDDzdmh+2PwAAAAAAAAAAaC+hvYT2oj9oL6G9hPaiPwAAAAAAAAAA4OnW/LBIiT/g6db8sEi5P+Dp1vywSJk/4OnW/LBIiT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODp1vywSIk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.24872024,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "82faadea-5e86-11ec-9e82-17576e5cd1d2",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Clihome",
+                "product_url": "https://www.lowes.com/pd/Clihome-Ac-Milan-Grills-22-in-Black-Barrel-Charcoal-Grill/1002269080",
+                "full_description": "Are you thinking about buying smoker grill?Â?Our smoker grill have been designed to give you the best smoker grill experience ever. Thanks to the controllable air supply and two layers design, our smoker will give you full control. Take the smoker grill to your home, you can barbecue with your family anytime and anywhere!",
+                "title": "Clihome Ac Milan Grills 22-in Black Barrel Charcoal Grill",
+                "description": "Ac Milan Grills 22-in Black Barrel Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/100226/1002269080.jpg"
+              }
+            },
+            "text": "Clihome Ac Milan Grills 22-in Black Barrel Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "cB/BfQT3wT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwH8F9BPeRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3oT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3kT9wH8F9BPehP3AfwX0E96E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3oT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3kT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAExnMZ3FdLY/AAAAAAAAAAAor6G8hvKqPwAAAAAAAAAAcB/BfQT3oT8AAAAAAAAAAAAAAAAAAAAAcB/BfQT3oT9MZzGdxXS2PwAAAAAAAAAAcB/BfQT3kT9eQ3kN5TXEP3AfwX0E95E/cB/BfQT3oT9wH8F9BPehPwAAAAAAAAAAAAAAAAAAAABMZzGdxXS2P3AfwX0E95E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.24988455,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          }
+        ],
+        "tags": {},
+        "text": "289-sq grill",
+        "embedding": {
+          "dense": {
+            "buffer": "VVVVVVVVtT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVVVVVVVW1PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVVVVVVVVtT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVVVVVVVVtT9VVVVVVVW1PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFVVVVVVVbU/AAAAAAAAAABVVVVVVVW1PwAAAAAAAAAAAAAAAAAAAABVVVVVVVXFPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVVVVVVVVtT9VVVVVVVW1P1VVVVVVVbU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "shape": [
+              96
+            ],
+            "dtype": "<f8",
+            "quantization": 0,
+            "maxVal": 0,
+            "minVal": 0,
+            "scale": 0,
+            "originalDtype": ""
+          }
+        },
+        "granularity": 0,
+        "adjacency": 0,
+        "parentId": "",
+        "chunks": [],
+        "weight": 0,
+        "uri": "",
+        "mimeType": "",
+        "location": [],
+        "offset": 0,
+        "scores": {},
+        "modality": "",
+        "evaluations": {}
+      }
+    ],
+    "groundtruths": []
+  }
+}

@@ -1,0 +1,1021 @@
+{
+  "requestId": "9454aa81-4561-4500-839a-e639af346229",
+  "data": {
+    "docs": [
+      {
+        "id": "fbdd5b8a-7a0a-11ec-be6b-5d6790f603b1",
+        "matches": [
+          {
+            "id": "cf61b6ee-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "KitchenAid 23.8-cu ft Counter-Depth French Door Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+                "product_url": "https://www.lowes.com/pd/KitchenAid-23-8-cu-ft-Counter-Depth-French-Door-Refrigerator-with-Ice-Maker-Stainless-Steel-with-Printshield/1000384977",
+                "description": "23.8-cu ft Counter-Depth French Door Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+                "full_description": "The largest capacity counter-depth refrigerator in its class (among leading premium 3-door french door bottom mount brands) features PrintShield&#8482; finish to resist fingerprints outside and flexible storage options inside. A slide-away shelf retracts to fit tall items, and full-extension self-close crispers and custom temperature pantry let you store more and find it easily. Plus, the Preserva&#174;Food Care System with Linear Compressor helps keep it all at the peak of freshness.",
+                "brand": "KitchenAid",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049396118.jpg"
+              }
+            },
+            "text": "KitchenAid 23.8-cu ft Counter-Depth French Door Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+            "embedding": {
+              "dense": {
+                "buffer": "QZ4S5ClBvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ4S5ClBnoI/nhLkKUGegj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SP54S5ClBnoI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGegj+eEuQpQZ6CPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGegj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGegj8AAAAAAAAAAJ4S5ClBnoI/nhLkKUGekj8AAAAAAAAAAJ4S5ClBnoI/AAAAAAAAAAAAAAAAAAAAAJ4S5ClBnoI/AAAAAAAAAACeEuQpQZ6CPwAAAAAAAAAAnhLkKUGegj8AAAAAAAAAAAAAAAAAAAAAnhLkKUGegj8AAAAAAAAAAJ4S5ClBnoI/nhLkKUGekj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO0b1r5h7Zs/AAAAAAAAAACeEuQpQZ6iP54S5ClBnpI/7RvWvmHtuz+eEuQpQZ6SP54S5ClBnoI/7RvWvmHtqz+eEuQpQZ6yPwAAAAAAAAAAnhLkKUGegj/tG9a+Ye2bPwAAAAAAAAAARhdddNFFpz+eEuQpQZ6iP54S5ClBnoI/AAAAAAAAAACeEuQpQZ6yP+0b1r5h7Zs/RhdddNFFtz+eEuQpQZ6SPwAAAAAAAAAAnhLkKUGekj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.09391397,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b697-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "26.8-cu ft French Door Refrigerator with Ice Maker (White)",
+                "brand": "KitchenAid",
+                "product_url": "https://www.lowes.com/pd/KitchenAid-26-8-cu-ft-French-Door-Refrigerator-with-Ice-Maker-White/1000526123",
+                "full_description": "This 26.8 cu. ft. french door refrigerator helps fresh produce stay that way with the ExtendFresh&#8482; Temperature Management System. A pull-out tray accommodates large platters with ease, while a FreshChill&#8482; Temperature-Controlled Full-Width Pantry lets you optimize temperature and airflow for the specific food you're storing. The refined interior design features LED lighting, and metallic accents add a touch of elegance.",
+                "title": "KitchenAid 26.8-cu ft French Door Refrigerator with Ice Maker (White)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049463179.jpg"
+              }
+            },
+            "text": "KitchenAid 26.8-cu ft French Door Refrigerator with Ice Maker (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "C1nIQhaywD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANuBuXZgro0/24G5dmCujT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbgbl2YK6NP9uBuXZgro0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA24G5dmCujT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbgbl2YK6NPwAAAAAAAAAA24G5dmCujT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA24G5dmCujT8AAAAAAAAAAAAAAAAAAAAA24G5dmCujT8AAAAAAAAAANuBuXZgro0/AAAAAAAAAAAAAAAAAAAAANuBuXZgro0/AAAAAAAAAADbgbl2YK6NPwAAAAAAAAAA24G5dmCujT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANuBuXZgro0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbgbl2YK6NPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANuBuXZgrp0/AAAAAAAAAADbgbl2YK6tP9uBuXZgro0/oFHiZ5T4uT/bgbl2YK6dP9uBuXZgro0/24G5dmCurT8p8TNK/IyyPwAAAAAAAAAA24G5dmCujT8AAAAAAAAAAAAAAAAAAAAA24G5dmCunT9kIQtZyEKmPwAAAAAAAAAAAAAAAAAAAABkIQtZyEK2PwAAAAAAAAAAKfEzSvyMsj/bgbl2YK6NPwAAAAAAAAAA24G5dmCujT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.09699886,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b6de-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "KitchenAid",
+                "description": "19.7-cu ft French Door Refrigerator with Ice Maker (White)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049360324.jpg",
+                "product_url": "https://www.lowes.com/pd/KitchenAid-19-7-cu-ft-French-Door-Refrigerator-with-Ice-Maker-White/50415264",
+                "full_description": "This 30-inch refrigerator is an ideal solution in small kitchens that can typically only accept a top-freezer refrigerator. French doors open with a narrow door swing similar to a side-by-side refrigerator. And inside you&#8217;ll find appealing features including an interior water dispenser and a full-width pantry drawer that helps keep your fresh food organized and easy to reach.",
+                "title": "KitchenAid 19.7-cu ft French Door Refrigerator with Ice Maker (White)"
+              }
+            },
+            "text": "KitchenAid 19.7-cu ft French Door Refrigerator with Ice Maker (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "C1nIQhaywD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANuBuXZgro0/24G5dmCujT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbgbl2YK6NP9uBuXZgro0/AAAAAAAAAAAAAAAAAAAAANuBuXZgro0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANuBuXZgro0/AAAAAAAAAADbgbl2YK6NPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA24G5dmCujT8AAAAAAAAAAAAAAAAAAAAA24G5dmCujT8AAAAAAAAAANuBuXZgro0/AAAAAAAAAAAAAAAAAAAAANuBuXZgro0/AAAAAAAAAADbgbl2YK6NPwAAAAAAAAAA24G5dmCujT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANuBuXZgro0/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbgbl2YK6NPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANuBuXZgrp0/AAAAAAAAAADbgbl2YK6tP9uBuXZgro0/oFHiZ5T4uT/bgbl2YK6dP9uBuXZgro0/24G5dmCurT8p8TNK/IyyPwAAAAAAAAAA24G5dmCujT8AAAAAAAAAAAAAAAAAAAAA24G5dmCunT9kIQtZyEKmPwAAAAAAAAAAAAAAAAAAAABkIQtZyEK2PwAAAAAAAAAAKfEzSvyMsj/bgbl2YK6NPwAAAAAAAAAA24G5dmCujT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.09699886,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b6df-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "This 72-inch refrigerator is three inches taller than a standard counter-depth refrigerator. It fills the gap that can be left above many refrigerators, adding to its integrated appeal. A pull-out freezer drawer allows you to organize frozen items on three levels. And with the ExtendFresh&#8482; Temperature Management System all of your ingredients will be held at the optimum temperature to maximize their flavor and texture.",
+                "description": "21.9-cu ft Counter-Depth French Door Refrigerator with Ice Maker (Black Stainless with Printshield)",
+                "title": "KitchenAid 21.9-cu ft Counter-Depth French Door Refrigerator with Ice Maker (Black Stainless with Printshield)",
+                "product_url": "https://www.lowes.com/pd/KitchenAid-21-9-cu-ft-Counter-Depth-French-Door-Refrigerator-with-Ice-Maker-Black-Stainless-with-Printshield/1000029089",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049360997.jpg",
+                "brand": "KitchenAid"
+              }
+            },
+            "text": "KitchenAid 21.9-cu ft Counter-Depth French Door Refrigerator with Ice Maker (Black Stainless with Printshield)",
+            "embedding": {
+              "dense": {
+                "buffer": "QZ4S5ClBvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ4S5ClBnoI/nhLkKUGegj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SP54S5ClBnoI/AAAAAAAAAAAAAAAAAAAAAJ4S5ClBnoI/nhLkKUGegj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6CPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGegj+eEuQpQZ6CP54S5ClBnoI/nhLkKUGekj8AAAAAAAAAAJ4S5ClBnoI/AAAAAAAAAAAAAAAAAAAAAJ4S5ClBnoI/AAAAAAAAAACeEuQpQZ6CPwAAAAAAAAAAnhLkKUGegj8AAAAAAAAAAAAAAAAAAAAAnhLkKUGegj8AAAAAAAAAAJ4S5ClBnoI/nhLkKUGegj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ4S5ClBnqI/AAAAAAAAAABGF1100UWnP54S5ClBnpI/RhdddNFFtz+eEuQpQZ6SP54S5ClBnoI/7RvWvmHtqz+eEuQpQZ6yPwAAAAAAAAAAnhLkKUGekj/tG9a+Ye2bPwAAAAAAAAAARhdddNFFpz+eEuQpQZ6iP54S5ClBnoI/AAAAAAAAAACeEuQpQZ6yP+0b1r5h7Zs/8pQgTwnytD+eEuQpQZ6SPwAAAAAAAAAAnhLkKUGekj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.100543976,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b6c4-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "KitchenAid 23.8-cu ft Counter-Depth French Door Refrigerator with Ice Maker (Black Stainless with Printshield)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049390376.jpg",
+                "brand": "KitchenAid",
+                "product_url": "https://www.lowes.com/pd/KitchenAid-23-8-cu-ft-Counter-Depth-French-Door-Refrigerator-with-Ice-Maker-Black-Stainless-with-Printshield/1000152047",
+                "full_description": "The largest capacity counter-depth refrigerator in its class (among leading premium 3-door french door bottom mount brands) features PrintShield&#8482; finish to resist fingerprints outside and flexible storage options inside. A slide-away shelf retracts to fit tall items, and full-extension self-close crispers and custom temperature pantry let you store more and find it easily. Plus, the Preserva&#174;Food Care System with Linear Compressor helps keep it all at the peak of freshness.",
+                "description": "23.8-cu ft Counter-Depth French Door Refrigerator with Ice Maker (Black Stainless with Printshield)"
+              }
+            },
+            "text": "KitchenAid 23.8-cu ft Counter-Depth French Door Refrigerator with Ice Maker (Black Stainless with Printshield)",
+            "embedding": {
+              "dense": {
+                "buffer": "QZ4S5ClBvj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ4S5ClBnoI/nhLkKUGegj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SP54S5ClBnoI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGegj+eEuQpQZ6CPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGegj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGegj+eEuQpQZ6CP54S5ClBnoI/nhLkKUGekj8AAAAAAAAAAJ4S5ClBnoI/AAAAAAAAAAAAAAAAAAAAAJ4S5ClBnoI/AAAAAAAAAACeEuQpQZ6CPwAAAAAAAAAAnhLkKUGegj8AAAAAAAAAAAAAAAAAAAAAnhLkKUGegj8AAAAAAAAAAJ4S5ClBnoI/nhLkKUGegj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ4S5ClBnqI/AAAAAAAAAABGF1100UWnP54S5ClBnpI/RhdddNFFtz+eEuQpQZ6SP54S5ClBnoI/7RvWvmHtqz+eEuQpQZ6yPwAAAAAAAAAAnhLkKUGekj/tG9a+Ye2bPwAAAAAAAAAARhdddNFFpz+eEuQpQZ6iP54S5ClBnoI/AAAAAAAAAACeEuQpQZ6yP+0b1r5h7Zs/8pQgTwnytD+eEuQpQZ6SPwAAAAAAAAAAnhLkKUGekj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.100543976,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b6dc-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "KitchenAid",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049360348.jpg",
+                "full_description": "This 30-inch refrigerator is an ideal solution in small kitchens that can typically only accept a top-freezer refrigerator. French doors open with a narrow door swing similar to a side-by-side refrigerator. And inside you&#8217;ll find appealing features including an interior water dispenser and a full-width pantry drawer that helps keep your fresh food organized and easy to reach.",
+                "description": "19.7-cu ft French Door Refrigerator with Ice Maker (Stainless Steel)",
+                "title": "KitchenAid 19.7-cu ft French Door Refrigerator with Ice Maker (Stainless Steel)",
+                "product_url": "https://www.lowes.com/pd/KitchenAid-19-7-cu-ft-French-Door-Refrigerator-with-Ice-Maker-Stainless-Steel/50415266"
+              }
+            },
+            "text": "KitchenAid 19.7-cu ft French Door Refrigerator with Ice Maker (Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "aCAqHdkzwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADZMxCVjuyJP9kzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/AAAAAAAAAADZMxCVjuyJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAA2TMQlY7siT8AAAAAAAAAANkzEJWO7Ik/AAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/AAAAAAAAAADZMxCVjuyJPwAAAAAAAAAA2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANkzEJWO7Ik/2TMQlY7smT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOMmzO9qcaM/AAAAAAAAAADZMxCVjuypP9kzEJWO7Ik/VDqyZyAqvT/ZMxCVjuyZP9kzEJWO7Ik/4ybM72pxoz9oICod2TOwPwAAAAAAAAAA2TMQlY7siT/ZMxCVjuyZPwAAAAAAAAAA4ybM72pxoz/jJszvanGjPwAAAAAAAAAAAAAAAAAAAADjJszvanGzP9kzEJWO7Jk/4ybM72pxsz/ZMxCVjuyJPwAAAAAAAAAA2TMQlY7siT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.10512519,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b698-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "KitchenAid",
+                "title": "KitchenAid 26.8-cu ft French Door Refrigerator with Ice Maker (Black Stainless with Printshield)",
+                "description": "26.8-cu ft French Door Refrigerator with Ice Maker (Black Stainless with Printshield)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049464305.jpg",
+                "product_url": "https://www.lowes.com/pd/KitchenAid-26-8-cu-ft-French-Door-Refrigerator-with-Ice-Maker-Black-Stainless-with-Printshield/1000526103",
+                "full_description": "This 26.8 cu. ft. French door refrigerator helps fresh produce stay that way with the ExtendFresh&#8482; Temperature Management System. A pull-out tray accommodates large platters with ease, while a FreshChill&#8482; Temperature-Controlled Full-Width Pantry lets you optimize temperature and airflow for the specific food you're storing. The refined interior design features LED lighting, and metallic accents add a touch of elegance."
+              }
+            },
+            "text": "KitchenAid 26.8-cu ft French Door Refrigerator with Ice Maker (Black Stainless with Printshield)",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFVVVVVVVYU/VVVVVVVVhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVVVVVVVWFP1VVVVVVVYU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVVVVVVVVhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVVVVVVVWFPwAAAAAAAAAAVVVVVVVVhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVVVVVVVVhT9VVVVVVVWFPwAAAAAAAAAAVVVVVVVVhT8AAAAAAAAAAFVVVVVVVYU/AAAAAAAAAAAAAAAAAAAAAFVVVVVVVYU/AAAAAAAAAABVVVVVVVWFPwAAAAAAAAAAVVVVVVVVhT8AAAAAAAAAAAAAAAAAAAAAVVVVVVVVhT8AAAAAAAAAAFVVVVVVVYU/VVVVVVVVhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFVVVVVVVaU/AAAAAAAAAACrqqqqqqqqP1VVVVVVVZU/VVVVVVVVtT9VVVVVVVWVP1VVVVVVVYU/q6qqqqqqqj9VVVVVVVW1PwAAAAAAAAAAVVVVVVVVlT8AAAAAAACgPwAAAAAAAAAAVVVVVVVVpT8AAAAAAACgPwAAAAAAAAAAAAAAAAAAAACrqqqqqqqyPwAAAAAAAKA/q6qqqqqqsj9VVVVVVVWFPwAAAAAAAAAAVVVVVVVVlT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.10903777,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b6c9-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/KitchenAid-19-7-cu-ft-French-Door-Refrigerator-with-Ice-Maker-Black-Stainless-with-Printshield/1000140505",
+                "description": "19.7-cu ft French Door Refrigerator with Ice Maker (Black Stainless with Printshield)",
+                "brand": "KitchenAid",
+                "full_description": "This 30-inch refrigerator is an ideal solution in small kitchens that can typically only accept a top-freezer refrigerator. French doors open with a narrow door swing similar to a side-by-side refrigerator. And inside you&#8217;ll find appealing features including an interior water dispenser and a full-width pantry drawer that helps keep your fresh food organized and easy to reach.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049418926.jpg",
+                "title": "KitchenAid 19.7-cu ft French Door Refrigerator with Ice Maker (Black Stainless with Printshield)"
+              }
+            },
+            "text": "KitchenAid 19.7-cu ft French Door Refrigerator with Ice Maker (Black Stainless with Printshield)",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFVVVVVVVYU/VVVVVVVVhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVVVVVVVWFP1VVVVVVVYU/AAAAAAAAAAAAAAAAAAAAAFVVVVVVVYU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFVVVVVVVYU/AAAAAAAAAABVVVVVVVWFPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVVVVVVVVhT9VVVVVVVWFPwAAAAAAAAAAVVVVVVVVhT8AAAAAAAAAAFVVVVVVVYU/AAAAAAAAAAAAAAAAAAAAAFVVVVVVVYU/AAAAAAAAAABVVVVVVVWFPwAAAAAAAAAAVVVVVVVVhT8AAAAAAAAAAAAAAAAAAAAAVVVVVVVVhT8AAAAAAAAAAFVVVVVVVYU/VVVVVVVVhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFVVVVVVVaU/AAAAAAAAAACrqqqqqqqqP1VVVVVVVZU/VVVVVVVVtT9VVVVVVVWVP1VVVVVVVYU/q6qqqqqqqj9VVVVVVVW1PwAAAAAAAAAAVVVVVVVVlT8AAAAAAACgPwAAAAAAAAAAVVVVVVVVpT8AAAAAAACgPwAAAAAAAAAAAAAAAAAAAACrqqqqqqqyPwAAAAAAAKA/q6qqqqqqsj9VVVVVVVWFPwAAAAAAAAAAVVVVVVVVlT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.10903777,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b6e4-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/GE-Profile-27-8-cu-ft-French-Door-Refrigerator-with-Ice-Maker-and-Door-within-Door-Fingerprint-resistant-Stainless-Steel/1002619100",
+                "description": "Profile 27.8-cu ft French Door Refrigerator with Ice Maker and Door within Door (Fingerprint-resistant Stainless Steel)",
+                "full_description": "Built on the belief that modern life needs modern solutions, GE Profile Appliances are designed to make daily life simpler by incorporating Smart Home technology and cutting-edge features in every appliance. GE Profile&#8217;s sleek design and quality engineering will give your kitchen the most up-to-date look and the best innovative performance you&#8217;ve been looking for.",
+                "brand": "GE",
+                "title": "GE Profile 27.8-cu ft French Door Refrigerator with Ice Maker and Door within Door (Fingerprint-resistant Stainless Steel)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691848752.jpg"
+              }
+            },
+            "text": "GE Profile 27.8-cu ft French Door Refrigerator with Ice Maker and Door within Door (Fingerprint-resistant Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "O9q8T3HJwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADvavE9xyYA/O9q8T3HJgD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA72rxPccmQPzvavE9xyYA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO9q8T3HJgD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADvavE9xyYA/O9q8T3HJgD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWEeb9ykumT872rxPccmAPzvavE9xyZA/O9q8T3HJgD8AAAAAAAAAADvavE9xyYA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO9q8T3HJgD8AAAAAAAAAAAAAAAAAAAAAO9q8T3HJgD8AAAAAAAAAADvavE9xyYA/O9q8T3HJkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMkQrKPN+6Q/AAAAAAAAAABYR5v3KS6ZPzvavE9xyYA/EayjzfsUtz9YR5v3KS6ZPzvavE9xyZA/WEeb9ykumT+CdbR5n+KyPwAAAAAAAAAAO9q8T3HJgD9YR5v3KS6ZPwAAAAAAAAAA532KS4ZgrT872rxPccmwPzvavE9xyYA/AAAAAAAAAABYR5v3KS65PzvavE9xyaA/gnW0eZ/isj872rxPccmAPwAAAAAAAAAAO9q8T3HJkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.109954916,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b87b-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "KitchenAid",
+                "product_url": "https://www.lowes.com/pd/KitchenAid-19-8-cu-ft-Counter-Depth-Side-by-Side-Refrigerator-with-Ice-Maker-Stainless-Steel-with-Printshield/1001254348",
+                "title": "KitchenAid 19.8-cu ft Counter-Depth Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+                "description": "19.8-cu ft Counter-Depth Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049490854.jpg",
+                "full_description": "This 19.9 cu ft. side-by-side refrigerator features the Preserva&#174; Food Care System. Its two independent cooling systems help keep food fresh while the FreshFlow&#8482; Air Filter minimizes odors, and the Produce Preserver delays over-ripening. The counter-depth design gives the high-end look of built-in refrigerators and the PrintShield&#8482; Finish resists fingerprints and smudges on the stainless exterior."
+              }
+            },
+            "text": "KitchenAid 19.8-cu ft Counter-Depth Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+            "embedding": {
+              "dense": {
+                "buffer": "0LrBFPmsuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADUngbhQc4I/NSeBuFBzgj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA1J4G4UHOiPzUngbhQc4I/AAAAAAAAAAAAAAAAAAAAADUngbhQc4I/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANSeBuFBzgj81J4G4UHOCPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANSeBuFBzgj8AAAAAAAAAADUngbhQc4I/NSeBuFBzgj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADUngbhQc4I/AAAAAAAAAAA1J4G4UHOCPwAAAAAAAAAANSeBuFBzgj8AAAAAAAAAAAAAAAAAAAAANSeBuFBzgj8AAAAAAAAAADUngbhQc4I/NSeBuFBzoj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANC6wRT5rJs/NSeBuFBzgj/QusEU+aybPzUngbhQc6I/tt/RK2P7vT81J4G4UHOSPzUngbhQc4I/AnGh5iQQpz8CcaHmJBC3PwAAAAAAAAAANSeBuFBzgj/QusEU+aybPwAAAAAAAAAANSeBuFBzoj81J4G4UHOSPzUngbhQc4I/AAAAAAAAAADQusEU+ayrP9C6wRT5rJs/AnGh5iQQtz81J4G4UHOSPwAAAAAAAAAANSeBuFBzkj8AAAAAAAAAADUngbhQc4I/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.109979,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b67e-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691848820.jpg",
+                "description": "Profile 22.2-cu ft Counter-Depth French Door Refrigerator with Ice Maker and Door within Door (Fingerprint-Resistant Stainless Steel)",
+                "full_description": "Built on the belief that modern life needs modern solutions, GE Profile Appliances are designed to make daily life simpler by incorporating Smart Home technology and cutting-edge features in every appliance. GE Profile&#8217;s sleek design and quality engineering will give your kitchen the most up-to-date look and the best innovative performance you&#8217;ve been looking for.",
+                "brand": "GE",
+                "title": "GE Profile 22.2-cu ft Counter-Depth French Door Refrigerator with Ice Maker and Door within Door (Fingerprint-Resistant Stainless Steel)",
+                "product_url": "https://www.lowes.com/pd/GE-Profile-22-2-cu-ft-Counter-Depth-French-Door-Refrigerator-with-Ice-Maker-and-Door-within-Door-Fingerprint-Resistant-Stainless-Steel/1002619142"
+              }
+            },
+            "text": "GE Profile 22.2-cu ft Counter-Depth French Door Refrigerator with Ice Maker and Door within Door (Fingerprint-Resistant Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHn4/Hh4eHh4efj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACXlpaWlpaWPx4eHh4eHn4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAl5aWlpaWlj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHn4/Hh4eHh4enj8eHh4eHh5+Px4eHh4eHo4/Hh4eHh4efj8AAAAAAAAAAB4eHh4eHn4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4efj8AAAAAAAAAAAAAAAAAAAAAHh4eHh4efj8AAAAAAAAAAB4eHh4eHo4/Hh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANPS0tLS0qI/AAAAAAAAAACXlpaWlpaWPx4eHh4eHn4/eHh4eHh4uD+XlpaWlpaWPx4eHh4eHo4/Hh4eHh4enj/x8PDw8PCwPwAAAAAAAAAAHh4eHh4efj+XlpaWlpaWPwAAAAAAAAAAHh4eHh4erj/x8PDw8PCwPx4eHh4eHo4/AAAAAAAAAACXlpaWlpa2Px4eHh4eHp4/tbS0tLS0tD8eHh4eHh6OPwAAAAAAAAAAHh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11006525,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b8d0-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/KitchenAid-22-6-cu-ft-Counter-Depth-Side-by-Side-Refrigerator-with-Ice-Maker-Stainless-Steel-with-Printshield/1001254484",
+                "brand": "KitchenAid",
+                "title": "KitchenAid 22.6-cu ft Counter-Depth Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+                "description": "22.6-cu ft Counter-Depth Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049490816.jpg",
+                "full_description": "This 22.6 cu ft. side-by-side refrigerator features the Preserva&#174; Food Care System. Its two independent cooling systems help keep food fresh while the FreshFlow&#8482; Air Filter minimizes odors, and the Produce Preserver delays over-ripening. The counter-depth design gives the high-end look of built-in refrigerators and the PrintShield&#8482; Finish resists fingerprints and smudges on the stainless exterior."
+              }
+            },
+            "text": "KitchenAid 22.6-cu ft Counter-Depth Side-by-Side Refrigerator with Ice Maker (Stainless Steel with Printshield)",
+            "embedding": {
+              "dense": {
+                "buffer": "0LrBFPmsuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADUngbhQc4I/NSeBuFBzgj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA1J4G4UHOiPzUngbhQc4I/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANSeBuFBzkj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA1J4G4UHOCPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANSeBuFBzgj8AAAAAAAAAADUngbhQc4I/NSeBuFBzgj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADUngbhQc4I/AAAAAAAAAAA1J4G4UHOCPwAAAAAAAAAANSeBuFBzgj8AAAAAAAAAAAAAAAAAAAAANSeBuFBzgj8AAAAAAAAAADUngbhQc4I/NSeBuFBzoj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANC6wRT5rJs/NSeBuFBzgj/QusEU+aybPzUngbhQc6I/tt/RK2P7vT81J4G4UHOSPzUngbhQc4I/AnGh5iQQpz8CcaHmJBC3PwAAAAAAAAAANSeBuFBzgj/QusEU+aybPwAAAAAAAAAANSeBuFBzoj81J4G4UHOSPzUngbhQc4I/AAAAAAAAAADQusEU+ayrP9C6wRT5rJs/AnGh5iQQtz81J4G4UHOSPwAAAAAAAAAANSeBuFBzkj8AAAAAAAAAADUngbhQc4I/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.110714525,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b769-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Daewoo-Retro-4-4-cu-ft-Freestanding-Mini-Fridge-Freezer-Compartment-Cream-White/1000077933",
+                "image_url": "https://mobileimages.lowes.com/product/converted/084157/084157044117.jpg",
+                "title": "Daewoo Retro 4.4-cu ft Freestanding Mini Fridge Freezer Compartment (Cream White)",
+                "brand": "Daewoo",
+                "description": "Retro 4.4-cu ft Freestanding Mini Fridge Freezer Compartment (Cream White)",
+                "full_description": ""
+              }
+            },
+            "text": "Daewoo Retro 4.4-cu ft Freestanding Mini Fridge Freezer Compartment (Cream White)",
+            "embedding": {
+              "dense": {
+                "buffer": "WKQMPN2avz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODp1vywSIk/4OnW/LBIiT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg6db8sEiJP+Dp1vywSIk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODp1vywSJk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODp1vywSJk/4OnW/LBIiT8AAAAAAAAAAGgvob2E9qI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4OnW/LBIiT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODp1vywSIk/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg6db8sEiJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODp1vywSKk/AAAAAAAAAADg6db8sEiJP+Dp1vywSJk/ysDTrflhwT/g6db8sEiJP+Dp1vywSJk/4OnW/LBIiT9YpAw83ZqvPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9qI/4OnW/LBIqT/g6db8sEipP+Dp1vywSIk/AAAAAAAAAACkDDzdmh+2P+Dp1vywSIk/aC+hvYT2sj/g6db8sEiJPwAAAAAAAAAA4OnW/LBIiT8AAAAAAAAAAAAAAAAAAAAA4OnW/LBIiT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11086062,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b86f-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Whirlpool 20.6-cu ft Counter-depth Side-by-Side Refrigerator with Ice Maker (White)",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-20-6-cu-ft-Counter-depth-Side-by-Side-Refrigerator-with-Ice-Maker-White/1000358273",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049450179.jpg",
+                "full_description": "Store more of your family's favorites in this counter depth refrigerator. The counter depth design makes extra room in the kitchen and features an exterior ice and water dispenser with EveryDrop&#8482; filtration. In-Door-Ice&#174; storage gives you an extra full shelf in the freezer and the refrigerator's Accu-Chill&#8482; temperature management system keeps family favorites in their ideal environment with quick cooling.",
+                "description": "20.6-cu ft Counter-depth Side-by-Side Refrigerator with Ice Maker (White)",
+                "brand": "Whirlpool"
+              }
+            },
+            "text": "Whirlpool 20.6-cu ft Counter-depth Side-by-Side Refrigerator with Ice Maker (White)",
+            "embedding": {
+              "dense": {
+                "buffer": "H3JZMVDCuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKrzaw+5rIg/qvNrD7msiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACq82sPuayoP6rzaw+5rIg/AAAAAAAAAACq82sPuayIPwAAAAAAAAAAqvNrD7msiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACq82sPuayIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKrzaw+5rIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKrzaw+5rIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqvNrD7msiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKrzaw+5rIg/qvNrD7msmD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACq82sPuayYPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKrzaw+5rJg/qvNrD7msiD+q82sPuayYP7/2kMuKgaI/H3JZMVDCuz+q82sPuayYP6rzaw+5rIg/qvNrD7msqD+/9pDLioGyPwAAAAAAAAAAqvNrD7msiD+q82sPuayYPwAAAAAAAAAAqvNrD7msiD+q82sPuayoP6rzaw+5rJg/AAAAAAAAAAC/9pDLioGyPwAAAAAAAAAAv/aQy4qBsj+q82sPuayYPwAAAAAAAAAAqvNrD7msiD8AAAAAAAAAAKrzaw+5rIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11105584,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b8b7-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "KitchenAid",
+                "description": "22.7-cu ft Counter-depth Side-by-Side Refrigerator with Ice Maker (Monochromatic Stainless Steel)",
+                "full_description": "The sleek design of this 22.7 cu ft. side-by-side refrigerator features the Preserva&#174; Food Care System. Its two independent cooling systems help keep food fresh while the FreshFlow&#8482; Air Filter minimizes odors, and the Produce Preserver delays over-ripening. The counter-depth gives the high-end look of built-in refrigerators and the Professionally-Inspired Design features Satin Textured Handles and the KitchenAid&#174; Medallion.",
+                "title": "KitchenAid 22.7-cu ft Counter-depth Side-by-Side Refrigerator with Ice Maker (Monochromatic Stainless Steel)",
+                "product_url": "https://www.lowes.com/pd/KitchenAid-22-7-cu-ft-Counter-depth-Side-by-Side-Refrigerator-with-Ice-Maker-Monochromatic-Stainless-Steel/50398842",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049328768.jpg"
+              }
+            },
+            "text": "KitchenAid 22.7-cu ft Counter-depth Side-by-Side Refrigerator with Ice Maker (Monochromatic Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "L6G9hPYSuj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9oI/aC+hvYT2gj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoL6G9hPaiP2gvob2E9oI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9oI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaC+hvYT2gj8AAAAAAAAAAGgvob2E9oI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9oI/AAAAAAAAAABoL6G9hPaCPwAAAAAAAAAAaC+hvYT2kj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9oI/aC+hvYT2oj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgvob2E9qI/aC+hvYT2gj9CewntJbSnP2gvob2E9qI/HMdxHMdxvD9oL6G9hPaSP2gvob2E9oI/aC+hvYT2oj9oL6G9hPayPwAAAAAAAAAAaC+hvYT2gj9oL6G9hPaSP2gvob2E9oI/aC+hvYT2oj9CewntJbSnP2gvob2E9oI/AAAAAAAAAAAcx3Ecx3GsP2gvob2E9pI/VVVVVVVVtT9oL6G9hPaSPwAAAAAAAAAAaC+hvYT2gj8AAAAAAAAAAGgvob2E9oI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.112111546,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b6dd-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "This uniquely versatile, platinum interior refrigerator offers 5 doors, including 2 soft-close drawers, to deliver optimized storage. This refrigerator also features the Preserva&#174; Food Care System which uses two independent cooling systems to help keep food fresh longer, while under-shelf LED lighting beautifully displays the food below for greater visibility.",
+                "title": "KitchenAid 25.8-cu ft 5-Door French Door Refrigerator with Ice Maker (Stainless Steel)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049347059.jpg",
+                "product_url": "https://www.lowes.com/pd/KitchenAid-25-8-cu-ft-5-Door-French-Door-Refrigerator-with-Ice-Maker-Stainless-Steel/50413062",
+                "description": "25.8-cu ft 5-Door French Door Refrigerator with Ice Maker (Stainless Steel)",
+                "brand": "KitchenAid"
+              }
+            },
+            "text": "KitchenAid 25.8-cu ft 5-Door French Door Refrigerator with Ice Maker (Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "GPQFfUFfwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPQFfUFf0Ic/9AV9QV/Qhz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD0BX1BX9CXP/QFfUFf0Ic/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9AV9QV/Qhz8AAAAAAAAAAAAAAAAAAAAA9AV9QV/Qlz8AAAAAAAAAAAAAAAAAAAAA9AV9QV/Qhz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9AV9QV/Qhz8AAAAAAAAAAAAAAAAAAAAA9AV9QV/Qlz8AAAAAAAAAAPQFfUFf0Ic/AAAAAAAAAAAAAAAAAAAAAPQFfUFf0Ic/AAAAAAAAAAD0BX1BX9CHPwAAAAAAAAAA9AV9QV/Qhz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPQFfUFf0Ic/9AV9QV/Qlz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHfEHXFH3KE/AAAAAAAAAAD0BX1BX9CnP/QFfUFf0Ic/s6asKWvKuj/0BX1BX9CXP/QFfUFf0Ic/d8QdcUfcoT9xR9wRd8StPwAAAAAAAAAA9AV9QV/Qhz/0BX1BX9CXPwAAAAAAAAAAd8QdcUfcoT9xR9wRd8StPwAAAAAAAAAAAAAAAAAAAAA2ZU1ZU9a0P/QFfUFf0Jc/d8QdcUfcsT/0BX1BX9CHPwAAAAAAAAAA9AV9QV/Qhz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1123446,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b6bb-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "KitchenAid",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049336886.jpg",
+                "full_description": "This versatile 25.0 cu. ft built-in refrigerator features the ExtendFresh&#8482; Plus Temperature Management System, which maintains the perfect temperature for fresh ingredients. The FreshFlow&#8482; Produce Preserver extends freshness by neutralizing the over-ripening effects of ethylene emitted by certain fruits and vegetables.",
+                "title": "KitchenAid 20.8-cu ft Built-In French Door Refrigerator with Ice Maker (Stainless Steel)",
+                "description": "20.8-cu ft Built-In French Door Refrigerator with Ice Maker (Stainless Steel)",
+                "product_url": "https://www.lowes.com/pd/KitchenAid-20-8-cu-ft-Built-In-French-Door-Refrigerator-with-Ice-Maker-Stainless-Steel/50331731"
+              }
+            },
+            "text": "KitchenAid 20.8-cu ft Built-In French Door Refrigerator with Ice Maker (Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEYXXXTRRYc/RhdddNFFhz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWXP0YXXXTRRYc/AAAAAAAAAABGF1100UWHPwAAAAAAAAAARhdddNFFhz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARhdddNFFhz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARhdddNFFhz9GF1100UWHPwAAAAAAAAAARhdddNFFhz8AAAAAAAAAAEYXXXTRRYc/AAAAAAAAAAAAAAAAAAAAAEYXXXTRRZc/AAAAAAAAAABGF1100UWHPwAAAAAAAAAARhdddNFFhz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEYXXXTRRYc/RhdddNFFlz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHTRRRdddKE/AAAAAAAAAABGF1100UWnP0YXXXTRRYc/L7rooosuuj9GF1100UWXP0YXXXTRRYc/dNFFF110oT900UUXXXSxPwAAAAAAAAAARhdddNFFhz900UUXXXShPwAAAAAAAAAARhdddNFFpz900UUXXXShPwAAAAAAAAAAAAAAAAAAAAB00UUXXXSxP0YXXXTRRZc/XXTRRRddtD9GF1100UWXPwAAAAAAAAAARhdddNFFhz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1123454,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b653-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "The Frigidaire 21.7 cu. Ft. French door refrigerator gives you over 100 ways to organize and customize your refrigerator. Discover how our genuine filtration works to keep your water cleaner with our PureSource Ultra&#174; II Water Filters that removes 99.3% of lead and 99.9% of cysts from your household water. You'll also enjoy better visibility throughout the refrigerator with corner-to-corner LED Lighting.",
+                "brand": "Frigidaire",
+                "description": "21.7-cu ft Counter-depth French Door Refrigerator with Ice Maker (Stainless Steel) ENERGY STAR",
+                "image_url": "https://mobileimages.lowes.com/product/converted/012505/012505644405.jpg",
+                "product_url": "https://www.lowes.com/pd/Frigidaire-21-7-cu-ft-Counter-depth-French-Door-Refrigerator-with-Ice-Maker-Stainless-Steel-ENERGY-STAR/1000362389",
+                "title": "Frigidaire 21.7-cu ft Counter-depth French Door Refrigerator with Ice Maker (Stainless Steel) ENERGY STAR"
+              }
+            },
+            "text": "Frigidaire 21.7-cu ft Counter-depth French Door Refrigerator with Ice Maker (Stainless Steel) ENERGY STAR",
+            "embedding": {
+              "dense": {
+                "buffer": "IPuxH/uxvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ4gRM4gYM/FDiBEziBgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUOIETOIGTPxQ4gRM4gYM/AAAAAAAAAAAAAAAAAAAAABQ4gRM4gYM/FDiBEziBgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ4gRM4gYM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDiBEziBgz8AAAAAAAAAABQ4gRM4gYM/FDiBEziBgz8UOIETOIGTPxQ4gRM4gZM/FDiBEziBgz8AAAAAAAAAABQ4gRM4gYM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDiBEziBgz8UOIETOIGDPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB3UQR3UQZ0/HdRBHdRBnT8UOIETOIGDPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFDiBEziBgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ4gRM4gaM/AAAAAAAAAAAd1EEd1EGdPxQ4gRM4gZM/G63RGq3Ruj8UOIETOIGTPxQ4gRM4gZM/HdRBHdRBnT8d1EEd1EGtPwAAAAAAAAAAFDiBEziBgz8UOIETOIGTPwAAAAAAAAAAHdRBHdRBnT8UOIETOIGjPxQ4gRM4gYM/AAAAAAAAAAAWX/EVX/G1PxQ4gRM4gZM/ERERERERsT8UOIETOIGTPwAAAAAAAAAAFDiBEziBgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11239709,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b8b9-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049328720.jpg",
+                "description": "19.9-cu ft Counter-depth Side-by-Side Refrigerator with Ice Maker (White Ice)",
+                "brand": "Whirlpool",
+                "full_description": "",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-19-9-cu-ft-Counter-depth-Side-by-Side-Refrigerator-with-Ice-Maker-White-Ice/50426214",
+                "title": "Whirlpool 19.9-cu ft Counter-depth Side-by-Side Refrigerator with Ice Maker (White Ice)"
+              }
+            },
+            "text": "Whirlpool 19.9-cu ft Counter-depth Side-by-Side Refrigerator with Ice Maker (White Ice)",
+            "embedding": {
+              "dense": {
+                "buffer": "+s3Wod9svT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMikeIFMioc/yKR4gUyKhz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADIpHiBTIqnP8ikeIFMioc/AAAAAAAAAAAAAAAAAAAAAMikeIFMioc/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADIpHiBTIqXPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMikeIFMioc/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMikeIFMipc/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAyKR4gUyKhz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMikeIFMioc/yKR4gUyKlz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADIpHiBTIqXPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMikeIFMipc/yKR4gUyKhz+WexphuaehP5Z7GmG5p6E/+s3Wod9svT/IpHiBTIqXP8ikeIFMioc/yKR4gUyKpz+WexphuaexPwAAAAAAAAAAyKR4gUyKhz/IpHiBTIqXPwAAAAAAAAAAyKR4gUyKhz/IpHiBTIqnP8ikeIFMipc/AAAAAAAAAACWexphuaexPwAAAAAAAAAAlnsaYbmnsT/IpHiBTIqXPwAAAAAAAAAAyKR4gUyKhz8AAAAAAAAAAMikeIFMioc/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11246808,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b86d-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Whirlpool-20-5-cu-ft-Counter-Depth-Side-by-Side-Refrigerator-with-Ice-Maker-Fingerprint-Resistant-Stainless-Steel/1000460273",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049450162.jpg",
+                "full_description": "Store more of your family's favorites in this counter depth refrigerator. The counter depth design makes extra room in the kitchen and features an exterior ice and water dispenser with EveryDrop&#8482; filtration. Hide smudges with the fingerprint resistant refrigerator exterior that easily wipes clean and count on the Accu-Chill&#8482; temperature management system to keep family favorites in their ideal environment.",
+                "title": "Whirlpool 20.5-cu ft Counter-Depth Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel)",
+                "brand": "Whirlpool",
+                "description": "20.5-cu ft Counter-Depth Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel)"
+              }
+            },
+            "text": "Whirlpool 20.5-cu ft Counter-Depth Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "q8FzBIq2uj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB2Boq0Gz4E/HYGirQbPgT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdgaKtBs+hPx2Boq0Gz4E/AAAAAAAAAAAdgaKtBs+BPwAAAAAAAAAAHYGirQbPgT8AAAAAAAAAAAAAAAAAAAAAHYGirQbPgT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB2Boq0Gz4E/HYGirQbPgT8AAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAAAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHYGirQbPgT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB2Boq0Gz5E/HYGirQbPoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdgaKtBs+BPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB2Boq0Gz6E/HYGirQbPgT8dgaKtBs+RPx2Boq0Gz5E/zxEo2mrwvD8dgaKtBs+RPx2Boq0Gz5E/q8FzBIq2mj9B0VaD5wi0PwAAAAAAAAAAHYGirQbPgT8dgaKtBs+hPwAAAAAAAAAAZCELWchCpj8dgaKtBs+hP6vBcwSKtpo/AAAAAAAAAAAdgaKtBs+xPx2Boq0Gz6E/ZCELWchCtj8dgaKtBs+RPwAAAAAAAAAAHYGirQbPgT8AAAAAAAAAAB2Boq0Gz4E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.112547405,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          }
+        ],
+        "tags": {},
+        "text": "counter-depth refrigerator with ice maker in white",
+        "embedding": {
+          "dense": {
+            "buffer": "uB6F61G4vj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB7FK5H4XqUPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHsUrkfheqQ/AAAAAAAAAAB7FK5H4XqkP3sUrkfhepQ/7FG4HoXrwT97FK5H4XqUP3sUrkfhepQ/uB6F61G4rj+amZmZmZm5PwAAAAAAAAAAexSuR+F6lD8AAAAAAAAAAHsUrkfhepQ/exSuR+F6pD97FK5H4XqkP3sUrkfhepQ/AAAAAAAAAAC4HoXrUbi+PwAAAAAAAAAAmpmZmZmZuT97FK5H4XqUPwAAAAAAAAAAexSuR+F6pD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "shape": [
+              96
+            ],
+            "dtype": "<f8",
+            "quantization": 0,
+            "maxVal": 0,
+            "minVal": 0,
+            "scale": 0,
+            "originalDtype": ""
+          }
+        },
+        "granularity": 0,
+        "adjacency": 0,
+        "parentId": "",
+        "chunks": [],
+        "weight": 0,
+        "uri": "",
+        "mimeType": "",
+        "location": [],
+        "offset": 0,
+        "scores": {},
+        "modality": "",
+        "evaluations": {}
+      }
+    ],
+    "groundtruths": []
+  }
+}

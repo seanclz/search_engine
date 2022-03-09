@@ -1,0 +1,1021 @@
+{
+  "requestId": "b331ffcc-e263-45c5-b660-2dd0cba97412",
+  "data": {
+    "docs": [
+      {
+        "id": "3e7ed6e6-40b6-11ec-a63e-e3ebb0d407f3",
+        "matches": [
+          {
+            "id": "2eab7e2e-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Pit Boss Tailgate Series Stainless Steel 12000-BTU 308-sq in Portable Gas Grill",
+                "title": "Pit Boss Pit Boss Tailgate Series Stainless Steel 12000-BTU 308-sq in Portable Gas Grill",
+                "product_url": "https://www.lowes.com/pd/Pit-Boss-Pit-Boss-Tailgate-Series-Stainless-Steel-12000-BTU-308-sq-in-Portable-Gas-Grill/1000565787",
+                "full_description": "The Pit Stop by Pit Boss lets you take your BBQ on the road, or anywhere your travel takes you. Our 305 sq in cooking surface is large enough for camping, tailgating, picnics and backyard enjoyment. Folding legs allow you to collapse and store in truck bed, car trunk or RV. The Pit Stop is constructed from stainless steel including body, hood, cooking grids and flame tamer. Operates on 1 lb cylinder.",
+                "brand": "Pit Boss",
+                "image_url": "https://mobileimages.lowes.com/product/converted/684678/684678483473.jpg"
+              }
+            },
+            "text": "Pit Boss Pit Boss Tailgate Series Stainless Steel 12000-BTU 308-sq in Portable Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "6aKLLrrowj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWXPwAAAAAAAAAAAAAAAAAAAABGF1100UWnP0YXXXTRRYc/RhdddNFFhz9GF1100UWHPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARhdddNFFhz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB00UUXXXShPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARhdddNFFlz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdNFFF110oT8AAAAAAAAAAAAAAAAAAAAAdNFFF110oT9GF1100UWXP0YXXXTRRYc/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABdddNFFF60/RhdddNFFhz8AAAAAAAAAAAAAAAAAAAAAXXTRRRddtD8AAAAAAAAAAEYXXXTRRYc/AAAAAAAAAABddNFFF120PwAAAAAAAAAAAAAAAAAAAAB00UUXXXSxPwAAAAAAAAAARhdddNFFlz900UUXXXShPwAAAAAAAAAARhdddNFFhz900UUXXXShPy+66KKLLro/dNFFF110sT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18782026,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2eab7e3c-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Pit Boss Tailgate Series Stainless Steel 20000-BTU 364-sq in Portable Gas Grill",
+                "product_url": "https://www.lowes.com/pd/Pit-Boss-Pit-Boss-Tailgate-Series-Stainless-Steel-20000-BTU-364-sq-in-Portable-Gas-Grill/1000194325",
+                "title": "Pit Boss Pit Boss Tailgate Series Stainless Steel 20000-BTU 364-sq in Portable Gas Grill",
+                "full_description": "The Pit Boss two-burner stainless steel portable grill is perfect for tailgating, hunting, camping, or a day in the park. The 275 square inch cooking area is large enough for any outdoor gathering. The lightweight design with folding legs and latching hood makes it easy to carry and transport. Two 10,000 BTU independently controlled burners give you the versatility to sear your food, or take your time and go low and slow. Don't head to your next tailgate party without the Pit Boss PB200P.",
+                "brand": "Pit Boss",
+                "image_url": "https://mobileimages.lowes.com/product/converted/684678/684678483008.jpg"
+              }
+            },
+            "text": "Pit Boss Pit Boss Tailgate Series Stainless Steel 20000-BTU 364-sq in Portable Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "6aKLLrrowj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGF1100UWXPwAAAAAAAAAAAAAAAAAAAABGF1100UWnPwAAAAAAAAAARhdddNFFhz9GF1100UWHP0YXXXTRRYc/AAAAAAAAAABGF1100UWHPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB00UUXXXShPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARhdddNFFlz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdNFFF110oT8AAAAAAAAAAAAAAAAAAAAAdNFFF110oT9GF1100UWXP0YXXXTRRYc/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABdddNFFF60/RhdddNFFhz8AAAAAAAAAAAAAAAAAAAAAXXTRRRddtD8AAAAAAAAAAEYXXXTRRYc/AAAAAAAAAABddNFFF120PwAAAAAAAAAAAAAAAAAAAAB00UUXXXSxPwAAAAAAAAAARhdddNFFlz900UUXXXShPwAAAAAAAAAARhdddNFFhz900UUXXXShPy+66KKLLro/dNFFF110sT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.18782026,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2eab7e81-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/684678/684678080610.jpg",
+                "title": "Louisiana Grills LG Series 914-sq in Black Pellet Grill",
+                "brand": "Louisiana Grills",
+                "description": "LG Series 914-sq in Black Pellet Grill",
+                "product_url": "https://www.lowes.com/pd/Louisiana-Grills-LG-Series-914-sq-in-Black-Pellet-Grill/1002197958",
+                "full_description": "Bigger, hotter, heavier; own a world class BBQ in your own backyard. The LG900 presents the same game-changing features as the LG700 integrated with a larger cooking surface. Perfect for larger families and social gatherings, the LG900 bears an easy to clean, 913 sq in cast iron cooking surface. Elevate you BBQ experience with L g's burn system and slide-plate flame broiler for direct and indirect cooking. Upgrade the LG900 with side shelves or a hopper extension to boos your grilling performance. With eight separate cooking functions, the LG series will change the way your think about BBQ. Sear or smoke, bake or roast, the LG900 with enhance all of your cooking experiences."
+              }
+            },
+            "text": "Louisiana Grills LG Series 914-sq in Black Pellet Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "nhLkKUGewj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ4S5ClBnpI/AAAAAAAAAAAAAAAAAAAAAJ4S5ClBnpI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACeEuQpQZ6SPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA7RvWvmHtqz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ4S5ClBnqI/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnhLkKUGekj8AAAAAAAAAAAAAAAAAAAAAnhLkKUGekj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO0b1r5h7as/AAAAAAAAAACeEuQpQZ6SPwAAAAAAAAAAnhLkKUGesj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADtG9a+Ye27PwAAAAAAAAAAnhLkKUGekj9KkKcEeUrAPwAAAAAAAAAAnhLkKUGeoj+eEuQpQZ6SPwAAAAAAAAAAnhLkKUGekj/tG9a+Ye2rP54S5ClBnrI/nhLkKUGekj+eEuQpQZ6SPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20089059,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2eab7e65-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Imperial-International-Pittsburgh-Steelers-Pittsburgh-Steelers-Bucket-Grill-10-sq-in-Muliple-Colors-Metal-Portable-Charcoal-Grill/5000039925",
+                "title": "Imperial International Pittsburgh Steelers Pittsburgh Steelers Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+                "brand": "Imperial International",
+                "description": "Pittsburgh Steelers Pittsburgh Steelers Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/500003/5000039925.jpg",
+                "full_description": "Pack up and bring the tailgate with you with this bucket grill. This fully functional mini-grill uses charcoal and is made from durable, galvanized steel. The bucket grill also includes a wooden handle for convenient and safe transportation to your tailgate, BBQ, beach or campsite. Product is officially licensed by the NFL."
+              }
+            },
+            "text": "Imperial International Pittsburgh Steelers Pittsburgh Steelers Bucket Grill 10-sq in Muliple Colors/Metal Portable Charcoal Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "8oa8IW/Iuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwB/wBf8B/PwAAAAAAAAAA8Af8AX/Afz/wB/wBf8B/P/AH/AF/wH8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwB/wBf8B/P/AH/AF/wI8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAPAH/AF/wI8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAAAAAAAAAAAA9AV9QV/Qlz8AAAAAAAAAAAAAAAAAAAAA8Af8AX/Ajz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPKGvCFvyKs/9AV9QV/Qlz/wB/wBf8CPPwAAAAAAAAAA9AV9QV/Qtz8AAAAAAAAAAPAH/AF/wI8/9AV9QV/Qlz/wB/wBf8CvPwAAAAAAAAAA8Af8AX/Afz/yhrwhb8i7P/AH/AF/wH8/8Af8AX/Anz/2hD1hT9ijP/AH/AF/wI8/8Af8AX/Afz91RV1RV9S1P/QFfUFf0Kc/dUVdUVfUtT/wB/wBf8CfPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20154609,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2eab7e7a-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Pit-Boss-Pro-Series-820-sq-in-Black-and-Chestnut-Pellet-Grill/1000601261",
+                "full_description": "Be the boss of your backyard with the Pit Boss 820 pro series wood pellet grill. Built with superior craftmanship, the PB820PS1 offers the best bang for your buck per square inch. Get bigger, hotter, and heavier grilling with 8-in-1 cooking. You can easily: sear, smoke, bbl, roast, char-grill, braise, bake and grill all in one. Your friends and family are going to love savoring the aromatic flavors that only come from 100% hardwood pellet cooking. Plus, you can masterfully infuse hardwood smoke into every dish with the push of a button. The PB820PS1 is so easy to use, it will become your favorite go to tool. Say \"goodbye\" to dry, overcooked foods. With the dial in digital control panel, alongside the Pit Boss meat probe, you can quickly adjust temperatures and monitor cooking progress without ever having to open the lid. So enjoy the party and grill confidently with the freedom of reliable and dependable grilling. The Pit Boss 820 pro series pellet grill adds even more value with additional features such as - the solid side shelf with built in tool hooks, one included meat probe, \"prime\" button feature, large in-line wheels, and folding front table.",
+                "description": "Pro Series 820-sq in Black and Chestnut Pellet Grill",
+                "brand": "Pit Boss",
+                "title": "Pit Boss Pro Series 820-sq in Black and Chestnut Pellet Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/684678/684678727706.jpg"
+              }
+            },
+            "text": "Pit Boss Pro Series 820-sq in Black and Chestnut Pellet Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "yRCso837xD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA72rxPccmQPwAAAAAAAAAAAAAAAAAAAAA72rxPccmQPwAAAAAAAAAAO9q8T3HJkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO9q8T3HJkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA72rxPccmgPzvavE9xyZA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO9q8T3HJkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWEeb9ykuqT8AAAAAAAAAAAAAAAAAAAAAO9q8T3HJkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADvavE9xyaA/AAAAAAAAAAA72rxPccmQPzvavE9xyZA/yRCso837tD8AAAAAAAAAAAAAAAAAAAAAO9q8T3HJkD872rxPccmwPwAAAAAAAAAAO9q8T3HJkD/JEKyjzfu0PwAAAAAAAAAAWEeb9ykuqT872rxPccmgPwAAAAAAAAAAO9q8T3HJkD9YR5v3KS6pP8kQrKPN+7Q/O9q8T3HJsD872rxPccmQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20167746,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2eab7e89-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Louisiana Grills LG Series 782-sq in Black Pellet Grill",
+                "brand": "Louisiana Grills",
+                "image_url": "https://mobileimages.lowes.com/product/converted/684678/684678080689.jpg",
+                "product_url": "https://www.lowes.com/pd/Louisiana-Grills-Louisiana-Grills-LG-Series-782-sq-in-Black-Pellet-Grill/1000565827",
+                "title": "Louisiana Grills Louisiana Grills LG Series 782-sq in Black Pellet Grill",
+                "full_description": "The family is growing! Louisiana Grills is honored to present the all-new LG800 elite. The innovative stainless steel unit has been redesigned to offer the same superior advantage of wood pellet grilling wrapped in a contemporary look. Featuring 838 square inches of ample cooking space, a high-temperature powder-coated finish, l's famous burn system and standard flame broiler to sear your favorite steaks, the elite series is ideal for any family. Equipped with out digital control brad and programmable meat probe, precise cooking control is possible at the push of a button. Experience the 8-in-1 cooking function that Louisiana Grills is proud to offer in the LG800 elite."
+              }
+            },
+            "text": "Louisiana Grills Louisiana Grills LG Series 782-sq in Black Pellet Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "chzHcRzHwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcx3Ecx3GMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHMdxHMdxjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABzHcRzHcYw/HMdxHMdxjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcx3Ecx3GMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHMdxHMdxrD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFVVVVVVVaU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHMdxHMdxjD8AAAAAAAAAAAAAAAAAAAAAHMdxHMdxjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHIcx3Ecx7E/AAAAAAAAAAAcx3Ecx3GMPwAAAAAAAAAAHMdxHMdxrD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAPwAAAAAAAAAAHMdxHMdxjD8AAAAAAADAPwAAAAAAAAAAVVVVVVVVpT8cx3Ecx3GcPwAAAAAAAAAAHMdxHMdxjD8cx3Ecx3GsP1VVVVVVVbU/HMdxHMdxjD8cx3Ecx3GcPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20197175,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2eab7e82-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Louisiana Grills",
+                "full_description": "Bigger, hotter, heavier; the innovative LG series is comprised to offer the most versatile cooking system available. Fueled by your selection of wood pellet blends, the LG700 consists of a two-tiered, 707 sq in cooking surface that is perfect for a family of four. The LG burn system will complement your barbecuing ability with true convection cooking, full digital control and a programmable meat probe to regulate the internal temperature of your food. Louisiana Grills famous flame broiler allows for direct grilling, wielding eight distinct cooking methods to serve your every need. Sear or smoke, bake or roast, the LG700 will enhance all of your cooking experiences.",
+                "title": "Louisiana Grills Louisiana Grills LG Series 708-sq in Black Pellet Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/684678/684678080603.jpg",
+                "product_url": "https://www.lowes.com/pd/Louisiana-Grills-Louisiana-Grills-LG-Series-708-sq-in-Black-Pellet-Grill/1002197448",
+                "description": "Louisiana Grills LG Series 708-sq in Black Pellet Grill"
+              }
+            },
+            "text": "Louisiana Grills Louisiana Grills LG Series 708-sq in Black Pellet Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "chzHcRzHwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcx3Ecx3GMPwAAAAAAAAAAAAAAAAAAAAAcx3Ecx3GMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABzHcRzHcYw/HMdxHMdxjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcx3Ecx3GMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHMdxHMdxrD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFVVVVVVVaU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHMdxHMdxjD8AAAAAAAAAAAAAAAAAAAAAHMdxHMdxjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHIcx3Ecx7E/AAAAAAAAAAAcx3Ecx3GMPwAAAAAAAAAAHMdxHMdxrD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAPwAAAAAAAAAAHMdxHMdxjD8AAAAAAADAPwAAAAAAAAAAVVVVVVVVpT8cx3Ecx3GcPwAAAAAAAAAAHMdxHMdxjD8cx3Ecx3GsP1VVVVVVVbU/HMdxHMdxjD8cx3Ecx3GcPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20197175,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2eab7ecf-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/089245/089245119678.jpg",
+                "full_description": "The cal flame built-in 4-burner gas BBQ grill has the cooking power of up to 75,000 BTUs. This stainless steel grill features a convenient full width drip tray, four cast stainless steel burners with independent ignitions, lip guards on all burners to prevent clogging, independent knobs with an exclusive patented design and convenient lights to cook day or night. The rotisserie feature has motor mounts on the grills left or right side and includes an independent 15,000 BTUs rear burner that is ideal for rotisserie cooking. Enjoy favorites like eggs or bacon with an easy to store griddle tray designed to fit the Cal Flame grill or infuse BBQ with the smoky flavor everyone loves with a covered accessory smoker tray. The Cal Flame grill cover is included. Grill comes with a 10-year limited warranty.",
+                "product_url": "https://www.lowes.com/pd/Cal-Flame-4-Burner-Built-in-Propane-Gas-Grill-in-Stainless-Steel-with-Accessory-Kit/1002720766",
+                "title": "Cal Flame 4-Burner Built-in Propane Gas Grill in Stainless Steel with Accessory Kit",
+                "description": "4-Burner Built-in Propane Gas Grill in Stainless Steel with Accessory Kit",
+                "brand": "Cal Flame"
+              }
+            },
+            "text": "Cal Flame 4-Burner Built-in Propane Gas Grill in Stainless Steel with Accessory Kit",
+            "embedding": {
+              "dense": {
+                "buffer": "v/aQy4qBwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACq82sPuayYPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKrzaw+5rIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqvNrD7msiD+q82sPuayYP6rzaw+5rIg/AAAAAAAAAAAAAAAAAAAAAKrzaw+5rIg/qvNrD7msmD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACq82sPuayIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqvNrD7msiD8AAAAAAAAAAAAAAAAAAAAAqvNrD7msmD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJTwRlPn164/AAAAAAAAAACq82sPuayYPwAAAAAAAAAANHV+7SGXtT8AAAAAAAAAAAAAAAAAAAAAqvNrD7msiD80dX7tIZe1PwAAAAAAAAAAAAAAAAAAAAA0dX7tIZe1P6rzaw+5rIg/lPBGU+fXrj+q82sPuayYP6rzaw+5rIg/AAAAAAAAAACU8EZT59euP5TwRlPn164/lPBGU+fXrj+q82sPuayYPwAAAAAAAAAAqvNrD7msiD8AAAAAAAAAAKrzaw+5rIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20202373,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79a80-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/NAPOLEON-Prestige-Stainless-Steel-5-Burner-Natural-Gas-Grill/1002565756",
+                "description": "Prestige Stainless Steel 5-Burner Natural Gas Grill",
+                "full_description": "Barbecuing for a large crowd is a breeze with the Napoleon prestige&#174; 665 natural gas grill, constructed in high quality, weather resistant stainless steel. You'll know it's a Napoleon with the iconic wave&#8482; cooking grids delivering those distinctive sear marks. Not just durable on the outside; under the lid, quality stainless steel is used for the cooking grids, tube burners, sear plates, and basin. The dual-layered, lift ease&#8482; roll top lid provides superior heat retention, allowing you to sear, bake, roast, smoke, and even turn your grill into a charcoal BBQ with the optional cast iron charcoal tray. Never leave your barbecue on again as all the prestige&#174; series grills come with the safety glow feature where the control knobs glow red when the burner is on. Complete your outdoor living space with a distinctive gas grill that can do it all.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/629162/629162131799.jpg",
+                "title": "NAPOLEON Prestige Stainless Steel 5-Burner Natural Gas Grill",
+                "brand": "NAPOLEON"
+              }
+            },
+            "text": "NAPOLEON Prestige Stainless Steel 5-Burner Natural Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "3t3d3d3dvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERkT8RERERERGRPwAAAAAAAAAAAAAAAAAAAAARERERERGRPwAAAAAAAAAAERERERERoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/AAAAAAAAAACamZmZmZmpPxEREREREaE/ERERERERoT8AAAAAAAAAAAAAAAAAAAAAERERERERoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREbE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmpmZmZmZuT8AAAAAAAAAABEREREREZE/AAAAAAAAAACamZmZmZmpPwAAAAAAAAAAAAAAAAAAAABVVVVVVVW1PwAAAAAAAAAAERERERERoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVVVVVVVW1PxEREREREbE/ERERERERsT8RERERERGhPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20242968,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79a81-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/NAPOLEON-Prestige-Stainless-Steel-4-Burner-Natural-Gas-Grill/1002565564",
+                "full_description": "Grilling up a delicious dinner for a crowd is easy with the Napoleon Prestige&#174; Series 500 Natural Gas Grill, all in glorious stainless steel. Grill up to thirty burgers at once on the large grilling area and generous warming rack. You'll know it's a Napoleon with the iconic WAVE&#8482; cooking grids for those distinctive sear marks. Not just durable on the outside; under the lid, quality stainless steel is used for the cooking grids, tube burners and sear plates. The LIFT EASE&#8482; roll top lid provides superior heat retention, allowing you to sear, bake, roast, smoke, and even turn your grill into a charcoal BBQ with the optional Charcoal Tray. Never leave your barbecue on again with the SafetyGlow feature where the control knobs glow red when the burner is on. This compact grill features folding side shelves and interior cabinet storage inside the minimalist pedestal base. Complete your outdoor living space with the gas grill that can do it all.",
+                "brand": "NAPOLEON",
+                "description": "Prestige Stainless Steel 4-Burner Natural Gas Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/629162/629162131232.jpg",
+                "title": "NAPOLEON Prestige Stainless Steel 4-Burner Natural Gas Grill"
+              }
+            },
+            "text": "NAPOLEON Prestige Stainless Steel 4-Burner Natural Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "3t3d3d3dvT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERkT8RERERERGRPwAAAAAAAAAAAAAAAAAAAAARERERERGRPwAAAAAAAAAAERERERERoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/AAAAAAAAAACamZmZmZmpPxEREREREaE/ERERERERoT8AAAAAAAAAAAAAAAAAAAAAERERERERoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREbE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmpmZmZmZuT8AAAAAAAAAABEREREREZE/AAAAAAAAAACamZmZmZmpPwAAAAAAAAAAAAAAAAAAAABVVVVVVVW1PwAAAAAAAAAAERERERERoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVVVVVVVW1PxEREREREbE/ERERERERsT8RERERERGhPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20242968,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db7983a-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Hisense-4-4-cu-ft-Freestanding-Mini-Fridge-Black-Stainless-Steel/1002981222",
+                "image_url": "https://mobileimages.lowes.com/product/converted/819130/819130027159.jpg",
+                "description": "4.4-cu ft Freestanding Mini Fridge (Black Stainless Steel)",
+                "title": "Hisense 4.4-cu ft Freestanding Mini Fridge (Black Stainless Steel)",
+                "full_description": "This energy star 4.4 Cu. Ft. Single door black stainless steel look mini fridge is perfect for college dorms, break rooms, or just extra storage for your home and office space. The adjustable legs and reversible door design allow for placement of this mini refrigerator virtually anywhere you need it. The sleek and fashionable all fridge design does not compromise its functionality. This model has convenient storage shelves on the door for canned beverages and a 2-Liter bottle as well as extra space for single-serve yogurt or other condiments/snacks. Removable fresh-food glass shelves provide storage for larger items to efficiently utilize interior capacity.",
+                "brand": "Hisense"
+              }
+            },
+            "text": "Hisense 4.4-cu ft Freestanding Mini Fridge (Black Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "CB988MEHvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgffPDBB48/CB988MEHjz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIH3zwwQePPwgffPDBB48/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgffPDBB58/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIH3zwwQePPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgffPDBB58/AAAAAAAAAAAIH3zwwQePPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACB988MEHjz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACB988MEHnz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEYXXXTRRac/AAAAAAAAAAAIH3zwwQefPwgffPDBB58/CB988MEHvz8IH3zwwQePPwgffPDBB58/AAAAAAAAAABGF1100UW3PwAAAAAAAAAACB988MEHjz9GF1100UWnPwAAAAAAAAAAZZNNNtlksz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIH3zwwQefP2WTTTbZZLM/CB988MEHrz8IH3zwwQePPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20242968,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2eab7e99-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "Bigger, hotter, heavier; Louisiana Grills is a leader in pellet grills. Fill the grill and maximize your BBQ capabilities with the LG1100. With 1061 square inches of cast iron cooking surface, the LG1100 was designed for entertaining and large social gatherings. Direct or indirect flame grilling, convection heat, and 100% natural hardwood pellets create an authentic smoky flavor and the ultimate BBQ experience in your own backyard. The fill digital control, programmable meat probe and proprietary exhaust system combine for even grilling and smoking. Strengthened with heady duty steel and a reinforced lid, the LG series heats up to 600 F with true convection cooking. Make the most of your backyard BBQ with the LG1100.",
+                "product_url": "https://www.lowes.com/pd/Louisiana-Grills-Louisiana-Grills-LG-Series-1062-sq-in-Black-Pellet-Grill/1002198468",
+                "description": "Louisiana Grills LG Series 1062-sq in Black Pellet Grill",
+                "title": "Louisiana Grills Louisiana Grills LG Series 1062-sq in Black Pellet Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/684678/684678080627.jpg",
+                "brand": "Louisiana Grills"
+              }
+            },
+            "text": "Louisiana Grills Louisiana Grills LG Series 1062-sq in Black Pellet Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "jBgxYsSIwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgwIEDBw6MPwAAAAAAAAAAAAAAAAAAAADgwIEDBw6MP+DAgQMHDow/4MCBAwcOjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgwIEDBw6MPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgwIEDBw6MPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4MCBAwcOrD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKhQoUKFCqU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4MCBAwcOjD8AAAAAAAAAAAAAAAAAAAAA4MCBAwcOjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIwYMWLEiLE/AAAAAAAAAADgwIEDBw6MPwAAAAAAAAAA4MCBAwcOrD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD8+PHjx4+/PwAAAAAAAAAA4MCBAwcOjD/8+PHjx4+/PwAAAAAAAAAAqFChQoUKpT/gwIEDBw6cPwAAAAAAAAAA4MCBAwcOjD/gwIEDBw6sP6hQoUKFCrU/4MCBAwcOjD/gwIEDBw6cPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20259751,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2eab7e2d-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "",
+                "brand": "Cuisinart",
+                "image_url": "https://mobileimages.lowes.com/product/converted/817096/817096011113.jpg",
+                "product_url": "https://www.lowes.com/pd/Cuisinart-All-Foods-Stainless-Steel-15000-BTU-240-sq-in-Portable-Gas-Grill/4167725",
+                "description": "All-Foods Stainless Steel 15000-BTU 240-sq in Portable Gas Grill",
+                "title": "Cuisinart All-Foods Stainless Steel 15000-BTU 240-sq in Portable Gas Grill"
+              }
+            },
+            "text": "Cuisinart All-Foods Stainless Steel 15000-BTU 240-sq in Portable Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "KvJZN5givz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcTJHPusGkPwAAAAAAAAAAAAAAAAAAAADQusEU+ayrP9C6wRT5rIs/0LrBFPmsiz8AAAAAAAAAANC6wRT5rIs/0LrBFPmsiz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0LrBFPmsiz/QusEU+ayLP9C6wRT5rIs/AAAAAAAAAAAAAAAAAAAAANC6wRT5rIs/0LrBFPmsmz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0LrBFPmsiz8AAAAAAAAAAAAAAAAAAAAA0LrBFPmsmz/QusEU+ayLP9C6wRT5rIs/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANC6wRT5rKs/0LrBFPmsiz8AAAAAAAAAANC6wRT5rIs/0LrBFPmsqz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADCFPmsG0yxPwAAAAAAAAAAAAAAAAAAAAB2gynyWTe4PwAAAAAAAAAAHEyRz7rBpD8cTJHPusGkPwAAAAAAAAAA0LrBFPmsiz8cTJHPusGkPxxMkc+6wbQ/0LrBFPmsqz/QusEU+ayLPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20268613,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79ab2-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Broil King",
+                "product_url": "https://www.lowes.com/pd/Broil-King-Regal-S420-Stainless-Steel-4-Burner-Natural-Gas-Grill/1000955506",
+                "title": "Broil King Regal S420 Stainless Steel 4-Burner Natural Gas Grill",
+                "image_url": "https://mobileimages.lowes.com/product/converted/062703/062703851174.jpg",
+                "description": "Regal S420 Stainless Steel 4-Burner Natural Gas Grill",
+                "full_description": ""
+              }
+            },
+            "text": "Broil King Regal S420 Stainless Steel 4-Burner Natural Gas Grill",
+            "embedding": {
+              "dense": {
+                "buffer": "AAAAAAAAwj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAACQPwAAAAAAAAAAAAAAAAAAkD8AAAAAAAAAAAAAAAAAAKA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJA/AAAAAAAAqD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAtD8AAAAAAAAAAAAAAAAAAKA/AAAAAAAAAAAAAAAAAACwPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAC8PwAAAAAAAAAAAAAAAAAAqD8AAAAAAACQPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAC0PwAAAAAAAKg/AAAAAAAAqD8AAAAAAACgPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.20318942,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79a48-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "The Avallon 5.5 cubic foot built-in fridge (AFR241SSLH) will satisfy anyone in the market for a miniature refrigerator. At only 24 inches wide and just under 35 inches tall, this built-in model is very versatile as far as where it can be placed. Kitchens large and small as well as home bars, dorm rooms, and basements benefit from the refrigerated storage space this fridge provides. Wherever you place it though, it's sure to look good with a stainless steel door and stainless steel handle. It also has a true-key lock, allowing you to feel a sense of security for the contents of your fridge. It doesn't just look good, though. Store whatever you need in this fridge with the three sanded glass shelves and additional door storage for milk, juice, large soda bottles, or wine. A touch control panel lets you easily regulate the wide temperature range for this single zone fridge, which can be set anywhere from 34F to 50F. This fridge has a left hinged door.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/852017/852017005376.jpg",
+                "title": "Avallon 5.5-cu ft Freezerless Refrigerator (Stainless Steel)",
+                "brand": "Avallon",
+                "description": "5.5-cu ft Freezerless Refrigerator (Stainless Steel)",
+                "product_url": "https://www.lowes.com/pd/Avallon-5-5-cu-ft-Freezerless-Refrigerator-Stainless-Steel/1001301104"
+              }
+            },
+            "text": "Avallon 5.5-cu ft Freezerless Refrigerator (Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "mpmZmZmZuT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/ERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGRPxEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/ERERERERoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZmZmZmak/AAAAAAAAAAARERERERGRPwAAAAAAAAAAMzMzMzMzwz8RERERERGhPxEREREREZE/AAAAAAAAAAARERERERGhPwAAAAAAAAAAAAAAAAAAAABVVVVVVVW1PwAAAAAAAAAAERERERERoT8RERERERGhPwAAAAAAAAAAAAAAAAAAAABVVVVVVVW1PxEREREREbE/ERERERERsT8RERERERGRPxEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.2040697,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79a49-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Avallon 5.5-cu ft Freezerless Refrigerator (Stainless Steel)",
+                "product_url": "https://www.lowes.com/pd/Avallon-5-5-cu-ft-Freezerless-Refrigerator-Stainless-Steel/1001301384",
+                "brand": "Avallon",
+                "image_url": "https://mobileimages.lowes.com/product/converted/852017/852017005260.jpg",
+                "full_description": "With a large, beautifully lit interior, the Avallon AFR241SSOD outdoor built-in fridge creates an optimal storage environment for your food and beverages. Fully encased in stainless steel to withstand outdoor elements, the AFR241SSOD has been designed both inside and out to be sleek, stylish, and functional. A seamless stainless steel door gives this fridge the clean look that makes it ideal either as an under counter built-in or freestanding unit in your outdoor kitchen, bar, patio, and more. The matching stainless steel front vent and solid handlebar are the finishing touches on this expansive, professional looking fridge.",
+                "description": "5.5-cu ft Freezerless Refrigerator (Stainless Steel)"
+              }
+            },
+            "text": "Avallon 5.5-cu ft Freezerless Refrigerator (Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "mpmZmZmZuT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/ERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGRPxEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/ERERERERoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZmZmZmak/AAAAAAAAAAARERERERGRPwAAAAAAAAAAMzMzMzMzwz8RERERERGhPxEREREREZE/AAAAAAAAAAARERERERGhPwAAAAAAAAAAAAAAAAAAAABVVVVVVVW1PwAAAAAAAAAAERERERERoT8RERERERGhPwAAAAAAAAAAAAAAAAAAAABVVVVVVVW1PxEREREREbE/ERERERERsT8RERERERGRPxEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.2040697,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79a43-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Avallon-3-3-cu-ft-Freezerless-Refrigerator-Stainless-Steel/1001301048",
+                "full_description": "The Avallon 3.4 cubic foot built-in fridge (AFR151SSLH) is a slim and attractive refrigerator that is perfect for a small apartment kitchen, a dorm room, a personal home bar, or as supplemental refrigerated space. Using powerful, fan-forced compressor-based cooling, this fridge has a wide temperature range of 34 to 50 degrees Fahrenheit. Three sanded glass shelves and a \"milk rack\" on the door allow for a variety of different storage options. The door, door handle, and front vent are all made from stainless steel, and give the unit a polished, professional appearance. A white LED temperature display and white and blue alternating internal LED lights give the unit a timeless look as well as soft, interior illumination. A true-key lock is included for additional security. This unit has a left hinged door.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/852017/852017005352.jpg",
+                "brand": "Avallon",
+                "title": "Avallon 3.3-cu ft Freezerless Refrigerator (Stainless Steel)",
+                "description": "3.3-cu ft Freezerless Refrigerator (Stainless Steel)"
+              }
+            },
+            "text": "Avallon 3.3-cu ft Freezerless Refrigerator (Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "mpmZmZmZuT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/ERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGRPxEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGhPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/ERERERERoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZmZmZmak/AAAAAAAAAAARERERERGRPwAAAAAAAAAAMzMzMzMzwz8RERERERGhPxEREREREZE/AAAAAAAAAAARERERERGhPwAAAAAAAAAAAAAAAAAAAABVVVVVVVW1PwAAAAAAAAAAERERERERoT8RERERERGhPwAAAAAAAAAAAAAAAAAAAABVVVVVVVW1PxEREREREbE/ERERERERsT8RERERERGRPxEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.2040697,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79a42-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Avallon-3-3-cu-ft-Freezerless-Refrigerator-Stainless-Steel/1001301076",
+                "image_url": "https://mobileimages.lowes.com/product/converted/852017/852017005369.jpg",
+                "brand": "Avallon",
+                "title": "Avallon 3.3-cu ft Freezerless Refrigerator (Stainless Steel)",
+                "description": "3.3-cu ft Freezerless Refrigerator (Stainless Steel)",
+                "full_description": ""
+              }
+            },
+            "text": "Avallon 3.3-cu ft Freezerless Refrigerator (Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "mpmZmZmZuT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/ERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGRPxEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGhPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/ERERERERoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZmZmZmak/AAAAAAAAAAARERERERGRPwAAAAAAAAAAMzMzMzMzwz8RERERERGhPxEREREREZE/AAAAAAAAAAARERERERGhPwAAAAAAAAAAAAAAAAAAAABVVVVVVVW1PwAAAAAAAAAAERERERERoT8RERERERGhPwAAAAAAAAAAAAAAAAAAAABVVVVVVVW1PxEREREREbE/ERERERERsT8RERERERGRPxEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.2040697,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79a41-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Avallon",
+                "description": "3.3-cu ft Freezerless Refrigerator (Stainless Steel)",
+                "title": "Avallon 3.3-cu ft Freezerless Refrigerator (Stainless Steel)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/852017/852017005239.jpg",
+                "product_url": "https://www.lowes.com/pd/Avallon-3-3-cu-ft-Freezerless-Refrigerator-Stainless-Steel/1001301300",
+                "full_description": "The Avallon 3.4 cubic foot built-in fridge (AFR151SSLH) is a slim and attractive refrigerator that is perfect for a small apartment kitchen, a dorm room, a personal home bar, or as supplemental refrigerated space. Using powerful, fan-forced compressor-based cooling, this fridge has a wide temperature range of 34 to 50 degrees Fahrenheit. Three sanded glass shelves and a \"milk rack\" on the door allow for a variety of different storage options. The door, door handle, and front vent are all made from stainless steel, and give the unit a polished, professional appearance. A white LED temperature display and white and blue alternating internal LED lights give the unit a timeless look as well as soft, interior illumination. A true-key lock is included for additional security. This unit has a right hinged door."
+              }
+            },
+            "text": "Avallon 3.3-cu ft Freezerless Refrigerator (Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "mpmZmZmZuT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/ERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGRPxEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGhPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/ERERERERoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZmZmZmak/AAAAAAAAAAARERERERGRPwAAAAAAAAAAMzMzMzMzwz8RERERERGhPxEREREREZE/AAAAAAAAAAARERERERGhPwAAAAAAAAAAAAAAAAAAAABVVVVVVVW1PwAAAAAAAAAAERERERERoT8RERERERGhPwAAAAAAAAAAAAAAAAAAAABVVVVVVVW1PxEREREREbE/ERERERERsT8RERERERGRPxEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.2040697,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "2db79a40-40af-11ec-a63e-e3ebb0d407f3",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Avallon-3-3-cu-ft-Freezerless-Refrigerator-Stainless-Steel/1001301328",
+                "full_description": "",
+                "description": "3.3-cu ft Freezerless Refrigerator (Stainless Steel)",
+                "brand": "Avallon",
+                "image_url": "https://mobileimages.lowes.com/product/converted/852017/852017005246.jpg",
+                "title": "Avallon 3.3-cu ft Freezerless Refrigerator (Stainless Steel)"
+              }
+            },
+            "text": "Avallon 3.3-cu ft Freezerless Refrigerator (Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "mpmZmZmZuT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/ERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGRPxEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERERGhPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEREREREZE/ERERERERoT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJqZmZmZmak/AAAAAAAAAAARERERERGRPwAAAAAAAAAAMzMzMzMzwz8RERERERGhPxEREREREZE/AAAAAAAAAAARERERERGhPwAAAAAAAAAAAAAAAAAAAABVVVVVVVW1PwAAAAAAAAAAERERERERoT8RERERERGhPwAAAAAAAAAAAAAAAAAAAABVVVVVVVW1PxEREREREbE/ERERERERsT8RERERERGRPxEREREREZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERkT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.2040697,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          }
+        ],
+        "tags": {},
+        "text": "stainless steel gas grill",
+        "embedding": {
+          "dense": {
+            "buffer": "uB6F61G4vj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHsUrkfherQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAuB6F61G4vj8AAAAAAAAAAHsUrkfherQ/AAAAAAAAAAB7FK5H4Xq0PwAAAAAAAAAAAAAAAAAAAAB7FK5H4XrEPwAAAAAAAAAAexSuR+F6pD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB7FK5H4XqkP5qZmZmZmck/exSuR+F6tD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "shape": [
+              96
+            ],
+            "dtype": "<f8",
+            "quantization": 0,
+            "maxVal": 0,
+            "minVal": 0,
+            "scale": 0,
+            "originalDtype": ""
+          }
+        },
+        "granularity": 0,
+        "adjacency": 0,
+        "parentId": "",
+        "chunks": [],
+        "weight": 0,
+        "uri": "",
+        "mimeType": "",
+        "location": [],
+        "offset": 0,
+        "scores": {},
+        "modality": "",
+        "evaluations": {}
+      }
+    ],
+    "groundtruths": []
+  }
+}

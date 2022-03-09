@@ -1,0 +1,1021 @@
+{
+  "requestId": "e62404a9-7c0a-4faf-9724-b057aa85e4e5",
+  "data": {
+    "docs": [
+      {
+        "id": "81b55920-7a0a-11ec-be6b-5d6790f603b1",
+        "matches": [
+          {
+            "id": "cf61b6e4-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/084691/084691848752.jpg",
+                "product_url": "https://www.lowes.com/pd/GE-Profile-27-8-cu-ft-French-Door-Refrigerator-with-Ice-Maker-and-Door-within-Door-Fingerprint-resistant-Stainless-Steel/1002619100",
+                "full_description": "Built on the belief that modern life needs modern solutions, GE Profile Appliances are designed to make daily life simpler by incorporating Smart Home technology and cutting-edge features in every appliance. GE Profile&#8217;s sleek design and quality engineering will give your kitchen the most up-to-date look and the best innovative performance you&#8217;ve been looking for.",
+                "brand": "GE",
+                "description": "Profile 27.8-cu ft French Door Refrigerator with Ice Maker and Door within Door (Fingerprint-resistant Stainless Steel)",
+                "title": "GE Profile 27.8-cu ft French Door Refrigerator with Ice Maker and Door within Door (Fingerprint-resistant Stainless Steel)"
+              }
+            },
+            "text": "GE Profile 27.8-cu ft French Door Refrigerator with Ice Maker and Door within Door (Fingerprint-resistant Stainless Steel)",
+            "embedding": {
+              "dense": {
+                "buffer": "O9q8T3HJwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADvavE9xyYA/O9q8T3HJgD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA72rxPccmQPzvavE9xyYA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO9q8T3HJgD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADvavE9xyYA/O9q8T3HJgD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWEeb9ykumT872rxPccmAPzvavE9xyZA/O9q8T3HJgD8AAAAAAAAAADvavE9xyYA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO9q8T3HJgD8AAAAAAAAAAAAAAAAAAAAAO9q8T3HJgD8AAAAAAAAAADvavE9xyYA/O9q8T3HJkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMkQrKPN+6Q/AAAAAAAAAABYR5v3KS6ZPzvavE9xyYA/EayjzfsUtz9YR5v3KS6ZPzvavE9xyZA/WEeb9ykumT+CdbR5n+KyPwAAAAAAAAAAO9q8T3HJgD9YR5v3KS6ZPwAAAAAAAAAA532KS4ZgrT872rxPccmwPzvavE9xyYA/AAAAAAAAAABYR5v3KS65PzvavE9xyaA/gnW0eZ/isj872rxPccmAPwAAAAAAAAAAO9q8T3HJkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11057982,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b95d-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/182995/182995001979.jpg",
+                "product_url": "https://www.lowes.com/pd/Kenmore-Elite-Stainless-Steel-5-Burner-Liquid-Propane-and-Natural-Gas-Infrared-Gas-Grill-with-Rotisserie-Burner/1002260776",
+                "full_description": "Get inspired this season with the Kenmore elite 5-burner LP stainless steel gas grill with side searing burner. The five 12, 000 BTU stainless steel burners give you the power to cook practically anything under the sun, even at night with the double halogen build-in lights in firebox, while the convenient 12, 000 BTU side ceramic searing burner is perfect for searing steaks and other delicious creations. Premium 12,000 BTU ceramic rotisserie rear burner for those delicious and juicy rotisserie dishes and the side shelves gives you extra counter space for preparing dishes outside. The solid 8mm stainless steel cooking grids, and beautiful stainless steel handles bring professional quality and style to your backyard. With a high end stainless steel finish this Kenmore gas grill can beautifully complete your outdoor kitchen. Let your creative juices flow with this backyard barbecue all summer long. Cleanup is fast and painless with the convenient grease cup and pullout grease tray, individual electronic ignition lets you quickly fire up the grill, stainless steel fascias and LED lighted control panel, doors have a powder coated finish with stainless steel trim for added durability, the 5 - premium stainless steel main burners are 12, 000 BTU each ; side burner is 12, 000 BTU and rotisserie burner is 12,000 BTU, heavy duty 3\" swivel casters let you move this grill anywhere on the patio, the heavy duty exterior temperature gauge lets you closely monitor your meals, beautiful porcelain metallic-enameled lid with stainless steel handle. Shipped pre-assembled except for the sides-simply attach sides and you are ready to grill!",
+                "title": "Kenmore Elite Stainless Steel 5-Burner Liquid Propane and Natural Gas Infrared Gas Grill with Rotisserie Burner",
+                "description": "Stainless Steel 5-Burner Liquid Propane and Natural Gas Infrared Gas Grill with Rotisserie Burner",
+                "brand": "Kenmore Elite"
+              }
+            },
+            "text": "Kenmore Elite Stainless Steel 5-Burner Liquid Propane and Natural Gas Infrared Gas Grill with Rotisserie Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "whT5rBtMwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA1J4G4UHOCPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANSeBuFBzgj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA1J4G4UHOSPwAAAAAAAAAAAAAAAAAAAAA1J4G4UHOCPwAAAAAAAAAA0LrBFPmsmz8AAAAAAAAAADUngbhQc4I/AAAAAAAAAAA1J4G4UHOCPzUngbhQc4I/AAAAAAAAAAA1J4G4UHOCPwAAAAAAAAAANSeBuFBzgj8AAAAAAAAAADUngbhQc4I/NSeBuFBzkj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADUngbhQc7I/AAAAAAAAAAAAAAAAAAAAANC6wRT5rJs/0LrBFPmsuz81J4G4UHOCPwAAAAAAAAAANSeBuFBzgj81J4G4UHOyPwAAAAAAAAAAAAAAAAAAAADQusEU+ayrPzUngbhQc4I/TgJxoeYksD/QusEU+aybPzUngbhQc4I/NSeBuFBzgj/plbH9jl65P9C6wRT5rKs/0LrBFPmsqz81J4G4UHOiPwAAAAAAAAAANSeBuFBzgj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11093985,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b600-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "Whirlpool",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049442068.jpg",
+                "title": "Whirlpool 25.2-cu ft 3-Door 36-in French Door Refrigerator with Ice Maker and Interior Water Dispenser - Fingerprint Resistant Stainless Steel",
+                "description": "25.2-cu ft 3-Door 36-in French Door Refrigerator with Ice Maker and Interior Water Dispenser - Fingerprint Resistant Stainless Steel",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-25-2-cu-ft-3-Door-36-in-French-Door-Refrigerator-with-Ice-Maker-and-Interior-Water-Dispenser-Fingerprint-Resistant-Stainless-Steel/1000228559",
+                "full_description": "Get the storage your family needs and easily access filtered water with this refrigerator with water dispenser. Crisper drawers provide room to store fruits and veggies in their ideal environment while the produce preserver helps produce stay fresher longer. This ENERGY STAR&#174; certified refrigerator also has LED lighting to keep food looking as great as it tastes."
+              }
+            },
+            "text": "Whirlpool 25.2-cu ft 3-Door 36-in French Door Refrigerator with Ice Maker and Interior Water Dispenser - Fingerprint Resistant Stainless Steel",
+            "embedding": {
+              "dense": {
+                "buffer": "DiRaYXMgwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVticPwubA4lW2Hw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYjD8LmwOJVtiMPwAAAAAAAAAAC5sDiVbYfD8LmwOJVth8PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASLTC5kCilT8AAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC5sDiVbYfD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAubA4lW2Iw/C5sDiVbYjD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALmwOJVtiMPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEi0wuZAoqU/AAAAAAAAAABItMLmQKKVPwubA4lW2Hw/qSfjt0s9uT8LmwOJVtiMPwubA4lW2Iw/SLTC5kCilT/nQKIVNgeyPwAAAAAAAAAAC5sDiVbYfD8LmwOJVticPwAAAAAAAAAANgcSrbA5sD8LmwOJVtisP0i0wuZAopU/AAAAAAAAAACpJ+O3Sz25P0i0wuZAoqU/50CiFTYHsj8LmwOJVth8PwAAAAAAAAAAC5sDiVbYfD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11103088,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b664-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "title": "Whirlpool 26.8-cu ft 3-Door 36-in French Door Refrigerator with Exterior Ice - Water Dispenser and Dual Icemakers - Fingerprint Resistant Stainless Steel",
+                "description": "26.8-cu ft 3-Door 36-in French Door Refrigerator with Exterior Ice - Water Dispenser and Dual Icemakers - Fingerprint Resistant Stainless Steel",
+                "brand": "Whirlpool",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049464336.jpg",
+                "full_description": "Get more room with purposeful storage spaces for the items you use most in this french door refrigerator with dual icemakers. Features such as the platter pocket, In-Door-Ice&#174; storage, LED lights and a deli drawer make your family's favorites easy to fit and find. This ENERGY STAR&#174; refrigerator also has a fingerprint-resistant exterior that resists smudges and easily wipes clean.",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-26-8-cu-ft-3-Door-36-in-French-Door-Refrigerator-with-Exterior-Ice-Water-Dispenser-and-Dual-Icemakers-Fingerprint-Resistant-Stainless-Steel/1000494367"
+              }
+            },
+            "text": "Whirlpool 26.8-cu ft 3-Door 36-in French Door Refrigerator with Exterior Ice - Water Dispenser and Dual Icemakers - Fingerprint Resistant Stainless Steel",
+            "embedding": {
+              "dense": {
+                "buffer": "kpGRkZGRwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARZrsQZrugPxtwxRpwxXo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG3DFGnDFej8bcMUacMWKPwAAAAAAAAAAAAAAAAAAAAAbcMUacMWKPwAAAAAAAAAAG3DFGnDFej8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG3DFGnDFmj8bcMUacMV6PxtwxRpwxYo/AAAAAAAAAAAAAAAAAAAAABtwxRpwxYo/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABtwxRpwxYo/G3DFGnDFij8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbcMUacMWKPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABfCbBfCbKc/AAAAAAAAAAAbcMUacMWaPxtwxRpwxXo/GRkZGRkZuT8bcMUacMWKPxtwxRpwxYo/FBQUFBQUlD8RZrsQZruwPwAAAAAAAAAAG3DFGnDFej8RZrsQZrugPxtwxRpwxXo/G3DFGnDFqj8bcMUacMWqPxQUFBQUFJQ/AAAAAAAAAAAXwmwXwmy3PxfCbBfCbKc/EWa7EGa7sD8bcMUacMWKPwAAAAAAAAAAG3DFGnDFej8bcMUacMV6PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11140051,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b601-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "24.5-cu ft 4-Door 36-in French Door Refrigerator with Exterior Ice and Water Dispenser - Fingerprint Resistant Stainless Steel",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049445533.jpg",
+                "full_description": "Get the storage you need in this refrigerator with water dispenser. An exterior refrigerated drawer keeps frequently used items within easy reach. This ENERGY STAR&#174; certified refrigerator with LED lighting also gives you access to filtered ice and water without ever opening the door. Tap Touch controls are also as easy to clean as they are to use.",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-24-5-cu-ft-4-Door-36-in-French-Door-Refrigerator-with-Exterior-Ice-and-Water-Dispenser-Fingerprint-Resistant-Stainless-Steel/1000257811",
+                "title": "Whirlpool 24.5-cu ft 4-Door 36-in French Door Refrigerator with Exterior Ice and Water Dispenser - Fingerprint Resistant Stainless Steel",
+                "brand": "Whirlpool"
+              }
+            },
+            "text": "Whirlpool 24.5-cu ft 4-Door 36-in French Door Refrigerator with Exterior Ice and Water Dispenser - Fingerprint Resistant Stainless Steel",
+            "embedding": {
+              "dense": {
+                "buffer": "8fDw8PDwwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6ePx4eHh4eHn4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHh4eHh4efj8eHh4eHh5+Px4eHh4eHo4/Hh4eHh4efj8eHh4eHh5+PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAl5aWlpaWlj8eHh4eHh5+Px4eHh4eHo4/AAAAAAAAAAAAAAAAAAAAAB4eHh4eHn4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHo4/Hh4eHh4ejj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeHh4eHh6OPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANPS0tLS0qI/AAAAAAAAAACXlpaWlpaWPx4eHh4eHn4/eHh4eHh4uD8eHh4eHh6OPx4eHh4eHo4/l5aWlpaWlj/T0tLS0tKyPwAAAAAAAAAAAAAAAAAAAAAeHh4eHh6ePwAAAAAAAAAAHh4eHh4erj8eHh4eHh6uP5eWlpaWlpY/AAAAAAAAAAB4eHh4eHi4P5eWlpaWlqY/09LS0tLSsj8eHh4eHh5+PwAAAAAAAAAAHh4eHh4efj8eHh4eHh5+PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11231057,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b928-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Performance Stainless 6-Burner Liquid Propane Gas Grill with 1 Side Burner",
+                "full_description": "The Char-Broil&#169; Performance Series&#8482; 6-Burner Gas Grill packs a ton of grilling features into a sleek stainless steel cabinet design. This grill is made to last, with porcelain-coated cast iron grates that are rust-resistant and easy to clean. All the features are here including a removable porcelain-coated grease pan, cabinet doors for storage, an electronic igniter and a 15,000 BTU sear burner for locking in juices and grilling up flavorful steaks.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/047362/047362324481.jpg",
+                "title": "Char-Broil Performance Stainless 6-Burner Liquid Propane Gas Grill with 1 Side Burner",
+                "product_url": "https://www.lowes.com/pd/Char-Broil-Performance-Stainless-6-Burner-Liquid-Propane-Gas-Grill-with-1-Side-Burner/1000713050",
+                "brand": "Char-Broil"
+              }
+            },
+            "text": "Char-Broil Performance Stainless 6-Burner Liquid Propane Gas Grill with 1 Side Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "kZCQkJCQwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYGBgYGBiYPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGBgYGIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYGBgYGBiIPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASEhISEhKiPxgYGBgYGIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGBgYGBgYmD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGBgYGIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGBgYGBgYmD8AAAAAAAAAAAAAAAAAAAAAGBgYGBgYmD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHq4/AAAAAAAAAAAYGBgYGBiIPxgYGBgYGJg/FRUVFRUVtT8YGBgYGBiIPwAAAAAAAAAAGBgYGBgYmD8VFRUVFRW1PwAAAAAAAAAAAAAAAAAAAAAYGBgYGBioPxgYGBgYGIg/Hh4eHh4erj8SEhISEhKiPxgYGBgYGIg/GBgYGBgYiD8eHh4eHh6+PxISEhISEqI/GBgYGBgYmD8SEhISEhKiPwAAAAAAAAAAGBgYGBgYiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.112548016,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b925-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "The Char-Broil&#169; Performance Series&#8482; 4-Burner Gas Grill packs a ton of grilling features into a sleek all stainless steel cabinet design. This grill is made to last, with stainless steel grates that are rust-resistant and easy to clean. All the features are here including a removable porcelain-coated grease pan, cabinet doors for storage, an electronic igniter and a 10,000 BTU side burner for added grilling versatility.",
+                "product_url": "https://www.lowes.com/pd/Char-Broil-Performance-Stainless-4-Burner-Liquid-Propane-Gas-Grill-with-1-Side-Burner/1000523559",
+                "image_url": "https://mobileimages.lowes.com/product/converted/047362/047362334213.jpg",
+                "brand": "Char-Broil",
+                "title": "Char-Broil Performance Stainless 4-Burner Liquid Propane Gas Grill with 1 Side Burner",
+                "description": "Performance Stainless 4-Burner Liquid Propane Gas Grill with 1 Side Burner"
+              }
+            },
+            "text": "Char-Broil Performance Stainless 4-Burner Liquid Propane Gas Grill with 1 Side Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "kZCQkJCQwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYGBgYGBiYPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGBgYGIg/AAAAAAAAAAAAAAAAAAAAABgYGBgYGIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASEhISEhKiPxgYGBgYGIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGBgYGBgYmD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgYGBgYGIg/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGBgYGBgYmD8AAAAAAAAAAAAAAAAAAAAAGBgYGBgYmD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eHh4eHq4/AAAAAAAAAAAYGBgYGBiIPxgYGBgYGJg/FRUVFRUVtT8YGBgYGBiIPwAAAAAAAAAAGBgYGBgYmD8VFRUVFRW1PwAAAAAAAAAAAAAAAAAAAAAYGBgYGBioPxgYGBgYGIg/Hh4eHh4erj8SEhISEhKiPxgYGBgYGIg/GBgYGBgYiD8eHh4eHh6+PxISEhISEqI/GBgYGBgYmD8SEhISEhKiPwAAAAAAAAAAGBgYGBgYiD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.112548016,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b92d-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/NAPOLEON-Prestige-Stainless-Steel-4-Burner-Liquid-Propane-Infrared-Gas-Grill-with-1-Side-Burner-and-Rotisserie-Burner/1002470372",
+                "description": "Prestige Stainless Steel 4-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner and Rotisserie Burner",
+                "brand": "NAPOLEON",
+                "title": "NAPOLEON Prestige Stainless Steel 4-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner and Rotisserie Burner",
+                "full_description": "The Napoleon Prestige&#174; 500 Propane Gas Grill with Infrared Side and Rear Burners is the total grilling package; with a stunning all stainless steel hood and stainless steel construction, this cart model has the capabilities of a full outdoor kitchen. With four main burners, an infrared rear and side burner, this grill can cook meals using eight unique cooking styles. Grill for a crowd with a capacity for up to thirty hamburgers, and up to eight more on the side burner. You'll know it's a Napoleon with the Iconic WAVE&#8482; cooking grids for those distinctive sear marks. Not just durable on the outside; under the lid, is the same quality stainless steel used for the tube burners, dual-level sear plates and cooking grids. Seven stainless steel sear plates provide extra surface area for any drippings from your food to vaporize, avoiding flare-ups. Never leave your barbecue on again as all the Prestige&#174; series grills come with the SafetyGlow feature where the control knobs glow red when the burner is on. Enjoy evenly cooked restuarant style meals with the rear infrared burner and rotisserie.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/629162/629162131331.jpg"
+              }
+            },
+            "text": "NAPOLEON Prestige Stainless Steel 4-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner and Rotisserie Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "EhiBERiBwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASGIERGIGBPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIYgREYgYE/AAAAAAAAAAAAAAAAAAAAABIYgREYgYE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEhiBERiBgT8apEEapEGaPwAAAAAAAAAAAAAAAAAAAAASGIERGIGBPwAAAAAAAAAAEhiBERiBkT8AAAAAAAAAABIYgREYgYE/AAAAAAAAAAAAAAAAAAAAABIYgREYgZE/AAAAAAAAAAASGIERGIGRPxIYgREYgZE/GqRBGqRBmj8AAAAAAAAAABIYgREYgYE/GqRBGqRBmj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABZe4RVe4aU/AAAAAAAAAAAAAAAAAAAAABIYgREYgaE/HMdxHMdxvD8SGIERGIGBPxIYgREYgYE/EhiBERiBgT8UO7ETO7GzPwAAAAAAAAAAAAAAAAAAAAASGIERGIGhPwAAAAAAAAAAH+qhHuqhrj8SGIERGIGRPxIYgREYgYE/EhiBERiBgT8apEEapEG6PxqkQRqkQao/Fl7hFV7hpT8SGIERGIGhPwAAAAAAAAAAEhiBERiBgT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.113267794,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b95b-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "full_description": "The Napoleon Prestige&#174; 665 Propane Gas Grill with Infrared Side and Rear Burners is the total grilling package; with a stunning all stainless steel hood and stainless steel construction, this full sized cart model barbecue has the capabilities of a full outdoor kitchen. With five main burners, an infrared rear and side burner, this grill can cook meals using eight unique cooking styles. You'll know it's a Napoleon with the Iconic WAVE&#8482; cooking grids for those distinctive sear marks. Not just durable on the outside; under the lid is the same quality stainless steel used for the tube burners, dual-level sear plates and cooking grids. The stainless steel sear plates provide extra surface area for any drippings from your food to vaporize, avoiding flare-ups. Never leave your barbecue on again as all the Prestige&#174; series grills come with the SafetyGlow Feature where the control knobs glow red when the burner is on. Enjoy evenly cooked restuarant style meals with the rear infrared burner and rotisserie.",
+                "product_url": "https://www.lowes.com/pd/NAPOLEON-Prestige-Stainless-Steel-5-Burner-Liquid-Propane-Infrared-Gas-Grill-with-1-Side-Burner-and-Rotisserie-Burner/1002470464",
+                "image_url": "https://mobileimages.lowes.com/product/converted/629162/629162131829.jpg",
+                "title": "NAPOLEON Prestige Stainless Steel 5-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner and Rotisserie Burner",
+                "brand": "NAPOLEON",
+                "description": "Prestige Stainless Steel 5-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner and Rotisserie Burner"
+              }
+            },
+            "text": "NAPOLEON Prestige Stainless Steel 5-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner and Rotisserie Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "EhiBERiBwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASGIERGIGBPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIYgREYgYE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEhiBERiBgT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEhiBERiBgT8apEEapEGaPwAAAAAAAAAAAAAAAAAAAAASGIERGIGBPwAAAAAAAAAAEhiBERiBkT8AAAAAAAAAABIYgREYgYE/AAAAAAAAAAAAAAAAAAAAABIYgREYgZE/AAAAAAAAAAASGIERGIGRPxIYgREYgZE/GqRBGqRBmj8AAAAAAAAAABIYgREYgYE/GqRBGqRBmj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABZe4RVe4aU/AAAAAAAAAAAAAAAAAAAAABIYgREYgaE/HMdxHMdxvD8SGIERGIGBPxIYgREYgYE/EhiBERiBgT8UO7ETO7GzPwAAAAAAAAAAAAAAAAAAAAASGIERGIGhPwAAAAAAAAAAH+qhHuqhrj8SGIERGIGRPxIYgREYgYE/EhiBERiBgT8apEEapEG6PxqkQRqkQao/Fl7hFV7hpT8SGIERGIGhPwAAAAAAAAAAEhiBERiBgT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.113267794,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b611-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049443935.jpg",
+                "description": "26.2-cu ft 4-Door 36-in French Door Refrigerator with Exterior Drawer - Fingerprint Resistant Stainless Steel",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-26-2-cu-ft-4-Door-36-in-French-Door-Refrigerator-with-Exterior-Drawer-Fingerprint-Resistant-Stainless-Steel/1000318967",
+                "title": "Whirlpool 26.2-cu ft 4-Door 36-in French Door Refrigerator with Exterior Drawer - Fingerprint Resistant Stainless Steel",
+                "brand": "Whirlpool",
+                "full_description": "Get flexible storage with purposeful spaces for your family's favorites. This bottom freezer refrigerator features a refrigerated exterior drawer so you can adjust the temperature based on what you're storing. Keep various fruits and vegetables in the triple crisper with two large crispers and a smaller center crisper, then easily find food with this bottom mount refrigerator's triple-tier freezer storage."
+              }
+            },
+            "text": "Whirlpool 26.2-cu ft 4-Door 36-in French Door Refrigerator with Exterior Drawer - Fingerprint Resistant Stainless Steel",
+            "embedding": {
+              "dense": {
+                "buffer": "kGsikGsiwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARyDURyDWhPxHINRHINYE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEcg1Ecg1kT8RyDURyDWBPxHINRHINYE/AAAAAAAAAAARyDURyDWRPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGqzQGazQmT8RyDURyDWBPxHINRHINZE/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABHINRHINZE/Ecg1Ecg1kT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARyDURyDWBPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABHINRHINaE/AAAAAAAAAAARyDURyDWRPwAAAAAAAAAAFjqDFTqDtT8RyDURyDWRPxHINRHINZE/GqzQGazQmT8TgVwTgVyzPwAAAAAAAAAAAAAAAAAAAAARyDURyDWhPwAAAAAAAAAAGqzQGazQqT8RyDURyDWxPxHINRHINZE/AAAAAAAAAAAcZfcbZfe7PxHINRHINaE/E4FcE4Fcsz8RyDURyDWBPwAAAAAAAAAAEcg1Ecg1kT8RyDURyDWBPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.113338076,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b98b-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Performance Stainless Steel/Black 4-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner",
+                "product_url": "https://www.lowes.com/pd/Char-Broil-Performance-Stainless-Steel-Black-4-Burner-Liquid-Propane-Infrared-Gas-Grill-with-1-Side-Burner/1000503029",
+                "brand": "Char-Broil",
+                "image_url": "https://mobileimages.lowes.com/product/converted/047362/047362337702.jpg",
+                "full_description": "The Performance series 4-burner grill features a sleek stainless steel cabinet design and the stainless steel burners emit flame from the top for even cooking and added durability. This grill is made to last, with rust-resistant porcelain-coated cast iron grates for easy cleaning. All the features are here including a removable porcelain-coated grease pan and an electronic igniter.",
+                "title": "Char-Broil Performance Stainless Steel/Black 4-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner"
+              }
+            },
+            "text": "Char-Broil Performance Stainless Steel/Black 4-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "OqQmGG9lvz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKTPwAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAMF4K/scUoM/AAAAAAAAAAAAAAAAAAAAAMF4K/scUoM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADBeCv7HFKjP8F4K/scUoM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAMF4K/scUoM/AAAAAAAAAAAAAAAAAAAAAMF4K/scUoM/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwXgr+xxSkz8AAAAAAAAAAAAAAAAAAAAAIjXBeCv7nD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKkJxlvZ57A/AAAAAAAAAADBeCv7HFKTPyI1wXgr+5w/8lb2OaQmuD/BeCv7HFKTPwAAAAAAAAAAwXgr+xxSkz+pCcZb2eewPwAAAAAAAAAAwXgr+xxSgz8iNcF4K/usP8F4K/scUoM/IjXBeCv7rD8iNcF4K/ucP8F4K/scUoM/wXgr+xxSgz8iNcF4K/u8PyI1wXgr+5w/IjXBeCv7nD8iNcF4K/ucPwAAAAAAAAAAwXgr+xxSgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11470323,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b76f-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "image_url": "https://mobileimages.lowes.com/product/converted/815658/815658024625.jpg",
+                "title": "Farberware Classic 3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Vcm Stainless-look)",
+                "full_description": "The Farberware 3.1 Cu Ft Compact Refrigerator offers innovative features and elegant sleek style for any small area where you need to keep food and drinks chilled. The simple controls; convenient can and bottle storage; easy-clean glass shelf; and space-saving clever reversible door hinge and flat back design make this the ideal choice for virtually any room in your home or at work. Its Energy Star compliance helps save on electricity costs and the adjustable controls lets you customize your cooling.",
+                "product_url": "https://www.lowes.com/pd/Farberware-Classic-3-1-cu-ft-Freestanding-Mini-Fridge-Freezer-Compartment-Vcm-Stainless-look/1001857948",
+                "brand": "Farberware",
+                "description": "Classic 3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Vcm Stainless-look)"
+              }
+            },
+            "text": "Farberware Classic 3.1-cu ft Freestanding Mini Fridge Freezer Compartment (Vcm Stainless-look)",
+            "embedding": {
+              "dense": {
+                "buffer": "bdR3Nuo7uz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFcQkyuIyYU/VxCTK4jJhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABXEJMriMmVP1cQkyuIyYU/AAAAAAAAAAAAAAAAAAAAAFcQkyuIyYU/AAAAAAAAAABXEJMriMmFPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFcQkyuIyZU/AAAAAAAAAAAAAAAAAAAAAFcQkyuIyaU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVxCTK4jJhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVxCTK4jJhT8AAAAAAAAAAAAAAAAAAAAAVxCTK4jJhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEFMriAmV7A/VxCTK4jJhT9BTK4gJlegP1cQkyuIyZU/bdR3Nuo7uz9XEJMriMmFP1cQkyuIyZU/AAAAAAAAAABBTK4gJlewPwAAAAAAAAAAVxCTK4jJhT9BTK4gJlegP0FMriAmV6A/bdR3Nuo7qz9BTK4gJlegP1cQkyuIyYU/AAAAAAAAAABXEJMriMm1P23UdzbqO6s/bdR3Nuo7qz9XEJMriMmFPwAAAAAAAAAAVxCTK4jJhT8AAAAAAAAAAAAAAAAAAAAAVxCTK4jJhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.1151898,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b99c-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/NAPOLEON-Prestige-Black-4-Burner-Liquid-Propane-Infrared-Gas-Grill-with-1-Side-Burner-and-Rotisserie-Burner/1002565708",
+                "description": "Prestige Black 4-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner and Rotisserie Burner",
+                "brand": "NAPOLEON",
+                "full_description": "The Napoleon Prestige&#174; 500 Propane Gas Grill with Infrared Side and Rear Burners is the total grilling package; with a stunning porcelain enamel black hood and stainless steel construction, this cart model has the capabilities of a full outdoor kitchen. With four main burners, an infrared rear and side burner, this grill can cook meals using eight unique cooking styles. Grill for a crowd with a capacity for up to thirty hamburgers, and up to eight more on the side burner. You'll know it's a Napoleon with the Iconic WAVE&#8482; cooking grids for those distinctive sear marks. Not just durable on the outside; under the lid, is the same quality stainless steel used for the tube burners, dual-level sear plates and cooking grids. Seven stainless steel sear plates provide extra surface area for any drippings from your food to vaporize, avoiding flare-ups. Never leave your barbecue on again as all the Prestige&#174; series grills come with the SafetyGlow feature where the control knobs glow red when the burner is on. Enjoy evenly cooked restaurant style meals with the rear infrared burner and rotisserie.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/629162/629162131324.jpg",
+                "title": "NAPOLEON Prestige Black 4-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner and Rotisserie Burner"
+              }
+            },
+            "text": "NAPOLEON Prestige Black 4-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner and Rotisserie Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "s1+IFaXxwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC/ECtK4yODPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL8QK0rjI4M/AAAAAAAAAAAAAAAAAAAAAL8QK0rjI4M/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvxArSuMjgz+/ECtK4yOjPwAAAAAAAAAAAAAAAAAAAAC/ECtK4yODPwAAAAAAAAAAvxArSuMjkz8AAAAAAAAAAL8QK0rjI4M/AAAAAAAAAAAAAAAAAAAAAL8QK0rjI5M/AAAAAAAAAAC/ECtK4yOTP78QK0rjI5M/H5lA79S1nD8AAAAAAAAAAL8QK0rjI4M/vxArSuMjgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO/UtRzc7Kc/AAAAAAAAAAC/ECtK4yODP78QK0rjI6M/79S1HNzstz+/ECtK4yODP78QK0rjI4M/vxArSuMjgz+/ECtK4yOzPwAAAAAAAAAAvxArSuMjgz8fmUDv1LWcPwAAAAAAAAAAH5lA79S1rD+/ECtK4yOTP78QK0rjI4M/vxArSuMjgz8fmUDv1LW8P78QK0rjI6M/H5lA79S1nD+/ECtK4yOjPwAAAAAAAAAAvxArSuMjgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11544453,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b99f-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/NAPOLEON-Prestige-Black-4-Burner-Liquid-Propane-Infrared-Gas-Grill-with-1-Side-Burner-and-Rotisserie-Burner/1002565588",
+                "full_description": "Grilling up a delicious dinner for a crowd is easy with the Napoleon prestige&#174; series 500 propane gas grill, featuring a black porcelain enameled body and stainless steel side shelves. Grill up to thirty burgers at once; five hundred square inches of grilling area, plus and then some with the generous warming rack. You'll know it's a Napoleon with the iconic wave&#8482; cooking grids for those distinctive sear marks. Not just durable on the outside; under the lid, quality stainless steel is used for the cooking grids, tube burners, sear plates, and basin. The lift ease&#8482; roll top lid provides superior heat retention, allowing you to sear, bake, roast, smoke, and even turn your grill into a charcoal BBQ with the optional charcoal tray. Never leave your barbecue on again with the safety glow feature where the control knobs glow red when the burner is on. This grill features folding side shelves and interior cabinet storage inside the pedestal base. Complete your outdoor living space with the gas grill that can do it all.",
+                "image_url": "https://mobileimages.lowes.com/product/converted/629162/629162131249.jpg",
+                "brand": "NAPOLEON",
+                "description": "Prestige Black 4-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner and Rotisserie Burner",
+                "title": "NAPOLEON Prestige Black 4-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner and Rotisserie Burner"
+              }
+            },
+            "text": "NAPOLEON Prestige Black 4-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner and Rotisserie Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "s1+IFaXxwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC/ECtK4yODPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL8QK0rjI4M/AAAAAAAAAAAAAAAAAAAAAL8QK0rjI4M/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvxArSuMjgz+/ECtK4yOjPwAAAAAAAAAAAAAAAAAAAAC/ECtK4yODPwAAAAAAAAAAvxArSuMjkz8AAAAAAAAAAL8QK0rjI4M/AAAAAAAAAAAAAAAAAAAAAL8QK0rjI5M/AAAAAAAAAAC/ECtK4yOTP78QK0rjI5M/H5lA79S1nD8AAAAAAAAAAL8QK0rjI4M/vxArSuMjgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO/UtRzc7Kc/AAAAAAAAAAC/ECtK4yODP78QK0rjI6M/79S1HNzstz+/ECtK4yODP78QK0rjI4M/vxArSuMjgz+/ECtK4yOzPwAAAAAAAAAAvxArSuMjgz8fmUDv1LWcPwAAAAAAAAAAH5lA79S1rD+/ECtK4yOTP78QK0rjI4M/vxArSuMjgz8fmUDv1LW8P78QK0rjI6M/H5lA79S1nD+/ECtK4yOjPwAAAAAAAAAAvxArSuMjgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11544453,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b9a0-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/NAPOLEON-Prestige-Black-5-Burner-Liquid-Propane-Infrared-Gas-Grill-with-1-Side-Burner-and-Rotisserie-Burner/1002565900",
+                "brand": "NAPOLEON",
+                "image_url": "https://mobileimages.lowes.com/product/converted/629162/629162131843.jpg",
+                "description": "Prestige Black 5-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner and Rotisserie Burner",
+                "title": "NAPOLEON Prestige Black 5-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner and Rotisserie Burner",
+                "full_description": "The Napoleon prestige&#174; 665 propane gas grill with infrared side and rear burners is the total grilling package; with a stunning porcelain enamel black hood and stainless steel construction, this full sized cart model barbecue has the capabilities of a full outdoor kitchen. With five main burners, an infrared rear and side burner, this grill can cook meals using eight unique cooking styles. You'll know it's a Napoleon with the iconic wave&#8482; cooking grids for those distinctive sear marks. Not just durable on the outside; under the lid, is the same quality stainless steel used for the basin, tube burners, dual-level sear plates, and cooking grids. The stainless steel sear plates provide extra surface area for any drippings from your food to vaporize, avoiding flare-ups. Never leave your barbecue on again as all the prestige&#174; series grills come with the safety featureless where the control knobs glow red when the burner is on."
+              }
+            },
+            "text": "NAPOLEON Prestige Black 5-Burner Liquid Propane Infrared Gas Grill with 1 Side Burner and Rotisserie Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "s1+IFaXxwT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC/ECtK4yODPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL8QK0rjI4M/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvxArSuMjgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvxArSuMjgz+/ECtK4yOjPwAAAAAAAAAAAAAAAAAAAAC/ECtK4yODPwAAAAAAAAAAvxArSuMjkz8AAAAAAAAAAL8QK0rjI4M/AAAAAAAAAAAAAAAAAAAAAL8QK0rjI5M/AAAAAAAAAAC/ECtK4yOTP78QK0rjI5M/H5lA79S1nD8AAAAAAAAAAL8QK0rjI4M/vxArSuMjgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO/UtRzc7Kc/AAAAAAAAAAC/ECtK4yODP78QK0rjI6M/79S1HNzstz+/ECtK4yODP78QK0rjI4M/vxArSuMjgz+/ECtK4yOzPwAAAAAAAAAAvxArSuMjgz8fmUDv1LWcPwAAAAAAAAAAH5lA79S1rD+/ECtK4yOTP78QK0rjI4M/vxArSuMjgz8fmUDv1LW8P78QK0rjI6M/H5lA79S1nD+/ECtK4yOjPwAAAAAAAAAAvxArSuMjgz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11544453,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b770-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Farberware-Classic-4-4-cu-ft-Freestanding-Mini-Fridge-Freezer-Compartment-Vcm-Stainless-Look/1001852052",
+                "description": "Classic 4.4-cu ft Freestanding Mini Fridge Freezer Compartment (Vcm Stainless Look)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/815658/815658024793.jpg",
+                "brand": "Farberware",
+                "full_description": "The Farberware Black 4.4 Cu Ft Compact Refrigerator offers innovative features and elegant sleek style for any small area where you need to keep food and drinks chilled. The simple controls; convenient can and bottle storage; easy-clean glass shelves; and space-saving clever reversible door hinge and flat back design make this the ideal choice for virtually any room in your home or at work. Its Energy Star compliance helps save on electricity costs and the adjustable controls lets you customize your cooling.",
+                "title": "Farberware Classic 4.4-cu ft Freestanding Mini Fridge Freezer Compartment (Vcm Stainless Look)"
+              }
+            },
+            "text": "Farberware Classic 4.4-cu ft Freestanding Mini Fridge Freezer Compartment (Vcm Stainless Look)",
+            "embedding": {
+              "dense": {
+                "buffer": "eDbqOxv1vT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFcQkyuIyYU/VxCTK4jJhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABXEJMriMmFP1cQkyuIyYU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFcQkyuIyZU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFcQkyuIyZU/AAAAAAAAAAAAAAAAAAAAAFcQkyuIyaU/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFcQkyuIyYU/VxCTK4jJhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVxCTK4jJhT8AAAAAAAAAAAAAAAAAAAAAVxCTK4jJhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEFMriAmV7A/VxCTK4jJhT9BTK4gJlegP1cQkyuIyZU/bdR3Nuo7uz9XEJMriMmFP1cQkyuIyZU/AAAAAAAAAABBTK4gJlewPwAAAAAAAAAAVxCTK4jJhT9XEJMriMmVP0FMriAmV6A/bdR3Nuo7qz9BTK4gJlegP1cQkyuIyYU/AAAAAAAAAABXEJMriMm1P23UdzbqO6s/bdR3Nuo7qz9XEJMriMmFPwAAAAAAAAAAVxCTK4jJhT8AAAAAAAAAAAAAAAAAAAAAVxCTK4jJhT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11547935,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b99e-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "brand": "NAPOLEON",
+                "description": "Prestige Stainless Steel 4-Burner Natural Gas Infrared Gas Grill with 1 Side Burner and Rotisserie Burner",
+                "image_url": "https://mobileimages.lowes.com/product/converted/629162/629162131317.jpg",
+                "title": "NAPOLEON Prestige Stainless Steel 4-Burner Natural Gas Infrared Gas Grill with 1 Side Burner and Rotisserie Burner",
+                "full_description": "The Napoleon Prestige&#174; 500 Natural Gas Grill with Infrared Side and Rear Burners is the total grilling package; with a stunning all stainless steel hood and stainless steel construction, this cart model has the capabilities of a full outdoor kitchen. With four main burners, an infrared rear and side burner, this grill can cook meals using eight unique cooking styles. Grill for a crowd with a capacity for up to thirty hamburgers, and up to eight more on the side burner. You'll know it's a Napoleon with the Iconic WAVE&#8482; cooking grids for those distinctive sear marks. Not just durable on the outside; under the lid, is the same quality stainless steel used for the tube burners, dual-level sear plates and cooking grids. Seven stainless steel sear plates provide extra surface area for any drippings from your food to vaporize, avoiding flare-ups. Never leave your barbecue on again as all the Prestige&#174; series grills come with the SafetyGlow feature where the control knobs glow red when the burner is on. Enjoy evenly cooked restaurant style meals with the rear infrared burner and rotisserie.",
+                "product_url": "https://www.lowes.com/pd/NAPOLEON-Prestige-Stainless-Steel-4-Burner-Natural-Gas-Infrared-Gas-Grill-with-1-Side-Burner-and-Rotisserie-Burner/1002565660"
+              }
+            },
+            "text": "NAPOLEON Prestige Stainless Steel 4-Burner Natural Gas Infrared Gas Grill with 1 Side Burner and Rotisserie Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "cB/BfQT3wT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwH8F9BPeBPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAfwX0E94E/AAAAAAAAAAAAAAAAAAAAAHAfwX0E94E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3gT8or6G8hvKaPwAAAAAAAAAAAAAAAAAAAABwH8F9BPeBPwAAAAAAAAAAKK+hvIbymj8AAAAAAAAAAHAfwX0E94E/AAAAAAAAAAAAAAAAAAAAAHAfwX0E94E/AAAAAAAAAAAor6G8hvKaP3AfwX0E95E/cB/BfQT3kT8AAAAAAAAAAHAfwX0E94E/KK+hvIbymj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAT3EdxHcK8/AAAAAAAAAAAAAAAAAAAAACivobyG8po/KK+hvIbyuj9wH8F9BPeBP3AfwX0E94E/cB/BfQT3gT8E9xHcR3CvPwAAAAAAAAAAAAAAAAAAAABMZzGdxXSmPwAAAAAAAAAAKK+hvIbyqj9wH8F9BPeBPwAAAAAAAAAAAAAAAAAAAAAor6G8hvK6PwT3EdxHcK8/KK+hvIbyqj9wH8F9BPehPwAAAAAAAAAAcB/BfQT3gT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11570648,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b9a6-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "Prestige Stainless Steel 5-Burner Natural Gas Infrared Gas Grill with 1 Side Burner and Rotisserie Burner",
+                "product_url": "https://www.lowes.com/pd/NAPOLEON-Prestige-Stainless-Steel-5-Burner-Natural-Gas-Infrared-Gas-Grill-with-1-Side-Burner-and-Rotisserie-Burner/1002565852",
+                "image_url": "https://mobileimages.lowes.com/product/converted/629162/629162131836.jpg",
+                "brand": "NAPOLEON",
+                "full_description": "The Napoleon Prestige&#174; 665 Natural Gas Grill with Infrared Side and Rear Burners is the total grilling package; with a stunning all stainless steel hood and stainless steel construction, this full sized cart model barbecue has the capabilities of a full outdoor kitchen. With five main burners, an infrared rear and side burner, this grill can cook meals using eight unique cooking styles. You'll know it's a Napoleon with the Iconic WAVE&#8482; cooking grids for those distinctive sear marks. Not just durable on the outside; under the lid is the same quality stainless steel used for the tube burners, dual-level sear plates and cooking grids. The stainless steel sear plates provide extra surface area for any drippings from your food to vaporize, avoiding flare-ups. Never leave your barbecue on again as all the Prestige&#174; series grills come with the SafetyGlow Feature where the control knobs glow red when the burner is on. Enjoy evenly cooked restaurant style meals with the rear infrared burner and rotisserie.",
+                "title": "NAPOLEON Prestige Stainless Steel 5-Burner Natural Gas Infrared Gas Grill with 1 Side Burner and Rotisserie Burner"
+              }
+            },
+            "text": "NAPOLEON Prestige Stainless Steel 5-Burner Natural Gas Infrared Gas Grill with 1 Side Burner and Rotisserie Burner",
+            "embedding": {
+              "dense": {
+                "buffer": "cB/BfQT3wT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwH8F9BPeBPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAfwX0E94E/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3gT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcB/BfQT3gT8or6G8hvKaPwAAAAAAAAAAAAAAAAAAAABwH8F9BPeBPwAAAAAAAAAAKK+hvIbymj8AAAAAAAAAAHAfwX0E94E/AAAAAAAAAAAAAAAAAAAAAHAfwX0E94E/AAAAAAAAAAAor6G8hvKaP3AfwX0E95E/cB/BfQT3kT8AAAAAAAAAAHAfwX0E94E/KK+hvIbymj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAT3EdxHcK8/AAAAAAAAAAAAAAAAAAAAACivobyG8po/KK+hvIbyuj9wH8F9BPeBP3AfwX0E94E/cB/BfQT3gT8E9xHcR3CvPwAAAAAAAAAAAAAAAAAAAABMZzGdxXSmPwAAAAAAAAAAKK+hvIbyqj9wH8F9BPeBPwAAAAAAAAAAAAAAAAAAAAAor6G8hvK6PwT3EdxHcK8/KK+hvIbyqj9wH8F9BPehPwAAAAAAAAAAcB/BfQT3gT8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.11570648,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b877-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "product_url": "https://www.lowes.com/pd/Whirlpool-24-5-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-Fingerprint-Resistant-Black-Stainless/1000330345",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049436005.jpg",
+                "brand": "Whirlpool",
+                "description": "24.5-cu ft Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Black Stainless)",
+                "title": "Whirlpool 24.5-cu ft Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Black Stainless)",
+                "full_description": "Fit and find it all in this side-by-side refrigerator with purposefully-designed storage spaces for items you use most. An in-door can caddy frees up shelf space while frameless glass shelves lets you store more items on each shelf for loading flexibility. The deli drawer gives you plenty of space to store meat and cheese, too.&#65279;"
+              }
+            },
+            "text": "Whirlpool 24.5-cu ft Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Black Stainless)",
+            "embedding": {
+              "dense": {
+                "buffer": "uetni5Xhuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPvZYmX4RoQ/+9liZfhGhD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD4RhSYdGqeP/vZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+9liZfhGhD8AAAAAAAAAAPvZYmX4RoQ/+9liZfhGhD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD72WJl+EaEPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPvZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAPvZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+9liZfhGhD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPvZYmX4RpQ/+EYUmHRqnj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD72WJl+EaEPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHqQu362WKk/+9liZfhGhD/4RhSYdGqeP/vZYmX4RpQ/OjUPctfPtj/72WJl+EaUP/vZYmX4RpQ/+9liZfhGlD86NQ9y18+2PwAAAAAAAAAA+9liZfhGlD/72WJl+EakPwAAAAAAAAAA+9liZfhGpD/4RhSYdGqeP/vZYmX4RpQ/AAAAAAAAAAC8frZYGb6xP/vZYmX4RqQ/vH62WBm+sT/72WJl+EaEPwAAAAAAAAAA+9liZfhGhD8AAAAAAAAAAPvZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.116097644,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          },
+          {
+            "id": "cf61b8a8-7a09-11ec-be6b-5d6790f603b1",
+            "mimeType": "text/plain",
+            "tags": {
+              "properties": {
+                "description": "24.5-cu ft Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Black Stainless)",
+                "image_url": "https://mobileimages.lowes.com/product/converted/883049/883049436043.jpg",
+                "title": "Whirlpool 24.5-cu ft Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Black Stainless)",
+                "full_description": "Purposefully-designed spaces help you maximize your storage in this side-by-side refrigerator. Get the room you need, even if it's just an inch, with the Infinity Slide shelf. Easily store pizzas upright with the Pizza Pocket in the side-by-side refrigerator. The deli drawer refrigerator gives you plenty of space to store meat and cheese, too.",
+                "brand": "Whirlpool",
+                "product_url": "https://www.lowes.com/pd/Whirlpool-24-5-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-Fingerprint-Resistant-Black-Stainless/1000379185"
+              }
+            },
+            "text": "Whirlpool 24.5-cu ft Side-by-Side Refrigerator with Ice Maker (Fingerprint Resistant Black Stainless)",
+            "embedding": {
+              "dense": {
+                "buffer": "uetni5Xhuz8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPvZYmX4RoQ/+9liZfhGhD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD4RhSYdGqeP/vZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+9liZfhGhD8AAAAAAAAAAPvZYmX4RoQ/+9liZfhGhD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD72WJl+EaEPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPvZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAPvZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+9liZfhGhD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPvZYmX4RpQ/+EYUmHRqnj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD72WJl+EaEPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHqQu362WKk/+9liZfhGhD/4RhSYdGqeP/vZYmX4RpQ/OjUPctfPtj/72WJl+EaUP/vZYmX4RpQ/+9liZfhGlD86NQ9y18+2PwAAAAAAAAAA+9liZfhGlD/72WJl+EakPwAAAAAAAAAA+9liZfhGpD/4RhSYdGqeP/vZYmX4RpQ/AAAAAAAAAAC8frZYGb6xP/vZYmX4RqQ/vH62WBm+sT/72WJl+EaEPwAAAAAAAAAA+9liZfhGhD8AAAAAAAAAAPvZYmX4RoQ/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "shape": [
+                  96
+                ],
+                "dtype": "<f8",
+                "quantization": 0,
+                "maxVal": 0,
+                "minVal": 0,
+                "scale": 0,
+                "originalDtype": ""
+              }
+            },
+            "adjacency": 1,
+            "scores": {
+              "euclidean": {
+                "value": 0.116097644,
+                "opName": "",
+                "description": "",
+                "operands": [],
+                "refId": ""
+              }
+            },
+            "granularity": 0,
+            "parentId": "",
+            "chunks": [],
+            "weight": 0,
+            "matches": [],
+            "uri": "",
+            "location": [],
+            "offset": 0,
+            "modality": "",
+            "evaluations": {}
+          }
+        ],
+        "tags": {},
+        "text": "infrared gas grill with rotisserie burner from prestige black",
+        "embedding": {
+          "dense": {
+            "buffer": "O9q8T3HJwD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFhHm/cpLqk/O9q8T3HJoD872rxPccmQPzvavE9xyZA/WEeb9ykuuT872rxPccmgP1hHm/cpLqk/O9q8T3HJkD9YR5v3KS65PwAAAAAAAAAAO9q8T3HJkD9YR5v3KS6pPzvavE9xyZA/O9q8T3HJoD872rxPccmgPzvavE9xyZA/AAAAAAAAAACCdbR5n+LCPzvavE9xybA/WEeb9ykuqT872rxPccmQPwAAAAAAAAAAO9q8T3HJkD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "shape": [
+              96
+            ],
+            "dtype": "<f8",
+            "quantization": 0,
+            "maxVal": 0,
+            "minVal": 0,
+            "scale": 0,
+            "originalDtype": ""
+          }
+        },
+        "granularity": 0,
+        "adjacency": 0,
+        "parentId": "",
+        "chunks": [],
+        "weight": 0,
+        "uri": "",
+        "mimeType": "",
+        "location": [],
+        "offset": 0,
+        "scores": {},
+        "modality": "",
+        "evaluations": {}
+      }
+    ],
+    "groundtruths": []
+  }
+}
